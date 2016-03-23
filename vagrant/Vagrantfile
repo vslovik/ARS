@@ -1,0 +1,24 @@
+Vagrant.configure(2) do |config|
+
+  config.vm.box = "ubuntu/vivid64"
+
+  config.vm.network :private_network, ip: "192.168.10.15", netmask: "255.255.255.0"
+
+  config.hostmanager.enabled = true
+  config.hostmanager.manage_host = true
+  config.hostmanager.ignore_private_ip = false
+  config.hostmanager.include_offline = true
+
+  config.vm.provider "virtualbox" do |vb|
+      vb.customize ["modifyvm", :id, "--memory", "2048"]
+      vb.customize ["modifyvm", :id, "--cpus", "1"]
+  end
+
+  config.vm.synced_folder "../lastfm",
+  "/home/vagrant/lastfm",
+   mount_options: ["dmode=777", "fmode=777"]
+
+  if File.exists? "provision.sh" then
+        config.vm.provision "shell", path: "provision.sh"
+  end
+end
