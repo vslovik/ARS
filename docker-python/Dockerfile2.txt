@@ -1,0 +1,4 @@
+FROM python
+
+COPY opera /src
+CMD ["python", "/src/opera.py"]
