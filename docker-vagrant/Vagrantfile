@@ -3,21 +3,21 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
 
   config.ssh.forward_agent = true
 
-  config.vm.define "configurator" do |configurator|
-        configurator.vm.box = "phusion/ubuntu-14.04-amd64"
-        configurator.vm.provider "virtualbox" do |v|
+  config.vm.define "ars" do |ars|
+        ars.vm.box = "phusion/ubuntu-14.04-amd64"
+        ars.vm.provider "virtualbox" do |v|
           v.customize ["modifyvm", :id, "--memory", "4096"]
           v.customize ["modifyvm", :id, "--cpus", "4"]
         end
 
-        configurator.vm.network :private_network,
+        ars.vm.network :private_network,
           ip: "172.16.10.12",
           netmask: "255.255.255.0"
-        configurator.vm.hostname = "configurator-dev.home24.com"
-        configurator.nfs.map_uid = Process.uid
-        configurator.nfs.map_gid = Process.gid
-        configurator.vm.synced_folder "../docker-python", "/vagrant", :nfs => true
-        configurator.vm.provision "shell", path: ".provision-docker/provision.sh", args: ""
+        ars.vm.hostname = "ars-dev.home24.com"
+        ars.nfs.map_uid = Process.uid
+        ars.nfs.map_gid = Process.gid
+        ars.vm.synced_folder "../docker-python", "/vagrant", :nfs => true
+        ars.vm.provision "shell", path: ".provision-docker/provision.sh", args: ""
     end
 
 end
