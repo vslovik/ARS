@@ -1,1 +1,0 @@
-{"virtualbox":{"/home/vagrant/lastfm":{"mount_options":["dmode=777","fmode=777"],"guestpath":"/home/vagrant/lastfm","hostpath":"/home/lera/project/ARS/lastfm","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/lera/project/ARS/vagrant","disabled":false,"__vagrantfile":true}}}
