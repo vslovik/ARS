@@ -44,11 +44,6 @@ class Api(object):
 
     def grab_archive(self):
         result = range(Api.MIN_PAGE, Api.MAX_PAGE)
-
-        #start = random.randrange(Api.MIN_PAGE, Api.MAX_PAGE - 5)
-        #start = 119
-        #result = range(start, start + 5)
-
         for page in result:
             self.grab_archive_page(page)
 
@@ -63,7 +58,7 @@ class Api(object):
             self.grab_event_page(x[0])
 
     def grab_event_page(self, url):
-        #time.sleep(1)
+        time.sleep(1)
         print(url)
         result = requests.get(url)
         if 200 != result.status_code:
