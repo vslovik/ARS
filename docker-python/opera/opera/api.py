@@ -44,6 +44,11 @@ class Api(object):
 
     def grab_archive(self):
         result = range(Api.MIN_PAGE, Api.MAX_PAGE)
+
+        #start = random.randrange(Api.MIN_PAGE, Api.MAX_PAGE - 5)
+        #start = 119
+        #result = range(start, start + 5)
+
         for page in result:
             self.grab_archive_page(page)
 
