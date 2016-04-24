@@ -1,4 +1,9 @@
 #!/usr/bin/env python
+
+"""
+Collects opera performance data
+published on GBOPERA site
+"""
 import requests
 import re
 import time
@@ -26,7 +31,7 @@ class MLStripper(HTMLParser):
         return ''.join(self.fed)
 
 
-class Api(object):
+class Collector(object):
 
     START_URL = 'http://www.gbopera.it/archives/category/recensioni/page/'
     URL_PATTERN = '(http:\/\/www.gbopera.it\/(\d+\/)+[^\/\d\s&]*\/)'
@@ -46,9 +51,9 @@ class Api(object):
         return s.get_data()
 
     def grab_archive(self):
-        result = range(Api.MIN_PAGE, Api.MAX_PAGE)
+        result = range(Collector.MIN_PAGE, Collector.MAX_PAGE)
 
-        # start = random.randrange(Api.MIN_PAGE, Api.MAX_PAGE - 5)
+        # start = random.randrange(Collector.MIN_PAGE, Collector.MAX_PAGE - 5)
         # start = 119
         # result = range(start, start + 5)
 
@@ -57,10 +62,10 @@ class Api(object):
 
     def grab_archive_page(self, page):
         print(page)
-        result = requests.get(Api.START_URL + str(page))
+        result = requests.get(Collector.START_URL + str(page))
         if 200 != result.status_code:
             raise ConnectionError('Can not grab gbopera page: ' + str(page))
-        pattern = re.compile(Api.URL_PATTERN)
+        pattern = re.compile(Collector.URL_PATTERN)
         match = pattern.findall(str(result.content)[0:])
         for x in set(match):
             self.grab_event_page(x[0])
@@ -76,23 +81,23 @@ class Api(object):
     def parse_content(self, content):
         # filter opera credits
         opera_credits = list(filter(lambda x: 0 < len(x.strip()) < 500, content.split('<br />')))
-        opera_tag = Api.strip_tags(content.split('<br />')[0].split('CONTATTI')[1].split('</h1></header>')[1]).strip()
+        opera_tag = Collector.strip_tags(content.split('<br />')[0].split('CONTATTI')[1].split('</h1></header>')[1]).strip()
         if len(opera_credits):
             self.parse_opera_credits(opera_credits, opera_tag)
 
     def parse_opera_credits(self, opera_credits, opera_tag):
         line = opera_credits.pop(0)
-        title = Api.strip_tags(line).strip()
+        title = Collector.strip_tags(line).strip()
         if len(title) == 0:
             return
-        pattern = re.compile(Api.CAST_NAME_PATTERN)
+        pattern = re.compile(Collector.CAST_NAME_PATTERN)
         singer_event_links = []
         singer_title_links = []
         singer_role_links = []
         singers = []
 
         for line in opera_credits:
-            credit = Api.strip_tags(line).strip()
+            credit = Collector.strip_tags(line).strip()
             match = pattern.findall(credit)
             if len(match) == 0:
                 continue
@@ -104,10 +109,10 @@ class Api(object):
                     singer_title_links.append('{0},{1}\n'.format(name, title))
                     singer_role_links.append('{0},{1}|{2}\n'.format(name, role, title))
                     singers.append(name)
-        Api.write_links(Api.SINGER_EVENT_FILE_PATH, singer_event_links)
-        Api.write_links(Api.SINGER_TITLE_FILE_PATH, singer_title_links)
-        Api.write_links(Api.SINGER_ROLE_FILE_PATH, singer_role_links)
-        Api.write_singers_links(singers)
+        Collector.write_links(Collector.SINGER_EVENT_FILE_PATH, singer_event_links)
+        Collector.write_links(Collector.SINGER_TITLE_FILE_PATH, singer_title_links)
+        Collector.write_links(Collector.SINGER_ROLE_FILE_PATH, singer_role_links)
+        Collector.write_singers_links(singers)
 
     @staticmethod
     def write_links(file, links):
@@ -120,7 +125,7 @@ class Api(object):
     @staticmethod
     def write_singers_links(singers):
         singers.sort()
-        fh = open(Api.SINGER_SINGER_FILE_PATH, "a")
+        fh = open(Collector.SINGER_SINGER_FILE_PATH, "a")
         for i in range(0, len(singers) - 2):
             for j in range(i + 1, len(singers) - 1):
                 link = '{0},{1}\n'.format(singers[i], singers[j])
