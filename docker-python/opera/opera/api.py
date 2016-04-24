@@ -32,7 +32,10 @@ class Api(object):
     URL_PATTERN = '(http:\/\/www.gbopera.it\/(\d+\/)+[^\/\d\s&]*\/)'
     CAST_NAME_PATTERN = '[A-Z\s\/]+[A-Z]$'
     SINGER_EVENT_FILE_PATH = '/data/singer_event.csv'
+
     SINGER_SINGER_FILE_PATH = '/data/singer_singer.csv'
+    SINGER_TITLE_FILE_PATH = '/data/singer_title.csv'
+    SINGER_ROLE_FILE_PATH = '/data/singer_role.csv'
     MIN_PAGE = 1
     MAX_PAGE = 154
 
@@ -45,9 +48,9 @@ class Api(object):
     def grab_archive(self):
         result = range(Api.MIN_PAGE, Api.MAX_PAGE)
 
-        #start = random.randrange(Api.MIN_PAGE, Api.MAX_PAGE - 5)
-        #start = 119
-        #result = range(start, start + 5)
+        # start = random.randrange(Api.MIN_PAGE, Api.MAX_PAGE - 5)
+        # start = 119
+        # result = range(start, start + 5)
 
         for page in result:
             self.grab_archive_page(page)
@@ -84,7 +87,10 @@ class Api(object):
             return
         pattern = re.compile(Api.CAST_NAME_PATTERN)
         singer_event_links = []
+        singer_title_links = []
+        singer_role_links = []
         singers = []
+
         for line in opera_credits:
             credit = Api.strip_tags(line).strip()
             match = pattern.findall(credit)
@@ -93,26 +99,31 @@ class Api(object):
             names = match[0].strip()
             role = credit.replace(names, '').strip()
             for name in names.split(' / '):
-                singer_event_links.append('"{0}|{1}","{2}|{3}"\n'.format(name, role, title, opera_tag))
-                singers.append(name)
-        Api.write_singer_event_links(singer_event_links)
+                if len(title) < 100: # simple way to discard rare parse errors
+                    singer_event_links.append('{0}|{1},{2}|{3}\n'.format(name, role, title, opera_tag))
+                    singer_title_links.append('{0},{1}\n'.format(name, title))
+                    singer_role_links.append('{0},{1}|{2}\n'.format(name, role, title))
+                    singers.append(name)
+        Api.write_links(Api.SINGER_EVENT_FILE_PATH, singer_event_links)
+        Api.write_links(Api.SINGER_TITLE_FILE_PATH, singer_title_links)
+        Api.write_links(Api.SINGER_ROLE_FILE_PATH, singer_role_links)
         Api.write_singers_links(singers)
 
     @staticmethod
-    def write_singer_event_links(singer_event_links):
-        fh = open(Api.SINGER_EVENT_FILE_PATH, "a")
-        for link in singer_event_links:
+    def write_links(file, links):
+        fh = open(file, "a")
+        for link in links:
             print(link)
             fh.write(link)
         fh.close()
 
     @staticmethod
     def write_singers_links(singers):
+        singers.sort()
         fh = open(Api.SINGER_SINGER_FILE_PATH, "a")
-        for name in singers:
-            for other_name in singers:
-                if name != other_name:
-                    link = '"{0}","{1}"\n'.format(name, other_name)
-                    print(link)
-                    fh.write(link)
+        for i in range(0, len(singers) - 2):
+            for j in range(i + 1, len(singers) - 1):
+                link = '{0},{1}\n'.format(singers[i], singers[j])
+                print(link)
+                fh.write(link)
         fh.close()
