@@ -104,10 +104,11 @@ class Collector(object):
             names = match[0].strip()
             role = credit.replace(names, '').strip()
             for name in names.split(' / '):
+                title = title.replace(';', ',')
                 if len(title) < 100: # simple way to discard rare parse errors
-                    singer_event_links.append('{0}|{1},{2}|{3}\n'.format(name, role, title, opera_tag))
-                    singer_title_links.append('{0},{1}\n'.format(name, title))
-                    singer_role_links.append('{0},{1}|{2}\n'.format(name, role, title))
+                    singer_event_links.append('{0}|{1};{2}|{3}\n'.format(name, role, title, opera_tag))
+                    singer_title_links.append('{0};{1}\n'.format(name, title))
+                    singer_role_links.append('{0};{1}|{2}\n'.format(name, role, title))
                     singers.append(name)
         Collector.write_links(Collector.SINGER_EVENT_FILE_PATH, singer_event_links)
         Collector.write_links(Collector.SINGER_TITLE_FILE_PATH, singer_title_links)
@@ -128,7 +129,7 @@ class Collector(object):
         fh = open(Collector.SINGER_SINGER_FILE_PATH, "a")
         for i in range(0, len(singers) - 2):
             for j in range(i + 1, len(singers) - 1):
-                link = '{0},{1}\n'.format(singers[i], singers[j])
+                link = '{0};{1}\n'.format(singers[i], singers[j])
                 print(link)
                 fh.write(link)
         fh.close()
