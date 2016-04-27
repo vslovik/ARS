@@ -80,7 +80,7 @@ class Analyzer(object):
 
     def inform_sub_graph(self, graph, i, title='Connected component'):
         self.draw_sub_graph(graph, i, title)
-        self.degree_histogram(graph, '{0}. {1} {2}'.format(self.title, title, i), '{0}_cc{1}.txt'.format(self.output_filename, i))
+        self.degree_histogram(graph, '{0}. {1} {2}'.format(self.title, title, i), '{0}_cc{1}'.format(self.output_filename, i))
         inf = self.info(graph)
         inf += self.distances(graph)
 
@@ -114,7 +114,6 @@ class Analyzer(object):
     def degree_histogram(graph, title, output_filename, show=False):
         plt.rcParams['text.usetex'] = False
         plt.figure(figsize=(20, 20))
-        plt.axis('off')
         plt.loglog(nx.degree_histogram(graph),'b-',marker='o')
         plt.title('{0}: degree histogram'.format(title), fontdict={'color': 'k', 'fontsize': 22})
         plt.xlabel("degree")
@@ -127,12 +126,19 @@ class Analyzer(object):
     @staticmethod
     def distances(graph):
         inf = list()
-        inf.append('Distances:')
-        inf.append('Center: {}'.format(nx.center(graph)))
-        inf.append('Diameter: {}'.format(nx.diameter(graph)))
-        inf.append('Eccentricity: {}'.format(nx.eccentricity(graph)))
-        inf.append('Periphery: {}'.format(nx.periphery(graph)))
-        inf.append('Radius: {}'.format(nx.radius(graph)))
+        inf.append('Center: \n')
+        names = nx.center(graph)
+        names.sort()
+        for name in names:
+            inf.append('{0}'.format(name.rstrip()))
+        inf.append('Diameter: {0}\n'.format(nx.diameter(graph)))
+        #inf.append('Eccentricity: {0}'.format(nx.eccentricity(component)))
+        inf.append('Periphery: \n')
+        names = nx.periphery(graph)
+        names.sort()
+        for name in nx.periphery(graph):
+            inf.append('{0}'.format(name.rstrip()))
+        inf.append('Radius: {0}'.format(nx.radius(graph)))
         return inf
 
     @staticmethod
@@ -148,19 +154,7 @@ class Analyzer(object):
         i = 0
         for component in connected_components:
             inf.append('Connected component {0}'.format(i))
-            inf.append('Center: \n')
-            names = nx.center(component)
-            names.sort()
-            for name in names:
-                inf.append('{0}'.format(name.rstrip()))
-            inf.append('Diameter: {0}\n'.format(nx.diameter(component)))
-            #inf.append('Eccentricity: {0}'.format(nx.eccentricity(component)))
-            inf.append('Periphery: \n')
-            names = nx.periphery(component)
-            names.sort()
-            for name in nx.periphery(component):
-                inf.append('{0}'.format(name.rstrip()))
-            inf.append('Radius: {0}'.format(nx.radius(component)))
+            Analyzer.distances(component)
             self.inform_sub_graph(component, i, 'Connected component')
             i += 1
             break # only first component is interesting
