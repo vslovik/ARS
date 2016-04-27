@@ -115,10 +115,18 @@ class Analyzer(object):
         plt.rcParams['text.usetex'] = False
         plt.figure(figsize=(20, 20))
         plt.loglog(nx.degree_histogram(graph),'b-',marker='o')
-        plt.title('{0}: degree histogram'.format(title), fontdict={'color': 'k', 'fontsize': 22})
+        plt.title('{0}'.format(title), fontdict={'color': 'k', 'fontsize': 22})
+
+        # plt.text(0.5, 0.97,'{0}'.format(title),
+        #      horizontalalignment='center',
+        #      transform=plt.gca().transAxes)
+        #
+        # plt.text(0.5, 0.94,  "degree histogram",
+        #      horizontalalignment='center',
+        #      transform=plt.gca().transAxes)
+
         plt.xlabel("degree")
         plt.ylabel("rank")
-        plt.savefig("degree_histogram.png")
         plt.savefig('{0}_degree_histogram.png'.format(output_filename), dpi=75)
         if show:
             plt.show()
