@@ -6,6 +6,6 @@ published on GBOPERA site
 """
 #  Valeriya Slovikovskaya <vslovik@gmail.com>
 
-from opera import collector
+from collector import collector
 
 collector.Collector.grab_archive(collector.Collector())

@@ -9,4 +9,4 @@ RUN apt-get install -y python3-pip
 RUN pip3 install requests
 
 COPY opera /src
-CMD ["python", "/src/opera.py"]
+CMD ["python", "/src/collect.py"]

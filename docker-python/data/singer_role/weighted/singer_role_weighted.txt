@@ -1,0 +1,27 @@
+Number of nodes: 10580
+Number of edges: 10089
+Is connected: False
+Degree:
+Avg: 1.9072
+Max: 33 (Annina|LA TRAVIATA)
+Min: 1 (LVARO VALLEJO)
+Density: 0.0002
+Connectivity:
+Connected: False
+Number of connected components: 2230
+Connected component 0
+Center: 
+
+Arnalta|LINCORONAZIONE DI POPPEA
+KRYSTIAN ADAM
+Diameter: 35
+
+Periphery: 
+
+Wanderer (Wotan)|SIEGFRIED
+Balthazar|LA FAVORITE
+Comte Mosca della Rovere|LA CHARTREUSE DE PARME (La Certosa di Parma)
+EVA JOHANSSON
+Gunther|GOTTERDAMMERUNG (Il crepuscolo degli dei)
+Alexandr Petrovitch Gorjantchikov|Z MRTVHO DOMU (Da una casa di morti)
+Radius: 18

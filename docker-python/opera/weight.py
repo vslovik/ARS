@@ -1,8 +1,7 @@
 #!/usr/bin/env python
 
 """
-Collects opera performance data
-published on GBOPERA site
+Transforms edges of multi graph into edges of edge wighted graph
 """
 #  Valeriya Slovikovskaya <vslovik@gmail.com>
 
