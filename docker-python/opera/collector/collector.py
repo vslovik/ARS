@@ -41,7 +41,7 @@ class Collector(object):
     SINGER_TITLE_FILE_PATH = '/data/singer_title.csv'
     SINGER_ROLE_FILE_PATH = '/data/singer_role.csv'
     MIN_PAGE = 1
-    MAX_PAGE = 154
+    MAX_PAGE = 140
 
     @staticmethod
     def strip_tags(html):

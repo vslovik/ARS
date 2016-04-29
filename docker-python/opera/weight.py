@@ -11,7 +11,7 @@ def weight(input_file, output_file):
     with open(input_file, 'r') as lines:
         for line in lines:
             line = line.rstrip()
-            if items.has_key(line):
+            if len(line) and items.has_key(line):
                 items[line] += 1
             else:
                 items[line] = 1

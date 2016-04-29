@@ -11,18 +11,3 @@ Connectivity:
 Connected: False
 Number of connected components: 2230
 Connected component 0
-Center: 
-
-Arnalta|LINCORONAZIONE DI POPPEA
-KRYSTIAN ADAM
-Diameter: 35
-
-Periphery: 
-
-Comte Mosca della Rovere|LA CHARTREUSE DE PARME (La Certosa di Parma)
-EVA JOHANSSON
-Wanderer (Wotan)|SIEGFRIED
-Balthazar|LA FAVORITE
-Gunther|GOTTERDAMMERUNG (Il crepuscolo degli dei)
-Alexandr Petrovitch Gorjantchikov|Z MRTVHO DOMU (Da una casa di morti)
-Radius: 18

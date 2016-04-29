@@ -1,0 +1,25 @@
+Number of nodes: 5244
+Number of edges: 7899
+Is connected: True
+Degree:
+Avg: 3.0126
+Max: 39 (Annina|LA TRAVIATA
+)
+Min: 1 (Il conte Vaudemont|I VESPRI SICILIANI
+)
+Density: 0.0006
+Center: 
+
+Arnalta|LINCORONAZIONE DI POPPEA
+KRYSTIAN ADAM
+Diameter: 35
+
+Periphery: 
+
+Comte Mosca della Rovere|LA CHARTREUSE DE PARME (La Certosa di Parma)
+EVA JOHANSSON
+Wanderer (Wotan)|SIEGFRIED
+Balthazar|LA FAVORITE
+Gunther|GOTTERDAMMERUNG (Il crepuscolo degli dei)
+Alexandr Petrovitch Gorjantchikov|Z MRTVHO DOMU (Da una casa di morti)
+Radius: 18

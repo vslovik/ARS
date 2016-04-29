@@ -67,9 +67,6 @@ class Analyzer(object):
         inf = self.info(self.G)
         if nx.is_connected(self.G):
             inf += self.distances(self.G)
-
-        #inf.append(self.neighbor(self.G)) # ToDo: publish degree hystogram?
-
         inf += self.connectivity()
 
         fh = open('{0}.txt'.format(self.output_filename), "w")
@@ -83,9 +80,6 @@ class Analyzer(object):
         self.degree_histogram(graph, '{0}. {1} {2}'.format(self.title, title, i), '{0}_cc{1}'.format(self.output_filename, i))
         inf = self.info(graph)
         inf += self.distances(graph)
-
-        #inf.append(self.neighbor(self.G)) # ToDo: publish degree hystogram?
-
         fh = open('{0}_cc_{1}.txt'.format(self.output_filename, i), "w")
         for line in inf:
             print(line)
@@ -115,19 +109,18 @@ class Analyzer(object):
         plt.rcParams['text.usetex'] = False
         plt.figure(figsize=(20, 20))
         plt.loglog(nx.degree_histogram(graph),'b-',marker='o')
-        plt.title('{0}'.format(title), fontdict={'color': 'k', 'fontsize': 22})
 
-        # plt.text(0.5, 0.97,'{0}'.format(title),
-        #      horizontalalignment='center',
-        #      transform=plt.gca().transAxes)
-        #
-        # plt.text(0.5, 0.94,  "degree histogram",
-        #      horizontalalignment='center',
-        #      transform=plt.gca().transAxes)
+        plt.text(0.5, 0.97,'{0}'.format(title),
+             horizontalalignment='center',
+             transform=plt.gca().transAxes)
+
+        plt.text(0.5, 0.94,  "degree histogram",
+             horizontalalignment='center',
+             transform=plt.gca().transAxes)
 
         plt.xlabel("degree")
         plt.ylabel("rank")
-        plt.savefig('{0}_degree_histogram.png'.format(output_filename), dpi=75)
+        plt.savefig('{0}_degree_histogram.png'.format(output_filename), dpi=75, transparent=True)
         if show:
             plt.show()
 
@@ -187,7 +180,7 @@ class Analyzer(object):
             nx.draw_networkx_edges(self.G, pos, alpha=0.5, node_size=0, width=0.1, edge_color='k')
 
         plt.title(self.title, fontdict={'color': 'k', 'fontsize': 22})
-        plt.savefig(self.output_filename, dpi=75)
+        plt.savefig(self.output_filename, dpi=75, transparent=True)
 
         if show:
             plt.show()
@@ -203,11 +196,19 @@ class Analyzer(object):
         plt.axis('off')
 
         nx.draw_networkx_nodes(graph, pos, node_color='b', alpha=0.5, node_size=20)
+
+        if self.bipartite:
+            red = nx.Graph()
+            for node in graph.nodes():
+                if self.R.has_node(node):
+                    red.add_node(node)
+            nx.draw_networkx_nodes(red, pos, node_color='r', alpha=0.5, node_size=20)
+
         nx.draw_networkx_edges(graph, pos, alpha=0.5, node_size=0, width=0.1, edge_color='k')
 
         plt.title('{0} {1} of {2}'.format(subtitle, i, self.title), fontdict={'color': 'k', 'fontsize': 14})
 
-        plt.savefig('{0}_cc{1}.png'.format(self.output_filename, i), dpi=75)
+        plt.savefig('{0}_cc{1}.png'.format(self.output_filename, i), dpi=75, transparent=True)
 
         if show:
             plt.show()
