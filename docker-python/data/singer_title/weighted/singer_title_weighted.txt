@@ -10,3 +10,4 @@ Connectivity:
 Connected: False
 Number of connected components: 21
 Connected component 0
+Average clustering: 0.00123374027097

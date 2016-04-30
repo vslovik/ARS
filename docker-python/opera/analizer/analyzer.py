@@ -22,6 +22,9 @@ class Analyzer(object):
             self.create_bipartite_graph(input_file, weighted)
         else:
             self.create_graph(input_file, weighted)
+        n = self.G.number_of_nodes()
+        self.ER = nx.erdos_renyi_graph(n, 0.05)
+        self.BA = nx.barabasi_albert_graph(n, 5)
 
     def create_graph(self, input_file, weighted):
         if weighted:
@@ -78,8 +81,19 @@ class Analyzer(object):
     def inform_sub_graph(self, graph, i, title='Connected component'):
         self.draw_sub_graph(graph, i, title)
         self.degree_histogram(graph, '{0}. {1} {2}'.format(self.title, title, i), '{0}_cc{1}'.format(self.output_filename, i))
+
         inf = self.info(graph)
-        inf += self.distances(graph)
+        n = graph.number_of_nodes()
+        er = nx.erdos_renyi_graph(n, 0.05)
+        inf += self.info(er, 'ER')
+        ba = nx.barabasi_albert_graph(n, 5)
+        inf += self.info(ba, 'BA')
+
+        inf += self.distances(graph, er, ba)
+
+        if nx.is_connected(graph):
+            inf += self.centrality(graph, i, title)
+
         fh = open('{0}_cc_{1}.txt'.format(self.output_filename, i), "w")
         for line in inf:
             print(line)
@@ -87,21 +101,23 @@ class Analyzer(object):
         fh.close()
 
     @staticmethod
-    def info(graph):
+    def info(graph, title=None):
         degree = sorted(nx.degree(graph).items(), key=lambda x: x[1], reverse=True)
         avg = (0.0 + sum(value for (node, value) in degree)) / (0.0 + len(degree))
         (max_node, max_value) = degree[0]
         (min_node, min_value) = degree[len(degree) - 1]
         inf = list()
-        inf.append('Number of nodes: {0}'.format(nx.number_of_nodes(graph)))
-        inf.append('Number of edges: {0}'.format(nx.number_of_edges(graph)))
-        inf.append('Is connected: {0}'.format(nx.is_connected(graph)))
+        if not title:
+            inf.append('Number of nodes: {0}'.format(nx.number_of_nodes(graph)))
+            inf.append('Number of edges: {0}'.format(nx.number_of_edges(graph)))
+            inf.append('Is connected: {0}'.format(nx.is_connected(graph)))
+        if title:
+            inf.append(title)
         inf.append('Degree:')
         inf.append('Avg: {0}'.format(round(avg, 4)))
         inf.append('Max: {1} ({0})'.format(max_node, max_value))
         inf.append('Min: {1} ({0})'.format(min_node, min_value))
         inf.append('Density: {}'.format(round(nx.density(graph), 4)))
-
         return inf
 
     @staticmethod
@@ -109,6 +125,13 @@ class Analyzer(object):
         plt.rcParams['text.usetex'] = False
         plt.figure(figsize=(20, 20))
         plt.loglog(nx.degree_histogram(graph),'b-',marker='o')
+
+        n = graph.number_of_nodes()
+        er = nx.erdos_renyi_graph(n, 0.05)
+        ba = nx.barabasi_albert_graph(n, 5)
+
+        plt.loglog(nx.degree_histogram(er), 'r-', marker='o')
+        plt.loglog(nx.degree_histogram(ba), 'k-', marker='o')
 
         plt.text(0.5, 0.97,'{0}'.format(title),
              horizontalalignment='center',
@@ -125,26 +148,33 @@ class Analyzer(object):
             plt.show()
 
     @staticmethod
-    def distances(graph):
+    def distances(graph, er=None, ba=None):
         inf = list()
         inf.append('Center: \n')
         names = nx.center(graph)
         names.sort()
         for name in names:
             inf.append('{0}'.format(name.rstrip()))
-        inf.append('Diameter: {0}\n'.format(nx.diameter(graph)))
-        #inf.append('Eccentricity: {0}'.format(nx.eccentricity(component)))
+        if er and ba:
+            inf.append('Diameter: {0} (ER: {1}, BA: {2})\n'.format(nx.diameter(graph), nx.diameter(er), nx.diameter(ba)))
+        else:
+            inf.append('Diameter: {0}\n'.format(nx.diameter(graph)))
         inf.append('Periphery: \n')
         names = nx.periphery(graph)
         names.sort()
         for name in nx.periphery(graph):
             inf.append('{0}'.format(name.rstrip()))
-        inf.append('Radius: {0}'.format(nx.radius(graph)))
+        if er and ba:
+            inf.append('Radius: {0} (ER: {1}, BA: {2})\n'.format(nx.radius(graph), nx.radius(er), nx.radius(ba)))
+            inf.append('Average shortest path length: {0} (ER: {1}, BA: {2})\n'.format(
+                nx.average_shortest_path_length(graph),
+                nx.average_shortest_path_length(er),
+                nx.average_shortest_path_length(ba)
+            ))
+        else:
+            inf.append('Radius: {0}\n'.format(nx.radius(graph)))
+            inf.append('Radius: {0}\n'.format(nx.average_shortest_path_length(graph)))
         return inf
-
-    @staticmethod
-    def neighbor(graph):
-        return nx.average_neighbor_degree(graph)
 
     def connectivity(self):
         inf = list()
@@ -157,8 +187,24 @@ class Analyzer(object):
             inf.append('Connected component {0}'.format(i))
             Analyzer.distances(component)
             self.inform_sub_graph(component, i, 'Connected component')
+            if self.weighted:
+                inf.append('Average clustering: {0}'.format(nx.average_clustering(component)))
             i += 1
             break # only first component is interesting
+        return inf
+
+    def centrality(self, graph, i, title):
+        inf = list()
+        inf.append('Centrality: \n')
+        bt = nx.betweenness_centrality(graph)
+        bt_sorted = sorted(bt.items(), key=lambda x: x[1], reverse=True)
+        ego = False
+        for (node, betweenness) in bt_sorted:
+            if not ego:
+                self.draw_sub_graph(nx.ego_graph(graph, node), i,
+                                    '{0}. Ego graph for node {1}'.format(title, node), False, 'centrality_')
+                ego = True
+            inf.append('{0}, {1}'.format(node, betweenness))
         return inf
 
     def draw(self, show=False):
@@ -185,7 +231,7 @@ class Analyzer(object):
         if show:
             plt.show()
 
-    def draw_sub_graph(self, graph, i=None, subtitle=None, show=False):
+    def draw_sub_graph(self, graph, i=None, subtitle=None, show=False, file_prefix=''):
         try:
             pos = nx.nx_agraph.graphviz_layout(graph)
         except:
@@ -203,12 +249,14 @@ class Analyzer(object):
                 if self.R.has_node(node):
                     red.add_node(node)
             nx.draw_networkx_nodes(red, pos, node_color='r', alpha=0.5, node_size=20)
+            if red.number_of_nodes() < 16:
+                nx.draw_networkx_labels(red, pos)
 
         nx.draw_networkx_edges(graph, pos, alpha=0.5, node_size=0, width=0.1, edge_color='k')
 
         plt.title('{0} {1} of {2}'.format(subtitle, i, self.title), fontdict={'color': 'k', 'fontsize': 14})
 
-        plt.savefig('{0}_cc{1}.png'.format(self.output_filename, i), dpi=75, transparent=True)
+        plt.savefig('{0}{1}_cc{2}.png'.format(file_prefix, self.output_filename, i), dpi=75, transparent=True)
 
         if show:
             plt.show()

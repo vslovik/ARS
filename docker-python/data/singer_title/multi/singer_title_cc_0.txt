@@ -7,6 +7,18 @@ Max: 456 (LA TRAVIATA
 )
 Min: 1 (A I D A)
 Density: 0.0009
+ER
+Degree:
+Avg: 251.7239
+Max: 317 (1885)
+Min: 194 (4818)
+Density: 0.0501
+BA
+Degree:
+Avg: 9.9901
+Max: 268 (4)
+Min: 5 (5026)
+Density: 0.002
 Center: 
 
 AIDA
@@ -75,7 +87,7 @@ UN BALLO IN MASCHERA
 UN GIORNO DI REGNO (Il finto Stanislao)
 WERTHER
 ZELMIRA
-Diameter: 12
+Diameter: 12 (ER: 3, BA: 5)
 
 Periphery: 
 
@@ -251,4 +263,7 @@ RENATO DOLCINI
 LUCIA SALAS
 ZAIRA SORIA
 TIM KLASKI
-Radius: 7
+Radius: 7 (ER: 2, BA: 3)
+
+Average shortest path length: 5.00797056816 (ER: 1.94991851008, BA: 3.46516427685)
+
