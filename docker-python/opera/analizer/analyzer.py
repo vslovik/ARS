@@ -22,9 +22,12 @@ class Analyzer(object):
             self.create_bipartite_graph(input_file, weighted)
         else:
             self.create_graph(input_file, weighted)
-        n = self.G.number_of_nodes()
-        self.ER = nx.erdos_renyi_graph(n, 0.05)
-        self.BA = nx.barabasi_albert_graph(n, 5)
+        # n = self.G.number_of_nodes()
+        # self.ER = nx.erdos_renyi_graph(n, 0.05)
+        # self.BA = nx.barabasi_albert_graph(n, 5)
+
+    def get_graph(self):
+        return self.G
 
     def create_graph(self, input_file, weighted):
         if weighted:
@@ -226,7 +229,7 @@ class Analyzer(object):
             nx.draw_networkx_edges(self.G, pos, alpha=0.5, node_size=0, width=0.1, edge_color='k')
 
         plt.title(self.title, fontdict={'color': 'k', 'fontsize': 22})
-        plt.savefig(self.output_filename, dpi=75, transparent=True)
+        plt.savefig(self.output_filename, dpi=75, transparent=False)
 
         if show:
             plt.show()
