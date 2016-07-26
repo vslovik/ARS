@@ -13,7 +13,9 @@ def parse(input_file, output_file):
             cleaned = line.replace(' Musica di Giacomo Puccini', '')\
                 .replace(' Opera in cinque atti, libretto di Luc Bondy, dal dramma omonimo di Arthur Schnitzler.', '')\
                 .replace("Melodramma in tre atti su  \\t\\t\\t\\t\\t\\tlibretto di Francesco Maria Piave", '')\
-                .replace('Tragedia giapponese in tre atti su Libretto di Luigi Illica e Giuseppe Giacosa','')
+                .replace('Tragedia giapponese in tre atti su Libretto di Luigi Illica e Giuseppe Giacosa','')\
+                .replace('Musica di Georg Friedrich Handel', '')\
+                .replace('Azione sacra in due parti KV 118, su libretto di Pietro Metastasio', '')
             fh.write(cleaned)
     fh.close()
 

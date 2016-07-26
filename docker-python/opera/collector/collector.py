@@ -40,7 +40,7 @@ class Collector(object):
     SINGER_SINGER_FILE_PATH = '/data/singer_singer.csv'
     SINGER_TITLE_FILE_PATH = '/data/singer_title.csv'
     SINGER_ROLE_FILE_PATH = '/data/singer_role.csv'
-    MIN_PAGE = 1
+    MIN_PAGE = 20
     MAX_PAGE = 140
 
     @staticmethod
@@ -83,6 +83,7 @@ class Collector(object):
         opera_tag = Collector.strip_tags(content.split('<br />')[0].split('CONTATTI')[1].split('</h1></header>')[1]).strip()
         if len(opera_credits):
             self.parse_opera_credits(opera_credits, opera_tag)
+
 
     def parse_opera_credits(self, opera_credits, opera_tag):
         line = opera_credits.pop(0)

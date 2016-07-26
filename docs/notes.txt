@@ -1,7 +1,7 @@
 
 --
-docker build -t lera/opera .
-docker run -v /vagrant/data:/data lera/opera python3 /src/collect.py
+sudo docker build -t lera/opera .
+sudo docker run -v /vagrant/data:/data lera/opera python3 /src/collect.py
 
 --
 cd /vagrant/opera

@@ -1,0 +1,2353 @@
+2015_05_venezia-teatro-la-fenice-norma_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;Norma&#8221;</h1>
+2014_01_parma-teatro-regio-pagliacci-gianni-schicchi_
+<h1 class="entry-title" itemprop="name">Parma, Teatro Regio: &#8220;Pagliacci&#8221;, &#8220;Gianni Schicchi&#8221;</h1>
+2012_10_brescia-teatro-grande-lucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;Lucia di Lammermoor&#8221;</h1>
+2015_11_napoli-teatro-di-san-carlo-la-traviata_
+<h1 class="entry-title" itemprop="name">Napoli, Teatro di San Carlo: &#8220;La Traviata&#8221;</h1>
+2011_02_dal-politeama-rossetti-di-triesteflashdance_
+<h1 class="entry-title" itemprop="name">Dal Politeama Rossetti di Trieste:&#8221;Flashdance&#8221;</h1>
+2010_11_boston-lyric-operatosca_
+<h1 class="entry-title" itemprop="name">Boston Lyric Opera:&#8221;Tosca&#8221;</h1>
+2015_10_staatsoper-stuttgart-fidelio_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart: &#8220;Fidelio&#8221;</h1>
+2010_10_teatro-grande-di-brescia-medea_
+<h1 class="entry-title" itemprop="name">Teatro Grande di Brescia: &#8220;Medea&#8221;</h1>
+2013_03_bari-teatro-petruzzellila-muette-de-portici_
+<h1 class="entry-title" itemprop="name">Bari, Teatro Petruzzelli:&#8221;La muette de Portici&#8221;</h1>
+2013_11_philhadelphia-operasvadba-wedding_
+<h1 class="entry-title" itemprop="name">Philadelphia Opera: &#8220;Svadba-Wedding&#8221;</h1>
+2011_12_venezia-teatro-la-feniceil-trovatore_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice:&#8221;Il Trovatore&#8221;</h1>
+2014_08_verona-arena-opera-festivalromeo-et-juliette_
+<h1 class="entry-title" itemprop="name">Verona, Arena Opera Festival:&#8221;Romo et Juliette&#8221;</h1>
+2016_05_lucia-di-lammermoor-al-teatro-regio-di-torino_
+<h1 class="entry-title" itemprop="name">&#8220;Lucia di Lammermoor&#8221; al Teatro Regio di Torino</h1>
+2016_07_staatsoper-stuttgart-i-puritani_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart: &#8220;I Puritani&#8221;</h1>
+2016_03_verona-teatro-filarmonico-rigoletto_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;Rigoletto&#8221;</h1>
+2014_10_staatsoper-stuttgart-jakob-lenz_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart: &#8220;Jakob Lenz&#8221;</h1>
+2012_03_roma-teatro-dell-operamadama-butterfly_
+<h1 class="entry-title" itemprop="name">Roma,Teatro dell&#8217;Opera:&#8221;Madama Butterfly&#8221;</h1>
+2011_12_the-fairy-queen-alla-salle-pleyel-di-parigi_
+<h1 class="entry-title" itemprop="name">&#8220;The Fairy Queen&#8221; alla Salle Pleyel di Parigi</h1>
+2012_11_opera-di-toulonmadama-butterfly_
+<h1 class="entry-title" itemprop="name">Opra di Toulon:&#8221;Madama Butterfly&#8221;</h1>
+2013_11_un-barbiere-in-sedicesimo-a-torino_
+<h1 class="entry-title" itemprop="name">Teatro Regio di Torino: &#8220;Il Barbiere di Siviglia&#8221;</h1>
+2011_01_nyc-metropolitan-opera-la-fanciulla-del-west_
+<h1 class="entry-title" itemprop="name">NYC, Metropolitan Opera: &#8220;La fanciulla del West&#8221;</h1>
+2011_11_pisa-teatro-verdimadama-butterfly_
+<h1 class="entry-title" itemprop="name">Pisa, Teatro Verdi:&#8221;Madama Butterfly&#8221;</h1>
+2015_06_napoli-teatro-san-carlo-la-cenerentola_
+<h1 class="entry-title" itemprop="name">Napoli, Teatro San Carlo: &#8220;La Cenerentola&#8221;</h1>
+2011_01_milano-teatro-alla-scala-die-walkure_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Die Walkre&#8221;</h1>
+2016_06_teatro-dellopera-di-roma-linda-di-chamounix_
+<h1 class="entry-title" itemprop="name">Teatro dell&#8217;Opera di Roma: &#8220;Linda di Chamounix&#8221;</h1>
+2013_01_palermodas-rheingold_
+<h1 class="entry-title" itemprop="name">Palermo:&#8221;Das Rheingold&#8221;</h1>
+2014_05_palermo-teatro-massimo-don-giovanni_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo: &#8220;Don Giovanni&#8221;</h1>
+2012_05_vicenza-teatro-olimpicoil-ratto-dal-serraglio_
+<h1 class="entry-title" itemprop="name">Vicenza, Teatro Olimpico:&#8221;Il ratto dal serraglio&#8221;</h1>
+2013_07_non-delude-lambizione-delusa-testamento-comico-di-leonardo-leo_
+<h1 class="entry-title" itemprop="name">Non delude &#8220;lAmbizione delusa&#8221;, testamento comico di Leonardo Leo</h1>
+2011_11_lucca-teatro-del-gigliola-boheme_
+<h1 class="entry-title" itemprop="name">Lucca, Teatro del Giglio:&#8221;La Bohme&#8221;</h1>
+2012_08_rossini-opera-festival-matilde-di-shabran_
+<h1 class="entry-title" itemprop="name">Rossini Opera Festival: &#8220;Matilde di Shabran&#8221;</h1>
+2015_02_jenufa-alla-staatsoper-stuttgart_
+<h1 class="entry-title" itemprop="name">&#8220;Jenufa&#8221; alla Staatsoper Stuttgart</h1>
+2015_10_liegi-opera-royale-de-wallonie-ernani_
+<h1 class="entry-title" itemprop="name">Liegi, Opra Royale de Wallonie: &#8220;Ernani&#8221;</h1>
+2012_11_napoli-teatro-san-carloles-pecheurs-de-perles_
+<h1 class="entry-title" itemprop="name">Napoli, Teatro San Carlo:&#8221;Les Pecheurs de Perles&#8221;</h1>
+2012_11_il-filosofo-di-campagna-al-teatro-comunale-di-belluno_
+<h1 class="entry-title" itemprop="name">&#8220;Il filosofo di campagna&#8221; al Teatro Comunale di Belluno</h1>
+2014_10_brescia-teatro-grande-madama-butterfly_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;Madama Butterfly&#8221;</h1>
+2015_02_genova-teatro-carlo-felice-lucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Lucia di Lammermoor&#8221;</h1>
+2009_05_maria-stuarda-alla-fenice-di-venezia_
+<h1 class="entry-title" itemprop="name">&#8220;Maria Stuarda&#8221; alla Fenice di Venezia</h1>
+2014_03_trieste-teatro-verdimadama-butterfly_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi:&#8221;Madama Butterfly&#8221;</h1>
+2013_03_genova-teatro-carlo-felice-rigoletto_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Rigoletto&#8221;</h1>
+2011_05_metropolitan-operawozzeck_
+<h1 class="entry-title" itemprop="name">Metropolitan Opera:&#8221;Wozzeck&#8221;</h1>
+2016_04_la-cenerentola-al-teatro-massimo-di-palermo_
+<h1 class="entry-title" itemprop="name">&#8220;La Cenerentola&#8221; al Teatro Massimo di Palermo</h1>
+2012_11_bergamo-teatro-donizetti-cosi-fan-tutte_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;Cos fan tutte&#8221;</h1>
+2016_04_madama-butterfly-al-teatro-comunale-di-modena_
+<h1 class="entry-title" itemprop="name">&#8220;Madama Butterfly&#8221; al Teatro Comunale di Modena</h1>
+2014_11_tosca-al-teatro-massimo-di-palermo_
+<h1 class="entry-title" itemprop="name">&#8220;Tosca&#8221; al Teatro Massimo di Palermo</h1>
+2014_02_modenala-clemenza-di-tito_
+<h1 class="entry-title" itemprop="name">Modena:&#8221;La Clemenza di Tito&#8221;</h1>
+2015_02_i-puritani-allopera-di-firenze-cast-alternativo_
+<h1 class="entry-title" itemprop="name">&#8220;I puritani&#8221; all&#8217;Opera di Firenze (cast alternativo)</h1>
+2012_05_salerno-teatro-verdi-robert-le-diable_
+<h1 class="entry-title" itemprop="name">Salerno, Teatro Verdi: &#8220;Robert le diable&#8221;</h1>
+2011_04_ascoli-picenola-traviata-si-fa-fiaba_
+<h1 class="entry-title" itemprop="name">Ascoli Piceno:&#8221;La Traviata&#8221; si fa fiaba</h1>
+2009_10_agrippina-torna-a-venezia_
+<h1 class="entry-title" itemprop="name">&#8220;Agrippina&#8221; torna a Venezia</h1>
+2012_10_parigi-salle-pleyel-tristan-und-isolde_
+<h1 class="entry-title" itemprop="name">Parigi, Salle Pleyel: &#8220;Tristan und Isolde&#8221;</h1>
+2013_08_roma-terme-di-caracallatosca_
+<h1 class="entry-title" itemprop="name">Roma, Terme di Caracalla:&#8221;Tosca&#8221;</h1>
+2016_07_i-puritani-al-teatro-real-di-madrid_
+<h1 class="entry-title" itemprop="name">I Puritani al Teatro Real di Madrid</h1>
+2011_03_verona-teatro-filarmonicopeer-gynt_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico:&#8221;Peer Gynt&#8221;</h1>
+2010_12_valencia-palau-de-les-artsmanon_
+<h1 class="entry-title" itemprop="name">Valencia, Palau de Les Arts:&#8221;Manon&#8221;</h1>
+2009_09_la-scala-di-seta-al-rof_
+<h1 class="entry-title" itemprop="name">&#8220;La scala di seta&#8221; al ROF</h1>
+2015_03_lelisir-damore-al-teatro-della-fortuna-di-fano_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;elisir d&#8217;amore&#8221; al Teatro della Fortuna di Fano</h1>
+2015_10_pelleas-et-melisande-inaugura-la-stagione-dellosn-rai-a-torino_
+<h1 class="entry-title" itemprop="name">Pellas et Mlisande inaugura la stagione dellOSN RAI a Torino</h1>
+2012_04_il-barbiere-di-siviglia-al-petruzzelli-di-bari_
+<h1 class="entry-title" itemprop="name">&#8220;Il Barbiere di Siviglia&#8221; al Petruzzelli di Bari</h1>
+2010_10_montezuma-a-citta-del-messico_
+<h1 class="entry-title" itemprop="name">&#8220;Montezuma&#8221; a Citt del Messico</h1>
+2010_12_modena-teatro-comunalecats_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale:&#8221;Cats&#8221;</h1>
+2008_10_un-brillanteequivoco_
+<h1 class="entry-title" itemprop="name">Rossini Opera Festival 2008:&#8221;L&#8217;equivoco stravagante&#8221;</h1>
+2015_01_palermo-teatro-massimo-gisela_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo: &#8220;Gisela!&#8221;</h1>
+2013_01_la-solita-forma-nei-masnadieri_
+<h1 class="entry-title" itemprop="name">La solita forma nei Masnadieri</h1>
+2011_02_roma-teatro-delloperauno-sguardo-dal-ponte_
+<h1 class="entry-title" itemprop="name">Roma, Teatro dell&#8217;Opera:&#8221;Uno sguardo dal ponte&#8221;</h1>
+2016_03_madrid-teatro-real-written-on-skin-di-george-benjamin_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real: Written on skin di George Benjamin</h1>
+2010_04_lulu-al-teatro-alla-scala_
+<h1 class="entry-title" itemprop="name">&#8220;Lulu&#8221; al Teatro alla Scala</h1>
+2012_09_riccardo-muti-dirige-i-due-figaro-a-buenos-aires_
+<h1 class="entry-title" itemprop="name">Riccardo Muti dirige &#8220;I due Figaro&#8221; a Buenos Aires</h1>
+2011_10_madrid-teatro-realelektra_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real:&#8221;Elektra&#8221;</h1>
+2014_03_firenze-teatro-goldoni-la-metamorfosi_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Goldoni: &#8220;La metamorfosi&#8221;</h1>
+2016_05_torino-teatro-regio-pollicino_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Pollicino&#8221;</h1>
+2013_07_a-macerata-un-trovatore-tra-eschilo-e-stephen-king_
+<h1 class="entry-title" itemprop="name">A Macerata un &#8220;Trovatore&#8221; tra Eschilo e Stephen King</h1>
+2010_09_due-farse-rossiniane-a-citta-del-messico_
+<h1 class="entry-title" itemprop="name">Due farse rossiniane a Citt del Messico</h1>
+2011_04_teatro-di-bellas-artesla-mulata-de-cordoba-la-vida-breve_
+<h1 class="entry-title" itemprop="name">Teatro di Bellas Artes:&#8221;La mulata de Crdoba&#8221;, &#8220;La vida breve&#8221;</h1>
+2015_07_venezia-teatro-la-fenice-juditha-triumphans_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;Juditha Triumphans&#8221;</h1>
+2013_03_teatro-della-fortuna-di-fanofalstaff_
+<h1 class="entry-title" itemprop="name">Teatro della Fortuna di Fano:&#8221;Falstaff&#8221;</h1>
+2015_03_il-turco-in-italia-al-teatro-regio-di-torino_
+<h1 class="entry-title" itemprop="name">Il turco in Italia al Teatro Regio di Torino</h1>
+2015_02_catania-teatro-massimo-la-boheme_
+<h1 class="entry-title" itemprop="name">Catania, Teatro Massimo Bellini: &#8220;La Bohme&#8221;</h1>
+2014_12_tosca-al-carlo-felice-di-genova_
+<h1 class="entry-title" itemprop="name">&#8220;Tosca&#8221; al Carlo Felice di Genova</h1>
+2011_02_triestei-due-foscari_
+<h1 class="entry-title" itemprop="name">Trieste:&#8221;I due Foscari&#8221;</h1>
+2012_02_verona-teatro-filarmonicopagliacci_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico:&#8221;Pagliacci&#8221;</h1>
+2013_12_otello-torna-al-carlo-felice_
+<h1 class="entry-title" itemprop="name">&#8220;Otello&#8221; torna al Carlo Felice</h1>
+2011_12_salerno-teatro-verdinorma_
+<h1 class="entry-title" itemprop="name">Salerno, Teatro Verdi:&#8221;Norma&#8221;</h1>
+2010_01_salome-al-teatro-comunale-di-bologna_
+<h1 class="entry-title" itemprop="name">&#8220;Salome&#8221; al Teatro Comunale di Bologna</h1>
+2013_11_cosi-fan-tutte-al-comunale-di-sassari_
+<h1 class="entry-title" itemprop="name">&#8220;Cos fan tutte&#8221; al Comunale di Sassari</h1>
+2011_04_teatro-del-palacio-de-bellas-artesrusalka_
+<h1 class="entry-title" itemprop="name">Teatro del Palacio de Bellas Artes:&#8221;Rusalka&#8221;</h1>
+2013_04_un-don-carlo-in-gran-spolvero-per-il-compleanno-del-regio_
+<h1 class="entry-title" itemprop="name">Un &#8220;Don Carlo&#8221; in gran spolvero per il compleanno del Regio</h1>
+2011_04_reggio-emilia-teatro-vallirigoletto_
+<h1 class="entry-title" itemprop="name">Reggio Emilia, Teatro Valli:&#8221;Rigoletto&#8221;</h1>
+2013_05_marsiglia-opera-municipal-la-clemenza-di-tito_
+<h1 class="entry-title" itemprop="name">Marsiglia, Opra Municipal: &#8220;La clemenza di Tito&#8221;</h1>
+2013_05_bologna-teatro-comunale-il-trionfo-di-clelia_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Il trionfo di Clelia&#8221;</h1>
+2011_05_trieste-teatro-verdila-medium-gianni-schicchi_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi:&#8221;La Medium&#8221;, &#8220;Gianni Schicchi&#8221;</h1>
+2013_01_staatsoper-stuttgart-gotterdammerung_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221; Gtterdmmerung&#8221;</h1>
+2010_11_modena-teatro-comunalecappuccetto-rosso_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale:&#8221;Cappuccetto Rosso&#8221;</h1>
+2014_06_teatro-carlo-felice-di-genova-il-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Teatro Carlo Felice di Genova: &#8220;Il Barbiere di Siviglia&#8221;</h1>
+2015_10_genova-teatro-carlo-felice-simon-boccanegra_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Simon Boccanegra&#8221;</h1>
+2014_06_un-ballo-in-maschera-allarena-di-verona_
+<h1 class="entry-title" itemprop="name">&#8220;Un ballo in maschera&#8221; all&#8217;Arena di Verona</h1>
+2014_02_parma-teatro-regio-la-cambiale-di-matrimonio_
+<h1 class="entry-title" itemprop="name">Parma, Teatro Regio: &#8220;La cambiale di matrimonio&#8221;</h1>
+2016_05_milano-teatro-alla-scala-la-fanciulla-del-west_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;La fanciulla del West&#8221;</h1>
+2012_04_laltra-faccia-della-lunai-masnadieri-alteatro-di-san-carlo_
+<h1 class="entry-title" itemprop="name">Laltra faccia della luna:&#8221;I Masnadieri&#8221; alTeatro di San Carlo</h1>
+2014_12_modena-teatro-comunale-la-rondine-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale: &#8220;La rondine&#8221; (cast alternativo)</h1>
+2012_01_bologna-teatro-comunale-turandot_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Turandot&#8221;</h1>
+2011_08_abbazia-di-san-galganola-traviata_
+<h1 class="entry-title" itemprop="name">Abbazia di San Galgano:&#8221;La Traviata&#8221;</h1>
+2013_01_firenze-teatro-comunaledie-walkure_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Comunale:&#8221;Die Walkre&#8221;</h1>
+2014_12_venezia-teatro-la-fenice-simon-boccanegra_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;Simon Boccanegra&#8221;</h1>
+2008_08_un-aida-di-tradizione_
+<h1 class="entry-title" itemprop="name">Verona, 86 Festival Lirico:&#8221;Aida&#8221;</h1>
+2015_10_apollo-et-hyacinthus-di-mozart-al-teatro-litta-di-milano_
+<h1 class="entry-title" itemprop="name">Apollo et Hyacinthus di Mozart al Teatro Litta di Milano</h1>
+2012_02_berlino-komische-operdie-sieben-todsunden_
+<h1 class="entry-title" itemprop="name">Berlino, Komische Oper:&#8221;Die sieben Todsnden&#8221;</h1>
+2014_07_turandot-al-teatro-lirico-di-cagliari_
+<h1 class="entry-title" itemprop="name">&#8220;Turandot&#8221; al Teatro Lirico di Cagliari</h1>
+2012_11_bilbao-un-giorno-di-regno_
+<h1 class="entry-title" itemprop="name">Bilbao: &#8220;Un giorno di regno&#8221;</h1>
+2012_10_opera-di-touloncarmen_
+<h1 class="entry-title" itemprop="name">Opra di Toulon:&#8221;Carmen&#8221;</h1>
+2009_01_i-due-volti-della-gelosia_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro la Fenice: &#8220;Von heute auf morgen&#8221;, &#8220;Pagliacci&#8221;</h1>
+2012_10_madrid-teatro-realboris-godunov_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real:&#8221;Boris Godunov&#8221;</h1>
+2014_12_adriana-lecouvreur-al-comunale-di-sassari_
+<h1 class="entry-title" itemprop="name">&#8220;Adriana Lecouvreur&#8221; al Comunale di Sassari</h1>
+2012_02_filosofar-cantando_
+<h1 class="entry-title" itemprop="name">Filosofar cantando</h1>
+2009_12_il-mondo-alla-rovescia-di-antonio-salieri_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;Il mondo alla rovescia&#8221;</h1>
+2015_01_bernd-alois-zimmermann-die-soldaten-alla-scala_
+<h1 class="entry-title" itemprop="name">Bernd Alois Zimmermann: Die Soldaten al Teatro alla Scala</h1>
+2014_02_turandot-al-regio_
+<h1 class="entry-title" itemprop="name">&#8220;Turandot&#8221; al Regio</h1>
+2016_05_milano-teatro-alla-scala-lheure-espagnole-lenfant-et-les-sortileges_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Lheure espagnole&#8221; &#8211; &#8220;Lenfant et les sortilges&#8221;</h1>
+2009_10_lorfeo-di-monteverdi_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;Orfeo&#8221; di Monteverdi torna alla Scala</h1>
+2014_06_die-zauberflote-il-flauto-magico-a-cagliari_
+<h1 class="entry-title" itemprop="name">&#8220;Die Zauberflte&#8221; (Il Flauto Magico) a Cagliari</h1>
+2012_03_rovigo-teatro-socialeadelaide-di-borgogna-di-generali_
+<h1 class="entry-title" itemprop="name">Rovigo, Teatro Sociale:&#8221;Adelaide di Borgogna&#8221; di Generali</h1>
+2012_01_staatsoper-stuttgartla-sonnambula_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;La Sonnambula&#8221;</h1>
+2011_05_triestenotre-dame-de-paris_
+<h1 class="entry-title" itemprop="name">Trieste:&#8221;Notre-Dame de Paris&#8221;</h1>
+2011_04_opera-di-romadie-entfuhrung-aus-dem-serail_
+<h1 class="entry-title" itemprop="name">Opera di Roma:&#8221;Die Entfhrung aus dem Serail&#8221;</h1>
+2010_10_le-nozze-di-figaro-a-los-angeles_
+<h1 class="entry-title" itemprop="name">&#8220;Le nozze di Figaro&#8221; a Los Angeles</h1>
+2016_03_teatro-regio-di-torino-la-cenerentola-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Teatro Regio di Torino: &#8220;La cenerentola&#8221; (cast alternativo)</h1>
+2015_12_opera-di-firenze-rigoletto_
+<h1 class="entry-title" itemprop="name">Opera di Firenze: &#8220;Rigoletto&#8221;</h1>
+2015_07_cagliari-teatro-lirico-lelisir-damore_
+<h1 class="entry-title" itemprop="name">Cagliari, Teatro Lirico: &#8220;L&#8217;elisir d&#8217;amore&#8221;</h1>
+2016_02_palermo-teatro-massimo-gotterdammerung_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo: &#8220;Gtterdmmerung&#8221;</h1>
+2013_07_lelisir-damore-a-torino-cast-alternativo_
+<h1 class="entry-title" itemprop="name">&#8220;Lelisir damore&#8221; a Torino (cast alternativo)</h1>
+2013_12_la-favorite-a-monaco-monte-carlo_
+<h1 class="entry-title" itemprop="name">&#8220;La Favorite&#8221; a Monaco (Monte-Carlo)</h1>
+2009_05_tosca-chiude-la-stagione-del-regio-di-parma_
+<h1 class="entry-title" itemprop="name">&#8220;Tosca&#8221; chiude la stagione del Regio di Parma</h1>
+2015_12_teatro-dellopera-di-roma-the-bassarids_
+<h1 class="entry-title" itemprop="name">Teatro dell&#8217;Opera di Roma: &#8220;The Bassarids&#8221;</h1>
+2015_09_bruxelles-theatre-la-monnaie-lelisir-damore_
+<h1 class="entry-title" itemprop="name">Bruxelles, Thtre La Monnaie: &#8220;L&#8217;elisir d&#8217;amore&#8221;</h1>
+2015_10_die-zauberflote-al-teatro-massimo-di-palermo_
+<h1 class="entry-title" itemprop="name">&#8220;Die Zauberflte&#8221; al Teatro Massimo di Palermo</h1>
+2014_08_sessantesimo-festival-puccini-torre-del-lagoturandot_
+<h1 class="entry-title" itemprop="name">Sessantesimo Festival Puccini, Torre del Lago:&#8221;Turandot&#8221;</h1>
+2013_05_bologna-teatro-comunale-norma_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Norma&#8221;</h1>
+2015_06_torino-teatro-regio-faust_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Faust&#8221;</h1>
+2013_10_torino-teatro-regiosimon-boccanegra-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Simon Boccanegra&#8221; (cast alternativo)</h1>
+2016_02_teatro-dellopera-di-roma-il-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Teatro dell&#8217;Opera di Roma: &#8220;Il barbiere di Siviglia&#8221;</h1>
+2011_11_fidenza-teatro-magnani-la-boheme_
+<h1 class="entry-title" itemprop="name">Fidenza, Teatro Magnani: &#8220;La Bohme&#8221;</h1>
+2015_04_rovereto-teatro-zandonai-il-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Rovereto, Teatro Zandonai: &#8220;Il barbiere di Siviglia&#8221;</h1>
+2011_01_buon-anno-trieste-musical-starts_
+<h1 class="entry-title" itemprop="name">Buon anno Trieste! &#8211; Musical StarTS</h1>
+2012_11_litaliana-in-algeri-al-massimo-bellini-di-catania_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;Italiana in Algeri&#8221; al Massimo &#8220;Bellini&#8221; di Catania</h1>
+2008_07_un-giocatore-di-successo_
+<h1 class="entry-title" itemprop="name">Teatro alla Scala:&#8221;Il Giocatore&#8221; (Igrok&#8217;)</h1>
+2013_02_verona-teatro-ristoridido-and-aeneas_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Ristori:&#8221;Dido and Aeneas&#8221;</h1>
+2015_10_torino-teatro-regio-aida-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Aida&#8221; (cast alternativo)</h1>
+2012_04_opera-bastillepelleas-et-melisande_
+<h1 class="entry-title" itemprop="name">Opra Bastille:&#8221;Pellas et Mlisande&#8221;</h1>
+2015_05_hansel-und-gretel-al-teatro-regio-di-torino_
+<h1 class="entry-title" itemprop="name">&#8220;Hnsel und Gretel&#8221; al Teatro Regio di Torino</h1>
+2011_08_cuernavaca-morelosle-nozze-di-figaro_
+<h1 class="entry-title" itemprop="name">Cuernavaca, Morelos:&#8221;Le nozze di Figaro&#8221;</h1>
+2012_09_rossini-opera-festival-il-signor-bruschino_
+<h1 class="entry-title" itemprop="name">Rossini Opera Festival: &#8220;Il signor Bruschino&#8221;</h1>
+2012_10_opera-di-marsigliacarmen_
+<h1 class="entry-title" itemprop="name">Opra di Marsiglia:&#8221;Carmen&#8221;</h1>
+2012_12_facciamo-macbeth_
+<h1 class="entry-title" itemprop="name">Facciamo &#8220;Macbeth&#8221;!</h1>
+2011_07_buenos-aires-teatro-avenida-il-mondo-della-luna_
+<h1 class="entry-title" itemprop="name">Buenos Aires, Teatro Avenida: &#8220;Il mondo della luna&#8221;</h1>
+2012_07_torino-teatro-regioun-ballo-in-maschera_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Un ballo in maschera&#8221;</h1>
+2012_04_elizabeth-al-politeama-rossetti_
+<h1 class="entry-title" itemprop="name">&#8220;Elisabeth&#8221; al Politeama Rossetti</h1>
+2009_08_larena-celebra-domingo_
+<h1 class="entry-title" itemprop="name">L&#8217;Arena celebra Domingo</h1>
+2015_03_da-lorca-a-sotelo-prima-mondiale-di-el-publico-a-madrid_
+<h1 class="entry-title" itemprop="name">Da Lorca a Sotelo: prima mondiale di El Pblico a Madrid</h1>
+2011_06_bologna-teatro-comunale-la-cenerentola_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;La Cenerentola&#8221;</h1>
+2014_04_bologna-teatro-comunaleevgenij-onegin_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale:&#8221;Evgenij Onegin&#8221;</h1>
+2008_10_nabucco_
+<h1 class="entry-title" itemprop="name">Festival Verdi 2008: &#8220;Nabucco&#8221;</h1>
+2016_02_reggio-emilia-teatro-municipale-valli-le-nozze-di-figaro_
+<h1 class="entry-title" itemprop="name">Reggio Emilia, Teatro Municipale Valli: &#8220;Le nozze di Figaro&#8221;</h1>
+2012_02_modena-teatro-comunale-salome_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale: &#8220;Salome&#8221;</h1>
+2014_01_linda-lucia-o-luisa-questo-e-il-dilemma_
+<h1 class="entry-title" itemprop="name">Teatro Comunale di Ferrara: &#8220;Luisa Miller&#8221;</h1>
+2010_02_torna-rigoletto-alla-scala_
+<h1 class="entry-title" itemprop="name">Torna &#8220;Rigoletto&#8221; alla Scala</h1>
+2008_07_la-boheme-per-antonomasia_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala:&#8221;La Bohme&#8221;</h1>
+2014_04_la-traviata-al-petruzzelli-di-bari_
+<h1 class="entry-title" itemprop="name">&#8220;La Traviata&#8221; al Petruzzelli di Bari</h1>
+2010_12_brescia-teatro-grande-la-traviata_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;La Traviata&#8221;</h1>
+2012_11_fidenza-teatro-magnani-aida_
+<h1 class="entry-title" itemprop="name">Fidenza, Teatro Magnani: &#8220;Aida&#8221;</h1>
+2012_01_trieste-politeama-rossettialice-nel-paese-delle-meraviglie_
+<h1 class="entry-title" itemprop="name">Trieste, Politeama Rossetti:&#8221;Alice nel paese delle meraviglie&#8221;</h1>
+2015_07_madama-butterfly-allopera-di-firenze_
+<h1 class="entry-title" itemprop="name">&#8220;Madama Butterfly&#8221; all&#8217;Opera di Firenze</h1>
+2011_06_matematica-e-musica-e-le-molteplici-vie-dellaltissimo_
+<h1 class="entry-title" itemprop="name">Matematica e musica e le molteplici vie dellaltissimo</h1>
+2011_12_cimarosa-in-un-grazio-villaggio-vacanze_
+<h1 class="entry-title" itemprop="name">Cimarosa in un grazioso villaggio-vacanze</h1>
+2011_06_torino-teatro-regiola-traviata_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;La Traviata&#8221;</h1>
+2016_02_parma-teatro-regio-loccasione-fa-il-ladro_
+<h1 class="entry-title" itemprop="name">Parma, Teatro Regio: &#8220;L&#8217;occasione fa il ladro&#8221;</h1>
+2009_05_gotterdammerung-al-maggio-musicale-fiorentino_
+<h1 class="entry-title" itemprop="name">&#8220;Gotterdammerung&#8221; al Maggio Musicale Fiorentino</h1>
+2012_05_staatsoper-stuttgartelektra_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Elektra&#8221;</h1>
+2015_07_la-traviata-al-teatro-regio-di-torino_
+<h1 class="entry-title" itemprop="name">&#8220;La traviata&#8221; al Teatro Regio di Torino</h1>
+2012_12_genova-teatro-carlo-felicedon-giovanni_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice:&#8221;Don Giovanni&#8221;</h1>
+2013_06_lanti-eroe-attuale-ancora-su-evgenij-onegin-a-torino-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Lanti-eroe attuale: ancora su Evgenij Onegin a Torino (cast alternativo)</h1>
+2015_06_parma-teatro-regio-madama-butterfly_
+<h1 class="entry-title" itemprop="name">Parma, Teatro Regio: &#8220;Madama Butterfly&#8221;</h1>
+2015_10_operalombardia-teatro-grande-di-brescia-la-boheme_
+<h1 class="entry-title" itemprop="name">OperaLombardia, Teatro Grande di Brescia: &#8220;La Bohme&#8221;</h1>
+2015_12_il-dittico-zanettocavalleria-rusticana-a-livorno_
+<h1 class="entry-title" itemprop="name">Il dittico &#8220;Zanetto/Cavalleria Rusticana&#8221; a Livorno</h1>
+2014_04_luisa-miller-allopera-de-lausanne_
+<h1 class="entry-title" itemprop="name">&#8220;Luisa Miller&#8221; all&#8217;Opra de Lausanne</h1>
+2010_12_staatsoper-stuttgartmaria-stuarda_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Maria Stuarda&#8221;</h1>
+2012_02_parigi-opera-bastillepikovaja-dama-la-dama-di-picche_
+<h1 class="entry-title" itemprop="name">Parigi, Opra Bastille:&#8221;Pikovaja Dama&#8221; (La dama di picche)</h1>
+2010_12_bergamo-musica-festival-don-pasquale_
+<h1 class="entry-title" itemprop="name">Bergamo Musica Festival: &#8220;Don Pasquale&#8221;</h1>
+2012_10_bolona-teatro-comunale-cavalleria-rusticana-e-pagliacci_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Cavalleria rusticana&#8221; e &#8220;Pagliacci&#8221;</h1>
+2009_09_tosca-ultimo-titolo-del-cartellone-areniano_
+<h1 class="entry-title" itemprop="name">&#8220;Tosca&#8221; ultimo titolo del cartellone areniano</h1>
+2011_06_citta-del-messicotosca_
+<h1 class="entry-title" itemprop="name">Citt del Messico:&#8221;Tosca&#8221;</h1>
+2012_07_staatsoper-stuttgartplatee_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Plate&#8221;</h1>
+2011_06_firenze-teatro-la-pergolalincoronazione-di-poppea_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro La Pergola:&#8221;l&#8217;Incoronazione di Poppea&#8221;</h1>
+2016_03_mefistofele-al-teatro-verdi-di-pisa_
+<h1 class="entry-title" itemprop="name">&#8220;Mefistofele&#8221; al Teatro Verdi di Pisa</h1>
+2011_12_firenze-un-barbiere-sottotono_
+<h1 class="entry-title" itemprop="name">Firenze: Un &#8220;Barbiere&#8221; sottotono</h1>
+2013_03_lincubo-grottesco-di-cuore-di-cane-affascina-la-scala_
+<h1 class="entry-title" itemprop="name">Lincubo grottesco di &#8220;Cuore di cane&#8221; affascina la Scala</h1>
+2011_02_new-york-metropolitan-operala-traviata_
+<h1 class="entry-title" itemprop="name">New York, Metropolitan Opera:&#8221;La Traviata&#8221;</h1>
+2012_04_milano-scalale-nozze-di-figaro_
+<h1 class="entry-title" itemprop="name">Milano, Scala:&#8221;Le nozze di Figaro&#8221;</h1>
+2015_11_staatsoper-stuttgart-salome_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart: &#8220;Salome&#8221;</h1>
+2012_06_milano-teatro-alla-scala-manon_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Manon&#8221;</h1>
+2013_02_chi-parlare-ardisce-ove-nabucco_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Nabucco&#8221;</h1>
+2012_11_ravenna-teatro-alighierila-traviata_
+<h1 class="entry-title" itemprop="name">Ravenna, Teatro Alighieri:&#8221;La Traviata&#8221;</h1>
+2015_02_il-barbiere-di-siviglia-al-teatro-goldoni-di-livorno_
+<h1 class="entry-title" itemprop="name">&#8220;Il barbiere di Siviglia&#8221; al Teatro Goldoni di Livorno</h1>
+2014_10_aida-al-teatro-marrucino-di-chieti_
+<h1 class="entry-title" itemprop="name">&#8220;Aida&#8221; al Teatro Marrucino di Chieti</h1>
+2008_12_allanteprima-del-don-carlo-scaligero_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Don Carlo&#8221;</h1>
+2009_07_torna-aida-al-teatro-alla-scala_
+<h1 class="entry-title" itemprop="name">Torna &#8220;Aida&#8221; al Teatro alla Scala</h1>
+2010_05_der-ferne-klang-allopernhaus-di-zurigo_
+<h1 class="entry-title" itemprop="name">&#8220;Der ferne klang&#8221; per la prima volta a Zurigo</h1>
+2014_07_madama-butterfly-al-teatro-san-carlo-di-napoli_
+<h1 class="entry-title" itemprop="name">&#8220;Madama Butterfly&#8221; al Teatro San Carlo di Napoli</h1>
+2012_12_opera-di-marsigliapoliuto_
+<h1 class="entry-title" itemprop="name">Opra di Marsiglia:&#8221;Poliuto&#8221;</h1>
+2015_12_fano-teatro-della-fortuna-madama-butterfly_
+<h1 class="entry-title" itemprop="name">Fano, Teatro della Fortuna: &#8220;Madama Butterfly&#8221;</h1>
+2014_11_teatro-cantero-di-chiavari-turandot_
+<h1 class="entry-title" itemprop="name">Teatro Cantero di Chiavari: &#8220;Turandot&#8221;</h1>
+2012_06_torino-teatro-regionorma-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Norma&#8221; (cast alternativo)</h1>
+2010_11_brescia-teatro-grande-la-cenerentola_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;La Cenerentola&#8221;</h1>
+2008_07_mariella-devia-per-la-prima-volta-violetta-alla-scala_
+<h1 class="entry-title" itemprop="name">Teatro alla Scala: &#8220;La Traviata&#8221;</h1>
+2012_07_xxxviii-festival-della-valle-ditria-artaserse-di-hasse_
+<h1 class="entry-title" itemprop="name">XXXVIII Festival della Valle d&#8217;Itria: &#8220;Artaserse&#8221; di Hasse</h1>
+2013_07_prediletti-dalle-stelle-io-vi-lascio-un-gran-tesoro-lelisir-damore-a-torino_
+<h1 class="entry-title" itemprop="name">Prediletti dalle stelle, / io vi lascio un gran tesoro: Lelisir damore a Torino</h1>
+2013_12_bolognathe-turn-of-the-screw_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale:&#8221;The turn of the screw&#8221;</h1>
+2015_10_jesi-teatro-pergolesi-nabucco_
+<h1 class="entry-title" itemprop="name">Jesi, Teatro Pergolesi: &#8220;Nabucco&#8221;</h1>
+2016_03_parma-teatro-regio-lucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Parma, Teatro Regio: &#8220;Lucia di Lammermoor&#8221;</h1>
+2015_12_bergamo-teatro-donizetti-anna-bolena_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;Anna Bolena&#8221;</h1>
+2011_01_catania-teatro-massimo-bellinicassandra_
+<h1 class="entry-title" itemprop="name">Catania, Teatro Massimo Bellini:&#8221;Cassandra&#8221; di Vittorio Gnecchi, gemma ritornata a splendere</h1>
+2012_02_firenze-teatro-comunaletosca_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Comunale:&#8221;Tosca&#8221;</h1>
+2012_01_milano-teatro-alla-scala-les-contes-dhoffmann_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Les contes d&#8217;Hoffmann&#8221;</h1>
+2015_07_venezia-festival-lo-spirito-di-venezia-palazzo-ducale-dafne_
+<h1 class="entry-title" itemprop="name">Venezia, Festival lo Spirito di Venezia, Palazzo Ducale: &#8220;Dafne&#8221;</h1>
+2015_10_ancona-teatro-delle-muse-franco-corelli-la-boheme_
+<h1 class="entry-title" itemprop="name">Ancona, Teatro delle Muse Franco Corelli: &#8220;La Bohme&#8221;</h1>
+2015_10_bruxelles-theatre-la-monnaie-la-vestale_
+<h1 class="entry-title" itemprop="name">Bruxelles, Thtre La Monnaie: &#8220;La Vestale&#8221;</h1>
+2015_10_aida-al-teatro-regio-di-torino_
+<h1 class="entry-title" itemprop="name">Aida al Teatro Regio di Torino</h1>
+2015_03_venezia-teatro-la-fenice-alceste_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;Alceste&#8221;</h1>
+2012_02_parigi-theatre-des-champs-elyseesdon-pasquale_
+<h1 class="entry-title" itemprop="name">Parigi, Thtre des Champs Elyses:&#8221;Don Pasquale&#8221;</h1>
+2012_03_parigitheatre-des-champs-elyseesla-clemenza-di-tito_
+<h1 class="entry-title" itemprop="name">Parigi,Thtre des Champs Elyses:&#8221;La clemenza di Tito&#8221;</h1>
+2013_03_new-york-metropolitan-otello_
+<h1 class="entry-title" itemprop="name">New York, Metropolitan: Otello</h1>
+2009_08_e-ancora-una-volta-eaida_
+<h1 class="entry-title" itemprop="name">E ancora una volta &#8230;.&#8221;Aida&#8221;</h1>
+2011_11_genova-teatro-carlo-felice-die-zauberflote_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Die Zauberflte&#8221;</h1>
+2013_12_firenzeil-cappello-di-paglia-di-firenze-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Firenze:&#8221;Il cappello di paglia di Firenze&#8221; (cast alternativo)</h1>
+2012_12_die-zauberflote-alla-staatsoper-stuttgart_
+<h1 class="entry-title" itemprop="name">&#8220;Die Zauberflte&#8221; alla Staatsoper Stuttgart</h1>
+2011_04_staatsoper-stuttgartles-dialogues-des-carmelites_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Les Dialogues des Carmlites&#8221;</h1>
+2014_06_staatsoper-stuttgartla-boheme_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;La Bohme&#8221;</h1>
+2008_12_ritorniamo-al-don-carlo_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Don Carlo&#8221;</h1>
+2010_08_lima-teatro-seguracavalleria-rusticana-e-pagliacci_
+<h1 class="entry-title" itemprop="name">Lima, Teatro Segura:&#8221;Cavalleria rusticana&#8221; e &#8220;Pagliacci&#8221;</h1>
+2012_01_madrid-teatro-de-la-zarzuelalos-sobrinos-del-capitan-grant_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro de la Zarzuela:&#8221;Los sobrinos del Capitan Grant&#8221;</h1>
+2015_04_teatro-carlo-felice-di-genova-lamico-fritz_
+<h1 class="entry-title" itemprop="name">Teatro Carlo Felice di Genova: &#8220;L&#8217;Amico Fritz&#8221;</h1>
+2012_08_arena-di-verona-turandot_
+<h1 class="entry-title" itemprop="name">Arena di Verona: &#8220;Turandot&#8221;</h1>
+2011_10_padova-teatro-verdilucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Padova, Teatro Verdi:&#8221;Lucia di Lammermoor&#8221;</h1>
+2012_12_bologna-teatro-comunalelolimpiade_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale:&#8221;L&#8217;Olimpiade&#8221;</h1>
+2010_10_teatro-alla-scala-lelisir-damore_
+<h1 class="entry-title" itemprop="name">Teatro alla Scala: &#8220;L&#8217;elisir d&#8217;amore&#8221;</h1>
+2012_09_bayreuther-festspieletannhauser_
+<h1 class="entry-title" itemprop="name">Bayreuther Festspiele:&#8221;Tannhuser&#8221;</h1>
+2012_05_reggio-emiliarinaldo_
+<h1 class="entry-title" itemprop="name">Reggio Emilia, Teatro Valli:&#8221;Rinaldo&#8221;</h1>
+2014_11_les-contes-dhoffmann-al-teatro-fraschini-di-pavia_
+<h1 class="entry-title" itemprop="name">&#8220;Les contes d&#8217;Hoffmann&#8221; al Teatro Fraschini di Pavia</h1>
+2008_12_un-vampiroa-bologna_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Der Vampyr&#8221;</h1>
+2016_06_firenze-teatro-della-pergola-albert-herring_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro della Pergola: &#8220;Albert Herring&#8221;</h1>
+2015_06_teatro-alla-scala-di-milano-lucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Teatro alla Scala di Milano: &#8220;Lucia di Lammermoor&#8221;</h1>
+2016_04_palermo-teatro-massimo-lucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo: &#8220;Lucia di Lammermoor&#8221;</h1>
+2011_11_staatsoper-stuttgartla-damnation-de-faust_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;La Damnation de Faust&#8221;</h1>
+2015_07_torino-teatro-regio-la-boheme_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;La Bohme&#8221;</h1>
+2012_02_palermo-teatro-massimola-damnation-de-faust_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo:&#8221;La damnation de Faust&#8221;</h1>
+2015_12_rigoletto-allopera-di-firenze-cast-alternativo_
+<h1 class="entry-title" itemprop="name">&#8220;Rigoletto&#8221; all&#8217;Opera di Firenze (cast alternativo)</h1>
+2014_11_madama-butterfly-al-teatro-comunale-di-sassari_
+<h1 class="entry-title" itemprop="name">&#8220;Madama Butterfly&#8221; al Teatro Comunale di Sassari</h1>
+2011_05_metropolitan-operadie-walkure_
+<h1 class="entry-title" itemprop="name">Metropolitan Opera:&#8221;Die Walkre&#8221;</h1>
+2010_11_teatro-comunale-di-modenamaria-stuarda_
+<h1 class="entry-title" itemprop="name">Teatro Comunale di Modena:&#8221;Maria Stuarda&#8221;</h1>
+2009_07_don-pasquale-al-comunale-di-bologna_
+<h1 class="entry-title" itemprop="name">&#8220;Don Pasquale&#8221; al Comunale di Bologna</h1>
+2013_10_opera-di-romaturandot_
+<h1 class="entry-title" itemprop="name">Opera di Roma:&#8221;Turandot&#8221; (cast alternativo)</h1>
+2015_05_genova-teatro-carlo-felice-carmen_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Carmen&#8221;</h1>
+2012_11_ravenna-teatro-alighieriil-trovatore_
+<h1 class="entry-title" itemprop="name">Ravenna, Teatro Alighieri:&#8221;Il Trovatore&#8221;</h1>
+2008_06_roberto-devereux-a-pordenone_
+<h1 class="entry-title" itemprop="name">&#8220;Roberto Devereux&#8221; a Pordenone</h1>
+2014_08_arena-opera-festivalturandot-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Arena Opera Festival:&#8221;Turandot&#8221; (cast alternativo)</h1>
+2011_12_luca-la-regina-e-il-castigo_
+<h1 class="entry-title" itemprop="name">Luca, la regina e il castigo</h1>
+2011_11_a-jesi-un-cast-rossiniano-per-il-donizettiano-elisir-damore_
+<h1 class="entry-title" itemprop="name">A Jesi un cast rossiniano per il donizettiano Elisir damore</h1>
+2012_04_die-zauberflote-allopera-di-roma_
+<h1 class="entry-title" itemprop="name">&#8220;Die Zauberflote&#8221; all&#8217;Opera di Roma</h1>
+2013_10_rigoletto-al-teatro-regio-di-torino_
+<h1 class="entry-title" itemprop="name">Rigoletto al Teatro Regio di Torino</h1>
+2011_12_parigi-operala-forza-del-destino_
+<h1 class="entry-title" itemprop="name">Parigi, Opra:&#8221;La forza del destino&#8221;</h1>
+2014_11_don-pasquale-al-conservatorio-g-verdi-di-milano_
+<h1 class="entry-title" itemprop="name">&#8220;Don Pasquale&#8221; al Conservatorio &#8220;G. Verdi&#8221; di Milano</h1>
+2013_12_anche-irina-lungu-e-violetta-alla-scala_
+<h1 class="entry-title" itemprop="name">Teatro alla Scala di Milano: &#8220;La Traviata&#8221; (cast alternativo)</h1>
+2011_03_roma-teatro-delloperanabucco_
+<h1 class="entry-title" itemprop="name">Roma, Teatro dell&#8217;Opera:&#8221;Nabucodonosor&#8221;</h1>
+2013_03_le-rose-del-volto-gia-sono-pallenti-la-traviata-al-teatro-regio-di-torino_
+<h1 class="entry-title" itemprop="name">Le rose del volto gi sono pallenti. La Traviata al Teatro Regio di Torino</h1>
+2014_03_leo-nucci-e-simon-boccanegra-a-piacenza_
+<h1 class="entry-title" itemprop="name">Leo Nucci  Simon Boccanegra al Teatro Municipale di Piacenza</h1>
+2013_08_veramente-il-passo-e-ardito-ma-loccasione-fa-il-ladro_
+<h1 class="entry-title" itemprop="name">Veramente il passo  ardito, ma Loccasione fa il ladro al ROF</h1>
+2013_09_santa-fe-opera-festivalla-grande-duchesse-de-gerolstein_
+<h1 class="entry-title" itemprop="name">Santa Fe Opera Festival:&#8221;La Grande-Duchesse de Gerolstein&#8221;</h1>
+2015_12_pisa-teatro-verdi-catone_
+<h1 class="entry-title" itemprop="name">Pisa, Teatro Verdi: &#8220;Catone&#8221;</h1>
+2009_12_dittico-al-teatro-la-fenice-di-venezia_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;rka&#8221;, &#8220;Cavalleria Rusticana&#8221;</h1>
+2010_10_le-nozze-di-figaro-a-san-francisco_
+<h1 class="entry-title" itemprop="name">&#8220;Le Nozze di Figaro&#8221; a San Francisco</h1>
+2015_10_sassari-teatro-comunale-elisabetta-regina-dinghilterra_
+<h1 class="entry-title" itemprop="name">Sassari, Teatro Comunale: &#8220;Elisabetta, regina d&#8217;Inghilterra&#8221;</h1>
+2014_11_lucca-teatro-del-giglio-la-rondine_
+<h1 class="entry-title" itemprop="name">Lucca, Teatro del Giglio: &#8220;La rondine&#8221;</h1>
+2013_04_opera-di-marsiglia-otello_
+<h1 class="entry-title" itemprop="name">Opra di Marsiglia: &#8220;Otello&#8221;</h1>
+2016_04_madrid-teatro-real-luisa-miller_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real: Luisa Miller</h1>
+2015_11_operalombardia-teatro-ponchielli-di-cremona-la-scala-di-seta_
+<h1 class="entry-title" itemprop="name">OperaLombardia, Teatro Ponchielli di Cremona: &#8220;La scala di seta&#8221;</h1>
+2010_08_citta-del-messico-teatro-de-las-artes_
+<h1 class="entry-title" itemprop="name">Citt del Messico, Teatro de las Artes:&#8221;La Cenerentola&#8221;</h1>
+2013_11_opera-di-marsigliala-straniera_
+<h1 class="entry-title" itemprop="name">Opra di Marsiglia: &#8220;La Straniera&#8221;</h1>
+2012_04_jakob-lenz_
+<h1 class="entry-title" itemprop="name">Teatro Comunale di Bologna: &#8220;Jakob Lenz&#8221;</h1>
+2016_01_partenope-di-handel-allauditorio-nacional-di-madrid_
+<h1 class="entry-title" itemprop="name">Partenope di Hndel allAuditorio Nacional di Madrid</h1>
+2010_05_luisa-miller-dallopernhaus-di-zurigo_
+<h1 class="entry-title" itemprop="name">&#8220;Luisa Miller&#8221; dall&#8217;Opernhaus di Zurigo</h1>
+2013_01_milano-teatro-alla-scala-falstaff_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Falstaff&#8221;</h1>
+2010_11_brescia-teatro-grande-die-zauberflote_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;Die Zauberflte&#8221; (Il flauto magico)</h1>
+2012_03_catania-teatro-bellinitosca_
+<h1 class="entry-title" itemprop="name">Catania, Teatro Bellini:&#8221;Tosca&#8221;</h1>
+2015_04_genova-teatro-carlo-felice-billy-budd_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Billy Budd&#8221;</h1>
+2015_06_staatsoper-stuttgart-cosi-fan-tutte_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart: &#8220;Cos fan tutte&#8221;</h1>
+2013_07_les-choregies-dorange-der-fliegende-hollander_
+<h1 class="entry-title" itemprop="name">Les Chorgies d&#8217;Orange: &#8220;Der Fliegende Hollnder&#8221;</h1>
+2012_05_hotel-con-vista-sulle-alpi-esonnambula_
+<h1 class="entry-title" itemprop="name">Hotel con vista sulle Alpi e&#8221;Sonnambula&#8221;</h1>
+2011_05_torino-teatro-regiorigoletto_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Rigoletto&#8221;</h1>
+2012_06_milano-teatro-alla-scala-luisa-miller_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Luisa Miller&#8221;</h1>
+2013_10_il-quondam-matto-in-gala-seconda-compagnia-per-il-furioso-di-bergamo-michele-curnis_
+<h1 class="entry-title" itemprop="name">Il quondam matto in gala! Seconda compagnia per il Furioso di Bergamo</h1>
+2013_11_falstaff-al-petruzzelli-di-bari_
+<h1 class="entry-title" itemprop="name">&#8220;Falstaff&#8221; al Petruzzelli di Bari</h1>
+2016_04_staatsoper-stuttgart-reigen-di-philippe-boesmans_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart: &#8220;Reigen&#8221; di Philippe Boesmans</h1>
+2012_11_parigi-theatre-des-champs-elyseesmedee_
+<h1 class="entry-title" itemprop="name">Parigi, Thtre des Champs Elyses:&#8221;Mde&#8221;</h1>
+2016_02_il-trionfo-del-tempo-e-del-disinganno-al-teatro-alla-scala_
+<h1 class="entry-title" itemprop="name">&#8220;Il trionfo del tempo e del disinganno&#8221; al Teatro alla Scala</h1>
+2011_07_un-nabucco-allo-stadio_
+<h1 class="entry-title" itemprop="name">Un &#8220;Nabucco&#8221;&#8230;allo stadio</h1>
+2015_12_verona-teatro-filarmonico-la-forza-del-destino_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;La forza del destino&#8221;</h1>
+2014_08_sessantesimo-festival-puccini-torre-del-lagoil-trittico_
+<h1 class="entry-title" itemprop="name">Sessantesimo Festival Puccini, Torre del Lago:&#8221;Il Trittico&#8221;</h1>
+2014_11_rigoletto-a-modena_
+<h1 class="entry-title" itemprop="name">&#8220;Rigoletto&#8221; a Modena</h1>
+2010_07_ravenna-festival-betulia-liberata-due-volte_
+<h1 class="entry-title" itemprop="name">Ravenna Festival: &#8220;Betulia liberata&#8221;&#8230; due volte</h1>
+2011_12_catania-teatro-massimo-bellinirigoletto_
+<h1 class="entry-title" itemprop="name">Catania, Teatro Massimo Bellini:&#8221;Rigoletto&#8221;</h1>
+2012_12_zubin-mehta-festeggia-i-cinquantanni-a-firenze-con-turandot_
+<h1 class="entry-title" itemprop="name">Zubin Mehta festeggia i cinquantanni a Firenze con Turandot</h1>
+2015_09_lucia-di-lammermoor-cast-alternativo-allopera-di-firenze_
+<h1 class="entry-title" itemprop="name">&#8220;Lucia di Lammermoor&#8221; (cast alternativo) all&#8217;Opera di Firenze</h1>
+2015_10_cronache-del-mito-il-ragazzo-del-riscio-al-teatro-regio-di-torino_
+<h1 class="entry-title" itemprop="name">Cronache del MiTo: &#8220;Il ragazzo del risci&#8221; al Teatro Regio di Torino</h1>
+2011_12_roma-teatro-delloperamacbeth_
+<h1 class="entry-title" itemprop="name">Roma, Teatro dell&#8217;Opera:&#8221;Macbeth&#8221;</h1>
+2016_01_roma-teatro-dellopera-la-cenerentola_
+<h1 class="entry-title" itemprop="name">Roma, Teatro dell&#8217;Opera: &#8220;La Cenerentola&#8221;</h1>
+2015_05_firenze-teatro-goldoni-the-turn-of-the-screw_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Goldoni: &#8220;The turn of the screw&#8221;</h1>
+2014_07_staatsoper-stuttgarttristan-und-isolde_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Tristan und Isolde&#8221;</h1>
+2013_07_citta-del-messicoil-trovatore_
+<h1 class="entry-title" itemprop="name">Citt del Messico:&#8221;Il Trovatore&#8221;</h1>
+2014_10_bruxelles-theatre-la-monnaiedaphne_
+<h1 class="entry-title" itemprop="name">Bruxelles, Thtre  La Monnaie: &#8220;Daphne&#8221;</h1>
+2016_04_torino-teatro-regio-alfredo-casella-la-donna-serpente_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;La donna serpente&#8221; di Alfredo Casella</h1>
+2013_08_giovanna-darco-a-martina-franca_
+<h1 class="entry-title" itemprop="name">&#8220;Giovanna D&#8217;Arco&#8221; a Martina Franca</h1>
+2014_06_opera-di-firenze-lamour-des-trois-oranges_
+<h1 class="entry-title" itemprop="name">Opera di Firenze: &#8220;L&#8217;amour des trois oranges&#8221;</h1>
+2013_08_ancora-nabucco-allarena-di-verona_
+<h1 class="entry-title" itemprop="name">Ancora Nabucco allArena di Verona</h1>
+2015_03_ferrara-teatro-comunale-la-sonnambula_
+<h1 class="entry-title" itemprop="name">Ferrara, Teatro Comunale: &#8220;La Sonnambula&#8221;</h1>
+2016_07_milano-teatro-alla-scala-simon-boccanegra-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Simon Boccanegra&#8221; (cast alternativo)</h1>
+2013_08_verona-o-cara-noi-rivedremoancora-traviata-allarena_
+<h1 class="entry-title" itemprop="name">Verona o cara, noi rivedremo&#8230;ancora Traviata allArena</h1>
+2012_06_le-nozze-di-figaro-al-teatro-comunale-di-bologna_
+<h1 class="entry-title" itemprop="name">&#8220;Le nozze di Figaro&#8221; al Teatro Comunale di Bologna</h1>
+2010_11_madridteatro-realthe-turn-of-the-screw_
+<h1 class="entry-title" itemprop="name">Madrid,Teatro Real:&#8221;The Turn of the Screw&#8221;</h1>
+2012_06_bari-teatro-petruzzellitosca_
+<h1 class="entry-title" itemprop="name">Bari, Teatro Petruzzelli:&#8221;Tosca&#8221;</h1>
+2015_03_bologna-teatro-comunale-don-pasquale_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Don Pasquale&#8221;</h1>
+2009_05_lelisir-damore-al-teatro-filarmonico-di-verona_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;elisir d&#8217;amore&#8221; al Teatro Filarmonico di Verona</h1>
+2012_10_lucca-teatro-del-gigliotosca_
+<h1 class="entry-title" itemprop="name">Lucca, Teatro del Giglio:&#8221;Tosca&#8221;</h1>
+2016_02_bruxelles-theatre-la-monnaie-lopera-seria_
+<h1 class="entry-title" itemprop="name">Bruxelles, Thtre La Monnaie: &#8220;L&#8217;Opera Seria&#8221;</h1>
+2011_11_pisa-teatro-verdicavalleria-rusticana-e-pagliacci_
+<h1 class="entry-title" itemprop="name">Pisa, Teatro Verdi:&#8221;Cavalleria rusticana&#8221; e &#8220;Pagliacci&#8221;</h1>
+2014_04_la-traviata-al-teatro-verdi-di-trieste_
+<h1 class="entry-title" itemprop="name">&#8220;La Traviata&#8221; al Teatro Verdi di Trieste</h1>
+2015_07_teatro-carlo-felice-di-genova-la-vedova-allegra_
+<h1 class="entry-title" itemprop="name">Teatro Carlo Felice di Genova: &#8220;La vedova allegra&#8221;</h1>
+2012_03_boris-godunov-al-teatro-massimo-di-palermo_
+<h1 class="entry-title" itemprop="name">&#8220;Boris Godunov&#8221; al Teatro Massimo di Palermo</h1>
+2012_10_teatro-lirico-di-cagliarinabucco_
+<h1 class="entry-title" itemprop="name">Teatro Lirico di Cagliari:&#8221;Nabucco&#8221;</h1>
+2011_01_e-cristina-disse-facciamo-il-trovatore_
+<h1 class="entry-title" itemprop="name">E Cristina disse:  Facciamo il Trovatore </h1>
+2016_04_teatro-dellopera-di-roma-benvenuto-cellini-di-hector-berlioz_
+<h1 class="entry-title" itemprop="name">Teatro dell&#8217;Opera di Roma: &#8220;Benvenuto Cellini&#8221; di Hector Berlioz</h1>
+2011_03_parma-teatro-regioil-naso_
+<h1 class="entry-title" itemprop="name">Parma, Teatro Regio:&#8221;Il Naso&#8221;</h1>
+2012_08_le-nozze-di-figaro-al-festival-di-aix-en-provence_
+<h1 class="entry-title" itemprop="name">&#8220;Le nozze di Figaro&#8221; al Festival di Aix-en-Provence</h1>
+2013_11_torino-teatro-regioil-barbiere-di-siviglia-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Il Barbiere di Siviglia&#8221; (cast alternativo)</h1>
+2012_08_norma-a-taormina_
+<h1 class="entry-title" itemprop="name">&#8220;Norma&#8221; a Taormina</h1>
+2014_02_il-matrimonio-segreto-al-teatro-del-giglio-di-lucca_
+<h1 class="entry-title" itemprop="name">&#8220;Il matrimonio segreto&#8221; al Teatro del Giglio di Lucca</h1>
+2010_05_eugenio-onegin-allopernhaus-di-zurigo_
+<h1 class="entry-title" itemprop="name">&#8220;Eugenio Onegin&#8221; all&#8217;Opernhaus di Zurigo</h1>
+2016_05_napoli-teatro-di-corte-di-palazzo-reale-zenobia-in-palmira-di-paisiello_
+<h1 class="entry-title" itemprop="name">Napoli, Teatro di Corte di Palazzo Reale: &#8220;Zenobia in Palmira&#8221; di Paisiello</h1>
+2014_12_verona-teatro-filarmonico-lucia-di-lammermoor-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;Lucia di Lammermoor&#8221; (cast alternativo)</h1>
+2016_06_roma-teatro-dellopera-la-traviata_
+<h1 class="entry-title" itemprop="name">Roma, Teatro dell&#8217;Opera: &#8220;La Traviata&#8221;</h1>
+2012_01_opera-de-marseillela-boheme_
+<h1 class="entry-title" itemprop="name">Opra de Marseille: &#8220;La Bohme&#8221;</h1>
+2013_12_verona-teatro-filarmonico-don-pasquale_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;Don Pasquale&#8221;</h1>
+2015_07_opera-di-firenze-il-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Opera di Firenze: &#8220;Il barbiere di Siviglia&#8221;</h1>
+2012_05_teatro-lirico-di-cagliaridon-quichotte_
+<h1 class="entry-title" itemprop="name">Teatro Lirico di Cagliari:&#8221;Don Quichotte&#8221;</h1>
+2013_10_sassaricavalleria-rusticana_
+<h1 class="entry-title" itemprop="name">Sassari:&#8221;Cavalleria rusticana&#8221;</h1>
+2012_12_trieste-teatro-verdi-il-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi: &#8220;Il barbiere di Siviglia&#8221;</h1>
+2014_10_svanda-dudak-al-teatro-massimo-di-palermo_
+<h1 class="entry-title" itemprop="name">&#8220;vanda dudk&#8221; al Teatro Massimo di Palermo</h1>
+2013_01_ancona-teatro-delle-muse-lenfant-prodigue-e-cavalleria-rusticana_
+<h1 class="entry-title" itemprop="name">Ancona, Teatro delle Muse: &#8220;L&#8217;Enfant Prodigue&#8221; e &#8220;Cavalleria Rusticana&#8221;</h1>
+2015_07_milano-teatro-alla-scala-il-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Il Barbiere di Siviglia&#8221;</h1>
+2012_06_madrid-teatro-de-la-zarzuelala-chulapona_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro de La Zarzuela:&#8221;La Chulapona&#8221;</h1>
+2013_11_teatro-del-maggio-musicale-fiorentinolelisir-damore-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Teatro del Maggio Musicale Fiorentino:&#8221;L&#8217;elisir d&#8217;amore&#8221; (cast alternativo)</h1>
+2013_10_firenze-teatro-goldonithe-fairy-queen_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Goldoni:&#8221;The Fairy Queen&#8221;</h1>
+2015_01_scienza-e-belcanto-allopera-di-firenze-i-puritani_
+<h1 class="entry-title" itemprop="name">Scienza e Belcanto all&#8217;Opera di Firenze: I Puritani</h1>
+2012_06_opera-di-romaa-midsummer-nights-dream_
+<h1 class="entry-title" itemprop="name">Opera di Roma:&#8221;A Midsummer night&#8217;s dream&#8221;</h1>
+2011_09_torre-del-lagola-boheme_
+<h1 class="entry-title" itemprop="name">Torre del Lago:&#8221;La Bohme&#8221;</h1>
+2015_01_bologna-teatro-comunale-un-ballo-in-maschera_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Un Ballo in Maschera&#8221;</h1>
+2015_05_un-ballo-in-maschera-al-teatro-massimo-di-palermo_
+<h1 class="entry-title" itemprop="name">&#8220;Un ballo in maschera&#8221; al Teatro Massimo di Palermo</h1>
+2012_03_torino-teatro-regioil-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Il Barbiere di Siviglia&#8221;</h1>
+2014_07_the-rakes-progress-al-teatro-la-fenice-di-venezia_
+<h1 class="entry-title" itemprop="name">&#8220;The rake&#8217;s progress&#8221; al Teatro La Fenice di Venezia</h1>
+2011_03_ferrara-teatro-comunalegiulio-cesare_
+<h1 class="entry-title" itemprop="name">Ferrara, Teatro Comunale:&#8221;Giulio Cesare&#8221;</h1>
+2013_03_staatsoper-stuttgarttosca_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Tosca&#8221;</h1>
+2013_04_opera-di-toulonaida_
+<h1 class="entry-title" itemprop="name">Opra di Toulon:&#8221;Aida&#8221;</h1>
+2014_08_arena-sferisterio-di-macerata-la-traviata_
+<h1 class="entry-title" itemprop="name">Arena Sferisterio di Macerata: &#8220;La Traviata&#8221;</h1>
+2011_02_parma-teatro-regiola-forza-del-destino_
+<h1 class="entry-title" itemprop="name">Parma, Teatro Regio:&#8221;La forza del destino&#8221;</h1>
+2016_05_il-barbiere-di-siviglia-al-teatro-comunale-di-bologna_
+<h1 class="entry-title" itemprop="name">&#8220;Il barbiere di Siviglia&#8221; al Teatro Comunale di Bologna</h1>
+2016_01_stiffelio-al-teatro-la-fenice-di-venezia_
+<h1 class="entry-title" itemprop="name">&#8220;Stiffelio&#8221; al Teatro la Fenice di Venezia</h1>
+2011_03_venezia-teatro-la-fenicela-boheme_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice:&#8221;La Bohme&#8221;</h1>
+2009_09_zelmira-al-rof_
+<h1 class="entry-title" itemprop="name">&#8220;Zelmira&#8221; al Rossini Opera festival 2009</h1>
+2011_07_macerata-opera-festivalrigoletto_
+<h1 class="entry-title" itemprop="name">Macerata Opera Festival:&#8221;Rigoletto&#8221;</h1>
+2013_07_otello-con-finalino-edificante-nel-cortile-di-palazzo-ducale_
+<h1 class="entry-title" itemprop="name">&#8220;Otello&#8221; con finalino edificante nel Cortile di Palazzo Ducale</h1>
+2012_05_le-nozze-di-figaro-a-catania_
+<h1 class="entry-title" itemprop="name">&#8220;Le nozze di Figaro&#8221; a Catania</h1>
+2013_12_cagliari-teatro-liricopagliacci_
+<h1 class="entry-title" itemprop="name">Cagliari, Teatro Lirico:&#8221;Pagliacci&#8221;</h1>
+2007_08_la-gazza-ladra-torna-al-rof_
+<h1 class="entry-title" itemprop="name">Pesaro, Rossini Opera Festival 2007: &#8220;La gazza ladra&#8221;</h1>
+2016_04_bruxelles-theatre-la-monnaie-beatrice-et-benedict_
+<h1 class="entry-title" itemprop="name">Bruxelles, Thtre La Monnaie: &#8220;Batrice et Bndict&#8221;</h1>
+2012_10_citta-del-messicocarmen_
+<h1 class="entry-title" itemprop="name">Citt del Messico:&#8221;Carmen&#8221;</h1>
+2013_09_la-sonnambula-al-petruzzelli-di-bari_
+<h1 class="entry-title" itemprop="name">&#8220;La Sonnambula&#8221; al Petruzzelli di Bari</h1>
+2010_03_maderna-e-purcell-alla-fenice_
+<h1 class="entry-title" itemprop="name">Maderna e Purcell alla Fenice</h1>
+2011_09_venezia-teatro-la-fenice-il-ritorno-di-don-giovanni_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: Il ritorno di &#8220;Don Giovanni&#8221;</h1>
+2009_12_anteprima-di-carmen-dalla-scala-di-milano_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Carmen&#8221;</h1>
+2015_10_il-trionfo-dellonore-ovvero-il-dissoluto-pentito-al-teatro-verdi-di-pisa_
+<h1 class="entry-title" itemprop="name">&#8220;Il trionfo dell&#8217;onore, ovvero il dissoluto pentito&#8221; al Teatro Verdi di Pisa</h1>
+2008_08_carmenbella-senzanima_
+<h1 class="entry-title" itemprop="name">Verona, 86 Festival Areniano:&#8221;Carmen&#8221;</h1>
+2015_04_penthesilea-al-theatre-la-monnaie_
+<h1 class="entry-title" itemprop="name">&#8220;Penthesilea&#8221; al Thtre La Monnaie</h1>
+2015_07_modena-cortile-di-palazzo-ducale-il-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Modena, Cortile di Palazzo Ducale: &#8220;Il barbiere di Siviglia&#8221;</h1>
+2010_09_suor-angelica-e-gianni-schicchi-dal-teatro-segura-di-lima_
+<h1 class="entry-title" itemprop="name">&#8220;Suor Angelica&#8221; e &#8220;Gianni Schicchi&#8221; dal Teatro Segura di Lima</h1>
+2014_07_teatro-regio-di-torinola-vedova-allegra-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Teatro Regio di Torino:&#8221;La vedova allegra&#8221; (cast alternativo)</h1>
+2014_06_the-rakes-progress-al-regio-di-torino_
+<h1 class="entry-title" itemprop="name">&#8220;The Rake&#8217;s Progress&#8221; al Regio di Torino</h1>
+2013_07_attila-al-verdi-di-trieste_
+<h1 class="entry-title" itemprop="name">&#8220;Attila&#8221; al Verdi di Trieste</h1>
+2013_11_verona-teatro-filarmonico-i-capuleti-e-i-montecchi_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;I Capuleti e i Montecchi&#8221;</h1>
+2013_07_cavalleria-rusticana-alle-terme-di-caracalla_
+<h1 class="entry-title" itemprop="name">Cavalleria Rusticana alle Terme di Caracalla</h1>
+2013_07_firenze-palazzo-pittiorfeo-allinferno_
+<h1 class="entry-title" itemprop="name">Firenze, Palazzo Pitti:&#8221;Orfeo all&#8217;inferno&#8221;</h1>
+2011_11_bergamo-teatro-donizetti-la-cecchina-ossia-la-buona-figliuola_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;La Cecchina, ossia la buona figliuola&#8221;</h1>
+2009_10_il-bolshoi-alla-scala_
+<h1 class="entry-title" itemprop="name">Il Bolshoi alla Scala</h1>
+2013_09_bergamo-teatro-donizetti-maria-de-rudenz_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;Maria de Rudenz&#8221;</h1>
+2011_03_bilbaomacbeth_
+<h1 class="entry-title" itemprop="name">Bilbao:&#8221;Macbeth&#8221;</h1>
+2011_05_santa-barbara-californiala-serva-padrona-trouble-in-tahiti_
+<h1 class="entry-title" itemprop="name">Santa Barbara, California:&#8221;La serva Padrona&#8221;, &#8220;Trouble in Tahiti</h1>
+2010_11_jesi-teatro-pergolesi-madama-butterfly_
+<h1 class="entry-title" itemprop="name">Jesi, Teatro &#8220;Pergolesi&#8221;: &#8220;Madama Butterfly&#8221;</h1>
+2012_01_firenze-teatro-comunaleil-viaggio-a-reims_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Comunale:&#8221;Il viaggio a Reims&#8221;</h1>
+2016_01_torino-teatro-regio-prihody-lisky-bystrousky-la-piccola-volpe-astuta_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Phody liky Bystrouky&#8221; (La piccola volpe astuta)</h1>
+2010_12_opera-di-oviedolelisir-damore_
+<h1 class="entry-title" itemprop="name">Opera di Oviedo:&#8221;L&#8217;elisir d&#8217;amore&#8221;</h1>
+2015_09_opera-di-firenze-lucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Opera di Firenze: &#8220;Lucia di Lammermoor&#8221;</h1>
+2015_03_torino-teatro-regio-il-turco-in-italia-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Il turco in Italia&#8221; (cast alternativo)</h1>
+2016_01_modena-teatro-comunale-lamico-fritz_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale: &#8220;L&#8217;amico Fritz&#8221;</h1>
+2014_02_piacenza-teatro-municipale-la-vedova-allegra_
+<h1 class="entry-title" itemprop="name">Piacenza, Teatro Municipale: &#8220;La vedova allegra&#8221;</h1>
+2013_02_ancona-teatro-delle-muse-madama-butterfly_
+<h1 class="entry-title" itemprop="name">Ancona, Teatro delle Muse:&#8221; Madama Butterfly &#8220;</h1>
+2013_12_chieti-celebra-il-bicentenario-dellitaliana-in-algeri_
+<h1 class="entry-title" itemprop="name">Chieti celebra il bicentenario dell\'&#8221;Italiana in Algeri&#8221;</h1>
+2013_06_bari-teatro-petruzzelli-rigoletto_
+<h1 class="entry-title" itemprop="name">Bari, Teatro Petruzzelli: &#8220;Rigoletto&#8221;</h1>
+2013_01_opera-di-marsiglialitaliana-in-algeri_
+<h1 class="entry-title" itemprop="name">Opra di Marsiglia:&#8221;L&#8217;Italiana in Algeri&#8221;</h1>
+2014_06_teatro-carlo-felice-di-genovail-barbiere-di-siviglia-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Teatro Carlo Felice di Genova:&#8221;Il Barbiere di Siviglia&#8221; (cast alternativo)</h1>
+2013_06_dido-and-aeneas-alle-terme-di-carcalla_
+<h1 class="entry-title" itemprop="name">&#8220;Dido and Aeneas&#8221; alle Terme di Carcalla</h1>
+2015_10_falstaff-al-teatro-alla-scala-di-milano_
+<h1 class="entry-title" itemprop="name">&#8220;Falstaff&#8221; al Teatro alla Scala di Milano</h1>
+2013_03_un-olandese-tra-gli-impiegatucci_
+<h1 class="entry-title" itemprop="name">Un Olandese tra gli impiegatucci</h1>
+2013_03_la-traviata-al-met_
+<h1 class="entry-title" itemprop="name">La Traviata al Met</h1>
+2015_10_bruxelles-theatre-la-monnaie-powder-her-face_
+<h1 class="entry-title" itemprop="name">Bruxelles, Thtre La Monnaie: &#8220;Powder her face&#8221;</h1>
+2007_08_otello-al-rossini-opera-festival_
+<h1 class="entry-title" itemprop="name">&#8220;Otello&#8221; al Rossini Opera Festival</h1>
+2013_07_regio-di-torinolitaliana-in-algeri_
+<h1 class="entry-title" itemprop="name">Regio di Torino:&#8221;L&#8217;Italiana in Algeri&#8221;</h1>
+2013_11_verona-teatro-filarmonico-i-capuleti-e-i-montecchi-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;I Capuleti e i Montecchi&#8221; (cast alternativo)</h1>
+2013_05_salerno-teatro-verdirigoletto_
+<h1 class="entry-title" itemprop="name">Salerno, Teatro Verdi:&#8221;Rigoletto&#8221;</h1>
+2015_10_novara-teatro-coccia-il-viaggio-a-reims_
+<h1 class="entry-title" itemprop="name">Novara, Teatro Coccia:  &#8220;Il viaggio a Reims&#8221;</h1>
+2014_12_il-trovatore-al-teatro-san-carlo-di-napoli_
+<h1 class="entry-title" itemprop="name">&#8220;Il Trovatore&#8221; al Teatro San Carlo di Napoli</h1>
+2013_07_staatsoper-stuttgartla-cenerentola_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;La Cenerentola&#8221;</h1>
+2011_09_la-salustia-e-larcheologia-dopera_
+<h1 class="entry-title" itemprop="name">&#8220;La Salustia&#8221; e l&#8217;archeologia d&#8217;opera</h1>
+2016_05_napoli-teatro-di-san-carlo-fedora_
+<h1 class="entry-title" itemprop="name">Napoli, Teatro di San Carlo: &#8220;Fedora&#8221;</h1>
+2011_04_madrid-teatro-realwerther_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real:&#8221;Werther&#8221;</h1>
+2013_05_palermo-teatro-massimo-rigoletto_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo: &#8220;Rigoletto&#8221;</h1>
+2016_03_piacenza-teatro-municipale-lucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Piacenza, Teatro Municipale: &#8220;Lucia di Lammermoor&#8221;</h1>
+2012_11_ricordando-svoboda-lucia-di-lammermoor-al-pergolesi-di-jesi_
+<h1 class="entry-title" itemprop="name">Ricordando Svoboda:  &#8220;Lucia di Lammermoor&#8221; al Pergolesi di Jesi</h1>
+2010_02_il-barbiere-di-siviglia-al-carnevale-di-venezia_
+<h1 class="entry-title" itemprop="name">&#8220;Il Barbiere di Siviglia&#8221; al Carnevale di Venezia</h1>
+2010_05_don-giovanni-al-teatro-la-fenice_
+<h1 class="entry-title" itemprop="name">&#8220;Don Giovanni&#8221; al Teatro La Fenice</h1>
+2009_12_la-carmen-scaligera_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Carmen&#8221;</h1>
+2011_10_manrico-gli-amici-e-la-claustrofobia_
+<h1 class="entry-title" itemprop="name">Manrico, gli amici e la claustrofobia</h1>
+2012_10_torino-teatro-regio-der-fliegende-hollander_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Der fliegende Hollnder&#8221;</h1>
+2012_10_lheure-espagnole-e-lenfant-et-les-sortileges-al-teatro-massimo-di-palermo_
+<h1 class="entry-title" itemprop="name">&#8220;Lheure espagnole&#8221; e &#8220;LEnfant et les Sortilges&#8221; al Teatro Massimo di Palermo</h1>
+2015_12_siegfried-al-teatro-massimo-di-palermo_
+<h1 class="entry-title" itemprop="name">&#8220;Siegfried&#8221; al Teatro Massimo di Palermo</h1>
+2012_08_festival-di-aix-en-provencelenfant-et-les-sortileges_
+<h1 class="entry-title" itemprop="name">Festival di Aix-en-Provence:&#8221;L&#8217;enfant et les sortilges&#8221;</h1>
+2009_04_i-due-foscari_
+<h1 class="entry-title" itemprop="name">&#8220;I Due Foscari&#8221; al Teatro alla Scala</h1>
+2011_12_staatsoper-stuttgartnorma_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Norma&#8221;</h1>
+2016_07_venezia-teatro-la-fenice-mirandolina-di-bohuslav-martinu_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La fenice: &#8220;Mirandolina&#8221; di Bohuslav Martin</h1>
+2011_03_bologna-teatro-comunaledon-giovanni_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale:&#8221;Don Giovanni&#8221;</h1>
+2013_02_il-nostro-e-amore-danime-andrea-chenier-al-teatro-regio-di-torino_
+<h1 class="entry-title" itemprop="name">Il nostro  amore danime! Andrea Chnier al Teatro Regio di Torino</h1>
+2013_06_nabucco-allarena-di-verona_
+<h1 class="entry-title" itemprop="name">&#8220;Nabucco&#8221; all&#8217;Arena di Verona</h1>
+2014_11_giulio-cesare-di-handel-per-la-prima-volta-a-torino_
+<h1 class="entry-title" itemprop="name">Giulio Cesare di Hndel per la prima volta a Torino</h1>
+2014_08_arena-sferisterio-di-macerata-aida_
+<h1 class="entry-title" itemprop="name">Arena Sferisterio di Macerata: &#8220;Aida&#8221;</h1>
+2013_11_cremona-teatro-ponchielli-der-fliegende-hollander_
+<h1 class="entry-title" itemprop="name">Cremona, Teatro Ponchielli: &#8220;Der fliegende Hollnder&#8221;</h1>
+2013_06_roma-teatro-dellopera-don-pasquale_
+<h1 class="entry-title" itemprop="name">Roma, Teatro dellOpera: &#8220;Don Pasquale&#8221;</h1>
+2011_05_firenze-teatro-comunaleaida_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Comunale:&#8221;Aida&#8221;</h1>
+2011_05_metropolitan-operaorfeo-ed-euridice-il-trovatore-rigoletto_
+<h1 class="entry-title" itemprop="name">Metropolitan Opera:&#8221;Orfeo ed Euridice&#8221;, &#8220;Il Trovatore&#8221;, &#8220;Rigoletto&#8221;</h1>
+2013_07_marsiglia-opera-municipal-les-troyens_
+<h1 class="entry-title" itemprop="name">Marsiglia, Opra Municipal: &#8220;Les Troyens&#8221;</h1>
+2014_03_teatro-alla-scalail-trovatore_
+<h1 class="entry-title" itemprop="name">Teatro alla Scala:&#8221;Il Trovatore&#8221;</h1>
+2008_10_le-passioni-di-giovanna_
+<h1 class="entry-title" itemprop="name">Festival Verdi 2008: &#8220;Giovanna dArco&#8221;</h1>
+2012_05_theater-an-der-wienles-contes-dhoffmann_
+<h1 class="entry-title" itemprop="name">Theater an der Wien: &#8220;Les contes d&#8217;Hoffmann&#8221;</h1>
+2013_03_madrid-teatro-real-cosi-fan-tutte_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real: &#8220;Cos fan tutte&#8221;</h1>
+2015_02_verona-teatro-filarmonico-la-traviata-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;La Traviata&#8221; (cast alternativo)</h1>
+2012_01_triestechristmas-starts_
+<h1 class="entry-title" itemprop="name">Trieste:&#8221;Christmas StarTS&#8221;</h1>
+2015_10_opera-di-firenze-cosi-fan-tutte_
+<h1 class="entry-title" itemprop="name">Opera di Firenze: &#8220;Cos fan tutte&#8221;</h1>
+2011_03_palermo-teatro-massimola-gioconda_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo:&#8221;La Gioconda&#8221;</h1>
+2011_09_theater-an-der-wienthe-turn-of-the-screw_
+<h1 class="entry-title" itemprop="name">Theater an der Wien:&#8221;The turn of the screw&#8221;</h1>
+2016_03_gotterdammerung-al-gran-teatre-del-liceu-di-barcelona_
+<h1 class="entry-title" itemprop="name">Gtterdmmerung al Gran Teatre del Liceu di Barcelona</h1>
+2016_03_milano-teatro-alla-scala-i-due-foscari_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;I due Foscari&#8221;</h1>
+2013_02_falstaff-diverte-la-scala-seconda-compagnia-di-canto_
+<h1 class="entry-title" itemprop="name">&#8220;Falstaff&#8221; diverte La Scala (cast alternativo)</h1>
+2012_09_venezia-teatro-la-fenicela-traviata_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice:&#8221;La Traviata&#8221;</h1>
+2012_10_toulouse-theatre-du-capitolerienzi_
+<h1 class="entry-title" itemprop="name">Toulouse, Thtre du Capitole:&#8221;Rienzi&#8221;</h1>
+2012_10_il-bianco-saddice-alloccasione_
+<h1 class="entry-title" itemprop="name">Il bianco s&#8217;addice all\'&#8221;Occasione&#8221;</h1>
+2010_01_cin-ci-la-al-teatro-filarmonico-di-verona_
+<h1 class="entry-title" itemprop="name">&#8220;Cin-Ci-l&#8221; al Teatro Filarmonico di Verona</h1>
+2011_03_roma-teatro-delloperanabucco-secondo-cast_
+<h1 class="entry-title" itemprop="name">Roma, Teatro dell&#8217;Opera:&#8221;Nabucodonosor&#8221; (cast alternativo)</h1>
+2013_06_vicenza-teatro-olimpicole-nozze-di-figaro_
+<h1 class="entry-title" itemprop="name">Vicenza, Teatro Olimpico:&#8221;Le nozze di Figaro&#8221;</h1>
+2015_03_bruxelles-theatre-la-monnaie-jakob-lenz_
+<h1 class="entry-title" itemprop="name">Bruxelles, Thtre La Monnaie: &#8220;Jakob Lenz&#8221;</h1>
+2015_03_roma-accademia-nazionale-di-santa-cecilia-aida_
+<h1 class="entry-title" itemprop="name">Roma, Accademia Nazionale di Santa Cecilia: &#8220;Aida&#8221;</h1>
+2015_10_operalombardia-teatro-donizetti-di-bergamo-don-pasquale_
+<h1 class="entry-title" itemprop="name">OperaLombardia, Teatro Donizetti di Bergamo: &#8220;Don Pasquale&#8221;</h1>
+2015_09_milano-teatro-alla-scala-lelisir-damore_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;L&#8217;elisir d&#8217;amore&#8221;</h1>
+2012_03_la-traviata-al-teatro-della-fortuna_
+<h1 class="entry-title" itemprop="name">&#8220;La Traviata&#8221; al Teatro della Fortuna</h1>
+2012_01_praga-teatro-nazionalerinaldo_
+<h1 class="entry-title" itemprop="name">Praga, Teatro Nazionale: &#8220;Rinaldo&#8221;</h1>
+2015_08_orizzonti-festival-di-chiusi-la-voix-humaine_
+<h1 class="entry-title" itemprop="name">Orizzonti Festival di Chiusi: &#8220;La voix humaine&#8221;</h1>
+2015_02_palermo-teatro-massimo-orphee-et-eurydice_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo: &#8220;Orphe et Eurydice&#8221;</h1>
+2013_05_genova-teatro-carlo-felice-la-traviata_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;La Traviata&#8221;</h1>
+2012_03_modena-teatro-comunalela-traviata_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale:&#8221;La Traviata&#8221;</h1>
+2011_03_triestecera-una-volta-scugnizzi_
+<h1 class="entry-title" itemprop="name">Trieste:&#8221;C&#8217;era una volta&#8230;Scugnizzi&#8221;</h1>
+2012_03_torino-teatro-regiola-boheme_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;La Bohme&#8221;</h1>
+2012_12_genova-teatro-carlo-felice-turandot_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Turandot&#8221;</h1>
+2016_01_el-amor-brujo-e-goyescas-allopera-di-firenze_
+<h1 class="entry-title" itemprop="name">&#8220;El amor brujo&#8221; e &#8220;Goyescas&#8221; all&#8217;Opera di Firenze</h1>
+2014_06_teatro-olimpico-di-vicenzacosi-fan-tutte_
+<h1 class="entry-title" itemprop="name">Teatro Olimpico di Vicenza:&#8221;Cos fan tutte&#8221;</h1>
+2013_10_rovigo-teatro-socialetosca_
+<h1 class="entry-title" itemprop="name">Rovigo, Teatro Sociale:&#8221;Tosca&#8221;</h1>
+2010_11_oklahoma_
+<h1 class="entry-title" itemprop="name">&#8220;Oklahoma!&#8221;</h1>
+2013_10_jesi-teatro-pergolesi-larlesiana_
+<h1 class="entry-title" itemprop="name">Jesi, Teatro Pergolesi: &#8220;L&#8217;Arlesiana&#8221;</h1>
+2015_03_fedora-al-teatro-carlo-felice-di-genova_
+<h1 class="entry-title" itemprop="name">&#8220;Fedora&#8221; al Teatro Carlo Felice di Genova</h1>
+2012_04_toulon-operail-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Toulon, Opra:&#8221;Il Barbiere di Siviglia&#8221;</h1>
+2014_03_le-nozze-di-figaro-al-teatro-carlo-felice-di-genova_
+<h1 class="entry-title" itemprop="name">&#8220;Le nozze di Figaro&#8221; al Teatro Carlo Felice di Genova</h1>
+2015_10_teatro-delle-muse-di-ancona-falstaff_
+<h1 class="entry-title" itemprop="name">Teatro delle Muse di Ancona: &#8220;Falstaff&#8221;</h1>
+2012_05_francais-made-in-italy_
+<h1 class="entry-title" itemprop="name">Franais made in Italy</h1>
+2015_11_lucca-teatro-del-giglio-madama-butterfly_
+<h1 class="entry-title" itemprop="name">Lucca, Teatro del Giglio: &#8220;Madama Butterfly&#8221;</h1>
+2013_02_staatsoper-stuttgartnabucco_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Nabucco&#8221;</h1>
+2015_02_venezia-teatro-la-fenice-don-pasquale_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;Don Pasquale&#8221;</h1>
+2011_12_opera-de-toulonla-boheme_
+<h1 class="entry-title" itemprop="name">Opra de Toulon:&#8221;La Bohme&#8221;</h1>
+2012_03_madrid-teatro-de-la-zarzuela-el-gato-montes_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro de La Zarzuela: &#8220;El gato monts&#8221;</h1>
+2015_07_staatsoper-stuttgart-rigoletto_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart: &#8220;Rigoletto&#8221;</h1>
+2013_09_lucrezia-borgia-al-verdi-di-padova_
+<h1 class="entry-title" itemprop="name">&#8220;Lucrezia Borgia&#8221; al Verdi di Padova</h1>
+2011_12_madrid-teatro-real-lady-macbeth-del-distretto-di-mzesnk_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real: &#8220;Lady Macbeth del distretto di Mzesnk&#8221;</h1>
+2014_03_torino-teatro-regio-eine-florentinische-tragodiegianni-schicchi_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Eine florentinische tragdie/Gianni Schicchi&#8221;</h1>
+2012_04_the-life-and-death-of-marina-abramovic_
+<h1 class="entry-title" itemprop="name">&#8220;The Life and Death of Marina Abramovic&#8221;</h1>
+2013_02_opera-di-romail-naso_
+<h1 class="entry-title" itemprop="name">Opera di Roma:&#8221;Il Naso&#8221;</h1>
+2013_09_il-ritorno-del-barbiere-di-siviglia-al-teatro-massimo-di-palermo_
+<h1 class="entry-title" itemprop="name">Il ritorno del &#8220;Barbiere di Siviglia&#8221; al Teatro Massimo di Palermo</h1>
+2012_10_como-teatro-sociale-i-capuleti-e-i-montecchi_
+<h1 class="entry-title" itemprop="name">Como, Teatro Sociale: &#8220;I Capuleti e i Montecchi&#8221;</h1>
+2013_05_bari-teatro-petruzzellicosi-fan-tutte_
+<h1 class="entry-title" itemprop="name">Bari, Teatro Petruzzelli:&#8221;Cos fan tutte&#8221;</h1>
+2015_10_venezia-teatro-malibran-il-diario-di-uno-scomparso-e-la-voix-humaine_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro Malibran: &#8220;Il diario di uno scomparso&#8221; e &#8220;La voix humaine&#8221;</h1>
+2015_10_otello-al-teatro-regio-di-parma_
+<h1 class="entry-title" itemprop="name">&#8220;Otello&#8221; al Teatro Regio di Parma</h1>
+2010_09_poliuto-dal-teatro-donizetti-di-bergamo_
+<h1 class="entry-title" itemprop="name">&#8220;Poliuto&#8221; dal Teatro Donizetti di Bergamo</h1>
+2014_12_rusalka-al-teatro-dellopera-di-roma_
+<h1 class="entry-title" itemprop="name">&#8220;Rusalka&#8221; al Teatro dell&#8217;Opera di Roma</h1>
+2012_02_jerez-teatro-villamarta-rigoletto_
+<h1 class="entry-title" itemprop="name">Jerez, Teatro Villamarta: &#8220;Rigoletto&#8221;</h1>
+2008_10_un-boris-tra-rigore-e-simbolismi_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;Boris Godunov&#8221;</h1>
+2012_05_la-boheme-in-cornice_
+<h1 class="entry-title" itemprop="name">&#8220;La Bohme&#8221; in cornice</h1>
+2013_07_torre-del-lago-festival-puccinianoturandot_
+<h1 class="entry-title" itemprop="name">Festival Pucciniano:&#8221;Turandot&#8221;</h1>
+2012_07_festival-daix-en-provencewritten-on-skin_
+<h1 class="entry-title" itemprop="name">Festival d&#8217;Aix-en-Provence:&#8221;Written on Skin&#8221;</h1>
+2012_10_sassari-teatro-comunale-romeo-et-juliette_
+<h1 class="entry-title" itemprop="name">Sassari, Teatro Comunale: &#8220;Romo et Juliette&#8221;</h1>
+2014_12_les-contes-dhoffmann-al-teatro-coccia-di-novara_
+<h1 class="entry-title" itemprop="name">Les Contes dHoffmann al Teatro Coccia di Novara</h1>
+2009_02_i-puritani-per-juan-diego_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;I Puritani&#8221;</h1>
+2016_01_la-vedova-allegra-al-san-carlo-di-napoli_
+<h1 class="entry-title" itemprop="name">&#8220;La Vedova allegra&#8221; al San Carlo di Napoli</h1>
+2011_10_a-jesi-la-napoli-di-pergolesi-ne-lo-frate-nnamorato_
+<h1 class="entry-title" itemprop="name">A Jesi la Napoli di Pergolesi ne &#8220;Lo frate nnamorato&#8221;</h1>
+2015_04_opera-di-firenze-la-traviata-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Opera di Firenze: &#8220;La traviata&#8221; (cast alternativo)</h1>
+2012_05_festival-di-glyndebournela-volpe-astuta_
+<h1 class="entry-title" itemprop="name">Festival di Glyndebourne:&#8221;La volpe astuta&#8221;</h1>
+2012_04_madrid-teatro-reali-due-figaro_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real:&#8221;I due Figaro&#8221;</h1>
+2015_02_bruxelles-theatre-la-monnaie-tamerlano_
+<h1 class="entry-title" itemprop="name">Bruxelles, Thtre La Monnaie: &#8220;Tamerlano&#8221;</h1>
+2010_10_una-servante-sempre-piu-maitresse_
+<h1 class="entry-title" itemprop="name">Una  &#8220;servante&#8221; sempre pi  &#8220;matresse&#8221;</h1>
+2013_02_teatro-massimo-di-palermodie-walkure_
+<h1 class="entry-title" itemprop="name">Teatro Massimo di Palermo: &#8220;Die Walkre&#8221;</h1>
+2014_10_venezia-teatro-la-fenice-don-giovanni_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;Don Giovanni&#8221;</h1>
+2013_03_francesca-da-rimini-torna-al-met_
+<h1 class="entry-title" itemprop="name">&#8220;Francesca da Rimini&#8221; torna al Met</h1>
+2014_03_siegfried-alla-staatsoper-stuttgart_
+<h1 class="entry-title" itemprop="name">&#8220;Siegfried&#8221; alla Staatsoper Stuttgart</h1>
+2015_02_milano-teatro-alla-scala-lincoronazione-di-poppea_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;L&#8217;incoronazione di Poppea&#8221;</h1>
+2012_08_napoli-teatro-san-carlocavalleria-rusticana_
+<h1 class="entry-title" itemprop="name">Napoli, Teatro San Carlo:&#8221;Cavalleria rusticana&#8221;</h1>
+2012_10_splendida-lettura-registica-e-vocale-di-puritani-al-teatro-pergolesi-di-jesi_
+<h1 class="entry-title" itemprop="name">Splendida lettura registica e vocale di &#8220;Puritani&#8221; al Teatro Pergolesi di Jesi</h1>
+2016_02_staatsoper-stuttgart-the-fairy-queen_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart: &#8220;The Fairy Queen&#8221;</h1>
+2011_04_metropolitan-operadas-rheingold_
+<h1 class="entry-title" itemprop="name">Metropolitan Opera:&#8221;Das Rheingold&#8221;</h1>
+2013_05_trieste-teatro-verditosca_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi:&#8221;Tosca&#8221;</h1>
+2012_06_deutsche-oper-berlinil-trovatore_
+<h1 class="entry-title" itemprop="name">Deutsche Oper Berlin:&#8221;Il Trovatore&#8221;</h1>
+2013_08_nume-custode-e-vindice-di-questa-sacra-arena-ancora-aida-a-verona_
+<h1 class="entry-title" itemprop="name">Nume custode e vindice / di questa sacra Arena: ancora Aida a Verona</h1>
+2012_11_sassari-teatro-comunale-il-signor-bruschino_
+<h1 class="entry-title" itemprop="name">Sassari, Teatro Comunale: &#8220;Il signor Bruschino&#8221;</h1>
+2013_04_staatsoper-stuttgartparsifal_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Parsifal&#8221;</h1>
+2008_08_la-sontuosa-tosca-di-hugo-de-hana_
+<h1 class="entry-title" itemprop="name">Verona, 86 Festival Areniano:&#8221;Tosca&#8221;</h1>
+2016_03_firenze-teatro-goldoni-hansel-e-gretel_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Goldoni: &#8220;Hnsel e Gretel&#8221;</h1>
+2011_11_verona-teatro-filarmonicorigoletto_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico:&#8221;Rigoletto&#8221;</h1>
+2009_02_i-lombardi-aprono-la-stagione-invernale-al-regio-di-parma_
+<h1 class="entry-title" itemprop="name">Parma, Teatro Regio: &#8220;I Lombardi alla prima crociata&#8221;</h1>
+2010_11_limala-leyenda-del-beso_
+<h1 class="entry-title" itemprop="name">Lima,&#8221;La Leyenda del Beso&#8221;</h1>
+2014_07_sessantesimo-festival-puccini-torre-del-lagola-boheme_
+<h1 class="entry-title" itemprop="name">Sessantesimo Festival Puccini, Torre del Lago:&#8221;La Bohme&#8221;</h1>
+2012_11_brescia-teatro-grande-litaliana-in-algeri_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;L&#8217;italiana in Algeri&#8221;</h1>
+2013_11_stiffelio-al-bellini-di-catania_
+<h1 class="entry-title" itemprop="name">&#8220;Stiffelio&#8221; al Bellini di Catania</h1>
+2015_03_teatro-comunale-di-modena-lelisir-damore_
+<h1 class="entry-title" itemprop="name">Teatro Comunale di Modena: &#8220;L&#8217;elisir d&#8217;amore&#8221;</h1>
+2013_10_como-teatro-socialela-finta-semplice_
+<h1 class="entry-title" itemprop="name">Como, Teatro Sociale:&#8221;La finta semplice&#8221;</h1>
+2015_01_bruxelles-theatre-la-monnaie-fierrabras_
+<h1 class="entry-title" itemprop="name">Bruxelles, Thtre La Monnaie: &#8220;Fierrabras&#8221;</h1>
+2013_04_madrid-teatro-real-don-giovanni_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real: &#8220;Don Giovanni&#8221;</h1>
+2011_02_roberto-de-simone-interpreta-pergolesi-al-teatro-san-carlo_
+<h1 class="entry-title" itemprop="name">Roberto De Simone interpreta Pergolesi al Teatro San Carlo</h1>
+2012_12_l-ecume-des-jours-di-edison-denisov-alla-staatsoper-stuttgart_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217; ecume des Jours&#8221; di Edison Denisov alla Staatsoper Stuttgart</h1>
+2011_07_festival-della-valle-ditriail-novello-giasone_
+<h1 class="entry-title" itemprop="name">Festival della Valle d&#8217;Itria:&#8221;Il novello Giasone&#8221;</h1>
+2009_03_romeo-et-juliette-di-gounod_
+<h1 class="entry-title" itemprop="name">&#8220;Romo et Juliette&#8221; di Gounod</h1>
+2013_12_i-puritani-di-bellini-allopera-bastille_
+<h1 class="entry-title" itemprop="name">&#8220;I Puritani di Bellini allOpra Bastille</h1>
+2013_12_catanialucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Catania:&#8221;Lucia di Lammermoor&#8221;</h1>
+2011_06_milano-teatro-alla-scala-romeo-et-juliette_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Romo et Juliette&#8221;</h1>
+2012_02_opera-de-marseillela-chartreuse-de-parme_
+<h1 class="entry-title" itemprop="name">Opra de Marseille:&#8221;La Chartreuse de Parme&#8221;</h1>
+2015_11_la-traviata-al-teatro-goldoni-di-livorno_
+<h1 class="entry-title" itemprop="name">&#8220;La traviata&#8221; al Teatro Goldoni di Livorno</h1>
+2011_12_genova-teatro-carlo-feliceil-campanello-e-gianni-schicchi_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice:&#8221;Il campanello&#8221; e &#8220;Gianni Schicchi&#8221;</h1>
+2014_11_nabucco-al-teatro-ponchielli-di-cremona_
+<h1 class="entry-title" itemprop="name">&#8220;Nabucco&#8221; al Teatro Ponchielli di Cremona</h1>
+2012_03_trieste-teatro-verdirigoletto_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi:&#8221;Rigoletto&#8221;</h1>
+2011_11_milano-teatro-alla-scala-la-donna-del-lago_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;La donna del lago&#8221;</h1>
+2012_11_aidadove-sei-tu_
+<h1 class="entry-title" itemprop="name">&#8220;Aida&#8230;dove sei tu?&#8221;</h1>
+2011_05_staatsoper-stuttgartil-trionfo-del-tempo-e-del-disinganno_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Il Trionfo del Tempo e del Disinganno&#8221;</h1>
+2011_07_santiago-del-cile-teatro-municipalariadne-auf-naxos_
+<h1 class="entry-title" itemprop="name">Santiago del Cile, Teatro Municipal:&#8221;Ariadne auf Naxos&#8221;</h1>
+2016_02_verona-teatro-filarmonico-la-cenerentola_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;La Cenerentola&#8221;</h1>
+2011_04_modena-teatro-comunalegiulio-cesare_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale:&#8221;Giulio Cesare&#8221;</h1>
+2010_09_luisa-miller-inaugura-la-stagione-lirica-della-staatsoper-stuttgart_
+<h1 class="entry-title" itemprop="name">&#8220;Luisa Miller&#8221; inaugura la stagione lirica della Staatsoper Stuttgart</h1>
+2013_01_trieste-teatro-verdiil-corsaro_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi:&#8221;Il Corsaro&#8221;</h1>
+2010_10_teatro-verdi-di-padovacarmen_
+<h1 class="entry-title" itemprop="name">Teatro &#8220;Verdi&#8221; di Padova:&#8221;Carmen&#8221;</h1>
+2015_02_il-turco-in-italia-al-teatro-comunale-di-ferrara_
+<h1 class="entry-title" itemprop="name">&#8220;Il turco in Italia&#8221; al Teatro Comunale di Ferrara</h1>
+2016_03_don-giovanni-al-teatro-comunale-di-ferrara_
+<h1 class="entry-title" itemprop="name">&#8220;Don Giovanni&#8221; al Teatro Comunale di Ferrara</h1>
+2008_11_la-vedova-allegra-per-la-prima-volta-alla-scala_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;La vedova allegra&#8221;</h1>
+2013_10_grandezza-di-fabio-luisi-in-don-carlo_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: Don Carlo</h1>
+2016_05_busseto-teatro-verdi-rigoletto_
+<h1 class="entry-title" itemprop="name">Busseto, Teatro Verdi: &#8220;Rigoletto&#8221;</h1>
+2012_03_theater-an-der-wieniolanta-e-francesca-da-rimini_
+<h1 class="entry-title" itemprop="name">Theater an der Wien:&#8221;Iolanta&#8221; e &#8220;Francesca Da Rimini&#8221;</h1>
+2015_01_parigi-opera-bastille-don-giovanni_
+<h1 class="entry-title" itemprop="name">Parigi, Opra Bastille: Don Giovanni</h1>
+2010_03_da-una-casa-di-morti-al-teatro-alla-scala_
+<h1 class="entry-title" itemprop="name">&#8220;Da una casa di morti&#8221; al Teatro alla Scala</h1>
+2011_06_stoccarda-staatsoperla-juive_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;La Juive&#8221;</h1>
+2013_03_se-amor-si-gode-in-pace-non-ve-maggior-contento-il-matrimonio-segreto-a-torino_
+<h1 class="entry-title" itemprop="name">Se amor si gode in pace, non v maggior contento: Il matrimonio segreto a Torino</h1>
+2016_03_opera-di-firenze-litaliana-in-algeri_
+<h1 class="entry-title" itemprop="name">Opera di Firenze: &#8220;L&#8217;italiana in Algeri&#8221;</h1>
+2016_02_ferrara-teatro-comunale-litaliana-in-algeri_
+<h1 class="entry-title" itemprop="name">Ferrara, Teatro Comunale: &#8220;L&#8217;Italiana in Algeri&#8221;</h1>
+2013_07_luglio-musicale-trapanesenabucco_
+<h1 class="entry-title" itemprop="name">Luglio Musicale Trapanese:&#8221;Nabucco&#8221;</h1>
+2011_03_trieste-politeama-rossettiwe-will-rock-you_
+<h1 class="entry-title" itemprop="name">Trieste, Politeama Rossetti:&#8221;We Will Rock You&#8221;</h1>
+2016_05_salome-al-teatro-carlo-felice-di-genova_
+<h1 class="entry-title" itemprop="name">&#8220;Salome&#8221; al Teatro Carlo Felice di Genova</h1>
+2010_08_gustavo-dudamel-dirige-carmen-a-los-angeles_
+<h1 class="entry-title" itemprop="name">Gustavo Dudamel dirige &#8220;Carmen&#8221; a Los Angeles</h1>
+2010_10_brescia-teatro-grande-la-sonnambula_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;La Sonnambula&#8221;</h1>
+2011_09_bergamo-teatro-donizetti-gemma-di-vergy_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;Gemma di Vergy&#8221;</h1>
+2014_10_don-giovanni-al-teatro-fraschini-di-pavia_
+<h1 class="entry-title" itemprop="name">&#8220;Don Giovanni&#8221; al Teatro Fraschini di Pavia</h1>
+2012_01_genova-teatro-carlo-felicela-boheme_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice:&#8221;La Bohme&#8221;</h1>
+2010_03_idomeneo-al-teatro-comunale-di-bologna_
+<h1 class="entry-title" itemprop="name">&#8220;Idomeneo&#8221; al Teatro Comunale di Bologna</h1>
+2011_12_bilbao-palacio-euskalduna-romeo-et-juliette_
+<h1 class="entry-title" itemprop="name">Bilbao, Palacio Euskalduna: &#8220;Romo et Juliette&#8221;</h1>
+2013_01_salerno-teatro-verdiaida_
+<h1 class="entry-title" itemprop="name">Salerno, Teatro Verdi:&#8221;Aida&#8221;</h1>
+2011_10_buenos-aires-teatro-colon-lohengrin_
+<h1 class="entry-title" itemprop="name">Buenos Aires, Teatro Coln: &#8220;Lohengrin&#8221;</h1>
+2010_04_romeo-et-juliette-al-teatro-filarmonico-di-verona_
+<h1 class="entry-title" itemprop="name">&#8220;Romo et Juliette&#8221; al Teatro Filarmonico di Verona</h1>
+2015_11_serse-di-handel-a-madrid_
+<h1 class="entry-title" itemprop="name">Serse di Hndel a Madrid</h1>
+2016_07_milano-teatro-alla-scalasimon-boccanegra_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala:&#8221;Simon Boccanegra&#8221;</h1>
+2016_02_novara-teatro-coccia-la-boheme_
+<h1 class="entry-title" itemprop="name">Novara, Teatro Coccia: &#8220;La Bohme&#8221;</h1>
+2014_05_opera-di-firenze-opening-gala-otello-e-tosca_
+<h1 class="entry-title" itemprop="name">Opera di Firenze, Opening Gala: &#8220;Otello&#8221; e &#8220;Tosca&#8221;</h1>
+2015_04_torino-teatro-regio-i-puritani_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;I puritani&#8221;</h1>
+2013_11_opera-di-toulonla-finta-giardiniera_
+<h1 class="entry-title" itemprop="name">Opra di Toulon:&#8221;La finta giardiniera&#8221;</h1>
+2011_10_madrid-teatro-de-la-zarzuela-el-trust-de-los-tenorios-el-punao-de-rosas_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro de la Zarzuela: &#8220;El Trust de los tenorios&#8221;, &#8220;El Puao de rosas&#8221;</h1>
+2012_05_il-rinaldo-di-haendel-dantone-pizzi-a-ravenna_
+<h1 class="entry-title" itemprop="name">Il &#8220;Rinaldo&#8221; di Haendel-Dantone-Pizzi a Ravenna</h1>
+2009_03_lucia-di-lammermoor-al-regio-di-parma_
+<h1 class="entry-title" itemprop="name">&#8220;Lucia di Lammermoor&#8221; al Regio di Parma</h1>
+2015_10_padova-teatro-verdi-norma_
+<h1 class="entry-title" itemprop="name">Padova, Teatro Verdi: &#8220;Norma&#8221;</h1>
+2014_10_teatro-regio-di-torino-otello-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Teatro Regio di Torino: &#8220;Otello&#8221; (cast alternativo)</h1>
+2012_10_modena-teatro-comunale-don-carlo_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale: &#8220;Don Carlo&#8221;</h1>
+2012_05_torino-teatro-regiocosi-fan-tutte_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Cos fan tutte&#8221;</h1>
+2012_03_la-traviata-al-bellas-artes_
+<h1 class="entry-title" itemprop="name">&#8220;La Traviata&#8221; al Bellas Artes</h1>
+2013_01_madrid-teatro-realmacbeth_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real:&#8221;Macbeth&#8221;</h1>
+2011_01_ancona-teatro-delle-musecosi-fan-tutte_
+<h1 class="entry-title" itemprop="name">Ancona, Teatro delle Muse:&#8221;Cos fan tutte&#8221;</h1>
+2010_12_new-york-metropolitan-operadon-carlo_
+<h1 class="entry-title" itemprop="name">New York, Metropolitan Opera:&#8221;Don Carlo&#8221;</h1>
+2012_09_jesiteatro-pergolesila-fuga-in-maschera_
+<h1 class="entry-title" itemprop="name">Jesi,Teatro Pergolesi:&#8221;La fuga in maschera&#8221;</h1>
+2015_10_genova-teatro-carlo-felice-il-ragazzo-del-riscio_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Il ragazzo del risci&#8221;</h1>
+2010_04_simon-boccanegra-al-regio-di-parma_
+<h1 class="entry-title" itemprop="name">&#8220;Simon Boccanegra&#8221; al Regio di Parma</h1>
+2011_06_vicenza-teatro-olimpicodon-giovanni_
+<h1 class="entry-title" itemprop="name">Vicenza, Teatro Olimpico:&#8221;Don Giovanni&#8221;</h1>
+2011_02_onore-e-morte-nella-cavalleria-rusticana-e-nei-pagliacci-di-nuovo-insieme-al-teatro-massimo-bellini-di-catania_
+<h1 class="entry-title" itemprop="name">Onore e morte nella &#8220;Cavalleria rusticana&#8221; e nei &#8220;Pagliacci&#8221; di nuovo insieme al Teatro Massimo Bellini di Catania</h1>
+2010_11_new-york-metropolitan-operacarmen_
+<h1 class="entry-title" itemprop="name">New York, Metropolitan Opera:&#8221;Carmen&#8221;</h1>
+2015_11_sassari-teatro-comunale-don-giovanni_
+<h1 class="entry-title" itemprop="name">Sassari, Teatro Comunale: &#8220;Don Giovanni&#8221;</h1>
+2013_10_roma-accademia-nazionale-di-santa-ceciliapeter-grimes_
+<h1 class="entry-title" itemprop="name">Roma, Accademia Nazionale di Santa Cecilia:&#8221;Peter Grimes&#8221;</h1>
+2014_10_otello-al-teatro-regio-di-torino_
+<h1 class="entry-title" itemprop="name">&#8220;Otello&#8221; al Teatro Regio di Torino</h1>
+2015_04_opera-di-firenze-fidelio_
+<h1 class="entry-title" itemprop="name">Opera di Firenze: &#8220;Fidelio&#8221;</h1>
+2012_11_jesi-teatro-pergolesimacbeth_
+<h1 class="entry-title" itemprop="name">Jesi, Teatro Pergolesi:&#8221;Macbeth&#8221;</h1>
+2011_02_opera-di-romalelisir-damore_
+<h1 class="entry-title" itemprop="name">Opera di Roma:&#8221;L&#8217;Elisir d&#8217;amore&#8221;</h1>
+2014_12_cagliari-teatro-lirico-cerevicki_
+<h1 class="entry-title" itemprop="name">Cagliari, Teatro Lirico: &#8220;ereviki&#8221;</h1>
+2010_10_boston-opera-fidelio_
+<h1 class="entry-title" itemprop="name">Boston Opera: &#8220;Fidelio&#8221;</h1>
+2015_10_simon-boccanegra-al-teatro-verdi-di-pisa_
+<h1 class="entry-title" itemprop="name">&#8220;Simon Boccanegra&#8221; al Teatro Verdi di Pisa</h1>
+2015_11_opera-di-firenze-le-braci_
+<h1 class="entry-title" itemprop="name">Opera di Firenze: &#8220;Le braci&#8221;</h1>
+2012_11_di-ragion-la-trasse-amore-lucia-di-lammermoor-a-novara_
+<h1 class="entry-title" itemprop="name">Di ragion la trasse amore . &#8220;Lucia di Lammermoor&#8221; a Novara</h1>
+2013_06_la-traviata-allarena-di-verona_
+<h1 class="entry-title" itemprop="name">&#8220;La Traviata&#8221; all&#8217;Arena di Verona</h1>
+2011_06_santiago-del-cile-teatro-municipaltosca_
+<h1 class="entry-title" itemprop="name">Santiago del Cile, Teatro Municipal:&#8221;Tosca&#8221;</h1>
+2011_03_milano-teatro-alla-scala-death-in-venice-morte-a-venezia_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Death in Venice&#8221; (Morte a Venezia)</h1>
+2013_08_come-resistere-a-tanti-affetti-la-donna-del-lago-chiude-il-rof_
+<h1 class="entry-title" itemprop="name">Come resistere / a tanti affetti! La Donna del lago chiude il ROF</h1>
+2011_04_bilbaopalacio-euskaldunaevgenij-onegin_
+<h1 class="entry-title" itemprop="name">Bilbao,Palacio Euskalduna:&#8221;Evgenij Onegin&#8221;</h1>
+2012_09_madama-butterfly-al-teatro-massimo-di-palermo_
+<h1 class="entry-title" itemprop="name">&#8220;Madama Butterfly&#8221; al Teatro Massimo di Palermo</h1>
+2010_01_hindemith-e-ravel-aprono-la-stagione-lirica-del-teatro-delle-muse-di-ancona_
+<h1 class="entry-title" itemprop="name">Hindemith e Ravel aprono la stagione lirica del Teatro Delle Muse di Ancona</h1>
+2015_05_la-traviata-a-casciana-terme_
+<h1 class="entry-title" itemprop="name">&#8220;La traviata&#8221; a Casciana Terme</h1>
+2015_11_torino-teatro-regio-dido-and-aeneas_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Dido and Aeneas&#8221;</h1>
+2014_12_milano-teatro-alla-scala-fidelio_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Fidelio&#8221;</h1>
+2011_05_bilbaolucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Bilbao:&#8221;Lucia di Lammermoor&#8221;</h1>
+2012_06_lelisir-damore-al-teatro-massimo-di-palermo_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;elisir d&#8217;amore&#8221; al Teatro Massimo di Palermo</h1>
+2012_09_il-ritorno-di-ulissea-torino_
+<h1 class="entry-title" itemprop="name">Il ritorno di Ulisse&#8230;a Torino</h1>
+2009_11_la-figlia-del-reggimento-a-cremona_
+<h1 class="entry-title" itemprop="name">Cremona, Teatro Ponchielli: &#8220;La figlia del reggimento&#8221;</h1>
+2011_06_zurigo-opernhausanna-bolena_
+<h1 class="entry-title" itemprop="name">Zurigo, Opernhaus:&#8221;Anna Bolena&#8221;</h1>
+2013_06_grandioso-nabucco-a-pechino_
+<h1 class="entry-title" itemprop="name">Grandioso &#8220;Nabucco&#8221; a Pechino</h1>
+2010_09_boston-midsummer-operatrouble-in-tahiti-e-bon-appetit_
+<h1 class="entry-title" itemprop="name">Boston Midsummer Opera:&#8221;Trouble in Tahiti&#8221; e &#8220;Bon Apptit!&#8221;</h1>
+2009_11_salome-alla-staatsoper-di-berlino_
+<h1 class="entry-title" itemprop="name">&#8220;Salome&#8221; alla Staatsoper di Berlino</h1>
+2013_09_la-scala-di-seta-alla-scala_
+<h1 class="entry-title" itemprop="name">&#8220;La Scala di Seta&#8221; alla &#8230;Scala</h1>
+2014_02_bentornata-angelina_
+<h1 class="entry-title" itemprop="name">Bentornata Angelina!</h1>
+2013_04_reggio-emilia-teatro-valli-the-rape-of-lucretia_
+<h1 class="entry-title" itemprop="name">Reggio Emilia, Teatro Valli: The Rape of Lucretia</h1>
+2014_02_genova-gala-pucciniano_
+<h1 class="entry-title" itemprop="name">Genova: Gala Pucciniano</h1>
+2012_07_macerata-opera-festivalcarmen_
+<h1 class="entry-title" itemprop="name">Macerata Opera Festival:Carmen</h1>
+2012_04_stiffelio-al-teatro-regio-di-parma_
+<h1 class="entry-title" itemprop="name">&#8220;Stiffelio&#8221; al Teatro Regio di Parma</h1>
+2013_10_il-suono-del-silenzio-al-malibran-con-aspern-di-salvatore-sciarrino_
+<h1 class="entry-title" itemprop="name">Il suono del silenzio al Malibran con &#8220;Aspern&#8221; di Salvatore Sciarrino</h1>
+2016_06_der-rosenkavalier-al-teatro-alla-scala-di-milano_
+<h1 class="entry-title" itemprop="name">&#8220;Der Rosenkavalier&#8221; al Teatro alla Scala di Milano</h1>
+2016_02_lucca-teatro-del-giglio-la-vedova-allegra_
+<h1 class="entry-title" itemprop="name">Lucca, Teatro del Giglio: &#8220;La vedova allegra&#8221;</h1>
+2016_04_verona-teatro-filarmonico-la-sonnambula_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;La Sonnambula&#8221;</h1>
+2016_03_genova-teatro-carlo-felice-roberto-devereux_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Roberto Devereux&#8221;</h1>
+2011_07_trieste-teatro-verdilopera-da-tre-soldi_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi:&#8221;L&#8217;Opera da tre soldi&#8221;</h1>
+2012_05_der-konig-kandaules-al-teatro-massimo-di-palermo_
+<h1 class="entry-title" itemprop="name">&#8220;Der Knig Kandaules&#8221; al Teatro Massimo di Palermo</h1>
+2015_03_lucio-silla-di-mozart-alla-scala_
+<h1 class="entry-title" itemprop="name">Lucio Silla di Mozart alla Scala</h1>
+2013_08_arena-di-verona-una-ola-per-rigoletto_
+<h1 class="entry-title" itemprop="name">Arena di Verona: Una &#8220;Ola&#8221; per Rigoletto</h1>
+2014_10_lelisir-damore-al-teatro-san-carlo-di-napoli_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;elisir d&#8217;amore&#8221; al Teatro San Carlo di Napoli</h1>
+2012_02_londra-english-national-operader-rosenkavalier_
+<h1 class="entry-title" itemprop="name">Londra, English National Opera:&#8221;Der Rosenkavalier&#8221;</h1>
+2012_02_madrid-teatro-real-iolanta-e-persephone_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Ral: &#8220;Iolanta&#8221; e &#8220;Persphone&#8221;</h1>
+2011_11_veneziateatro-la-feniceacis-and-galatea_
+<h1 class="entry-title" itemprop="name">Venezia,Teatro Malibran:&#8221;Acis and Galatea&#8221;</h1>
+2011_12_verona-teatro-filarmonicofalstaff_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico:&#8221;Falstaff&#8221;</h1>
+2011_03_modena-teatro-comunalemacbeth_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale:&#8221;Macbeth&#8221;</h1>
+2011_05_ferrara-teatro-nuovola-divina-commedia_
+<h1 class="entry-title" itemprop="name">Ferrara, Teatro Nuovo: &#8220;La Divina Commedia&#8221;</h1>
+2011_04_metropolitan-operacapriccio_
+<h1 class="entry-title" itemprop="name">Metropolitan Opera:&#8221;Capriccio&#8221;</h1>
+2013_11_fidenza-teatro-magnani-jerusalem_
+<h1 class="entry-title" itemprop="name">Fidenza, Teatro Magnani: &#8220;Jrusalem&#8221;</h1>
+2009_04_il-viaggio-a-reims-torna-al-teatro-alla-scala_
+<h1 class="entry-title" itemprop="name">&#8220;Il Viaggio a Reims&#8221; torna al Teatro alla Scala</h1>
+2012_06_opera-di-romaattila_
+<h1 class="entry-title" itemprop="name">Opera di Roma:&#8221;Attila&#8221;</h1>
+2012_12_teatro-san-carlo-di-napolila-traviata_
+<h1 class="entry-title" itemprop="name">Teatro San Carlo di Napoli:&#8221;La Traviata&#8221;</h1>
+2014_09_palermo-teatro-massimo-la-fille-du-regiment_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo: &#8220;La fille du rgiment&#8221;</h1>
+2014_05_teatro-petruzzelli-di-baripagliacci_
+<h1 class="entry-title" itemprop="name">Teatro Petruzzelli di Bari:&#8221;Pagliacci&#8221;</h1>
+2013_11_bergamo-teatro-donizetti-un-ballo-in-maschera_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;Un ballo in maschera&#8221;</h1>
+2012_11_i-capuleti-e-i-montecchi-fraintesi-e-sottovalutati-alla-san-francisco-opera_
+<h1 class="entry-title" itemprop="name">&#8220;I Capuleti e i Montecchi&#8221; fraintesi e sottovalutati alla San Francisco Opera</h1>
+2008_11_un-rigoletto-vincente-al-festival-verdi-di-parma_
+<h1 class="entry-title" itemprop="name">Festival Verdi 2008: &#8220;Rigoletto&#8221;</h1>
+2013_02_accademia-nazionale-di-santa-cecilia-das-rheingold_
+<h1 class="entry-title" itemprop="name">Accademia Nazionale di Santa Cecilia: Das Rheingold</h1>
+2013_10_cosi-fan-tutte-al-teatro-lirico-di-cagliari_
+<h1 class="entry-title" itemprop="name">&#8220;Cos fan tutte&#8221; al Teatro Lirico di Cagliari</h1>
+2013_10_strasburgoda-una-casa-di-morti_
+<h1 class="entry-title" itemprop="name">Strasburgo:&#8221;Da una casa di morti&#8221;</h1>
+2011_12_torino-teatro-regiofidelio_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Fidelio&#8221;</h1>
+2015_02_hansel-und-gretel-trionfano-al-teatro-real-di-madrid_
+<h1 class="entry-title" itemprop="name">Hnsel und Gretel trionfano al Teatro Real di Madrid</h1>
+2013_12_norma-al-coccia-di-novara_
+<h1 class="entry-title" itemprop="name">&#8220;Norma&#8221; al Coccia di Novara</h1>
+2015_12_napoli-teatro-di-san-carlo-carmen_
+<h1 class="entry-title" itemprop="name">Napoli, Teatro di San Carlo: &#8220;Carmen&#8221;</h1>
+2013_03_praga-magica-alla-fenice_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;Vc Makropulos&#8221;</h1>
+2013_02_carmen-tra-ombre-e-luci_
+<h1 class="entry-title" itemprop="name">&#8220;Carmen&#8221; tra ombre e luci</h1>
+2013_03_teatro-massimo-di-palermo-nabucco_
+<h1 class="entry-title" itemprop="name">Teatro Massimo di Palermo: &#8220;Nabucco&#8221;</h1>
+2009_09_una-grande-nina-stemme-in-una-salome_
+<h1 class="entry-title" itemprop="name">Una grande Nina Stemme in una &#8220;Salome&#8221;&#8230;sconcertante!</h1>
+2011_04_politeama-rossettichess-the-musical_
+<h1 class="entry-title" itemprop="name">Politeama Rossetti:&#8221;Chess &#8211; The Musical&#8221;</h1>
+2013_12_komische-oper-berlin-rusalka_
+<h1 class="entry-title" itemprop="name">Komische Oper Berlin: &#8220;Rualka&#8221;</h1>
+2012_11_theater-an-der-wienil-trittico-secondo-michieletto_
+<h1 class="entry-title" itemprop="name">Theater an der Wien:Il &#8220;Trittico&#8221; secondo Michieletto</h1>
+2015_01_dittico-al-femminile-goyescas-e-suor-angelica-al-teatro-regio-di-torino_
+<h1 class="entry-title" itemprop="name">Dittico al femminile: Goyescas e Suor Angelica al Teatro Regio di Torino</h1>
+2014_02_il-campiello-un-hit-del-sociale-di-rovigo_
+<h1 class="entry-title" itemprop="name">&#8220;Il Campiello&#8221; un &#8220;hit&#8221; del Sociale di Rovigo</h1>
+2012_03_genova-teatro-carlo-felice-romeo-et-juliette_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Romo et Juliette&#8221;</h1>
+2016_02_aida-al-teatro-verdi-di-pisa_
+<h1 class="entry-title" itemprop="name">&#8220;Aida&#8221; al Teatro Verdi di Pisa</h1>
+2010_11_bergamo-musica-festival-don-giovanni_
+<h1 class="entry-title" itemprop="name">Bergamo Musica Festival: &#8220;Don Giovanni&#8221;</h1>
+2011_12_trieste-politeama-rossetti-aint-misbehavin-the-fats-waller-musical-show_
+<h1 class="entry-title" itemprop="name">Trieste, Politeama Rossetti: &#8220;Ain&#8217;t Misbehavin&#8221;- The Fats Waller Musical Show</h1>
+2012_10_leipzig-opernhausrigoletto_
+<h1 class="entry-title" itemprop="name">Leipzig, Opernhaus:&#8221;Rigoletto&#8221;</h1>
+2012_11_sassari-teatro-comunale-le-nozze-di-figaro_
+<h1 class="entry-title" itemprop="name">Sassari, Teatro Comunale: &#8220;Le nozze di Figaro&#8221;</h1>
+2013_07_savona-complesso-monumentale-del-priamar-rigoletto_
+<h1 class="entry-title" itemprop="name">Savona, Complesso Monumentale del Priamar: &#8220;Rigoletto&#8221;</h1>
+2014_08_roma-terme-di-caracallail-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Roma, Terme di Caracalla:&#8221;Il Barbiere di Siviglia&#8221;</h1>
+2013_02_opera-di-marsigliaelektra_
+<h1 class="entry-title" itemprop="name">Opra di Marsiglia:&#8221;Elektra&#8221;</h1>
+2011_03_alicante-teatro-principalnabucco_
+<h1 class="entry-title" itemprop="name">Alicante, Teatro Principal:&#8221;Nabucco&#8221;</h1>
+2016_04_roma-teatro-dellopera-il-trittico-di-giacomo-puccini_
+<h1 class="entry-title" itemprop="name">Roma, Teatro dell&#8217;Opera: &#8220;Il Trittico&#8221; di Giacomo Puccini</h1>
+2012_05_wozzeck-alla-staatsoper-stuttgart_
+<h1 class="entry-title" itemprop="name">&#8220;Wozzeck&#8221; alla Staatsoper Stuttgart</h1>
+2012_02_bilbao-teatro-arriagader-schauspieldirektor-la-canterina_
+<h1 class="entry-title" itemprop="name">Bilbao, Teatro Arriaga:&#8221;Der Schauspieldirektor&#8221;, &#8220;La Canterina&#8221;</h1>
+2010_08_arena-sferisterio-di-maceratafaust_
+<h1 class="entry-title" itemprop="name">Arena Sferisterio di Macerata:&#8221;Faust&#8221;</h1>
+2010_12_a-firenze-una-forza-del-destino-allinsegna-del-patriottismo_
+<h1 class="entry-title" itemprop="name">A Firenze una &#8220;Forza del destino&#8221; allinsegna del patriottismo</h1>
+2013_11_il-flauto-magico-al-teatro-marrucino-di-chieti_
+<h1 class="entry-title" itemprop="name">&#8220;Il Flauto magico&#8221; al Teatro Marrucino di Chieti</h1>
+2015_06_vicenza-teatro-olimpico-il-signor-bruschino_
+<h1 class="entry-title" itemprop="name">Vicenza, Teatro Olimpico: &#8220;Il Signor Bruschino&#8221;</h1>
+2013_11_opera-di-roma-non-piangerece-liu_
+<h1 class="entry-title" itemprop="name">Opera di Roma: Non piangere&#8230; c&#8217; Li</h1>
+2013_04_la-clemenza-di-tito-al-teatro-verdi-di-trieste_
+<h1 class="entry-title" itemprop="name">&#8220;La Clemenza di Tito&#8221; al Teatro Verdi di Trieste</h1>
+2012_02_madrid-teatro-real-la-clemenza-di-tito_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real: &#8220;La clemenza di Tito&#8221;</h1>
+2012_02_parigi-opera-bastillerigoletto_
+<h1 class="entry-title" itemprop="name">Parigi, Opra Bastille:&#8221;Rigoletto&#8221;</h1>
+2012_04_opera-di-marsigliale-comte-ory_
+<h1 class="entry-title" itemprop="name">Opra di Marsiglia:&#8221;Le comte Ory&#8221;</h1>
+2012_06_deutsche-oper-berlindie-walkure_
+<h1 class="entry-title" itemprop="name">Deutsche Oper Berlin:&#8221;Die Walkre&#8221;</h1>
+2011_09_torino-teatro-carignanoleggenda_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Carignano:&#8221;Leggenda&#8221;</h1>
+2013_12_opera-di-romaernani-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Opera di Roma:&#8221;Ernani&#8221; (cast alternativo)</h1>
+2012_11_milano-teatro-alla-scala-rigoletto_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Rigoletto&#8221;</h1>
+2009_05_the-rakes-progress-al-teatro-alla-scala_
+<h1 class="entry-title" itemprop="name">&#8220;The rake&#8217;s progress&#8221; al Teatro alla Scala</h1>
+2015_04_jenufa-al-teatro-comunale-di-bologna_
+<h1 class="entry-title" itemprop="name">Jenfa al Teatro Comunale di Bologna</h1>
+2010_02_un-giorno-di-regno-apre-la-stagione-del-teatro-regio-di-parma_
+<h1 class="entry-title" itemprop="name">&#8220;Un giorno di regno&#8221; apre la stagione del Teatro Regio di Parma</h1>
+2014_04_venezia-le-saphir-di-felicien-david_
+<h1 class="entry-title" itemprop="name">Venezia: &#8220;Le Saphir&#8221; di Flicien David</h1>
+2012_10_salerno-teatro-verdila-gioconda_
+<h1 class="entry-title" itemprop="name">Salerno, Teatro Verdi:&#8221;La Gioconda&#8221;</h1>
+2008_12_siegfried-al-comunale-di-firenze_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Comunale: &#8220;Siegfried&#8221;</h1>
+2013_10_la-clemenza-di-tito-inaugura-la-nuova-stagione-del-la-monnaie-di-bruxelles_
+<h1 class="entry-title" itemprop="name">&#8220;La clemenza di Tito&#8221; inaugura la nuova stagione del La Monnaie di Bruxelles</h1>
+2014_12_staatsoper-stuttgart-madama-butterfly_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart: &#8220;Madama Butterfly&#8221;</h1>
+2011_11_madrid-teatro-real-pelleas-et-melisande_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real: &#8220;Pellas et Mlisande&#8221;</h1>
+2014_04_elegy-for-young-lovers-al-malibran-di-venezia_
+<h1 class="entry-title" itemprop="name">&#8220;Elegy for Young Lovers&#8221; al Malibran di Venezia</h1>
+2016_03_staatsoper-stuttgart-les-contes-dhoffmann_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart: &#8220;Les contes d&#8217;Hoffmann&#8221;</h1>
+2010_11_teatro-la-fenice-di-venezialelisir-damore_
+<h1 class="entry-title" itemprop="name">Teatro &#8220;La Fenice&#8221; di Venezia:&#8221;L&#8217;elisir d&#8217;amore&#8221;</h1>
+2013_01_genova-teatro-carlo-felicemacbeth_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice:&#8221;Macbeth&#8221;</h1>
+2012_05_opera-di-marsigliail-trovatore_
+<h1 class="entry-title" itemprop="name">Opra di Marsiglia:&#8221;Il Trovatore&#8221;</h1>
+2010_03_il-trovatore-a-rovigo_
+<h1 class="entry-title" itemprop="name">&#8220;Il Trovatore&#8221; a Rovigo</h1>
+2010_11_bergamo-musica-festival-rigoletto_
+<h1 class="entry-title" itemprop="name">Bergamo Musica Festival: &#8220;Rigoletto&#8221;</h1>
+2011_10_milano-teatro-alla-scala-il-ritorno-di-ulisse-in-patria_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Il ritorno di Ulisse in patria&#8221;</h1>
+2012_12_brescia-teatro-grande-ernani_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;Ernani&#8221;</h1>
+2012_02_venezia-teatro-la-fenicecosi-fan-tutte_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice:&#8221;Cos fan tutte&#8221; (cast alternativo)</h1>
+2013_06_firenze-teatro-del-maggio-musicale-fiorentino-il-farnace_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro del Maggio Musicale Fiorentino: Il Farnace</h1>
+2011_10_gruppo-di-famiglia-in-un-interno_
+<h1 class="entry-title" itemprop="name">Gruppo di famiglia in un interno</h1>
+2011_10_parigi-opera-bastille-tannhauser_
+<h1 class="entry-title" itemprop="name">Parigi, Opra Bastille: &#8220;Tannhuser&#8221;</h1>
+2013_03_modena-teatro-comunale-otello_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale: &#8220;Otello&#8221;</h1>
+2013_01_il-barbiere-di-morassi-al-malibran_
+<h1 class="entry-title" itemprop="name">Il &#8220;Barbiere&#8221; di Morassi al Malibran</h1>
+2013_02_rigoletto-al-met_
+<h1 class="entry-title" itemprop="name">&#8220;Rigoletto&#8221; al Met</h1>
+2014_12_la-voix-humaine-e-the-telephone-a-lucca_
+<h1 class="entry-title" itemprop="name">&#8220;La voix humaine&#8221; e &#8220;The telephone&#8221; a Lucca</h1>
+2012_10_bergamo-teatro-donizetti-la-boheme_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;La Bohme&#8221;</h1>
+2015_12_giovanna-darco-al-teatro-alla-scala_
+<h1 class="entry-title" itemprop="name">Giovanna dArco al Teatro alla Scala</h1>
+2016_06_moses-und-aron-al-teatro-real-di-madrid_
+<h1 class="entry-title" itemprop="name">Moses und Aron al Teatro Real di Madrid</h1>
+2014_09_cronache-del-mitodido-and-aeneas-al-teatro-carignano_
+<h1 class="entry-title" itemprop="name">Cronache del MITO:&#8221;Dido and Aeneas&#8221; al Teatro Carignano</h1>
+2014_02_madama-butterfly-al-carlo-felice_
+<h1 class="entry-title" itemprop="name">&#8220;Madama Butterfly&#8221; al Carlo Felice</h1>
+2012_03_palermo-teatro-massimola-traviata_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo:&#8221;La Traviata&#8221;</h1>
+2012_02_parma-teatro-regio-aida_
+<h1 class="entry-title" itemprop="name">Parma, Teatro Regio: &#8220;Aida&#8221;</h1>
+2014_09_teatro-sociale-di-comodon-giovanni_
+<h1 class="entry-title" itemprop="name">Teatro Sociale di Como:&#8221;Don Giovanni&#8221;</h1>
+2010_08_arena-sferisterio-di-maceratala-forza-del-destino_
+<h1 class="entry-title" itemprop="name">Arena Sferisterio di Macerata:&#8221;La forza del destino&#8221;</h1>
+2011_02_nixon-in-china-per-la-prima-volta-al-met_
+<h1 class="entry-title" itemprop="name">&#8220;Nixon in China&#8221; per la prima volta al Met</h1>
+2013_02_firenze-teatro-del-maggio-musicale-fiorentino-don-giovanni_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro del Maggio Musicale Fiorentino: Don Giovanni</h1>
+2012_03_parigi-theatre-des-champs-elyseesil-giustino_
+<h1 class="entry-title" itemprop="name">Parigi, Thatre des Champs Elyses:&#8221;Il Giustino&#8221;</h1>
+2011_10_opera-di-romaelektra_
+<h1 class="entry-title" itemprop="name">Opera di Roma:&#8221;Elektra&#8221;</h1>
+2010_11_il-corsaro-a-bilbao_
+<h1 class="entry-title" itemprop="name">&#8220;Il Corsaro&#8221; a Bilbao</h1>
+2011_07_madrid-teatro-realsaint-francois-dassise_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real:&#8221;Saint-Francois d&#8217;Assise&#8221;</h1>
+2011_09_il-pergolesi-spontini-festival-a-jesi-ossia-lolimpiade-di-g-b-pergolesi_
+<h1 class="entry-title" itemprop="name">Il Pergolesi Spontini Festival a Jesi ossia &#8220;LOlimpiade&#8221; di G. B. Pergolesi</h1>
+2013_04_lelisir-damore-diverte-il-pubblico-del-teatro-filarmonico_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;elisir d&#8217;amore&#8221; diverte il pubblico del Teatro Filarmonico</h1>
+2014_05_la-carmen-al-carlo-felice-di-genova_
+<h1 class="entry-title" itemprop="name">La &#8220;Carmen&#8221; al Carlo Felice di Genova</h1>
+2013_12_la-traviata-chiude-la-stagione-lirica-di-sassari_
+<h1 class="entry-title" itemprop="name">&#8220;La Traviata&#8221; chiude la stagione lirica di Sassari</h1>
+2012_10_padova-teatro-verdila-traviata_
+<h1 class="entry-title" itemprop="name">Padova, Teatro Verdi:&#8221;La Traviata&#8221;</h1>
+2010_12_verona-teatro-filarmonicola-vedova-allegra_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico:&#8221;La Vedova Allegra&#8221;</h1>
+2013_01_verona-teatro-filarmonicomacbeth-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Teatro Filarmonico:&#8221;Macbeth&#8221; (cast alternativo)</h1>
+2011_11_savonail-cappello-di-paglia-di-firenze_
+<h1 class="entry-title" itemprop="name">Savona:&#8221;Il cappello di paglia di Firenze&#8221;</h1>
+2014_08_verona-arena-opera-festivalmadama-butterfly_
+<h1 class="entry-title" itemprop="name">Verona, Arena Opera Festival:&#8221;Madama Butterfly&#8221;</h1>
+2013_11_forse-aida-non-puo-che-essere-pompier_
+<h1 class="entry-title" itemprop="name">&#8220;Aida&#8221; al Teatro alla Scala</h1>
+2014_09_teatro-dellopera-di-firenzeil-campiello_
+<h1 class="entry-title" itemprop="name">Teatro dell&#8217;Opera di Firenze:&#8221;Il Campiello&#8221;</h1>
+2010_09_cosi-fan-tutte-al-teatro-avenida-di-buenos-aires_
+<h1 class="entry-title" itemprop="name">&#8220;Cos fan tutte&#8221; al Teatro Avenida di Buenos Aires</h1>
+2014_04_opera-di-romamaometto-ii_
+<h1 class="entry-title" itemprop="name">Opera di Roma:&#8221;Maometto II&#8221;</h1>
+2011_06_opera-di-romala-battaglia-di-legnano_
+<h1 class="entry-title" itemprop="name">Opera di Roma:&#8221;La battaglia di Legnano&#8221;</h1>
+2011_12_rigoletto-al-teatro-pergolesi-di-jesi-un-grande-successo_
+<h1 class="entry-title" itemprop="name">&#8220;Rigoletto&#8221; al Teatro Pergolesi di Jesi: un grande successo</h1>
+2014_10_guillaume-tell-al-teatro-comunale-di-bologna_
+<h1 class="entry-title" itemprop="name">&#8220;Guillaume Tell&#8221; al Teatro Comunale di Bologna</h1>
+2014_02_di-qual-tetra-luce-il-trovator-risplende_
+<h1 class="entry-title" itemprop="name">Di qual tetra luce il Trovator risplende</h1>
+2014_11_verona-teatro-filarmonico-la-boheme_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;La Bohme&#8221;</h1>
+2014_07_sessantesimo-festival-puccini-torre-del-lagomadama-butterfly_
+<h1 class="entry-title" itemprop="name">Sessantesimo Festival Puccini, Torre del Lago:&#8221;Madama Butterfly&#8221;</h1>
+2012_11_berlino-deutsche-oper-parsifal_
+<h1 class="entry-title" itemprop="name">Berlino, Deutsche Oper: &#8220;Parsifal&#8221;</h1>
+2010_08_arena-sferisterio-di-maceratai-lombardi-alla-prima-crociata_
+<h1 class="entry-title" itemprop="name">Arena Sferisterio di Macerata:&#8221;I Lombardi alla prima crociata&#8221;</h1>
+2012_04_triestela-boheme_
+<h1 class="entry-title" itemprop="name">Trieste:&#8221;La Bohme&#8221;</h1>
+2015_12_aida-al-teatro-comunale-di-sassari_
+<h1 class="entry-title" itemprop="name">&#8220;Aida&#8221; al Teatro Comunale di Sassari</h1>
+2012_04_parigi-opera-comiquela-muette-de-portici_
+<h1 class="entry-title" itemprop="name">Parigi, Opra Comique:&#8221;La muette de Portici&#8221;</h1>
+2012_03_ricetta-alla-rossini-in-agrodolce_
+<h1 class="entry-title" itemprop="name">Ricetta alla Rossini in agrodolce</h1>
+2016_07_opera-di-firenze-cortile-di-palazzo-pitti-la-traviata_
+<h1 class="entry-title" itemprop="name">Opera di Firenze, Cortile di Palazzo Pitti: &#8220;La Traviata&#8221;</h1>
+2012_06_die-frau-ohne-schatten-al-bellas-artes_
+<h1 class="entry-title" itemprop="name">&#8220;Die Frau ohne Schatten&#8221; al Bellas Artes</h1>
+2012_02_parigi-opera-bastillemanon_
+<h1 class="entry-title" itemprop="name">Parigi, Opra Bastille: &#8220;Manon&#8221;</h1>
+2012_08_xxxviii-festival-della-valle-ditriazaira_
+<h1 class="entry-title" itemprop="name">XXXVIII Festival della Valle d&#8217;Itria:&#8221;Zaira&#8221;</h1>
+2012_07_caracalla-festivalnorma-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Caracalla Festival:&#8221;Norma&#8221; (cast alternativo)</h1>
+2013_10_pien-di-misfatti-e-il-calle-della-potenza-macbeth-di-verdi-a-novara_
+<h1 class="entry-title" itemprop="name">Pien di misfatti  il calle della potenza. Macbeth di Verdi a Novara</h1>
+2015_02_bologna-teatro-comunale-madama-butterfly_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Madama Butterfly&#8221;</h1>
+2011_10_parigi-opera-bastille-lulu_
+<h1 class="entry-title" itemprop="name">Parigi, Opra Bastille: &#8220;Lulu&#8221;</h1>
+2015_05_bruxelles-theatre-la-monnaie-un-ballo-in-maschera_
+<h1 class="entry-title" itemprop="name">Bruxelles, Thtre La Monnaie: &#8220;Un ballo in maschera&#8221;</h1>
+2010_10_la-sonnambula-al-teatro-sociale-di-como_
+<h1 class="entry-title" itemprop="name">&#8220;La Sonnambula&#8221; al Teatro Sociale di Como</h1>
+2014_03_tragedia-e-commedia-protagonisti-alternativi-per-zemlinsky-e-puccini_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Eine Florentinische Tragdie&#8221; e &#8220;Gianni Schicchi&#8221; (cast alternativi)</h1>
+2012_03_trastullo-senza-ironia_
+<h1 class="entry-title" itemprop="name">Napoli, Teatrino di Corte:&#8221;DonTrastullo&#8221;</h1>
+2011_07_sferisterio-opera-festival-un-ballo-in-maschera_
+<h1 class="entry-title" itemprop="name">Sferisterio Opera Festival: &#8220;Un ballo in maschera&#8221;</h1>
+2009_09_la-linda-di-bergamo_
+<h1 class="entry-title" itemprop="name">Bergamo Musical Festival &#8220;Gaetano Donizetti&#8221;: &#8220;Linda di Chamounix&#8221;</h1>
+2011_05_venezia-teatro-la-fenicelucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice:&#8221;Lucia di Lammermoor&#8221;</h1>
+2013_06_firenze-teatro-goldoni-the-rape-of-lucretia_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Goldoni: The Rape of Lucretia</h1>
+2012_07_cagliari-teatro-lirico-le-nozze-di-figaro_
+<h1 class="entry-title" itemprop="name">Cagliari, Teatro Lirico: &#8220;Le nozze di Figaro&#8221;</h1>
+2011_12_teatro-sociale-di-comoil-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Como, Teatro Sociale:&#8221;Il Barbiere di Siviglia&#8221;</h1>
+2016_05_venezia-teatro-la-fenice-la-favorite_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;La Favorite&#8221;</h1>
+2015_11_il-matrimonio-segreto-a-casciana-terme_
+<h1 class="entry-title" itemprop="name">&#8220;Il matrimonio segreto&#8221; a Casciana Terme</h1>
+2013_03_parma-teatro-regio-nabucco_
+<h1 class="entry-title" itemprop="name">Parma, Teatro Regio: &#8220;Nabucco&#8221;</h1>
+2012_02_milano-teatro-alla-scalaaidaimpressioni-in-generale_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala&#8230;&#8221;Aida&#8221;&#8230;impressioni in &#8220;generale&#8221;</h1>
+2013_03_roma-teatro-delloperai-due-foscari_
+<h1 class="entry-title" itemprop="name">Roma, Teatro dell&#8217;Opera:&#8221;I Due Foscari&#8221;</h1>
+2013_12_firenzeil-cappello-di-paglia-di-firenze_
+<h1 class="entry-title" itemprop="name">Firenze:&#8221;Il cappello di paglia di Firenze&#8221;</h1>
+2013_03_bologna-teatro-comunale-lolandese-volante_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;L&#8217;Olandese volante&#8221;</h1>
+2012_02_milano-teatro-alla-scalaaida_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala:&#8221;Aida&#8221;</h1>
+2011_01_bologna-teatro-comunaletannhauser_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale:&#8221;Tannhuser&#8221;</h1>
+2014_12_verona-teatro-filarmonico-lucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;Lucia di Lammermoor&#8221;</h1>
+2011_02_napoli-san-carlola-serva-padrona_
+<h1 class="entry-title" itemprop="name">Torna a Napoli &#8220;La serva padrona&#8221; di Pergolesi</h1>
+2011_10_palermo-teatro-massimoil-trovatore_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo:&#8221;Il Trovatore&#8221;</h1>
+2015_02_torino-teatro-regio-le-nozze-di-figaro_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Le nozze di Figaro&#8221;</h1>
+2008_11_un-maestro-per-pochiintimi_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;Il maestro di Go&#8221;</h1>
+2015_10_roberto-devereux-al-teatro-real-di-madrid-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Roberto Devereux al Teatro Real di Madrid (cast alternativo)</h1>
+2010_04_tannhauser-dal-teatro-alla-scala_
+<h1 class="entry-title" itemprop="name">&#8220;Tannhuser&#8221; dal Teatro alla Scala</h1>
+2011_04_trieste-politeama-rossettioblivion-show_
+<h1 class="entry-title" itemprop="name">Trieste, Politeama Rossetti:&#8221;Oblivion Show&#8221;</h1>
+2013_10_aida-apre-la-nuova-stagione-lirica-dellopera-di-marsiglia_
+<h1 class="entry-title" itemprop="name">&#8220;Aida&#8221; apre la nuova stagione lirica dell&#8217;Opra di Marsiglia</h1>
+2012_03_i-promessi-sposi_
+<h1 class="entry-title" itemprop="name">&#8220;I promessi sposi&#8221;</h1>
+2014_10_teatro-verdi-di-pisa-don-giovanni_
+<h1 class="entry-title" itemprop="name">Teatro Verdi di Pisa: &#8220;Don Giovanni&#8221;</h1>
+2014_03_wunderzaichen-di-marc-andre-in-prima-assoluta-alla-staatsoper-stuttgart_
+<h1 class="entry-title" itemprop="name">&#8220;Wunderzaichen&#8221; di Mark Andre in prima assoluta alla Staatsoper Stuttgart</h1>
+2014_04_maria-stuarda-al-filarmonico-di-verona-cast-alternativo_
+<h1 class="entry-title" itemprop="name">&#8220;Maria Stuarda&#8221; al Filarmonico di Verona (cast alternativo)</h1>
+2013_08_tout-change-et-grandit-en-ces-lieux-con-il-guillaume-tell_
+<h1 class="entry-title" itemprop="name">Tout change et grandit en ces lieux con il Guillaume Tell</h1>
+2011_02_milano-teatro-alla-scala-pagliaccicavalleria-rusticana_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Pagliacci/Cavalleria rusticana&#8221;</h1>
+2014_02_teatro-alla-scalalucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Teatro alla Scala:&#8221;Lucia di Lammermoor&#8221;</h1>
+2014_05_teatro-di-san-carlo-di-napolipagliacci_
+<h1 class="entry-title" itemprop="name">Teatro di San Carlo di Napoli:&#8221;Pagliacci&#8221;</h1>
+2011_03_ancona-teatro-delle-musedon-pasquale_
+<h1 class="entry-title" itemprop="name">Ancona, Teatro delle Muse:&#8221;Don Pasquale&#8221;</h1>
+2013_08_seattle-un-ring-che-avrebbe-reso-wagner-orgoglioso_
+<h1 class="entry-title" itemprop="name">Seattle: un &#8220;Ring&#8221; che avrebbe reso Wagner orgoglioso</h1>
+2012_02_parigi-palais-garnierla-cerisaie-il-giardino-dei-ciliegi_
+<h1 class="entry-title" itemprop="name">Parigi, Palais Garnier:&#8221;La Cerisaie&#8221; (Il giardino dei ciliegi)</h1>
+2011_12_brescia-teatro-grande-il-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;Il barbiere di Siviglia&#8221;</h1>
+2012_05_bologna-teatro-comunalelitaliana-in-algeri_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale:&#8221;L&#8217;Italiana in Algeri&#8221;</h1>
+2009_04_alcina-al-teatro-alla-scala_
+<h1 class="entry-title" itemprop="name">&#8220;Alcina&#8221; al Teatro alla Scala</h1>
+2011_04_opera-national-du-rhinlaffare-makropoulos_
+<h1 class="entry-title" itemprop="name">Opera National du Rhin:&#8221;L&#8217;affare Makropoulos&#8221;</h1>
+2015_11_venezia-teatro-la-fenice-die-zauberflote_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;Die Zauberflte&#8221;</h1>
+2013_11_la-fenice-apre-con-lafricaine-tra-esotismo-e-denuncia-anticolonialista_
+<h1 class="entry-title" itemprop="name">La Fenice apre con L&#8217;Africaine, tra esotismo e denuncia anticolonialista</h1>
+2016_03_falstaff-al-teatro-san-carlo-di-napoli_
+<h1 class="entry-title" itemprop="name">&#8220;Falstaff&#8221; al Teatro San Carlo di Napoli</h1>
+2015_04_der-rosenkavalier-alla-staatsoper-stuttgart_
+<h1 class="entry-title" itemprop="name">&#8220;Der Rosenkavalier&#8221; alla Staatsoper Stuttgart</h1>
+2015_04_palermo-teatro-massimo-le-toreador-e-cavalleria-rusticana_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo: &#8220;Le Torador&#8221; e &#8220;Cavalleria Rusticana&#8221;</h1>
+2013_08_tosca-a-torre-del-lago_
+<h1 class="entry-title" itemprop="name">&#8220;Tosca&#8221; a Torre del Lago</h1>
+2016_03_bologna-teatro-comunale-carmen_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Carmen&#8221;</h1>
+2016_06_bologna-teatro-comunale-luci-mie-traditrici-di-salvatore-sciarrino_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Luci mie traditrici&#8221; di Salvatore Sciarrino</h1>
+2010_12_madridteatro-realder-rosenkavalier_
+<h1 class="entry-title" itemprop="name">Madrid,Teatro Real:&#8221;Der Rosenkavalier&#8221;</h1>
+2014_10_teatro-comunale-di-sassari-carmen_
+<h1 class="entry-title" itemprop="name">Teatro Comunale di Sassari: &#8220;Carmen&#8221;</h1>
+2011_10_teramo-teatro-comunalenabucco_
+<h1 class="entry-title" itemprop="name">Teramo, Teatro Comunale:&#8221;Nabucco&#8221;</h1>
+2012_02_modena-teatro-comunale-la-boheme_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale: &#8220;La Bohme&#8221;</h1>
+2013_02_bologna-teatro-comunale-macbeth_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Macbeth&#8221;</h1>
+2012_09_debutta-a-salerno-lopera-musical-sulla-vita-di-san-matteo_
+<h1 class="entry-title" itemprop="name">Debutta a Salerno lOpera musical sulla vita di San Matteo</h1>
+2013_12_ernani-apre-la-stagione-lirica-dellopera-di-roma_
+<h1 class="entry-title" itemprop="name">&#8220;Ernani&#8221; apre la stagione lirica dell&#8217;Opera di Roma</h1>
+2015_12_torino-teatro-regio-carmina-burana_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Carmina Burana&#8221;</h1>
+2014_12_opera-di-firenze-falstaff_
+<h1 class="entry-title" itemprop="name">Opera di Firenze: &#8220;Falstaff&#8221;</h1>
+2011_12_una-trionfale-aida-al-teatro-verdi-di-pisa_
+<h1 class="entry-title" itemprop="name">Una trionfale &#8220;Aida&#8221; al Teatro Verdi di Pisa</h1>
+2012_04_parigi-theatre-des-champs-elyseesla-didone_
+<h1 class="entry-title" itemprop="name">Parigi, Thtre des Champs Elyses:&#8221;La Didone&#8221;</h1>
+2012_04_staatsoper-berlinlulu_
+<h1 class="entry-title" itemprop="name">Staatsoper Berlin:&#8221;Lulu&#8221;</h1>
+2015_11_tristan-und-isolde-al-teatro-comunale-pavarotti-di-modena_
+<h1 class="entry-title" itemprop="name">&#8220;Tristan und Isolde&#8221; al Teatro Comunale &#8220;Pavarotti&#8221; di Modena</h1>
+2008_11_il-corsaro-a-busseto_
+<h1 class="entry-title" itemprop="name">Festival Verdi 2008: &#8220;Il Corsaro&#8221;</h1>
+2013_08_martina-francacrispino-e-la-comare_
+<h1 class="entry-title" itemprop="name">Martina Franca:&#8221;Crispino e la Comare&#8221;</h1>
+2013_10_salerno-teatro-verdinabucco_
+<h1 class="entry-title" itemprop="name">Salerno, Teatro Verdi:&#8221;Nabucco&#8221;</h1>
+2012_03_anna-bolena_
+<h1 class="entry-title" itemprop="name">&#8220;Anna Bolena&#8221;</h1>
+2014_02_palermootello_
+<h1 class="entry-title" itemprop="name">Palermo:&#8221;Otello&#8221;</h1>
+2014_11_jesi-teatro-pergolesi-tosca_
+<h1 class="entry-title" itemprop="name">Jesi, Teatro Pergolesi: &#8220;Tosca&#8221;</h1>
+2013_06_un-ballo-in-maschera-a-santa-cecilia_
+<h1 class="entry-title" itemprop="name">&#8220;Un ballo in maschera&#8221; a Santa Cecilia</h1>
+2011_04_milano-teatro-alla-scala-turandot_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Turandot&#8221;</h1>
+2014_02_litaliana-in-algeri-a-verona_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;italiana in Algeri&#8221; a Verona</h1>
+2015_12_padova-teatro-verdi-la-traviata_
+<h1 class="entry-title" itemprop="name">Padova, Teatro Verdi: &#8220;La Traviata&#8221;</h1>
+2012_04_la-gazza-ladra-torna-a-verona_
+<h1 class="entry-title" itemprop="name">&#8220;La gazza ladra&#8221; torna a Verona</h1>
+2012_12_piume-di-un-cigno-scomparso-lohengrin-alla-scala_
+<h1 class="entry-title" itemprop="name">Piume di un cigno scomparso: &#8220;Lohengrin&#8221; alla Scala</h1>
+2014_11_la-boheme-al-teatro-filarmonico-di-verona-cast-alternativo_
+<h1 class="entry-title" itemprop="name">&#8220;La Bohme&#8221; al Teatro Filarmonico di Verona (cast alternativo)</h1>
+2015_05_bologna-teatro-comunale-die-zauberflote_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Die Zauberflte&#8221;</h1>
+2010_07_alcina-dal-teatro-municipal-di-santiago_
+<h1 class="entry-title" itemprop="name">Santiago del Cile,  Teatro Municipal: &#8220;Alcina&#8221;</h1>
+2011_07_tel-aviv-israeli-operala-traviata_
+<h1 class="entry-title" itemprop="name">Tel Aviv, Israeli Opera:&#8221;La Traviata&#8221;</h1>
+2012_08_aida-allarena-di-verona_
+<h1 class="entry-title" itemprop="name">&#8220;Aida&#8221; all&#8217;Arena di Verona</h1>
+2012_05_deutsche-oper-berlini-due-foscari_
+<h1 class="entry-title" itemprop="name">Deutsche Oper Berlin:&#8221;I due Foscari&#8221;</h1>
+2013_08_les-choregies-dorangeun-ballo-in-maschera_
+<h1 class="entry-title" itemprop="name">Les Chorgies d&#8217;Orange:&#8221;Un ballo in maschera&#8221;</h1>
+2010_12_teatro-dellopera-di-romamoise-et-pharaon_
+<h1 class="entry-title" itemprop="name">Teatro dell&#8217;Opera di Roma:&#8221;Moise et Pharaon&#8221;</h1>
+2010_03_da-ancona-una-lucrezia-di-successo_
+<h1 class="entry-title" itemprop="name">Ancona, Teatro delle Muse: una &#8220;Lucrezia Borgia&#8221; di successo</h1>
+2011_07_firenze-teatro-comunaleil-cappello-di-paglia-di-firenze_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Comunale:&#8221;Il cappello di paglia di Firenze&#8221;</h1>
+2013_10_bergamo-teatro-donizetti-il-furioso-allisola-di-san-domingo_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;Il furioso all&#8217;isola di San Domingo&#8221;</h1>
+2012_12_opera-di-romasimon-boccanegra_
+<h1 class="entry-title" itemprop="name">Opera di Roma:&#8221;Simon Boccanegra&#8221;</h1>
+2014_11_la-scala-di-seta-al-teatro-comunale-di-sassari_
+<h1 class="entry-title" itemprop="name">&#8220;La scala di seta&#8221; al Teatro Comunale di Sassari</h1>
+2012_09_venezia-teatro-la-fenicerigoletto_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice:&#8221;Rigoletto&#8221;</h1>
+2012_06_opera-de-marseilledie-zauberflote_
+<h1 class="entry-title" itemprop="name">Opra de Marseille:&#8221;Die Zauberflote&#8221;</h1>
+2008_10_la-virtu-de-strali-damore_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro Malibran:&#8221;La virt de&#8217; strali d&#8217;amore&#8221;</h1>
+2010_03_sogno-di-una-notte-di-mezza-estate-al-regio-di-parma_
+<h1 class="entry-title" itemprop="name">&#8220;Sogno di una notte di mezza estate&#8221; al Regio di Parma</h1>
+2011_08_quelladelaide-romantica-ma-non-troppo_
+<h1 class="entry-title" itemprop="name">QuellAdelaide romantica, ma non troppo</h1>
+2009_06_assassinio-nella-cattedrale-di-pizzetti-alla-scala_
+<h1 class="entry-title" itemprop="name">&#8220;Assassinio nella cattedrale&#8221; di Pizzetti alla Scala</h1>
+2012_12_opera-de-monte-carlola-fanciulla-del-west_
+<h1 class="entry-title" itemprop="name">Opra de Monte-Carlo:&#8221;La fanciulla del West&#8221;</h1>
+2014_12_die-zauberflote-al-petruzzelli-di-bari_
+<h1 class="entry-title" itemprop="name">&#8220;Die Zauberflte&#8221; al Petruzzelli di Bari</h1>
+2016_02_venezia-teatro-malibran-les-chevaliers-de-la-table-ronde-di-herve_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro Malibran: &#8220;Les Chevaliers de la Table Ronde&#8221; di Herv</h1>
+2011_12_teatro-comunale-di-firenzela-boheme_
+<h1 class="entry-title" itemprop="name">Teatro Comunale di Firenze:&#8221;La Bohme&#8221;</h1>
+2015_11_opera-national-de-paris-moses-und-aron_
+<h1 class="entry-title" itemprop="name">Opra national de Paris, &#8220;Moses und Aron&#8221;</h1>
+2013_10_simon-boccanegra-al-regio-di-torino_
+<h1 class="entry-title" itemprop="name">L dove invan germoglia il ramo dellulivo: Simon Boccanegra a Torino</h1>
+2011_09_torino-teatro-regiolucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Lucia di Lammermoor&#8221;</h1>
+2009_07_a-midsummer-nights-dream-al-teatro-alla-scala_
+<h1 class="entry-title" itemprop="name">&#8220;A midsummer night&#8217;s dream&#8221; al Teatro alla Scala</h1>
+2011_08_monteverdi-in-festa-a-macerata_
+<h1 class="entry-title" itemprop="name">Monteverdi in festa a Macerata</h1>
+2011_08_buenos-aires-teatro-colonpelleas-et-melisande_
+<h1 class="entry-title" itemprop="name">Buenos Aires, Teatro Coln:&#8221;Pellas et Mlisande&#8221;</h1>
+2011_03_new-york-metropolitanarmida_
+<h1 class="entry-title" itemprop="name">New York, Metropolitan:&#8221;Armida&#8221;</h1>
+2014_12_parigi-opera-bastille-la-boheme_
+<h1 class="entry-title" itemprop="name">Parigi, Opra Bastille: &#8220;La Bohme&#8221;</h1>
+2014_04_catania-teatro-massimo-bellinidon-pasquale_
+<h1 class="entry-title" itemprop="name">Catania, Teatro Massimo Bellini:&#8221;Don Pasquale&#8221;</h1>
+2016_04_lucca-teatro-del-giglio-mefistofele_
+<h1 class="entry-title" itemprop="name">Lucca, Teatro del Giglio: &#8220;Mefistofele&#8221;</h1>
+2012_05_joseph-and-the-amazing-technicolor-dreamcoat_
+<h1 class="entry-title" itemprop="name">&#8220;Joseph and the Amazing Technicolor Dreamcoat&#8221;</h1>
+2013_04_new-york-metropolitan-gotterdammerung_
+<h1 class="entry-title" itemprop="name">NYC, The Metropolitan Opera: &#8220;Gtterdmmerung&#8221;</h1>
+2012_03_londra-royal-albert-hallaida_
+<h1 class="entry-title" itemprop="name">Londra, Royal Albert Hall:&#8221;Aida&#8221;</h1>
+2012_03_die-gluckliche-hand-e-osud-alla-staatsoper-stuttgart_
+<h1 class="entry-title" itemprop="name">&#8220;Die glckliche Hand&#8221; e &#8220;Osud&#8221; alla Staatsoper Stuttgart</h1>
+2015_03_reggio-emilia-teatro-valli-falstaff_
+<h1 class="entry-title" itemprop="name">Reggio Emilia, Teatro Valli: &#8220;Falstaff&#8221;</h1>
+2015_11_pisa-teatro-verdi-don-giovanni-tenorio-o-sia-il-convitato-di-pietra_
+<h1 class="entry-title" itemprop="name">Pisa, Teatro Verdi: &#8220;Don Giovanni Tenorio o sia Il convitato di pietra&#8221;</h1>
+2014_12_voci-di-donna-al-teatro-da-ponte-di-vittorio-veneto_
+<h1 class="entry-title" itemprop="name">&#8220;Voci di donna al Teatro Da Ponte di Vittorio Veneto</h1>
+2015_12_bologna-teatro-comunale-lelisir-damore_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;L&#8217;elisir d&#8217;amore&#8221;</h1>
+2015_12_rigoletto-a-madrid_
+<h1 class="entry-title" itemprop="name">Rigoletto al Teatro Real di  Madrid</h1>
+2013_02_la-bottega-e-i-clienti-vanitosiil-barbiere-di-siviglia-al-comunale-di-ferrara_
+<h1 class="entry-title" itemprop="name">La bottega e i clienti vanitosi:&#8221;Il Barbiere di Siviglia&#8221; al Comunale di Ferrara</h1>
+2010_12_new-york-metropolitan-operala-fanciulla-del-west_
+<h1 class="entry-title" itemprop="name">New York, Metropolitan Opera:&#8221;La fanciulla del West&#8221;</h1>
+2015_01_i-capuleti-e-i-montecchi-al-teatro-la-fenice-di-venezia_
+<h1 class="entry-title" itemprop="name">&#8220;I Capuleti e i Montecchi&#8221; al Teatro La Fenice di Venezia</h1>
+2016_05_genova-teatro-carlo-felice-tosca_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Tosca&#8221;</h1>
+2013_03_madrid-teatro-de-la-zarzuela-marina_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro de la Zarzuela: &#8220;Marina&#8221;</h1>
+2012_01_monaco-di-baviera-bayerische-staatsoper-don-carlo_
+<h1 class="entry-title" itemprop="name">Monaco di Baviera, Bayerische Staatsoper: &#8220;Don Carlo&#8221;</h1>
+2014_08_romaterme-di-caracallala-boheme_
+<h1 class="entry-title" itemprop="name">Roma,Terme di Caracalla:&#8221;La Bohme&#8221;</h1>
+2016_06_lamico-fritz-al-teatro-la-fenice-di-venezia_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;Amico Fritz&#8221; al Teatro La Fenice di Venezia</h1>
+2010_12_staatsoper-stuttgartcarmen_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Carmen&#8221;</h1>
+2015_12_jesi-teatro-pergolesi-la-vedova-allegra_
+<h1 class="entry-title" itemprop="name">Jesi, Teatro Pergolesi: &#8220;La vedova allegra&#8221;</h1>
+2012_12_doppia-inaugurazione-alla-fenice_
+<h1 class="entry-title" itemprop="name">Doppia inaugurazione alla Fenice</h1>
+2013_06_marsiglia-opera-municipal-cleopatre_
+<h1 class="entry-title" itemprop="name">Marsiglia, Opra Municipal: &#8220;Cloptre&#8221;</h1>
+2013_11_bergamo-teatro-donizetti-la-finta-semplice_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;La finta semplice&#8221;</h1>
+2011_10_milano-teatro-alla-scala-der-rosenkavalier_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Der Rosenkavalier&#8221;</h1>
+2013_03_zurigoopernhausparsifal_
+<h1 class="entry-title" itemprop="name">Zurigo,Opernhaus:&#8221;Parsifal&#8221;</h1>
+2009_10_crepuscolo-veneziano_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;Gtterdmmerung&#8221;</h1>
+2011_08_a-pesaro-un-mose-in-egitto-tra-kalashnikov-e-kamikaze_
+<h1 class="entry-title" itemprop="name">A Pesaro un &#8220;Mos in Egitto&#8221; tra kalashnikov e kamikaze</h1>
+2014_11_salome-al-teatro-san-carlo-di-napoli_
+<h1 class="entry-title" itemprop="name">&#8220;Salome&#8221; al Teatro San Carlo di Napoli</h1>
+2014_11_bruxelles-theatre-la-monnaie-shell-schock_
+<h1 class="entry-title" itemprop="name">Bruxelles, Thtre La Monnaie: &#8220;Shell Schock&#8221;</h1>
+2013_01_tra-attrazione-e-sventura-rusalka-al-san-carlo-di-napoli_
+<h1 class="entry-title" itemprop="name">Tra attrazione e sventura: &#8220;Rusalka&#8221; al San Carlo di Napoli</h1>
+2013_09_como-teatro-socialeotello_
+<h1 class="entry-title" itemprop="name">Como, Teatro Sociale:&#8221;Otello&#8221;</h1>
+2012_08_arena-di-verona-carmen_
+<h1 class="entry-title" itemprop="name">Arena di Verona: &#8220;Carmen&#8221;</h1>
+2015_04_lucia-di-lammermoor-al-teatro-dellopera-di-roma_
+<h1 class="entry-title" itemprop="name">&#8220;Lucia di Lammermoor&#8221; al Teatro dell&#8217;Opera di Roma</h1>
+2015_02_teatro-regio-di-torino-le-nozze-di-figaro-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Teatro Regio di Torino: &#8220;Le nozze di Figaro&#8221; (cast alternativo)</h1>
+2015_02_staatsoper-stuttgart-berenice-regina-di-armenia-il-vologeso_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart: &#8220;Berenice, regina di Armenia&#8221; (Il Vologeso)</h1>
+2012_06_una-gelida-boheme_
+<h1 class="entry-title" itemprop="name">Una gelida &#8220;Bohme&#8221;</h1>
+2010_12_padova-teatro-verdirigoletto_
+<h1 class="entry-title" itemprop="name">Padova, Teatro Verdi:&#8221;Rigoletto&#8221;</h1>
+2014_05_opera-di-firenzeroberto-devereux_
+<h1 class="entry-title" itemprop="name">Opera di Firenze:&#8221;Roberto Devereux&#8221;</h1>
+2011_08_messico-centro-cultural-universitario-the-turn-of-the-screw_
+<h1 class="entry-title" itemprop="name">Messico, Centro Cultural Universitario: &#8220;The turn of the screw&#8221;</h1>
+2013_07_arena-di-veronagala-verdi_
+<h1 class="entry-title" itemprop="name">Arena di Verona:&#8221;Gala Verdi&#8221;</h1>
+2013_07_arena-di-veronail-trovatore_
+<h1 class="entry-title" itemprop="name">Arena di Verona:&#8221;Il Trovatore&#8221;</h1>
+2016_06_madrid-teatro-real-der-kaiser-von-atlantis-di-viktor-ullmann_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real: Der Kaiser von Atlantis di Viktor Ullmann</h1>
+2008_06_samson-et-dalila-al-comunale-di-bologna_
+<h1 class="entry-title" itemprop="name">Samson et Dalila al Comunale di Bologna</h1>
+2009_04_la-traviata-al-teatro-filarmonico-di-verona_
+<h1 class="entry-title" itemprop="name">&#8220;La Traviata&#8221; al Teatro Filarmonico di Verona</h1>
+2012_08_caracalla-festivalnorma_
+<h1 class="entry-title" itemprop="name">Caracalla Festival:&#8221;Norma&#8221;</h1>
+2011_02_modena-teatro-comunalecavalleria-rusticana-e-pagliacci_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale:&#8221;Cavalleria rusticana&#8221; e &#8220;Pagliacci&#8221;</h1>
+2011_02_metropolitan-operadon-pasquale-iphigenie-en-tauride_
+<h1 class="entry-title" itemprop="name">Metropolitan Opera:&#8221;Don Pasquale&#8221;, &#8220;Iphignie en Tauride&#8221;</h1>
+2015_07_torino-teatro-regio-il-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Il barbiere di Siviglia&#8221;</h1>
+2009_12_norma-al-teatro-fraschini-di-pavia_
+<h1 class="entry-title" itemprop="name">Pavia, Teatro Fraschini: &#8220;Norma&#8221;</h1>
+2012_12_padova-teatro-verdinabucco_
+<h1 class="entry-title" itemprop="name">Padova, Teatro Verdi:&#8221;Nabucco&#8221;</h1>
+2009_10_i-due-foscari-al-regio-di-parma_
+<h1 class="entry-title" itemprop="name">&#8220;I due Foscari&#8221; al Regio di Parma</h1>
+2012_10_ascoli-picenomanon-lescaut_
+<h1 class="entry-title" itemprop="name">Ascoli Piceno:&#8221;Manon Lescaut&#8221;</h1>
+2013_02_verona-teatro-filarmonicoattila_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico:&#8221;Attila&#8221;</h1>
+2016_04_genova-teatro-carlo-felice-andrea-chenier_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Andrea Chnier&#8221;</h1>
+2013_09_arena-di-veronaromeo-et-juliette_
+<h1 class="entry-title" itemprop="name">Arena di Verona:&#8221;Romo et Juliette&#8221;</h1>
+2012_07_venezia-teatro-la-fenicelelisir-damore_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice:&#8221;L&#8217;elisir d&#8217;amore&#8221;</h1>
+2013_05_opera-di-roma-rienzi_
+<h1 class="entry-title" itemprop="name">Opera di Roma: &#8220;Rienzi&#8221;</h1>
+2012_02_ancona-teatro-delle-musele-nozze-di-figaro_
+<h1 class="entry-title" itemprop="name">Ancona, Teatro delle Muse:&#8221;Le nozze di Figaro&#8221;</h1>
+2014_03_al-malibran-il-campiello-di-wolf-ferrari-nostalgico-ma-non-troppo_
+<h1 class="entry-title" itemprop="name">Al Malibran &#8220;Il campiello&#8221; di Wolf-Ferrari, nostalgico, ma non troppo</h1>
+2014_06_orfeo-ed-euridice-a-firenze_
+<h1 class="entry-title" itemprop="name">&#8220;Orfeo ed Euridice&#8221; a Firenze</h1>
+2013_05_madrid-teatro-de-la-zarzuela-viento-es-la-dicha-de-amor_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro de la Zarzuela: &#8220;Viento (es la dicha de Amor)&#8221;</h1>
+2010_12_citta-del-messicofidelio-riapre-il-palacio-de-bellas-artes_
+<h1 class="entry-title" itemprop="name">Citt del Messico:&#8221;Fidelio&#8221; riapre il Palacio de Bellas Artes</h1>
+2011_08_il-tempo-di-mahler-nel-tempo-di-principe_
+<h1 class="entry-title" itemprop="name">Il tempo di Mahler nel tempo di Principe</h1>
+2016_02_attila-al-teatro-comunale-di-bologna_
+<h1 class="entry-title" itemprop="name">&#8220;Attila&#8221; al Teatro Comunale di Bologna</h1>
+2008_07_lady-macbeth-del-distretto-di-mzensk-al-comunale-di-firenze_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Comunale:&#8221;Lady Macbeth del distretto di Mzesnk&#8221;</h1>
+2012_01_roma-teatro-delloperacandide_
+<h1 class="entry-title" itemprop="name">Roma, Teatro dell&#8217;Opera:&#8221;Candide&#8221;</h1>
+2012_05_palermo-manon-lescaut-per-lorchestra-sinfonica-siciliana_
+<h1 class="entry-title" itemprop="name">Palermo: Manon Lescaut per lOrchestra Sinfonica Siciliana</h1>
+2012_08_rossini-opera-festival-ciro-in-babilonia_
+<h1 class="entry-title" itemprop="name">Rossini Opera Festival: &#8220;Ciro in Babilonia&#8221;</h1>
+2014_11_la-traviata-al-teatro-lirico-di-cagliari_
+<h1 class="entry-title" itemprop="name">&#8220;La traviata&#8221; al Teatro Lirico di Cagliari</h1>
+2010_07_il-flaminio-in-scena-a-jesi_
+<h1 class="entry-title" itemprop="name">&#8220;Il Flaminio&#8221; in scena a Jesi</h1>
+2013_04_pronta-a-scoppiar-la-folgore-del-ciel-ancora-don-carlo-a-torino-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Pronta a scoppiar la folgore del ciel!  Ancora Don Carlo a Torino (cast alternativo)</h1>
+2013_04_eliogabalo-alla-gotham-chamber-opera_
+<h1 class="entry-title" itemprop="name">Eliogabalo alla Gotham Chamber Opera</h1>
+2014_10_teatro-regio-di-parma-la-forza-del-destino_
+<h1 class="entry-title" itemprop="name">Teatro Regio di Parma: &#8220;La forza del destino&#8221;</h1>
+2009_04_ancora-su-i-due-foscari_
+<h1 class="entry-title" itemprop="name">&#8230;Ancora su &#8220;I Due Foscari&#8221; scaligeri</h1>
+2011_04_parma-teatro-regioil-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Parma, Teatro Regio:&#8221;Il Barbiere di Siviglia&#8221;</h1>
+2012_07_arena-di-verona-torna-romeo-et-juliette-di-gounod_
+<h1 class="entry-title" itemprop="name">Arena di Verona: torna &#8220;Romo et Juliette&#8221; di Gounod</h1>
+2010_06_edgar-al-teatro-comunale-di-bologna_
+<h1 class="entry-title" itemprop="name">&#8220;Edgar&#8221; al Teatro Comunale di Bologna</h1>
+2010_02_la-boheme-al-teatro-filarmonico-di-verona_
+<h1 class="entry-title" itemprop="name">&#8220;La Bohme&#8221; al Teatro Filarmonico di Verona</h1>
+2012_02_bari-teatro-petruzzellicarmen_
+<h1 class="entry-title" itemprop="name">Bari, Teatro Petruzzelli:&#8221;Carmen&#8221;</h1>
+2016_04_madrid-teatro-real-parsifal_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real: Parsifal</h1>
+2013_10_stagione-lirica-sassaresefalstaff_
+<h1 class="entry-title" itemprop="name">Stagione lirica sassarese:&#8221;Falstaff&#8221;</h1>
+2015_02_werther-allopera-di-roma_
+<h1 class="entry-title" itemprop="name">&#8220;Werther&#8221; all&#8217;Opera di Roma</h1>
+2012_12_magia-del-filtro-magia-di-chung_
+<h1 class="entry-title" itemprop="name">Magia del filtro, magia di Chung</h1>
+2011_07_milano-teatro-alla-scala-litaliana-in-algeri_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;L&#8217;italiana in Algeri&#8221;</h1>
+2011_12_parigi-salle-pleyelsemele_
+<h1 class="entry-title" itemprop="name">Parigi, Salle Pleyel:&#8221;Semele&#8221;</h1>
+2015_05_la-traviata-al-teatro-real-di-madrid-altra-compagnia_
+<h1 class="entry-title" itemprop="name">La Traviata al Teatro Real di Madrid (cast alternativo)</h1>
+2013_07_ne-ballo-ne-maschere-per-verdi-alla-scala-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Teatro alla Scala: &#8220;Un ballo in maschera&#8221; (cast alternativo)</h1>
+2009_02_turandot-al-teatro-filarmonico-di-verona_
+<h1 class="entry-title" itemprop="name">&#8220;Turandot&#8221; al Teatro Filarmonico di Verona</h1>
+2013_11_perche-ritornare-allaida-scaligera_
+<h1 class="entry-title" itemprop="name">Perch ritornare allAida scaligera?</h1>
+2011_05_trieste-politeama-rossettihappy-days-il-nuovo-musical_
+<h1 class="entry-title" itemprop="name">Trieste, Politeama Rossetti:Happy Days &#8211; Il nuovo Musical</h1>
+2012_09_bergamo-teatro-donizetti-belisario_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;Belisario&#8221;</h1>
+2014_09_taranto-giovanni-paisiello-festival-semiramide-in-villa_
+<h1 class="entry-title" itemprop="name">Taranto, &#8220;Giovanni Paisiello Festival&#8221;:&#8221; Semiramide in Villa&#8221;</h1>
+2014_03_torino-teatro-regio-tosca_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Tosca&#8221;</h1>
+2014_12_teatro-comunale-di-bologna-lady-macbeth-del-distretto-di-mcensk_
+<h1 class="entry-title" itemprop="name">Teatro Comunale di Bologna: &#8220;Lady Macbeth del distretto di Mcensk&#8221;</h1>
+2015_11_venezia-teatro-la-fenice-idomeno-re-di-creta_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice: &#8220;Idomeneo, re di Creta&#8221;</h1>
+2014_11_genova-teatro-carlo-felice-luisa-miller_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Luisa Miller&#8221;</h1>
+2015_11_operalombardia-teatro-fraschini-di-pavia-un-ballo-in-maschera_
+<h1 class="entry-title" itemprop="name">OperaLombardia, Teatro Fraschini di Pavia: &#8220;Un ballo in maschera&#8221;</h1>
+2016_06_firenze-stagione-lirica-estiva-dellopera-lelisir-damore-a-palazzo-pitti_
+<h1 class="entry-title" itemprop="name">Firenze, stagione lirica estiva dell&#8217;Opera: &#8220;L&#8217;elisir d&#8217;amore&#8221; a Palazzo Pitti</h1>
+2015_07_otello-di-rossini-ritorna-al-teatro-alla-scala_
+<h1 class="entry-title" itemprop="name">Otello di Rossini ritorna al Teatro alla Scala</h1>
+2008_08_il-nabucco-intimista-di-denis-krief_
+<h1 class="entry-title" itemprop="name">Verona, 86 Festival Areniano: &#8220;Nabucco&#8221;</h1>
+2015_11_alcina-al-teatro-real-di-madrid-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Alcina al Teatro Real di Madrid (cast alternativo)</h1>
+2016_04_milano-teatro-alla-scala-la-cena-delle-beffe_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;La cena delle beffe&#8221;</h1>
+2014_10_opera-di-firenze-cavalleria-rusticana_
+<h1 class="entry-title" itemprop="name">Opera di Firenze: &#8220;Cavalleria rusticana&#8221;</h1>
+2014_10_venezia-teatro-malibran-la-porta-della-legge_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro Malibran: &#8220;La porta della legge&#8221;</h1>
+2014_05_una-tosca-ambientalista-al-teatro-la-fenice_
+<h1 class="entry-title" itemprop="name">Una &#8220;Tosca&#8221; ambientalista al Teatro La Fenice</h1>
+2014_02_perlacei-fantasmi-per-lucia-ed-edgardo_
+<h1 class="entry-title" itemprop="name">Perlacei fantasmi per Lucia ed Edgardo (cast alternativo)</h1>
+2015_03_madama-butterfly-al-teatro-petruzzelli-di-bari_
+<h1 class="entry-title" itemprop="name">&#8220;Madama Butterfly&#8221; al Teatro Petruzzelli di Bari</h1>
+2012_07_aida-a-san-galgano_
+<h1 class="entry-title" itemprop="name">&#8220;Aida&#8221; a San Galgano</h1>
+2013_03_lucca-teatro-del-giglio-napoli-milionaria_
+<h1 class="entry-title" itemprop="name">Lucca, Teatro del Giglio: Napoli milionaria</h1>
+2014_04_ferrara-teatro-comunale-la-boheme_
+<h1 class="entry-title" itemprop="name">Ferrara, Teatro Comunale: &#8220;La Bohme&#8221;</h1>
+2011_09_la-serva-padrona-di-pergolesi-e-il-teatro-dellassurdo_
+<h1 class="entry-title" itemprop="name">&#8220;La Serva padrona&#8221; di Pergolesi e il teatro dellassurdo</h1>
+2011_08_una-scala-di-seta-su-scala-reale_
+<h1 class="entry-title" itemprop="name">Una &#8220;Scala di seta&#8221; su &#8220;scala reale&#8221;</h1>
+2013_01_barcellona-gran-teatre-del-liceurusalka_
+<h1 class="entry-title" itemprop="name">Barcellona, Gran Teatre del Liceu:&#8221;Rusalka&#8221;</h1>
+2012_11_roma-teatro-dellopera-la-gioconda_
+<h1 class="entry-title" itemprop="name">Roma, Teatro dell&#8217;Opera: &#8220;La Gioconda&#8221;</h1>
+2014_01_carmen-inaugura-la-stagione-lirica-di-fano_
+<h1 class="entry-title" itemprop="name">&#8220;Carmen&#8221; inaugura la stagione lirica di Fano</h1>
+2009_09_ritorniamo-a-parlare-della-carmen-areniana_
+<h1 class="entry-title" itemprop="name">Ritorniamo a parlare della &#8220;Carmen&#8221; areniana</h1>
+2013_05_pimpinone-alla-galleria-pianetti-di-jesi_
+<h1 class="entry-title" itemprop="name">&#8220;Pimpinone&#8221; alla galleria Pianetti di Jesi</h1>
+2012_03_trieste-teatro-verdila-battaglia-di-legnano-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi:&#8221;La battaglia di Legnano&#8221; (cast alternativo)</h1>
+2012_03_verona-teatro-filarmonicoiris_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico:&#8221;Iris&#8221;</h1>
+2012_11_brescia-teatro-grande-i-capuleti-e-i-montecchi_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;I Capuleti e i Montecchi&#8221;</h1>
+2013_04_nella-villa-del-boss-mafioso-insieme-a-oberto_
+<h1 class="entry-title" itemprop="name">Nella villa del boss mafioso insieme a Oberto</h1>
+2015_09_teatro-massimo-di-palermo-la-boheme_
+<h1 class="entry-title" itemprop="name">Teatro Massimo di Palermo: &#8220;La Bohme&#8221;</h1>
+2010_04_lelisir-damore-al-comunale-di-bologna_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;elisir d&#8217;amore&#8221; al Comunale di Bologna</h1>
+2011_06_trieste-teatro-verdilucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi:&#8221;Lucia di Lammermoor&#8221;</h1>
+2013_11_pavia-teatro-fraschini-tancredi_
+<h1 class="entry-title" itemprop="name">Pavia, Teatro Fraschini: &#8220;Tancredi&#8221;</h1>
+2015_04_la-traviata-al-teatro-dellopera-di-firenze_
+<h1 class="entry-title" itemprop="name">&#8220;La traviata&#8221; al Teatro dell&#8217;Opera di Firenze</h1>
+2016_06_bologna-teatro-comunale-le-nozze-di-figaro_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale: &#8220;Le nozze di Figaro&#8221;</h1>
+2014_02_torinoturandot-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Torino:&#8221;Turandot&#8221; (cast alternativo)</h1>
+2012_06_torino-teatro-regionorma_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Norma&#8221;</h1>
+2009_10_idomeno-di-mozart-alla-scala_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Idomeneo&#8221;</h1>
+2010_12_the-boston-early-music-festivaldido-and-aeneas_
+<h1 class="entry-title" itemprop="name">The Boston Early Music Festival:&#8221;Dido and Aeneas&#8221;</h1>
+2013_06_salerno-teatro-verdisimon-boccanegra_
+<h1 class="entry-title" itemprop="name">Salerno, Teatro Verdi:&#8221;Simon Boccanegra&#8221;</h1>
+2014_06_verona-arena-opera-festivalcarmen_
+<h1 class="entry-title" itemprop="name">Verona, Arena Opera Festival:&#8221;Carmen&#8221;</h1>
+2016_01_der-fliegende-hollander-allauditorio-nacional-di-madrid_
+<h1 class="entry-title" itemprop="name">&#8220;Der fliegende Hollnder allAuditorio Nacional di Madrid</h1>
+2014_04_la-cambiale-di-matrimonio-al-valli-di-reggio-emilia_
+<h1 class="entry-title" itemprop="name">&#8220;La cambiale di matrimonio&#8221; al Valli di Reggio Emilia</h1>
+2011_01_madrid-teatro-realder-rosenkavalier_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real:&#8221;Der Rosenkavalier&#8221;</h1>
+2012_07_la-boheme-alla-choregies-orange_
+<h1 class="entry-title" itemprop="name">&#8220;La Bohme&#8221; alla Choregies Orange</h1>
+2011_12_opera-de-marseilleroberto-devereux_
+<h1 class="entry-title" itemprop="name">Opra de Marseille:&#8221;Roberto Devereux&#8221;</h1>
+2011_07_macerata-teatro-lauro-rossi-cosi-fan-tutte_
+<h1 class="entry-title" itemprop="name">Macerata, Teatro Lauro Rossi: &#8220;Cos fan tutte&#8221;</h1>
+2016_03_pesaro-auditorium-pedrotti-il-barbiere-di-siviglia_
+<h1 class="entry-title" itemprop="name">Pesaro, Auditorium Pedrotti: &#8220;Il barbiere di Siviglia&#8221;</h1>
+2013_01_bari-teatro-petruzzelliotello_
+<h1 class="entry-title" itemprop="name">Bari, Teatro Petruzzelli:&#8221;Otello&#8221;</h1>
+2013_10_brescia-teatro-grande-lelisir-damore_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;L&#8217;elisir d&#8217;amore&#8221;</h1>
+2011_10_bergamo-teatro-donizetti-maria-di-rohan_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;Maria di Rohan&#8221;</h1>
+2013_02_opera-di-toulonles-dialogues-des-carmelites_
+<h1 class="entry-title" itemprop="name">Opra di Toulon:&#8221;Les dialogues des Carmlites&#8221;</h1>
+2011_12_parigi-palais-garnierla-cenerentola_
+<h1 class="entry-title" itemprop="name">Parigi, Palais Garnier:&#8221;La Cenerentola&#8221;</h1>
+2011_05_triestemonty-pythons-spamlot_
+<h1 class="entry-title" itemprop="name">Trieste:&#8221;Monty Python&#8217;s Spamlot&#8221;</h1>
+2014_01_il-flauto-magico-al-teatro-regio_
+<h1 class="entry-title" itemprop="name">&#8220;Il flauto magico&#8221; al Teatro Regio</h1>
+2013_05_torino-teatro-regio-evgenij-onegin_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Evgenij Onegin&#8221;</h1>
+2010_07_la-fanciulla-del-west-a-san-francisco_
+<h1 class="entry-title" itemprop="name">&#8220;La fanciulla del West&#8221; a San Francisco</h1>
+2011_05_palermo-teatro-massimothe-greek-passion_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo:&#8221;The Greek Passion&#8221;</h1>
+2015_04_verona-teatro-filarmonico-il-barbiere-di-siviglia-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;Il Barbiere di Siviglia&#8221; (cast alternativo)</h1>
+2013_02_dallanime-esultanti-sboccia-lamor-la-boheme-al-teatro-regio-di-torino_
+<h1 class="entry-title" itemprop="name">Dallanime esultanti / sboccia lamor.  La bohme al Teatro Regio di Torino</h1>
+2010_11_trieste-teatro-verdila-traviata_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi:&#8221;La Traviata&#8221;</h1>
+2014_10_la-traviata-inaugura-la-stagione-del-teatro-coccia-di-novara_
+<h1 class="entry-title" itemprop="name">La Traviata inaugura la stagione del Teatro Coccia di Novara</h1>
+2011_05_bologna-teatro-comunaleernani_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale:&#8221;Ernani&#8221;</h1>
+2013_11_bergamo-teatro-sociale-la-macchina-e-laumento_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Sociale: &#8220;La macchina&#8221; e &#8220;L&#8217;aumento&#8221;</h1>
+2013_06_bergamo-teatro-donizetti-ginevra-di-scozia_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;Ginevra di Scozia&#8221;</h1>
+2011_09_palermo-teatro-massimotosca_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo:&#8221;Tosca&#8221;</h1>
+2013_11_i-vespri-siciliani-al-valli_
+<h1 class="entry-title" itemprop="name">&#8220;I Vespri Siciliani&#8221; al Valli</h1>
+2013_03_catania-teatro-massimo-bellinimadama-butterfly_
+<h1 class="entry-title" itemprop="name">Catania, Teatro Massimo Bellini:&#8221;Madama Butterfly&#8221;</h1>
+2012_12_bergamo-teatro-donizetti-la-serenata-al-vento_
+<h1 class="entry-title" itemprop="name">Bergamo, Teatro Donizetti: &#8220;La serenata al vento&#8221;</h1>
+2016_03_torino-teatro-regio-la-cenerentola_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;La Cenerentola&#8221;</h1>
+2012_09_arena-di-verona-tosca_
+<h1 class="entry-title" itemprop="name">Arena di Verona: &#8220;Tosca&#8221;</h1>
+2013_06_arena-di-veronalaida-del-centenario_
+<h1 class="entry-title" itemprop="name">Arena di Verona:l\'&#8221;Aida&#8221; del Centenario</h1>
+2014_10_teatro-sociale-di-como-adriana-lecouvreur_
+<h1 class="entry-title" itemprop="name">Teatro Sociale di Como: &#8220;Adriana Lecouvreur&#8221;</h1>
+2011_04_torino-teatro-regioi-vespri-siciliani_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;I Vespri Siciliani&#8221;</h1>
+2012_02_torino-teatro-regioognenny-angel-langelo-di-fuoco_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Ognenny Angel&#8221; (L&#8217;angelo di fuoco)</h1>
+2013_03_trieste-teatro-verdimacbeth_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi:&#8221;Macbeth&#8221;</h1>
+2015_02_novara-teatro-coccia-turandot_
+<h1 class="entry-title" itemprop="name">Novara, Teatro Coccia: &#8220;Turandot&#8221;</h1>
+2013_04_teatro-massimo-di-palermo-aida_
+<h1 class="entry-title" itemprop="name">Teatro Massimo di Palermo: &#8220;Aida&#8221;</h1>
+2015_02_genova-teatro-carlo-felice-lucia-di-lammermoor-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Lucia di Lammermoor&#8221; (cast alternativo)</h1>
+2014_10_lelisir-damore-al-carlo-felice-di-genova_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;elisir d&#8217;amore&#8221; al Carlo Felice di Genova</h1>
+2016_06_torino-teatro-regio-carmen_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Carmen&#8221; (cast alternativo)</h1>
+2013_01_parma-teatro-regio-un-ballo-in-maschera_
+<h1 class="entry-title" itemprop="name">Parma, Teatro Regio: &#8220;Un ballo in maschera&#8221;</h1>
+2008_08_morte-a-venezia-il-testamento-in-musica-di-benjamin-britten_
+<h1 class="entry-title" itemprop="name">Venezia, Teatro La Fenice:&#8221;Death in Venice&#8221;</h1>
+2014_06_teatro-massimo-di-palermonorma_
+<h1 class="entry-title" itemprop="name">Teatro Massimo di Palermo:&#8221;Norma&#8221;</h1>
+2015_02_teatro-dellopera-di-firenze-il-pipistrello_
+<h1 class="entry-title" itemprop="name">Teatro dell&#8217;Opera di Firenze: &#8220;Il Pipistrello&#8221;</h1>
+2012_07_staatsoper-stuttgartdon-giovanni_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Don Giovanni&#8221;</h1>
+2010_02_don-giovanni-al-teatro-alla-scala_
+<h1 class="entry-title" itemprop="name">&#8220;Don Giovanni&#8221; al Teatro alla Scala</h1>
+2015_03_verona-teatro-filarmonico-el-amor-brujo-cavalleria-rusticana_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;El amor brujo&#8221; &#038; &#8220;Cavalleria rusticana&#8221;</h1>
+2013_03_new-york-metropolitanparsifal_
+<h1 class="entry-title" itemprop="name">New York, Metropolitan:&#8221;Parsifal&#8221;</h1>
+2014_05_la-tradizionale-modernita-di-tosca-al-teatro-la-fenice-cast-alternativo_
+<h1 class="entry-title" itemprop="name">La tradizionale modernit di Tosca al Teatro La Fenice (cast alternativo)</h1>
+2012_11_et-surtout-la-chose-enivrante-la-liberte-carmen-al-regio-di-torino_
+<h1 class="entry-title" itemprop="name">Et surtout la chose enivrante: La libert! Carmen al Regio di Torino</h1>
+2015_06_settimane-musicali-al-teatro-olimpico-di-vicenza-don-giovanni_
+<h1 class="entry-title" itemprop="name">Settimane Musicali al Teatro Olimpico di Vicenza: &#8220;Don Giovanni&#8221;</h1>
+2014_09_norma-al-ncpa-di-pechino_
+<h1 class="entry-title" itemprop="name">&#8220;Norma&#8221; al NCPA di Pechino</h1>
+2013_07_maria-di-venosa-tra-flashback-fantasmi-sonori-e-tormenti-visivi_
+<h1 class="entry-title" itemprop="name">&#8220;Maria di Venosa&#8221;, tra flashback, fantasmi sonori e tormenti visivi</h1>
+2013_05_firenze-teatro-del-maggio-musicale-fiorentino-don-carlo_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro del Maggio Musicale Fiorentino: Don Carlo</h1>
+2010_06_don-pasquale-dal-teatro-olimpico-di-vicenza_
+<h1 class="entry-title" itemprop="name">&#8220;Don Pasquale&#8221; dal Teatro Olimpico di Vicenza</h1>
+2014_02_firenzemadama-butterfly_
+<h1 class="entry-title" itemprop="name">Firenze:&#8221;Madama Butterfly&#8221;</h1>
+2010_09_gigi-al-birch-north-park-theatre-san-diego_
+<h1 class="entry-title" itemprop="name">&#8220;Gigi&#8221; al Birch North Park Theatre, San Diego</h1>
+2011_09_los-angeles-operaevgenij-onegin_
+<h1 class="entry-title" itemprop="name">Los Angeles Opera:&#8221;Evgenij Onegin&#8221;</h1>
+2011_06_palermo-teatro-massimolucia-di-lammermoor_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro Massimo:&#8221;Lucia di Lammermoor&#8221;</h1>
+2015_03_macbeth-al-teatro-verdi-di-pisa_
+<h1 class="entry-title" itemprop="name">&#8220;Macbeth&#8221; al Teatro Verdi di Pisa</h1>
+2012_04_londraenojakob-lenz_
+<h1 class="entry-title" itemprop="name">Londra,ENO:&#8221;Jakob Lenz&#8221;</h1>
+2010_11_torino-teatro-regiomadama-butterfly_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Madama Butterfly&#8221;</h1>
+2012_11_iphigenie-en-aulide-di-gluck-alla-statsoper-stuttgart_
+<h1 class="entry-title" itemprop="name">&#8220;Iphignie en Aulide&#8221; di Gluck alla Statsoper Stuttgart</h1>
+2014_09_il-cappello-di-paglia-di-firenze-al-petruzzelli-di-bari_
+<h1 class="entry-title" itemprop="name">&#8220;Il cappello di paglia di Firenze&#8221; al Petruzzelli di Bari</h1>
+2013_10_rigoletto-al-verdi-di-padova_
+<h1 class="entry-title" itemprop="name">&#8220;Rigoletto&#8221; al Verdi di Padova</h1>
+2012_02_bologna-teatro-comunalela-traviata_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale:&#8221;La Traviata&#8221;</h1>
+2012_11_barcellona-gran-teatre-del-liceu-lelisir-damore_
+<h1 class="entry-title" itemprop="name">Barcellona, Gran Teatre del Liceu: &#8220;L&#8217;elisir d&#8217;amore&#8221;</h1>
+2014_02_ogni-farfalla-da-uno-spillo-e-trafitta_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio: &#8220;Madama Butterfly&#8221;</h1>
+2011_07_milano-teatro-alla-scala-attila_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Attila&#8221;</h1>
+2012_07_macerata-opera-festivalla-boheme_
+<h1 class="entry-title" itemprop="name">Macerata Opera Festival:&#8221;La Bohme&#8221;</h1>
+2013_06_firenze-teatro-della-pergola-macbeth_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro della Pergola: &#8220;Macbeth&#8221;</h1>
+2014_02_lelisir-damore-al-teatro-delle-muse-di-ancona_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;elisir d&#8217;amore&#8221; al Teatro delle Muse di Ancona</h1>
+2011_04_bologna-teatro-comunalerisorgimento-il-prigioniero_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale:&#8221;Risorgimento&#8221;, &#8220;Il prigioniero&#8221;</h1>
+2010_06_dal-badisches-staatstheater-di-karlsruhe_
+<h1 class="entry-title" itemprop="name">Badisches Staatstheater di Karlsruhe:&#8221;Euryanthe&#8221;</h1>
+2010_10_aida-alla-san-francisco-opera_
+<h1 class="entry-title" itemprop="name">&#8220;Aida&#8221; alla San Francisco Opera</h1>
+2012_01_berlino-deutsche-opertancredi_
+<h1 class="entry-title" itemprop="name">Berlino, Deutsche Oper:&#8221;Tancredi&#8221;</h1>
+2012_06_maggio-musicale-fiorentino-dittico-bartok_
+<h1 class="entry-title" itemprop="name">Maggio Musicale Fiorentino: Dittico Bartk</h1>
+2013_11_la-traviata-al-regio-di-torino_
+<h1 class="entry-title" itemprop="name">&#8220;La Traviata&#8221; al Regio di Torino</h1>
+2011_05_firenze-teatro-goldonilitalia-del-destino_
+<h1 class="entry-title" itemprop="name">Firenze, Teatro Goldoni:&#8221;L&#8217;Italia del destino&#8221;</h1>
+2015_03_siegfried-al-gran-teatre-del-liceu-di-barcelona_
+<h1 class="entry-title" itemprop="name">Siegfried al Gran Teatre del Liceu di Barcelona</h1>
+2011_03_trieste-teatro-verdisalome_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi:&#8221;Salome&#8221;</h1>
+2015_02_milano-teatro-alla-scala-aida_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Aida&#8221;</h1>
+2012_11_die-zauberflote-allaccademia-di-santa-cecilia_
+<h1 class="entry-title" itemprop="name">&#8220;Die Zauberflte&#8221; all&#8217;Accademia di Santa Cecilia</h1>
+2011_09_san-francisco-operaheart-of-a-soldier_
+<h1 class="entry-title" itemprop="name">San Francisco Opera:&#8221;Heart of a Soldier&#8221;</h1>
+2012_05_madrid-teatro-real-cyrano-de-bergerac_
+<h1 class="entry-title" itemprop="name">Madrid, Teatro Real: &#8220;Cyrano de Bergerac&#8221;</h1>
+2014_06_teatro-comunale-di-bolognacosi-fan-tutte_
+<h1 class="entry-title" itemprop="name">Teatro Comunale di Bologna:&#8221;Cos fan tutte&#8221;</h1>
+2009_02_laffare-makropulos-alla-scala_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;L&#8217;Affare Makropulos&#8221;</h1>
+2016_04_opera-di-firenze-i-capricci-della-sorte-ossia-litaliana-in-algeri_
+<h1 class="entry-title" itemprop="name">Opera di Firenze: &#8220;I capricci della sorte, ossia l&#8217;Italiana in Algeri&#8221;</h1>
+2014_03_teatro-alla-scalacsarskaja-nevesta-una-sposa-per-lo-zar_
+<h1 class="entry-title" itemprop="name">Teatro alla Scala:&#8221;Csarskaja Nevesta&#8221; (Una sposa per lo Zar)</h1>
+2012_08_madrid-tearo-realainadamar_
+<h1 class="entry-title" itemprop="name">Madrid, Tearo Real:&#8221;Ainadamar&#8221;</h1>
+2012_11_cesena-teatro-boncidido-and-aeneas_
+<h1 class="entry-title" itemprop="name">Cesena, Teatro Bonci:&#8221;Dido and Aeneas&#8221;</h1>
+2015_09_operalombardia-como-teatro-sociale-le-nozze-di-figaro_
+<h1 class="entry-title" itemprop="name">OperaLombardia,  Teatro Sociale di Como: &#8220;Le nozze di Figaro&#8221;</h1>
+2011_12_londra-covent-gardenla-traviata_
+<h1 class="entry-title" itemprop="name">Londra, Covent Garden:&#8221;La Traviata&#8221;</h1>
+2012_01_trieste-teatro-verdianna-bolena_
+<h1 class="entry-title" itemprop="name">Trieste, Teatro Verdi:&#8221;Anna Bolena&#8221;</h1>
+2014_11_staatsoper-stuttgart-chovanscina_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart: &#8220;Chovanina&#8221;</h1>
+2011_02_milano-teatro-alla-scala-tosca_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Tosca&#8221;</h1>
+2011_11_londra-english-national-operale-nozze-di-figaro_
+<h1 class="entry-title" itemprop="name">Londra, English National Opera:&#8221;Le nozze di Figaro&#8221;</h1>
+2011_11_modena-teatro-comunale-romeo-et-juliette_
+<h1 class="entry-title" itemprop="name">Modena, Teatro Comunale: &#8220;Romo et Juliette&#8221;</h1>
+2012_05_parigi-theatre-du-chateletnixon-in-china_
+<h1 class="entry-title" itemprop="name">Parigi, Thtre du Chtelet:&#8221;Nixon in China&#8221;</h1>
+2014_03_verona-teatro-filarmonico-la-vedova-allegra_
+<h1 class="entry-title" itemprop="name">Verona, Teatro Filarmonico: &#8220;La vedova allegra&#8221;</h1>
+2012_12_bologna-teatro-comunaleil-trovatore_
+<h1 class="entry-title" itemprop="name">Bologna, Teatro Comunale:&#8221;Il Trovatore&#8221;</h1>
+2015_03_el-amor-brujo-e-cavalleria-rusticana-al-teatro-filarmonico-di-verona_
+<h1 class="entry-title" itemprop="name">&#8220;El amor brujo&#8221; e &#8220;Cavalleria rusticana&#8221; al Teatro Filarmonico di Verona</h1>
+2008_09_un-rigoletto-nel-segno-della-tradizione_
+<h1 class="entry-title" itemprop="name">Arena di Verona 2008:&#8221;Rigoletto&#8221;</h1>
+2011_11_brescia-teatro-grande-romeo-et-juliette_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;Romo et Juliette&#8221;</h1>
+2010_10_prima-mondiale-de-il-postino-a-los-angeles_
+<h1 class="entry-title" itemprop="name">Prima mondiale de &#8220;Il postino&#8221; a Los Angeles</h1>
+2013_10_staatsoper-stuttgartfalstaff_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Falstaff&#8221;</h1>
+2015_11_le-nozze-di-figaro-al-teatro-fraschini-di-pavia_
+<h1 class="entry-title" itemprop="name">&#8220;Le nozze di Figaro&#8221; al Teatro Fraschini di Pavia</h1>
+2014_02_pisales-contes-dhoffmann_
+<h1 class="entry-title" itemprop="name">Pisa:&#8221;Les Contes d&#8217;Hoffmann&#8221;</h1>
+2013_08_litaliana-in-algeri-apre-il-rof_
+<h1 class="entry-title" itemprop="name">&#8220;L&#8217;Italiana in Algeri&#8221; apre il ROF</h1>
+2008_06_interessante-dittico-alla-scala-di-milano_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Il prigioniero&#8221;, &#8220;Il castello del duca Barbabl&#8221;</h1>
+2014_11_milano-teatro-alla-scala-simon-boccanegra_
+<h1 class="entry-title" itemprop="name">Milano, Teatro alla Scala: &#8220;Simon Boccanegra&#8221;</h1>
+2015_03_les-pecheurs-de-perles-allauditorium-rai-di-torino_
+<h1 class="entry-title" itemprop="name">Les pcheurs de perles allAuditorium RAI di Torino</h1>
+2012_08_choregies-dorangeturandot_
+<h1 class="entry-title" itemprop="name">Chorgies d&#8217;Orange:&#8221;Turandot&#8221;</h1>
+2014_04_genova-teatro-carlo-felice-la-boheme_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;La Bohme&#8221;</h1>
+2012_03_parigi-opera-comiquedido-and-aeneas_
+<h1 class="entry-title" itemprop="name">Parigi, Opra Comique:&#8221;Dido and Aeneas&#8221;</h1>
+2015_03_genova-teatro-carlo-felice-fedora-cast-alternativo_
+<h1 class="entry-title" itemprop="name">Genova, Teatro Carlo Felice: &#8220;Fedora&#8221; (cast alternativo)</h1>
+2011_07_palermo-teatro-di-verduraturandot_
+<h1 class="entry-title" itemprop="name">Palermo, Teatro di Verdura:&#8221;Turandot&#8221;</h1>
+2011_01_nyc-metropolitan-opera-the-magic-flute_
+<h1 class="entry-title" itemprop="name">NYC, Metropolitan Opera: &#8220;The magic flute&#8221;</h1>
+2013_04_opera-di-romasamson-et-dalila_
+<h1 class="entry-title" itemprop="name">Opera di Roma:&#8221;Samson et Dalila&#8221;</h1>
+2014_05_teatro-alla-scala-di-milanoelektra_
+<h1 class="entry-title" itemprop="name">Teatro alla Scala di Milano:&#8221;Elektra&#8221;</h1>
+2010_11_teatro-alla-scala-carmen_
+<h1 class="entry-title" itemprop="name">Teatro alla Scala: &#8220;Carmen&#8221; (ripresa)</h1>
+2011_10_brescia-teatro-grande-i-puritani_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;I puritani&#8221;</h1>
+2011_10_brescia-teatro-grande-rigoletto_
+<h1 class="entry-title" itemprop="name">Brescia, Teatro Grande: &#8220;Rigoletto&#8221;</h1>
+2012_01_torino-teatro-regiotosca_
+<h1 class="entry-title" itemprop="name">Torino, Teatro Regio:&#8221;Tosca&#8221;</h1>
+2014_08_arena-sferisterio-di-macerata-tosca_
+<h1 class="entry-title" itemprop="name">Arena Sferisterio di Macerata: &#8220;Tosca&#8221;</h1>
+2014_03_fanoteatro-della-fortunarigoletto_
+<h1 class="entry-title" itemprop="name">Fano,Teatro della Fortuna:&#8221;Rigoletto&#8221;</h1>
+2012_04_powder-her-face_
+<h1 class="entry-title" itemprop="name">&#8220;Powder her face&#8221;</h1>
+2016_01_la-voix-humaine-e-suor-angelica-allopera-di-firenze_
+<h1 class="entry-title" itemprop="name">&#8220;La voix humaine&#8221; e &#8220;Suor Angelica&#8221; all&#8217;Opera di Firenze</h1>
+2013_11_il-flauto-magico-o-un-flauto-magico_
+<h1 class="entry-title" itemprop="name">&#8220;Il flauto magico&#8221; o &#8220;Un flauto magico&#8221;?</h1>
+2013_05_staatsoper-stuttgartariadne-auf-naxos_
+<h1 class="entry-title" itemprop="name">Staatsoper Stuttgart:&#8221;Ariadne auf Naxos&#8221;</h1>
+2011_10_vec-makropulos-per-la-terza-volta-a-firenze_
+<h1 class="entry-title" itemprop="name">&#8220;Vc Makropulos&#8221; per la terza volta a Firenze</h1>
+2010_10_attila-a-busseto_
+<h1 class="entry-title" itemprop="name">&#8220;Attila&#8221; a Busseto</h1>
+2014_03_teatro-valli-di-reggio-emiliatosca_
+<h1 class="entry-title" itemprop="name">Teatro Valli di Reggio Emilia:&#8221;Tosca&#8221;</h1>
+1175
+
+Process finished with exit code 0
