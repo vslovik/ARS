@@ -20,7 +20,7 @@ class Parser(object):
     HEADLINE_FILE = '/data/headline.txt'
 
     ROLE_LINE_PATTERN = '<em>([^<>]+?)</em>([A-Z\s\/]+[A-Z])<br />'
-    TITLE_PATTERN = '<br />[^<>]+<strong>([A-Z\s\/]+[A-Z])?</strong>'
+    TITLE_PATTERN = '<title>(.+)</title>'
     CREDIT_LINE_PATTERNS = ['<br />([^<>]+)<strong>([a-zA-Z\s\/]+[a-zA-Z])?</strong>',
                             '<br />([^<>]+)<b>([a-zA-Z\s\/]+[a-zA-Z])?</b>']
     CREDIT_ROLES = ['Musica di', 'Direttore', 'Maestro del Coro', 'Regia', 'Maestro del coro', 'musica di']
@@ -51,7 +51,7 @@ class Parser(object):
 
     def parse_page(self, content, year, month):
         headline = Parser.parse_headline(content, year, month)
-        entry = self.parse_credits(content, year)
+        entry = Parser.parse_credits(content, year)
         return headline
 
     @staticmethod
@@ -69,7 +69,57 @@ class Parser(object):
 
         return headline
 
-    def parse_credits(self, content, year):
+    @staticmethod
+    def clean(str):
+        return str.\
+            replace('ritorna', ''). \
+            replace('torna', ''). \
+            replace('Torna', ''). \
+            replace('chiude la stagione', ''). \
+            replace('(cast alternativo)', ''). \
+            replace('(ripresa)', ''). \
+            replace('inaugura la stagione', ''). \
+            replace('trionfano', ''). \
+            replace('per la prima volta', ''). \
+            replace('diverte il pubblico', ''). \
+            replace('Una trionfale', ''). \
+            strip("'").\
+            strip(" ")
+
+    @staticmethod
+    def parse_credits(content, year):
+        pattern = re.compile(Parser.TITLE_PATTERN)
+        match = pattern.findall(content)
+        if len(match):
+            title = match[0].replace(' | GBOPERA', '').\
+                replace('&#8220;', '"'). \
+                replace('&#8221;', '"'). \
+                replace('&#8217;', "'")
+
+            has_delimeter = False
+            if ':' in title:
+                parts = title.split(':')
+                if len(parts) == 2:
+                    has_delimeter = True
+                    place, name = parts
+                    print(Parser.clean(place) + '|' + Parser.clean(name))
+
+            if not has_delimeter:
+                if 'Messico' not in title:
+                    for delimiter in [' dal ', ' al ', ' dalla ', ' alla ', ' alle ',
+                                      " dall",  "all'", ' nella ', ' nel ', ' del ',
+                                      ' apre ']:
+                        if delimiter in title:
+                            parts = title.split(delimiter)
+                            if len(parts) == 2:
+                                name, place = parts
+                                if '"' in name and len(name) < 20:
+                                    has_delimeter = True
+                                    print(Parser.clean(place) + '|' + Parser.clean(name))
+                                    break
+            if not has_delimeter:
+                print(title)
+
         left_selector, right_selector = '<div class="entry-content" itemprop="articleBody" style="color: #363636">',\
                                         '</div><div class="clear"></div>'
         pos = content.index(left_selector)
@@ -77,21 +127,23 @@ class Parser(object):
         pos = content.index(right_selector)
         entry = content[:pos]
 
-        pattern = re.compile(Parser.ROLE_LINE_PATTERN)
-        match = pattern.findall(entry)
-        for (role, name) in match:
-            print(role.strip() + '|' + name.strip() + '\n')
+        # pattern = re.compile(Parser.ROLE_LINE_PATTERN)
+        # match = pattern.findall(entry)
+        # for (role, name) in match:
+        #     print(role.strip() + '|' + name.strip() + '\n')
+        #
+        # matches = []
+        # for item in Parser.CREDIT_LINE_PATTERNS:
+        #     pattern = re.compile(item)
+        #     matches.append(pattern.findall(entry))
+        #
+        # for match in matches:
+        #     for (role, name) in match:
+        #         r = role.replace('&nbsp;', ' ').strip()
+        #         if r in Parser.CREDIT_ROLES:
+        #             print(r + '|' + name)
 
-        matches = []
-        for item in Parser.CREDIT_LINE_PATTERNS:
-            pattern = re.compile(item)
-            matches.append(pattern.findall(entry))
 
-        for match in matches:
-            for (role, name) in match:
-                r = role.replace('&nbsp;', ' ').strip()
-                if r in Parser.CREDIT_ROLES:
-                    print(r + '|' + name)
 
         return entry
 

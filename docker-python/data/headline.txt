@@ -9,28 +9,28 @@
 2013|03|Bari, Teatro Petruzzelli:"La muette de Portici"
 2013|11|Philadelphia Opera: "Svadba-Wedding"
 2011|12|Venezia, Teatro La Fenice:"Il Trovatore"
-2014|08|Verona, Arena Opera Festival:"Romo et Juliette"
+2014|08|Verona, Arena Opera Festival:"Roméo et Juliette"
 2016|05|"Lucia di Lammermoor" al Teatro Regio di Torino
 2016|07|Staatsoper Stuttgart: "I Puritani"
 2016|03|Verona, Teatro Filarmonico: "Rigoletto"
 2014|10|Staatsoper Stuttgart: "Jakob Lenz"
 2012|03|Roma,Teatro dell'Opera:"Madama Butterfly"
 2011|12|"The Fairy Queen" alla Salle Pleyel di Parigi
-2012|11|Opra di Toulon:"Madama Butterfly"
+2012|11|Opéra di Toulon:"Madama Butterfly"
 2013|11|Teatro Regio di Torino: "Il Barbiere di Siviglia"
 2011|01|NYC, Metropolitan Opera: "La fanciulla del West"
 2011|11|Pisa, Teatro Verdi:"Madama Butterfly"
 2015|06|Napoli, Teatro San Carlo: "La Cenerentola"
-2011|01|Milano, Teatro alla Scala: "Die Walkre"
+2011|01|Milano, Teatro alla Scala: "Die Walküre"
 2016|06|Teatro dell'Opera di Roma: "Linda di Chamounix"
 2013|01|Palermo:"Das Rheingold"
 2014|05|Palermo, Teatro Massimo: "Don Giovanni"
 2012|05|Vicenza, Teatro Olimpico:"Il ratto dal serraglio"
-2013|07|Non delude "lAmbizione delusa", testamento comico di Leonardo Leo
-2011|11|Lucca, Teatro del Giglio:"La Bohme"
+2013|07|Non delude "l’Ambizione delusa", testamento comico di Leonardo Leo
+2011|11|Lucca, Teatro del Giglio:"La Bohème"
 2012|08|Rossini Opera Festival: "Matilde di Shabran"
 2015|02|"Jenufa" alla Staatsoper Stuttgart
-2015|10|Liegi, Opra Royale de Wallonie: "Ernani"
+2015|10|Liegi, Opéra Royale de Wallonie: "Ernani"
 2012|11|Napoli, Teatro San Carlo:"Les Pecheurs de Perles"
 2012|11|"Il filosofo di campagna" al Teatro Comunale di Belluno
 2014|10|Brescia, Teatro Grande: "Madama Butterfly"
@@ -40,7 +40,7 @@
 2013|03|Genova, Teatro Carlo Felice: "Rigoletto"
 2011|05|Metropolitan Opera:"Wozzeck"
 2016|04|"La Cenerentola" al Teatro Massimo di Palermo
-2012|11|Bergamo, Teatro Donizetti: "Cos fan tutte"
+2012|11|Bergamo, Teatro Donizetti: "Così fan tutte"
 2016|04|"Madama Butterfly" al Teatro Comunale di Modena
 2014|11|"Tosca" al Teatro Massimo di Palermo
 2014|02|Modena:"La Clemenza di Tito"
@@ -50,112 +50,113 @@
 2009|10|"Agrippina" torna a Venezia
 2012|10|Parigi, Salle Pleyel: "Tristan und Isolde"
 2013|08|Roma, Terme di Caracalla:"Tosca"
-2016|07|I Puritani al Teatro Real di Madrid
+2016|07|“I Puritani” al Teatro Real di Madrid
 2011|03|Verona, Teatro Filarmonico:"Peer Gynt"
 2010|12|Valencia, Palau de Les Arts:"Manon"
 2009|09|"La scala di seta" al ROF
 2015|03|"L'elisir d'amore" al Teatro della Fortuna di Fano
-2015|10|Pellas et Mlisande inaugura la stagione dellOSN RAI a Torino
+2015|10|“Pelléas et Mélisande” inaugura la stagione dell’OSN RAI a Torino
 2012|04|"Il Barbiere di Siviglia" al Petruzzelli di Bari
-2010|10|"Montezuma" a Citt del Messico
+2010|10|"Montezuma" a Città del Messico
 2010|12|Modena, Teatro Comunale:"Cats"
 2008|10|Rossini Opera Festival 2008:"L'equivoco stravagante"
 2015|01|Palermo, Teatro Massimo: "Gisela!"
-2013|01|La solita forma nei Masnadieri
+2013|01|La “solita forma” nei Masnadieri
 2011|02|Roma, Teatro dell'Opera:"Uno sguardo dal ponte"
-2016|03|Madrid, Teatro Real: Written on skin di George Benjamin
+2016|03|Madrid, Teatro Real: “Written on skin” di George Benjamin
 2010|04|"Lulu" al Teatro alla Scala
 2012|09|Riccardo Muti dirige "I due Figaro" a Buenos Aires
 2011|10|Madrid, Teatro Real:"Elektra"
 2014|03|Firenze, Teatro Goldoni: "La metamorfosi"
 2016|05|Torino, Teatro Regio: "Pollicino"
 2013|07|A Macerata un "Trovatore" tra Eschilo e Stephen King
-2010|09|Due farse rossiniane a Citt del Messico
-2011|04|Teatro di Bellas Artes:"La mulata de Crdoba", "La vida breve"
+2010|09|Due farse rossiniane a Città del Messico
+2011|04|Teatro di Bellas Artes:"La mulata de Córdoba", "La vida breve"
 2015|07|Venezia, Teatro La Fenice: "Juditha Triumphans"
 2013|03|Teatro della Fortuna di Fano:"Falstaff"
-2015|03|Il turco in Italia al Teatro Regio di Torino
-2015|02|Catania, Teatro Massimo Bellini: "La Bohme"
+2015|03|“Il turco in Italia” al Teatro Regio di Torino
+2015|02|Catania, Teatro Massimo Bellini: "La Bohème"
 2014|12|"Tosca" al Carlo Felice di Genova
 2011|02|Trieste:"I due Foscari"
 2012|02|Verona, Teatro Filarmonico:"Pagliacci"
 2013|12|"Otello" torna al Carlo Felice
 2011|12|Salerno, Teatro Verdi:"Norma"
 2010|01|"Salome" al Teatro Comunale di Bologna
-2013|11|"Cos fan tutte" al Comunale di Sassari
+2013|11|"Così fan tutte" al Comunale di Sassari
 2011|04|Teatro del Palacio de Bellas Artes:"Rusalka"
-2013|04|Un "Don Carlo" in gran spolvero per il compleanno del Regio
+2013|04|Un "Don Carlo" in gran spolvero per il “compleanno” del Regio
 2011|04|Reggio Emilia, Teatro Valli:"Rigoletto"
-2013|05|Marsiglia, Opra Municipal: "La clemenza di Tito"
+2013|05|Marsiglia, Opéra Municipal: "La clemenza di Tito"
 2013|05|Bologna, Teatro Comunale: "Il trionfo di Clelia"
 2011|05|Trieste, Teatro Verdi:"La Medium", "Gianni Schicchi"
-2013|01|Staatsoper Stuttgart:" Gtterdmmerung"
+2013|01|Staatsoper Stuttgart:" Götterdämmerung"
 2010|11|Modena, Teatro Comunale:"Cappuccetto Rosso"
 2014|06|Teatro Carlo Felice di Genova: "Il Barbiere di Siviglia"
 2015|10|Genova, Teatro Carlo Felice: "Simon Boccanegra"
 2014|06|"Un ballo in maschera" all'Arena di Verona
 2014|02|Parma, Teatro Regio: "La cambiale di matrimonio"
 2016|05|Milano, Teatro alla Scala: "La fanciulla del West"
-2012|04|Laltra faccia della luna:"I Masnadieri" alTeatro di San Carlo
+2012|04|L’altra faccia della luna:"I Masnadieri" alTeatro di San Carlo
 2014|12|Modena, Teatro Comunale: "La rondine" (cast alternativo)
 2012|01|Bologna, Teatro Comunale: "Turandot"
 2011|08|Abbazia di San Galgano:"La Traviata"
-2013|01|Firenze, Teatro Comunale:"Die Walkre"
+2013|01|Firenze, Teatro Comunale:"Die Walküre"
 2014|12|Venezia, Teatro La Fenice: "Simon Boccanegra"
-2008|08|Verona, 86 Festival Lirico:"Aida"
-2015|10|Apollo et Hyacinthus di Mozart al Teatro Litta di Milano
-2012|02|Berlino, Komische Oper:"Die sieben Todsnden"
+2008|08|Verona, 86° Festival Lirico:"Aida"
+2015|10|“Apollo et Hyacinthus” di Mozart al Teatro Litta di Milano
+2012|02|Berlino, Komische Oper:"Die sieben Todsünden"
 2014|07|"Turandot" al Teatro Lirico di Cagliari
 2012|11|Bilbao: "Un giorno di regno"
-2012|10|Opra di Toulon:"Carmen"
+2012|10|Opéra di Toulon:"Carmen"
 2009|01|Venezia, Teatro la Fenice: "Von heute auf morgen", "Pagliacci"
 2012|10|Madrid, Teatro Real:"Boris Godunov"
 2014|12|"Adriana Lecouvreur" al Comunale di Sassari
 2012|02|Filosofar cantando
 2009|12|Verona, Teatro Filarmonico: "Il mondo alla rovescia"
-2015|01|Bernd Alois Zimmermann: Die Soldaten al Teatro alla Scala
+2015|01|Bernd Alois Zimmermann: “Die Soldaten” al Teatro alla Scala
 2014|02|"Turandot" al Regio
-2016|05|Milano, Teatro alla Scala: "Lheure espagnole" &#8211; "Lenfant et les sortilges"
+2016|05|Milano, Teatro alla Scala: "L’heure espagnole" &#8211; "L’enfant et les sortilèges"
 2009|10|"L'Orfeo" di Monteverdi torna alla Scala
-2014|06|"Die Zauberflte" (Il Flauto Magico) a Cagliari
+2014|06|"Die Zauberflöte" (Il Flauto Magico) a Cagliari
 2012|03|Rovigo, Teatro Sociale:"Adelaide di Borgogna" di Generali
 2012|01|Staatsoper Stuttgart:"La Sonnambula"
 2011|05|Trieste:"Notre-Dame de Paris"
-2011|04|Opera di Roma:"Die Entfhrung aus dem Serail"
+2011|04|Opera di Roma:"Die Entführung aus dem Serail"
 2010|10|"Le nozze di Figaro" a Los Angeles
 2016|03|Teatro Regio di Torino: "La cenerentola" (cast alternativo)
 2015|12|Opera di Firenze: "Rigoletto"
 2015|07|Cagliari, Teatro Lirico: "L'elisir d'amore"
-2016|02|Palermo, Teatro Massimo: "Gtterdmmerung"
-2013|07|"Lelisir damore" a Torino (cast alternativo)
+2016|02|Palermo, Teatro Massimo: "Götterdämmerung"
+2013|07|"L’elisir d’amore" a Torino (cast alternativo)
 2013|12|"La Favorite" a Monaco (Monte-Carlo)
 2009|05|"Tosca" chiude la stagione del Regio di Parma
 2015|12|Teatro dell'Opera di Roma: "The Bassarids"
-2015|09|Bruxelles, Thtre La Monnaie: "L'elisir d'amore"
-2015|10|"Die Zauberflte" al Teatro Massimo di Palermo
+2015|09|Bruxelles, Théâtre La Monnaie: "L'elisir d'amore"
+2015|10|"Die Zauberflöte" al Teatro Massimo di Palermo
 2014|08|Sessantesimo Festival Puccini, Torre del Lago:"Turandot"
 2013|05|Bologna, Teatro Comunale: "Norma"
 2015|06|Torino, Teatro Regio: "Faust"
 2013|10|Torino, Teatro Regio:"Simon Boccanegra" (cast alternativo)
 2016|02|Teatro dell'Opera di Roma: "Il barbiere di Siviglia"
-2011|11|Fidenza, Teatro Magnani: "La Bohme"
+2011|11|Fidenza, Teatro Magnani: "La Bohème"
 2015|04|Rovereto, Teatro Zandonai: "Il barbiere di Siviglia"
 2011|01|Buon anno Trieste! &#8211; Musical StarTS
 2012|11|"L'Italiana in Algeri" al Massimo "Bellini" di Catania
 2008|07|Teatro alla Scala:"Il Giocatore" (Igrok')
 2013|02|Verona, Teatro Ristori:"Dido and Aeneas"
 2015|10|Torino, Teatro Regio: "Aida" (cast alternativo)
-2012|04|Opra Bastille:"Pellas et Mlisande"
-2015|05|"Hnsel und Gretel" al Teatro Regio di Torino
+2012|04|Opéra Bastille:"Pelléas et Mélisande"
+2015|05|"Hänsel und Gretel" al Teatro Regio di Torino
 2011|08|Cuernavaca, Morelos:"Le nozze di Figaro"
 2012|09|Rossini Opera Festival: "Il signor Bruschino"
-2012|10|Opra di Marsiglia:"Carmen"
+2013|04|Opéra de Monte-Carlo: "Amica"
+2012|10|Opéra di Marsiglia:"Carmen"
 2012|12|Facciamo "Macbeth"!
 2011|07|Buenos Aires, Teatro Avenida: "Il mondo della luna"
 2012|07|Torino, Teatro Regio:"Un ballo in maschera"
 2012|04|"Elisabeth" al Politeama Rossetti
 2009|08|L'Arena celebra Domingo
-2015|03|Da Lorca a Sotelo: prima mondiale di El Pblico a Madrid
+2015|03|Da Lorca a Sotelo: prima mondiale di “El Público” a Madrid
 2011|06|Bologna, Teatro Comunale: "La Cenerentola"
 2014|04|Bologna, Teatro Comunale:"Evgenij Onegin"
 2008|10|Festival Verdi 2008: "Nabucco"
@@ -163,13 +164,13 @@
 2012|02|Modena, Teatro Comunale: "Salome"
 2014|01|Teatro Comunale di Ferrara: "Luisa Miller"
 2010|02|Torna "Rigoletto" alla Scala
-2008|07|Milano, Teatro alla Scala:"La Bohme"
+2008|07|Milano, Teatro alla Scala:"La Bohème"
 2014|04|"La Traviata" al Petruzzelli di Bari
 2010|12|Brescia, Teatro Grande: "La Traviata"
 2012|11|Fidenza, Teatro Magnani: "Aida"
 2012|01|Trieste, Politeama Rossetti:"Alice nel paese delle meraviglie"
 2015|07|"Madama Butterfly" all'Opera di Firenze
-2011|06|Matematica e musica e le molteplici vie dellaltissimo
+2011|06|Matematica e musica e le molteplici vie dell’altissimo
 2011|12|Cimarosa in un grazioso villaggio-vacanze
 2011|06|Torino, Teatro Regio:"La Traviata"
 2016|02|Parma, Teatro Regio: "L'occasione fa il ladro"
@@ -177,22 +178,23 @@
 2012|05|Staatsoper Stuttgart:"Elektra"
 2015|07|"La traviata" al Teatro Regio di Torino
 2012|12|Genova, Teatro Carlo Felice:"Don Giovanni"
-2013|06|Lanti-eroe attuale: ancora su Evgenij Onegin a Torino (cast alternativo)
+2013|06|L’anti-eroe attuale: ancora su “Evgenij Onegin” a Torino (cast alternativo)
 2015|06|Parma, Teatro Regio: "Madama Butterfly"
-2015|10|OperaLombardia, Teatro Grande di Brescia: "La Bohme"
+2015|10|OperaLombardia, Teatro Grande di Brescia: "La Bohème"
+2012|10|Zürich, Opernhaus: "Jenůfa"
 2015|12|Il dittico "Zanetto/Cavalleria Rusticana" a Livorno
-2014|04|"Luisa Miller" all'Opra de Lausanne
+2014|04|"Luisa Miller" all'Opéra de Lausanne
 2010|12|Staatsoper Stuttgart:"Maria Stuarda"
-2012|02|Parigi, Opra Bastille:"Pikovaja Dama" (La dama di picche)
+2012|02|Parigi, Opéra Bastille:"Pikovaja Dama" (La dama di picche)
 2010|12|Bergamo Musica Festival: "Don Pasquale"
 2012|10|Bologna, Teatro Comunale: "Cavalleria rusticana" e "Pagliacci"
 2009|09|"Tosca" ultimo titolo del cartellone areniano
-2011|06|Citt del Messico:"Tosca"
-2012|07|Staatsoper Stuttgart:"Plate"
+2011|06|Città del Messico:"Tosca"
+2012|07|Staatsoper Stuttgart:"Platée"
 2011|06|Firenze, Teatro La Pergola:"l'Incoronazione di Poppea"
 2016|03|"Mefistofele" al Teatro Verdi di Pisa
 2011|12|Firenze: Un "Barbiere" sottotono
-2013|03|Lincubo grottesco di "Cuore di cane" affascina la Scala
+2013|03|L’incubo grottesco di "Cuore di cane" affascina la Scala
 2011|02|New York, Metropolitan Opera:"La Traviata"
 2012|04|Milano, Scala:"Le nozze di Figaro"
 2015|11|Staatsoper Stuttgart: "Salome"
@@ -205,14 +207,14 @@
 2009|07|Torna "Aida" al Teatro alla Scala
 2010|05|"Der ferne klang" per la prima volta a Zurigo
 2014|07|"Madama Butterfly" al Teatro San Carlo di Napoli
-2012|12|Opra di Marsiglia:"Poliuto"
+2012|12|Opéra di Marsiglia:"Poliuto"
 2015|12|Fano, Teatro della Fortuna: "Madama Butterfly"
 2014|11|Teatro Cantero di Chiavari: "Turandot"
 2012|06|Torino, Teatro Regio:"Norma" (cast alternativo)
 2010|11|Brescia, Teatro Grande: "La Cenerentola"
 2008|07|Teatro alla Scala: "La Traviata"
-2012|07|XXXVIII Festival della Valle d'Itria: "Artaserse" di Hasse
-2013|07|Prediletti dalle stelle, / io vi lascio un gran tesoro: Lelisir damore a Torino
+2012|07|XXXVIII° Festival della Valle d'Itria: "Artaserse" di Hasse
+2013|07|«Prediletti dalle stelle, / io vi lascio un gran tesoro»: “L’elisir d’amore” a Torino
 2013|12|Bologna, Teatro Comunale:"The turn of the screw"
 2015|10|Jesi, Teatro Pergolesi: "Nabucco"
 2016|03|Parma, Teatro Regio: "Lucia di Lammermoor"
@@ -221,19 +223,20 @@
 2012|02|Firenze, Teatro Comunale:"Tosca"
 2012|01|Milano, Teatro alla Scala: "Les contes d'Hoffmann"
 2015|07|Venezia, Festival lo Spirito di Venezia, Palazzo Ducale: "Dafne"
-2015|10|Ancona, Teatro delle Muse Franco Corelli: "La Bohme"
-2015|10|Bruxelles, Thtre La Monnaie: "La Vestale"
-2015|10|Aida al Teatro Regio di Torino
+2015|10|Ancona, Teatro delle Muse “Franco Corelli”: "La Bohème"
+2015|10|Bruxelles, Théâtre La Monnaie: "La Vestale"
+2015|10|“Aida” al Teatro Regio di Torino
 2015|03|Venezia, Teatro La Fenice: "Alceste"
-2012|02|Parigi, Thtre des Champs Elyses:"Don Pasquale"
-2012|03|Parigi,Thtre des Champs Elyses:"La clemenza di Tito"
-2013|03|New York, Metropolitan: Otello
-2009|08|E ancora una volta &#8230;."Aida"
-2011|11|Genova, Teatro Carlo Felice: "Die Zauberflte"
+2012|02|Parigi, Théâtre des Champs Elysées:"Don Pasquale"
+2012|03|Parigi,Théâtre des Champs Elysées:"La clemenza di Tito"
+2013|03|New York, Metropolitan: “Otello”
+2009|08|E ancora una volta è&#8230;."Aida"
+2011|11|Genova, Teatro Carlo Felice: "Die Zauberflöte"
 2013|12|Firenze:"Il cappello di paglia di Firenze" (cast alternativo)
-2012|12|"Die Zauberflte" alla Staatsoper Stuttgart
-2011|04|Staatsoper Stuttgart:"Les Dialogues des Carmlites"
-2014|06|Staatsoper Stuttgart:"La Bohme"
+2012|12|"Die Zauberflöte" alla Staatsoper Stuttgart
+2012|10|Milano, Teatro alla Scala: "La Bohème"
+2011|04|Staatsoper Stuttgart:"Les Dialogues des Carmélites"
+2014|06|Staatsoper Stuttgart:"La Bohème"
 2008|12|Milano, Teatro alla Scala: "Don Carlo"
 2010|08|Lima, Teatro Segura:"Cavalleria rusticana" e "Pagliacci"
 2012|01|Madrid, Teatro de la Zarzuela:"Los sobrinos del Capitan Grant"
@@ -250,12 +253,13 @@
 2015|06|Teatro alla Scala di Milano: "Lucia di Lammermoor"
 2016|04|Palermo, Teatro Massimo: "Lucia di Lammermoor"
 2011|11|Staatsoper Stuttgart:"La Damnation de Faust"
-2015|07|Torino, Teatro Regio: "La Bohme"
+2015|07|Torino, Teatro Regio: "La Bohème"
 2012|02|Palermo, Teatro Massimo:"La damnation de Faust"
 2015|12|"Rigoletto" all'Opera di Firenze (cast alternativo)
 2014|11|"Madama Butterfly" al Teatro Comunale di Sassari
-2011|05|Metropolitan Opera:"Die Walkre"
+2011|05|Metropolitan Opera:"Die Walküre"
 2010|11|Teatro Comunale di Modena:"Maria Stuarda"
+2013|04|Il giovane Rossini al Malibran: diciott'anni, ma non li dimostra
 2009|07|"Don Pasquale" al Comunale di Bologna
 2013|10|Opera di Roma:"Turandot" (cast alternativo)
 2015|05|Genova, Teatro Carlo Felice: "Carmen"
@@ -263,79 +267,83 @@
 2008|06|"Roberto Devereux" a Pordenone
 2014|08|Arena Opera Festival:"Turandot" (cast alternativo)
 2011|12|Luca, la regina e il castigo
-2011|11|A Jesi un cast rossiniano per il donizettiano Elisir damore
+2011|11|A Jesi un cast rossiniano per il donizettiano Elisir d’amore
 2012|04|"Die Zauberflote" all'Opera di Roma
-2013|10|Rigoletto al Teatro Regio di Torino
-2011|12|Parigi, Opra:"La forza del destino"
+2013|10|“Rigoletto” al Teatro Regio di Torino
+2011|12|Parigi, Opéra:"La forza del destino"
 2014|11|"Don Pasquale" al Conservatorio "G. Verdi" di Milano
 2013|12|Teatro alla Scala di Milano: "La Traviata" (cast alternativo)
 2011|03|Roma, Teatro dell'Opera:"Nabucodonosor"
-2013|03|Le rose del volto gi sono pallenti. La Traviata al Teatro Regio di Torino
-2014|03|Leo Nucci  Simon Boccanegra al Teatro Municipale di Piacenza
-2013|08|Veramente il passo  ardito, ma Loccasione fa il ladro al ROF
+2013|03|«Le rose del volto già sono pallenti». La Traviata al Teatro Regio di Torino
+2014|03|Leo Nucci è Simon Boccanegra al Teatro Municipale di Piacenza
+2013|08|«Veramente il passo è ardito», ma “L’occasione fa il ladro” al ROF
 2013|09|Santa Fe Opera Festival:"La Grande-Duchesse de Gerolstein"
+2012|08|"Don Pasquale" nel giardino di Palazzo Zuckermann di Padova
 2015|12|Pisa, Teatro Verdi: "Catone"
-2009|12|Venezia, Teatro La Fenice: "rka", "Cavalleria Rusticana"
+2009|12|Venezia, Teatro La Fenice: "Šárka", "Cavalleria Rusticana"
 2010|10|"Le Nozze di Figaro" a San Francisco
 2015|10|Sassari, Teatro Comunale: "Elisabetta, regina d'Inghilterra"
 2014|11|Lucca, Teatro del Giglio: "La rondine"
-2013|04|Opra di Marsiglia: "Otello"
-2016|04|Madrid, Teatro Real: Luisa Miller
+2013|04|Opéra di Marsiglia: "Otello"
+2016|04|Madrid, Teatro Real: “Luisa Miller”
 2015|11|OperaLombardia, Teatro Ponchielli di Cremona: "La scala di seta"
-2010|08|Citt del Messico, Teatro de las Artes:"La Cenerentola"
-2013|11|Opra di Marsiglia: "La Straniera"
+2014|05|Teatro Massimo Bellini di Catania:"Cavalleria rusticana" e "Pagliacci"
+2010|08|Città del Messico, Teatro de las Artes:"La Cenerentola"
+2013|11|Opéra di Marsiglia: "La Straniera"
 2012|04|Teatro Comunale di Bologna: "Jakob Lenz"
-2016|01|Partenope di Hndel allAuditorio Nacional di Madrid
+2016|01|“Partenope” di Händel all’Auditorio Nacional di Madrid
 2010|05|"Luisa Miller" dall'Opernhaus di Zurigo
 2013|01|Milano, Teatro alla Scala: "Falstaff"
-2010|11|Brescia, Teatro Grande: "Die Zauberflte" (Il flauto magico)
+2010|11|Brescia, Teatro Grande: "Die Zauberflöte" (Il flauto magico)
 2012|03|Catania, Teatro Bellini:"Tosca"
 2015|04|Genova, Teatro Carlo Felice: "Billy Budd"
-2015|06|Staatsoper Stuttgart: "Cos fan tutte"
-2013|07|Les Chorgies d'Orange: "Der Fliegende Hollnder"
-2012|05|Hotel con vista sulle Alpi e"Sonnambula"
+2015|06|Staatsoper Stuttgart: "Così fan tutte"
+2013|07|Les Chorégies d'Orange: "Der Fliegende Holländer"
+2012|05|Hotel con vista sulle Alpi e…"Sonnambula"
 2011|05|Torino, Teatro Regio:"Rigoletto"
 2012|06|Milano, Teatro alla Scala: "Luisa Miller"
-2013|10|Il quondam matto in gala! Seconda compagnia per il Furioso di Bergamo
+2013|10|«Il quondam matto in gala!» Seconda compagnia per il “Furioso” di Bergamo
+2013|04|Trieste, Teatro Verdi:"The Rape of Lucretia"
 2013|11|"Falstaff" al Petruzzelli di Bari
 2016|04|Staatsoper Stuttgart: "Reigen" di Philippe Boesmans
-2012|11|Parigi, Thtre des Champs Elyses:"Mde"
+2012|11|Parigi, Théâtre des Champs Elysées:"Médée"
 2016|02|"Il trionfo del tempo e del disinganno" al Teatro alla Scala
+2014|04|Modena, Teatro Comunale: "Les Pêcheurs de perles"
 2011|07|Un "Nabucco"&#8230;allo stadio
 2015|12|Verona, Teatro Filarmonico: "La forza del destino"
 2014|08|Sessantesimo Festival Puccini, Torre del Lago:"Il Trittico"
 2014|11|"Rigoletto" a Modena
 2010|07|Ravenna Festival: "Betulia liberata"&#8230; due volte
 2011|12|Catania, Teatro Massimo Bellini:"Rigoletto"
-2012|12|Zubin Mehta festeggia i cinquantanni a Firenze con Turandot
+2012|12|Zubin Mehta festeggia i cinquant’anni a Firenze con Turandot
 2015|09|"Lucia di Lammermoor" (cast alternativo) all'Opera di Firenze
-2015|10|Cronache del MiTo: "Il ragazzo del risci" al Teatro Regio di Torino
+2015|10|Cronache del MiTo: "Il ragazzo del risciò" al Teatro Regio di Torino
 2011|12|Roma, Teatro dell'Opera:"Macbeth"
 2016|01|Roma, Teatro dell'Opera: "La Cenerentola"
 2015|05|Firenze, Teatro Goldoni: "The turn of the screw"
 2014|07|Staatsoper Stuttgart:"Tristan und Isolde"
-2013|07|Citt del Messico:"Il Trovatore"
-2014|10|Bruxelles, Thtre  La Monnaie: "Daphne"
+2013|07|Città del Messico:"Il Trovatore"
+2014|10|Bruxelles, Théâtre  La Monnaie: "Daphne"
 2016|04|Torino, Teatro Regio: "La donna serpente" di Alfredo Casella
 2013|08|"Giovanna D'Arco" a Martina Franca
 2014|06|Opera di Firenze: "L'amour des trois oranges"
-2013|08|Ancora Nabucco allArena di Verona
+2013|08|Ancora “Nabucco” all’Arena di Verona
 2015|03|Ferrara, Teatro Comunale: "La Sonnambula"
 2016|07|Milano, Teatro alla Scala: "Simon Boccanegra" (cast alternativo)
-2013|08|Verona o cara, noi rivedremo&#8230;ancora Traviata allArena
+2013|08|Verona «o cara, noi rivedremo»&#8230;ancora “Traviata” all’Arena
 2012|06|"Le nozze di Figaro" al Teatro Comunale di Bologna
 2010|11|Madrid,Teatro Real:"The Turn of the Screw"
 2012|06|Bari, Teatro Petruzzelli:"Tosca"
 2015|03|Bologna, Teatro Comunale: "Don Pasquale"
 2009|05|"L'elisir d'amore" al Teatro Filarmonico di Verona
 2012|10|Lucca, Teatro del Giglio:"Tosca"
-2016|02|Bruxelles, Thtre La Monnaie: "L'Opera Seria"
+2016|02|Bruxelles, Théâtre La Monnaie: "L'Opera Seria"
 2011|11|Pisa, Teatro Verdi:"Cavalleria rusticana" e "Pagliacci"
 2014|04|"La Traviata" al Teatro Verdi di Trieste
 2015|07|Teatro Carlo Felice di Genova: "La vedova allegra"
 2012|03|"Boris Godunov" al Teatro Massimo di Palermo
 2012|10|Teatro Lirico di Cagliari:"Nabucco"
-2011|01|E Cristina disse:  Facciamo il Trovatore 
+2011|01|E Cristina disse: “ Facciamo il Trovatore… ”
 2016|04|Teatro dell'Opera di Roma: "Benvenuto Cellini" di Hector Berlioz
 2011|03|Parma, Teatro Regio:"Il Naso"
 2012|08|"Le nozze di Figaro" al Festival di Aix-en-Provence
@@ -346,55 +354,56 @@
 2016|05|Napoli, Teatro di Corte di Palazzo Reale: "Zenobia in Palmira" di Paisiello
 2014|12|Verona, Teatro Filarmonico: "Lucia di Lammermoor" (cast alternativo)
 2016|06|Roma, Teatro dell'Opera: "La Traviata"
-2012|01|Opra de Marseille: "La Bohme"
+2012|01|Opéra de Marseille: "La Bohème"
 2013|12|Verona, Teatro Filarmonico: "Don Pasquale"
 2015|07|Opera di Firenze: "Il barbiere di Siviglia"
 2012|05|Teatro Lirico di Cagliari:"Don Quichotte"
 2013|10|Sassari:"Cavalleria rusticana"
 2012|12|Trieste, Teatro Verdi: "Il barbiere di Siviglia"
-2014|10|"vanda dudk" al Teatro Massimo di Palermo
+2014|10|"Švanda dudák" al Teatro Massimo di Palermo
 2013|01|Ancona, Teatro delle Muse: "L'Enfant Prodigue" e "Cavalleria Rusticana"
 2015|07|Milano, Teatro alla Scala: "Il Barbiere di Siviglia"
+2014|04|Trionfano alla Scala "Les Troyens" di Hector Berlioz
 2012|06|Madrid, Teatro de La Zarzuela:"La Chulapona"
 2013|11|Teatro del Maggio Musicale Fiorentino:"L'elisir d'amore" (cast alternativo)
 2013|10|Firenze, Teatro Goldoni:"The Fairy Queen"
-2015|01|Scienza e Belcanto all'Opera di Firenze: I Puritani
+2015|01|Scienza e Belcanto all'Opera di Firenze: “I Puritani”
 2012|06|Opera di Roma:"A Midsummer night's dream"
-2011|09|Torre del Lago:"La Bohme"
+2011|09|Torre del Lago:"La Bohème"
 2015|01|Bologna, Teatro Comunale: "Un Ballo in Maschera"
 2015|05|"Un ballo in maschera" al Teatro Massimo di Palermo
 2012|03|Torino, Teatro Regio:"Il Barbiere di Siviglia"
 2014|07|"The rake's progress" al Teatro La Fenice di Venezia
 2011|03|Ferrara, Teatro Comunale:"Giulio Cesare"
 2013|03|Staatsoper Stuttgart:"Tosca"
-2013|04|Opra di Toulon:"Aida"
+2013|04|Opéra di Toulon:"Aida"
 2014|08|Arena Sferisterio di Macerata: "La Traviata"
 2011|02|Parma, Teatro Regio:"La forza del destino"
 2016|05|"Il barbiere di Siviglia" al Teatro Comunale di Bologna
 2016|01|"Stiffelio" al Teatro la Fenice di Venezia
-2011|03|Venezia, Teatro La Fenice:"La Bohme"
+2011|03|Venezia, Teatro La Fenice:"La Bohème"
 2009|09|"Zelmira" al Rossini Opera festival 2009
 2011|07|Macerata Opera Festival:"Rigoletto"
 2013|07|"Otello" con finalino edificante nel Cortile di Palazzo Ducale
 2012|05|"Le nozze di Figaro" a Catania
 2013|12|Cagliari, Teatro Lirico:"Pagliacci"
 2007|08|Pesaro, Rossini Opera Festival 2007: "La gazza ladra"
-2016|04|Bruxelles, Thtre La Monnaie: "Batrice et Bndict"
-2012|10|Citt del Messico:"Carmen"
+2016|04|Bruxelles, Théâtre La Monnaie: "Béatrice et Bénédict"
+2012|10|Città del Messico:"Carmen"
 2013|09|"La Sonnambula" al Petruzzelli di Bari
 2010|03|Maderna e Purcell alla Fenice
 2011|09|Venezia, Teatro La Fenice: Il ritorno di "Don Giovanni"
 2009|12|Milano, Teatro alla Scala: "Carmen"
 2015|10|"Il trionfo dell'onore, ovvero il dissoluto pentito" al Teatro Verdi di Pisa
-2008|08|Verona, 86 Festival Areniano:"Carmen"
-2015|04|"Penthesilea" al Thtre La Monnaie
+2008|08|Verona, 86° Festival Areniano:"Carmen"
+2015|04|"Penthesilea" al Théâtre La Monnaie
 2015|07|Modena, Cortile di Palazzo Ducale: "Il barbiere di Siviglia"
 2010|09|"Suor Angelica" e "Gianni Schicchi" dal Teatro Segura di Lima
 2014|07|Teatro Regio di Torino:"La vedova allegra" (cast alternativo)
 2014|06|"The Rake's Progress" al Regio di Torino
 2013|07|"Attila" al Verdi di Trieste
 2013|11|Verona, Teatro Filarmonico: "I Capuleti e i Montecchi"
-2013|07|Cavalleria Rusticana alle Terme di Caracalla
+2013|07|“Cavalleria Rusticana” alle Terme di Caracalla
 2013|07|Firenze, Palazzo Pitti:"Orfeo all'inferno"
 2011|11|Bergamo, Teatro Donizetti: "La Cecchina, ossia la buona figliuola"
 2009|10|Il Bolshoi alla Scala
@@ -403,22 +412,23 @@
 2011|05|Santa Barbara, California:"La serva Padrona", "Trouble in Tahiti
 2010|11|Jesi, Teatro "Pergolesi": "Madama Butterfly"
 2012|01|Firenze, Teatro Comunale:"Il viaggio a Reims"
-2016|01|Torino, Teatro Regio: "Phody liky Bystrouky" (La piccola volpe astuta)
+2016|01|Torino, Teatro Regio: "Příhody lišky Bystroušky" (La piccola volpe astuta)
 2010|12|Opera di Oviedo:"L'elisir d'amore"
 2015|09|Opera di Firenze: "Lucia di Lammermoor"
 2015|03|Torino, Teatro Regio: "Il turco in Italia" (cast alternativo)
 2016|01|Modena, Teatro Comunale: "L'amico Fritz"
+2012|08|"Attila" alle Terme di Caracalla
 2014|02|Piacenza, Teatro Municipale: "La vedova allegra"
 2013|02|Ancona, Teatro delle Muse:" Madama Butterfly "
-2013|12|Chieti celebra il bicentenario dell\'"Italiana in Algeri"
+2013|12|Chieti celebra il bicentenario dell'"Italiana in Algeri"
 2013|06|Bari, Teatro Petruzzelli: "Rigoletto"
-2013|01|Opra di Marsiglia:"L'Italiana in Algeri"
+2013|01|Opéra di Marsiglia:"L'Italiana in Algeri"
 2014|06|Teatro Carlo Felice di Genova:"Il Barbiere di Siviglia" (cast alternativo)
 2013|06|"Dido and Aeneas" alle Terme di Carcalla
 2015|10|"Falstaff" al Teatro alla Scala di Milano
 2013|03|Un Olandese tra gli impiegatucci
-2013|03|La Traviata al Met
-2015|10|Bruxelles, Thtre La Monnaie: "Powder her face"
+2013|03|“La Traviata” al Met
+2015|10|Bruxelles, Théâtre La Monnaie: "Powder her face"
 2007|08|"Otello" al Rossini Opera Festival
 2013|07|Regio di Torino:"L'Italiana in Algeri"
 2013|11|Verona, Teatro Filarmonico: "I Capuleti e i Montecchi" (cast alternativo)
@@ -436,98 +446,99 @@
 2010|05|"Don Giovanni" al Teatro La Fenice
 2009|12|Milano, Teatro alla Scala: "Carmen"
 2011|10|Manrico, gli amici e la claustrofobia
-2012|10|Torino, Teatro Regio: "Der fliegende Hollnder"
-2012|10|"Lheure espagnole" e "LEnfant et les Sortilges" al Teatro Massimo di Palermo
+2012|10|Torino, Teatro Regio: "Der fliegende Holländer"
+2012|10|"L’heure espagnole" e "L’Enfant et les Sortilèges" al Teatro Massimo di Palermo
 2015|12|"Siegfried" al Teatro Massimo di Palermo
-2012|08|Festival di Aix-en-Provence:"L'enfant et les sortilges"
+2012|08|Festival di Aix-en-Provence:"L'enfant et les sortilèges"
 2009|04|"I Due Foscari" al Teatro alla Scala
 2011|12|Staatsoper Stuttgart:"Norma"
-2016|07|Venezia, Teatro La fenice: "Mirandolina" di Bohuslav Martin
+2016|07|Venezia, Teatro La fenice: "Mirandolina" di Bohuslav Martinů
 2011|03|Bologna, Teatro Comunale:"Don Giovanni"
-2013|02|Il nostro  amore danime! Andrea Chnier al Teatro Regio di Torino
+2013|02|«Il nostro è amore d’anime!» Andrea Chénier al Teatro Regio di Torino
 2013|06|"Nabucco" all'Arena di Verona
-2014|11|Giulio Cesare di Hndel per la prima volta a Torino
+2014|11|“Giulio Cesare” di Händel per la prima volta a Torino
 2014|08|Arena Sferisterio di Macerata: "Aida"
-2013|11|Cremona, Teatro Ponchielli: "Der fliegende Hollnder"
-2013|06|Roma, Teatro dellOpera: "Don Pasquale"
+2013|11|Cremona, Teatro Ponchielli: "Der fliegende Holländer"
+2013|06|Roma, Teatro dell’Opera: "Don Pasquale"
 2011|05|Firenze, Teatro Comunale:"Aida"
 2011|05|Metropolitan Opera:"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"
-2013|07|Marsiglia, Opra Municipal: "Les Troyens"
+2013|07|Marsiglia, Opéra Municipal: "Les Troyens"
 2014|03|Teatro alla Scala:"Il Trovatore"
-2008|10|Festival Verdi 2008: "Giovanna dArco"
+2008|10|Festival Verdi 2008: "Giovanna d’Arco"
 2012|05|Theater an der Wien: "Les contes d'Hoffmann"
-2013|03|Madrid, Teatro Real: "Cos fan tutte"
+2013|03|Madrid, Teatro Real: "Così fan tutte"
 2015|02|Verona, Teatro Filarmonico: "La Traviata" (cast alternativo)
 2012|01|Trieste:"Christmas StarTS"
-2015|10|Opera di Firenze: "Cos fan tutte"
+2015|10|Opera di Firenze: "Così fan tutte"
 2011|03|Palermo, Teatro Massimo:"La Gioconda"
 2011|09|Theater an der Wien:"The turn of the screw"
-2016|03|Gtterdmmerung al Gran Teatre del Liceu di Barcelona
+2016|03|“Götterdämmerung” al Gran Teatre del Liceu di Barcelona
 2016|03|Milano, Teatro alla Scala: "I due Foscari"
 2013|02|"Falstaff" diverte La Scala (cast alternativo)
 2012|09|Venezia, Teatro La Fenice:"La Traviata"
-2012|10|Toulouse, Thtre du Capitole:"Rienzi"
-2012|10|Il bianco s'addice all\'"Occasione"
-2010|01|"Cin-Ci-l" al Teatro Filarmonico di Verona
+2012|10|Toulouse, Théâtre du Capitole:"Rienzi"
+2012|10|Il bianco s'addice all'"Occasione"
+2010|01|"Cin-Ci-là" al Teatro Filarmonico di Verona
 2011|03|Roma, Teatro dell'Opera:"Nabucodonosor" (cast alternativo)
 2013|06|Vicenza, Teatro Olimpico:"Le nozze di Figaro"
-2015|03|Bruxelles, Thtre La Monnaie: "Jakob Lenz"
+2015|03|Bruxelles, Théâtre La Monnaie: "Jakob Lenz"
 2015|03|Roma, Accademia Nazionale di Santa Cecilia: "Aida"
 2015|10|OperaLombardia, Teatro Donizetti di Bergamo: "Don Pasquale"
 2015|09|Milano, Teatro alla Scala: "L'elisir d'amore"
 2012|03|"La Traviata" al Teatro della Fortuna
 2012|01|Praga, Teatro Nazionale: "Rinaldo"
 2015|08|Orizzonti Festival di Chiusi: "La voix humaine"
-2015|02|Palermo, Teatro Massimo: "Orphe et Eurydice"
+2015|02|Palermo, Teatro Massimo: "Orphée et Eurydice"
 2013|05|Genova, Teatro Carlo Felice: "La Traviata"
+2012|10|Madrid, Teatro de la Zarzuela:"El amor brujo" e "La vida breve"
 2012|03|Modena, Teatro Comunale:"La Traviata"
 2011|03|Trieste:"C'era una volta&#8230;Scugnizzi"
-2012|03|Torino, Teatro Regio:"La Bohme"
+2012|03|Torino, Teatro Regio:"La Bohème"
 2012|12|Genova, Teatro Carlo Felice: "Turandot"
 2016|01|"El amor brujo" e "Goyescas" all'Opera di Firenze
-2014|06|Teatro Olimpico di Vicenza:"Cos fan tutte"
+2014|06|Teatro Olimpico di Vicenza:"Così fan tutte"
 2013|10|Rovigo, Teatro Sociale:"Tosca"
 2010|11|"Oklahoma!"
 2013|10|Jesi, Teatro Pergolesi: "L'Arlesiana"
 2015|03|"Fedora" al Teatro Carlo Felice di Genova
-2012|04|Toulon, Opra:"Il Barbiere di Siviglia"
+2012|04|Toulon, Opéra:"Il Barbiere di Siviglia"
 2014|03|"Le nozze di Figaro" al Teatro Carlo Felice di Genova
 2015|10|Teatro delle Muse di Ancona: "Falstaff"
-2012|05|Franais made in Italy
+2012|05|Français made in Italy
 2015|11|Lucca, Teatro del Giglio: "Madama Butterfly"
 2013|02|Staatsoper Stuttgart:"Nabucco"
 2015|02|Venezia, Teatro La Fenice: "Don Pasquale"
-2011|12|Opra de Toulon:"La Bohme"
-2012|03|Madrid, Teatro de La Zarzuela: "El gato monts"
+2011|12|Opéra de Toulon:"La Bohème"
+2012|03|Madrid, Teatro de La Zarzuela: "El gato montés"
 2015|07|Staatsoper Stuttgart: "Rigoletto"
 2013|09|"Lucrezia Borgia" al Verdi di Padova
 2011|12|Madrid, Teatro Real: "Lady Macbeth del distretto di Mzesnk"
-2014|03|Torino, Teatro Regio: "Eine florentinische tragdie/Gianni Schicchi"
+2014|03|Torino, Teatro Regio: "Eine florentinische tragödie/Gianni Schicchi"
 2012|04|"The Life and Death of Marina Abramovic"
 2013|02|Opera di Roma:"Il Naso"
 2013|09|Il ritorno del "Barbiere di Siviglia" al Teatro Massimo di Palermo
 2012|10|Como, Teatro Sociale: "I Capuleti e i Montecchi"
-2013|05|Bari, Teatro Petruzzelli:"Cos fan tutte"
+2013|05|Bari, Teatro Petruzzelli:"Così fan tutte"
 2015|10|Venezia, Teatro Malibran: "Il diario di uno scomparso" e "La voix humaine"
 2015|10|"Otello" al Teatro Regio di Parma
 2010|09|"Poliuto" dal Teatro Donizetti di Bergamo
 2014|12|"Rusalka" al Teatro dell'Opera di Roma
 2012|02|Jerez, Teatro Villamarta: "Rigoletto"
 2008|10|Venezia, Teatro La Fenice: "Boris Godunov"
-2012|05|"La Bohme" in cornice
+2012|05|"La Bohème" in cornice
 2013|07|Festival Pucciniano:"Turandot"
 2012|07|Festival d'Aix-en-Provence:"Written on Skin"
-2012|10|Sassari, Teatro Comunale: "Romo et Juliette"
-2014|12|Les Contes dHoffmann al Teatro Coccia di Novara
+2012|10|Sassari, Teatro Comunale: "Roméo et Juliette"
+2014|12|“Les Contes d’Hoffmann” al Teatro Coccia di Novara
 2009|02|Bologna, Teatro Comunale: "I Puritani"
 2016|01|"La Vedova allegra" al San Carlo di Napoli
-2011|10|A Jesi la Napoli di Pergolesi ne "Lo frate nnamorato"
+2011|10|A Jesi la Napoli di Pergolesi ne "Lo frate ‘nnamorato"
 2015|04|Opera di Firenze: "La traviata" (cast alternativo)
 2012|05|Festival di Glyndebourne:"La volpe astuta"
 2012|04|Madrid, Teatro Real:"I due Figaro"
-2015|02|Bruxelles, Thtre La Monnaie: "Tamerlano"
-2010|10|Una  "servante" sempre pi  "matresse"
-2013|02|Teatro Massimo di Palermo: "Die Walkre"
+2015|02|Bruxelles, Théâtre La Monnaie: "Tamerlano"
+2010|10|Una  "servante" sempre più  "maîtresse"
+2013|02|Teatro Massimo di Palermo: "Die Walküre"
 2014|10|Venezia, Teatro La Fenice: "Don Giovanni"
 2013|03|"Francesca da Rimini" torna al Met
 2014|03|"Siegfried" alla Staatsoper Stuttgart
@@ -538,29 +549,29 @@
 2011|04|Metropolitan Opera:"Das Rheingold"
 2013|05|Trieste, Teatro Verdi:"Tosca"
 2012|06|Deutsche Oper Berlin:"Il Trovatore"
-2013|08|Nume custode e vindice / di questa sacra Arena: ancora Aida a Verona
+2013|08|«Nume custode e vindice / di questa sacra» Arena: ancora “Aida” a Verona
 2012|11|Sassari, Teatro Comunale: "Il signor Bruschino"
 2013|04|Staatsoper Stuttgart:"Parsifal"
-2008|08|Verona, 86 Festival Areniano:"Tosca"
-2016|03|Firenze, Teatro Goldoni: "Hnsel e Gretel"
+2008|08|Verona, 86° Festival Areniano:"Tosca"
+2016|03|Firenze, Teatro Goldoni: "Hänsel e Gretel"
 2011|11|Verona, Teatro Filarmonico:"Rigoletto"
 2009|02|Parma, Teatro Regio: "I Lombardi alla prima crociata"
 2010|11|Lima,"La Leyenda del Beso"
-2014|07|Sessantesimo Festival Puccini, Torre del Lago:"La Bohme"
+2014|07|Sessantesimo Festival Puccini, Torre del Lago:"La Bohème"
 2012|11|Brescia, Teatro Grande: "L'italiana in Algeri"
 2013|11|"Stiffelio" al Bellini di Catania
 2015|03|Teatro Comunale di Modena: "L'elisir d'amore"
 2013|10|Como, Teatro Sociale:"La finta semplice"
-2015|01|Bruxelles, Thtre La Monnaie: "Fierrabras"
+2015|01|Bruxelles, Théâtre La Monnaie: "Fierrabras"
 2013|04|Madrid, Teatro Real: "Don Giovanni"
 2011|02|Roberto De Simone interpreta Pergolesi al Teatro San Carlo
 2012|12|"L' ecume des Jours" di Edison Denisov alla Staatsoper Stuttgart
 2011|07|Festival della Valle d'Itria:"Il novello Giasone"
-2009|03|"Romo et Juliette" di Gounod
-2013|12|"I Puritani di Bellini allOpra Bastille
+2009|03|"Roméo et Juliette" di Gounod
+2013|12|"I Puritani” di Bellini all’Opéra Bastille
 2013|12|Catania:"Lucia di Lammermoor"
-2011|06|Milano, Teatro alla Scala: "Romo et Juliette"
-2012|02|Opra de Marseille:"La Chartreuse de Parme"
+2011|06|Milano, Teatro alla Scala: "Roméo et Juliette"
+2012|02|Opéra de Marseille:"La Chartreuse de Parme"
 2015|11|"La traviata" al Teatro Goldoni di Livorno
 2011|12|Genova, Teatro Carlo Felice:"Il campanello" e "Gianni Schicchi"
 2014|11|"Nabucco" al Teatro Ponchielli di Cremona
@@ -577,13 +588,13 @@
 2015|02|"Il turco in Italia" al Teatro Comunale di Ferrara
 2016|03|"Don Giovanni" al Teatro Comunale di Ferrara
 2008|11|Milano, Teatro alla Scala: "La vedova allegra"
-2013|10|Milano, Teatro alla Scala: Don Carlo
+2013|10|Milano, Teatro alla Scala: “Don Carlo”
 2016|05|Busseto, Teatro Verdi: "Rigoletto"
 2012|03|Theater an der Wien:"Iolanta" e "Francesca Da Rimini"
-2015|01|Parigi, Opra Bastille: Don Giovanni
+2015|01|Parigi, Opéra Bastille: “Don Giovanni”
 2010|03|"Da una casa di morti" al Teatro alla Scala
 2011|06|Staatsoper Stuttgart:"La Juive"
-2013|03|Se amor si gode in pace, non v maggior contento: Il matrimonio segreto a Torino
+2013|03|«Se amor si gode in pace, non v’è maggior contento»: Il matrimonio segreto a Torino
 2016|03|Opera di Firenze: "L'italiana in Algeri"
 2016|02|Ferrara, Teatro Comunale: "L'Italiana in Algeri"
 2013|07|Luglio Musicale Trapanese:"Nabucco"
@@ -593,31 +604,31 @@
 2010|10|Brescia, Teatro Grande: "La Sonnambula"
 2011|09|Bergamo, Teatro Donizetti: "Gemma di Vergy"
 2014|10|"Don Giovanni" al Teatro Fraschini di Pavia
-2012|01|Genova, Teatro Carlo Felice:"La Bohme"
+2012|01|Genova, Teatro Carlo Felice:"La Bohème"
 2010|03|"Idomeneo" al Teatro Comunale di Bologna
-2011|12|Bilbao, Palacio Euskalduna: "Romo et Juliette"
+2011|12|Bilbao, Palacio Euskalduna: "Roméo et Juliette"
 2013|01|Salerno, Teatro Verdi:"Aida"
-2011|10|Buenos Aires, Teatro Coln: "Lohengrin"
-2010|04|"Romo et Juliette" al Teatro Filarmonico di Verona
-2015|11|Serse di Hndel a Madrid
+2011|10|Buenos Aires, Teatro Colón: "Lohengrin"
+2010|04|"Roméo et Juliette" al Teatro Filarmonico di Verona
+2015|11|“Serse” di Händel a Madrid
 2016|07|Milano, Teatro alla Scala:"Simon Boccanegra"
-2016|02|Novara, Teatro Coccia: "La Bohme"
+2016|02|Novara, Teatro Coccia: "La Bohéme"
 2014|05|Opera di Firenze, Opening Gala: "Otello" e "Tosca"
 2015|04|Torino, Teatro Regio: "I puritani"
-2013|11|Opra di Toulon:"La finta giardiniera"
-2011|10|Madrid, Teatro de la Zarzuela: "El Trust de los tenorios", "El Puao de rosas"
+2013|11|Opéra di Toulon:"La finta giardiniera"
+2011|10|Madrid, Teatro de la Zarzuela: "El Trust de los tenorios", "El Puñao de rosas"
 2012|05|Il "Rinaldo" di Haendel-Dantone-Pizzi a Ravenna
 2009|03|"Lucia di Lammermoor" al Regio di Parma
 2015|10|Padova, Teatro Verdi: "Norma"
 2014|10|Teatro Regio di Torino: "Otello" (cast alternativo)
 2012|10|Modena, Teatro Comunale: "Don Carlo"
-2012|05|Torino, Teatro Regio:"Cos fan tutte"
+2012|05|Torino, Teatro Regio:"Così fan tutte"
 2012|03|"La Traviata" al Bellas Artes
 2013|01|Madrid, Teatro Real:"Macbeth"
-2011|01|Ancona, Teatro delle Muse:"Cos fan tutte"
+2011|01|Ancona, Teatro delle Muse:"Così fan tutte"
 2010|12|New York, Metropolitan Opera:"Don Carlo"
 2012|09|Jesi,Teatro Pergolesi:"La fuga in maschera"
-2015|10|Genova, Teatro Carlo Felice: "Il ragazzo del risci"
+2015|10|Genova, Teatro Carlo Felice: "Il ragazzo del risciò"
 2010|04|"Simon Boccanegra" al Regio di Parma
 2011|06|Vicenza, Teatro Olimpico:"Don Giovanni"
 2011|02|Onore e morte nella "Cavalleria rusticana" e nei "Pagliacci" di nuovo insieme al Teatro Massimo Bellini di Catania
@@ -628,15 +639,15 @@
 2015|04|Opera di Firenze: "Fidelio"
 2012|11|Jesi, Teatro Pergolesi:"Macbeth"
 2011|02|Opera di Roma:"L'Elisir d'amore"
-2014|12|Cagliari, Teatro Lirico: "ereviki"
+2014|12|Cagliari, Teatro Lirico: "Čerevički"
 2010|10|Boston Opera: "Fidelio"
 2015|10|"Simon Boccanegra" al Teatro Verdi di Pisa
 2015|11|Opera di Firenze: "Le braci"
-2012|11|Di ragion la trasse amore . "Lucia di Lammermoor" a Novara
+2012|11|«Di ragion la trasse amore …». "Lucia di Lammermoor" a Novara
 2013|06|"La Traviata" all'Arena di Verona
 2011|06|Santiago del Cile, Teatro Municipal:"Tosca"
 2011|03|Milano, Teatro alla Scala: "Death in Venice" (Morte a Venezia)
-2013|08|Come resistere / a tanti affetti! La Donna del lago chiude il ROF
+2013|08|«Come resistere / a tanti affetti!» “La Donna del lago” chiude il ROF
 2011|04|Bilbao,Palacio Euskalduna:"Evgenij Onegin"
 2012|09|"Madama Butterfly" al Teatro Massimo di Palermo
 2010|01|Hindemith e Ravel aprono la stagione lirica del Teatro Delle Muse di Ancona
@@ -649,111 +660,113 @@
 2009|11|Cremona, Teatro Ponchielli: "La figlia del reggimento"
 2011|06|Zurigo, Opernhaus:"Anna Bolena"
 2013|06|Grandioso "Nabucco" a Pechino
-2010|09|Boston Midsummer Opera:"Trouble in Tahiti" e "Bon Apptit!"
+2010|09|Boston Midsummer Opera:"Trouble in Tahiti" e "Bon Appétit!"
 2009|11|"Salome" alla Staatsoper di Berlino
 2013|09|"La Scala di Seta" alla &#8230;Scala
 2014|02|Bentornata Angelina!
-2013|04|Reggio Emilia, Teatro Valli: The Rape of Lucretia
+2013|04|Reggio Emilia, Teatro Valli: “The Rape of Lucretia”
 2014|02|Genova: Gala Pucciniano
-2012|07|Macerata Opera Festival:Carmen
+2012|07|Macerata Opera Festival:”Carmen”
 2012|04|"Stiffelio" al Teatro Regio di Parma
 2013|10|Il suono del silenzio al Malibran con "Aspern" di Salvatore Sciarrino
 2016|06|"Der Rosenkavalier" al Teatro alla Scala di Milano
 2016|02|Lucca, Teatro del Giglio: "La vedova allegra"
+2012|10|Brescia, Teatro Grande: "Tosca"
 2016|04|Verona, Teatro Filarmonico: "La Sonnambula"
 2016|03|Genova, Teatro Carlo Felice: "Roberto Devereux"
 2011|07|Trieste, Teatro Verdi:"L'Opera da tre soldi"
-2012|05|"Der Knig Kandaules" al Teatro Massimo di Palermo
-2015|03|Lucio Silla di Mozart alla Scala
+2012|05|"Der König Kandaules" al Teatro Massimo di Palermo
+2015|03|“Lucio Silla” di Mozart alla Scala
 2013|08|Arena di Verona: Una "Ola" per Rigoletto
 2014|10|"L'elisir d'amore" al Teatro San Carlo di Napoli
 2012|02|Londra, English National Opera:"Der Rosenkavalier"
-2012|02|Madrid, Teatro Ral: "Iolanta" e "Persphone"
+2012|02|Madrid, Teatro Réal: "Iolanta" e "Perséphone"
 2011|11|Venezia,Teatro Malibran:"Acis and Galatea"
 2011|12|Verona, Teatro Filarmonico:"Falstaff"
 2011|03|Modena, Teatro Comunale:"Macbeth"
 2011|05|Ferrara, Teatro Nuovo: "La Divina Commedia"
 2011|04|Metropolitan Opera:"Capriccio"
-2013|11|Fidenza, Teatro Magnani: "Jrusalem"
+2013|11|Fidenza, Teatro Magnani: "Jérusalem"
 2009|04|"Il Viaggio a Reims" torna al Teatro alla Scala
 2012|06|Opera di Roma:"Attila"
 2012|12|Teatro San Carlo di Napoli:"La Traviata"
-2014|09|Palermo, Teatro Massimo: "La fille du rgiment"
+2014|09|Palermo, Teatro Massimo: "La fille du régiment"
 2014|05|Teatro Petruzzelli di Bari:"Pagliacci"
 2013|11|Bergamo, Teatro Donizetti: "Un ballo in maschera"
 2012|11|"I Capuleti e i Montecchi" fraintesi e sottovalutati alla San Francisco Opera
 2008|11|Festival Verdi 2008: "Rigoletto"
-2013|02|Accademia Nazionale di Santa Cecilia: Das Rheingold
-2013|10|"Cos fan tutte" al Teatro Lirico di Cagliari
+2013|02|Accademia Nazionale di Santa Cecilia: “Das Rheingold”
+2013|10|"Così fan tutte" al Teatro Lirico di Cagliari
 2013|10|Strasburgo:"Da una casa di morti"
+2012|10|Bergamo, Teatro Donizetti: "Maria Stuarda"
 2011|12|Torino, Teatro Regio:"Fidelio"
-2015|02|Hnsel und Gretel trionfano al Teatro Real di Madrid
+2015|02|“Hänsel und Gretel” trionfano al Teatro Real di Madrid
 2013|12|"Norma" al Coccia di Novara
 2015|12|Napoli, Teatro di San Carlo: "Carmen"
-2013|03|Venezia, Teatro La Fenice: "Vc Makropulos"
+2013|03|Venezia, Teatro La Fenice: "Věc Makropulos"
 2013|02|"Carmen" tra ombre e luci
 2013|03|Teatro Massimo di Palermo: "Nabucco"
 2009|09|Una grande Nina Stemme in una "Salome"&#8230;sconcertante!
 2011|04|Politeama Rossetti:"Chess &#8211; The Musical"
-2013|12|Komische Oper Berlin: "Rualka"
+2013|12|Komische Oper Berlin: "Rušalka"
 2012|11|Theater an der Wien:Il "Trittico" secondo Michieletto
-2015|01|Dittico al femminile: Goyescas e Suor Angelica al Teatro Regio di Torino
+2015|01|Dittico al femminile: “Goyescas” e “Suor Angelica” al Teatro Regio di Torino
 2014|02|"Il Campiello" un "hit" del Sociale di Rovigo
-2012|03|Genova, Teatro Carlo Felice: "Romo et Juliette"
+2012|03|Genova, Teatro Carlo Felice: "Roméo et Juliette"
 2016|02|"Aida" al Teatro Verdi di Pisa
 2010|11|Bergamo Musica Festival: "Don Giovanni"
-2011|12|Trieste, Politeama Rossetti: "Ain't Misbehavin"- The Fats Waller Musical Show
+2011|12|Trieste, Politeama Rossetti: "Ain't Misbehavin"’- The Fats Waller Musical Show
 2012|10|Leipzig, Opernhaus:"Rigoletto"
 2012|11|Sassari, Teatro Comunale: "Le nozze di Figaro"
 2013|07|Savona, Complesso Monumentale del Priamar: "Rigoletto"
 2014|08|Roma, Terme di Caracalla:"Il Barbiere di Siviglia"
-2013|02|Opra di Marsiglia:"Elektra"
+2013|02|Opéra di Marsiglia:"Elektra"
 2011|03|Alicante, Teatro Principal:"Nabucco"
 2016|04|Roma, Teatro dell'Opera: "Il Trittico" di Giacomo Puccini
 2012|05|"Wozzeck" alla Staatsoper Stuttgart
 2012|02|Bilbao, Teatro Arriaga:"Der Schauspieldirektor", "La Canterina"
 2010|08|Arena Sferisterio di Macerata:"Faust"
-2010|12|A Firenze una "Forza del destino" allinsegna del patriottismo
+2010|12|A Firenze una "Forza del destino" all’insegna del patriottismo
 2013|11|"Il Flauto magico" al Teatro Marrucino di Chieti
 2015|06|Vicenza, Teatro Olimpico: "Il Signor Bruschino"
-2013|11|Opera di Roma: Non piangere&#8230; c' Li
+2013|11|Opera di Roma: Non piangere&#8230; c'è Liù
 2013|04|"La Clemenza di Tito" al Teatro Verdi di Trieste
 2012|02|Madrid, Teatro Real: "La clemenza di Tito"
-2012|02|Parigi, Opra Bastille:"Rigoletto"
-2012|04|Opra di Marsiglia:"Le comte Ory"
-2012|06|Deutsche Oper Berlin:"Die Walkre"
+2012|02|Parigi, Opéra Bastille:"Rigoletto"
+2012|04|Opéra di Marsiglia:"Le comte Ory"
+2012|06|Deutsche Oper Berlin:"Die Walküre"
 2011|09|Torino, Teatro Carignano:"Leggenda"
 2013|12|Opera di Roma:"Ernani" (cast alternativo)
 2012|11|Milano, Teatro alla Scala: "Rigoletto"
 2009|05|"The rake's progress" al Teatro alla Scala
-2015|04|Jenfa al Teatro Comunale di Bologna
+2015|04|“Jenůfa” al Teatro Comunale di Bologna
 2010|02|"Un giorno di regno" apre la stagione del Teatro Regio di Parma
-2014|04|Venezia: "Le Saphir" di Flicien David
+2014|04|Venezia: "Le Saphir" di Félicien David
 2012|10|Salerno, Teatro Verdi:"La Gioconda"
 2008|12|Firenze, Teatro Comunale: "Siegfried"
 2013|10|"La clemenza di Tito" inaugura la nuova stagione del La Monnaie di Bruxelles
 2014|12|Staatsoper Stuttgart: "Madama Butterfly"
-2011|11|Madrid, Teatro Real: "Pellas et Mlisande"
+2011|11|Madrid, Teatro Real: "Pelléas et Mélisande"
 2014|04|"Elegy for Young Lovers" al Malibran di Venezia
 2016|03|Staatsoper Stuttgart: "Les contes d'Hoffmann"
 2010|11|Teatro "La Fenice" di Venezia:"L'elisir d'amore"
 2013|01|Genova, Teatro Carlo Felice:"Macbeth"
-2012|05|Opra di Marsiglia:"Il Trovatore"
+2012|05|Opéra di Marsiglia:"Il Trovatore"
 2010|03|"Il Trovatore" a Rovigo
 2010|11|Bergamo Musica Festival: "Rigoletto"
 2011|10|Milano, Teatro alla Scala: "Il ritorno di Ulisse in patria"
 2012|12|Brescia, Teatro Grande: "Ernani"
-2012|02|Venezia, Teatro La Fenice:"Cos fan tutte" (cast alternativo)
-2013|06|Firenze, Teatro del Maggio Musicale Fiorentino: Il Farnace
+2012|02|Venezia, Teatro La Fenice:"Così fan tutte" (cast alternativo)
+2013|06|Firenze, Teatro del Maggio Musicale Fiorentino: “Il Farnace”
 2011|10|Gruppo di famiglia in un interno
-2011|10|Parigi, Opra Bastille: "Tannhuser"
+2011|10|Parigi, Opéra Bastille: "Tannhäuser"
 2013|03|Modena, Teatro Comunale: "Otello"
 2013|01|Il "Barbiere" di Morassi al Malibran
 2013|02|"Rigoletto" al Met
 2014|12|"La voix humaine" e "The telephone" a Lucca
-2012|10|Bergamo, Teatro Donizetti: "La Bohme"
-2015|12|Giovanna dArco al Teatro alla Scala
-2016|06|Moses und Aron al Teatro Real di Madrid
+2012|10|Bergamo, Teatro Donizetti: "La Bohème"
+2015|12|“Giovanna d’Arco” al Teatro alla Scala
+2016|06|“Moses und Aron” al Teatro Real di Madrid
 2014|09|Cronache del MITO:"Dido and Aeneas" al Teatro Carignano
 2014|02|"Madama Butterfly" al Carlo Felice
 2012|03|Palermo, Teatro Massimo:"La Traviata"
@@ -761,12 +774,12 @@
 2014|09|Teatro Sociale di Como:"Don Giovanni"
 2010|08|Arena Sferisterio di Macerata:"La forza del destino"
 2011|02|"Nixon in China" per la prima volta al Met
-2013|02|Firenze, Teatro del Maggio Musicale Fiorentino: Don Giovanni
-2012|03|Parigi, Thatre des Champs Elyses:"Il Giustino"
+2013|02|Firenze, Teatro del Maggio Musicale Fiorentino: “Don Giovanni”
+2012|03|Parigi, Théatre des Champs Elysées:"Il Giustino"
 2011|10|Opera di Roma:"Elektra"
 2010|11|"Il Corsaro" a Bilbao
 2011|07|Madrid, Teatro Real:"Saint-Francois d'Assise"
-2011|09|Il Pergolesi Spontini Festival a Jesi ossia "LOlimpiade" di G. B. Pergolesi
+2011|09|Il Pergolesi Spontini Festival a Jesi ossia "L’Olimpiade" di G. B. Pergolesi
 2013|04|"L'elisir d'amore" diverte il pubblico del Teatro Filarmonico
 2014|05|La "Carmen" al Carlo Felice di Genova
 2013|12|"La Traviata" chiude la stagione lirica di Sassari
@@ -775,38 +788,40 @@
 2013|01|Teatro Filarmonico:"Macbeth" (cast alternativo)
 2011|11|Savona:"Il cappello di paglia di Firenze"
 2014|08|Verona, Arena Opera Festival:"Madama Butterfly"
+2014|04|"Norma" al Teatro Lirico di Cagliari
 2013|11|"Aida" al Teatro alla Scala
 2014|09|Teatro dell'Opera di Firenze:"Il Campiello"
-2010|09|"Cos fan tutte" al Teatro Avenida di Buenos Aires
+2010|09|"Così fan tutte" al Teatro Avenida di Buenos Aires
 2014|04|Opera di Roma:"Maometto II"
 2011|06|Opera di Roma:"La battaglia di Legnano"
 2011|12|"Rigoletto" al Teatro Pergolesi di Jesi: un grande successo
 2014|10|"Guillaume Tell" al Teatro Comunale di Bologna
-2014|02|Di qual tetra luce il Trovator risplende
-2014|11|Verona, Teatro Filarmonico: "La Bohme"
+2014|02|«Di qual tetra luce» il Trovator risplende
+2014|11|Verona, Teatro Filarmonico: "La Bohème"
 2014|07|Sessantesimo Festival Puccini, Torre del Lago:"Madama Butterfly"
 2012|11|Berlino, Deutsche Oper: "Parsifal"
 2010|08|Arena Sferisterio di Macerata:"I Lombardi alla prima crociata"
-2012|04|Trieste:"La Bohme"
+2012|04|Trieste:"La Bohème"
 2015|12|"Aida" al Teatro Comunale di Sassari
-2012|04|Parigi, Opra Comique:"La muette de Portici"
+2012|04|Parigi, Opéra Comique:"La muette de Portici"
 2012|03|Ricetta alla Rossini in agrodolce
 2016|07|Opera di Firenze, Cortile di Palazzo Pitti: "La Traviata"
 2012|06|"Die Frau ohne Schatten" al Bellas Artes
-2012|02|Parigi, Opra Bastille: "Manon"
-2012|08|XXXVIII Festival della Valle d'Itria:"Zaira"
+2012|12|Rovigo, Teatro Sociale:"Un ballo in maschera"
+2012|02|Parigi, Opéra Bastille: "Manon"
+2012|08|XXXVIII° Festival della Valle d'Itria:"Zaira"
 2012|07|Caracalla Festival:"Norma" (cast alternativo)
-2013|10|Pien di misfatti  il calle della potenza. Macbeth di Verdi a Novara
+2013|10|«Pien di misfatti è il calle della potenza». “Macbeth” di Verdi a Novara
 2015|02|Bologna, Teatro Comunale: "Madama Butterfly"
-2011|10|Parigi, Opra Bastille: "Lulu"
-2015|05|Bruxelles, Thtre La Monnaie: "Un ballo in maschera"
+2011|10|Parigi, Opéra Bastille: "Lulu"
+2015|05|Bruxelles, Théâtre La Monnaie: "Un ballo in maschera"
 2010|10|"La Sonnambula" al Teatro Sociale di Como
-2014|03|Torino, Teatro Regio:"Eine Florentinische Tragdie" e "Gianni Schicchi" (cast alternativi)
+2014|03|Torino, Teatro Regio:"Eine Florentinische Tragödie" e "Gianni Schicchi" (cast alternativi)
 2012|03|Napoli, Teatrino di Corte:"DonTrastullo"
 2011|07|Sferisterio Opera Festival: "Un ballo in maschera"
 2009|09|Bergamo Musical Festival "Gaetano Donizetti": "Linda di Chamounix"
 2011|05|Venezia, Teatro La Fenice:"Lucia di Lammermoor"
-2013|06|Firenze, Teatro Goldoni: The Rape of Lucretia
+2013|06|Firenze, Teatro Goldoni: “The Rape of Lucretia”
 2012|07|Cagliari, Teatro Lirico: "Le nozze di Figaro"
 2011|12|Como, Teatro Sociale:"Il Barbiere di Siviglia"
 2016|05|Venezia, Teatro La Fenice: "La Favorite"
@@ -817,21 +832,21 @@
 2013|12|Firenze:"Il cappello di paglia di Firenze"
 2013|03|Bologna, Teatro Comunale: "L'Olandese volante"
 2012|02|Milano, Teatro alla Scala:"Aida"
-2011|01|Bologna, Teatro Comunale:"Tannhuser"
+2011|01|Bologna, Teatro Comunale:"Tannhäuser"
 2014|12|Verona, Teatro Filarmonico: "Lucia di Lammermoor"
 2011|02|Torna a Napoli "La serva padrona" di Pergolesi
 2011|10|Palermo, Teatro Massimo:"Il Trovatore"
 2015|02|Torino, Teatro Regio: "Le nozze di Figaro"
 2008|11|Verona, Teatro Filarmonico: "Il maestro di Go"
-2015|10|Roberto Devereux al Teatro Real di Madrid (cast alternativo)
-2010|04|"Tannhuser" dal Teatro alla Scala
+2015|10|“Roberto Devereux” al Teatro Real di Madrid (cast alternativo)
+2010|04|"Tannhäuser" dal Teatro alla Scala
 2011|04|Trieste, Politeama Rossetti:"Oblivion Show"
-2013|10|"Aida" apre la nuova stagione lirica dell'Opra di Marsiglia
+2013|10|"Aida" apre la nuova stagione lirica dell'Opéra di Marsiglia
 2012|03|"I promessi sposi"
 2014|10|Teatro Verdi di Pisa: "Don Giovanni"
 2014|03|"Wunderzaichen" di Mark Andre in prima assoluta alla Staatsoper Stuttgart
 2014|04|"Maria Stuarda" al Filarmonico di Verona (cast alternativo)
-2013|08|Tout change et grandit en ces lieux con il Guillaume Tell
+2013|08|«Tout change et grandit en ces lieux» con il “Guillaume Tell”
 2011|02|Milano, Teatro alla Scala: "Pagliacci/Cavalleria rusticana"
 2014|02|Teatro alla Scala:"Lucia di Lammermoor"
 2014|05|Teatro di San Carlo di Napoli:"Pagliacci"
@@ -842,25 +857,26 @@
 2012|05|Bologna, Teatro Comunale:"L'Italiana in Algeri"
 2009|04|"Alcina" al Teatro alla Scala
 2011|04|Opera National du Rhin:"L'affare Makropoulos"
-2015|11|Venezia, Teatro La Fenice: "Die Zauberflte"
+2015|11|Venezia, Teatro La Fenice: "Die Zauberflöte"
 2013|11|La Fenice apre con L'Africaine, tra esotismo e denuncia anticolonialista
 2016|03|"Falstaff" al Teatro San Carlo di Napoli
 2015|04|"Der Rosenkavalier" alla Staatsoper Stuttgart
-2015|04|Palermo, Teatro Massimo: "Le Torador" e "Cavalleria Rusticana"
+2015|04|Palermo, Teatro Massimo: "Le Toréador" e "Cavalleria Rusticana"
 2013|08|"Tosca" a Torre del Lago
 2016|03|Bologna, Teatro Comunale: "Carmen"
 2016|06|Bologna, Teatro Comunale: "Luci mie traditrici" di Salvatore Sciarrino
 2010|12|Madrid,Teatro Real:"Der Rosenkavalier"
 2014|10|Teatro Comunale di Sassari: "Carmen"
 2011|10|Teramo, Teatro Comunale:"Nabucco"
-2012|02|Modena, Teatro Comunale: "La Bohme"
+2012|02|Modena, Teatro Comunale: "La Bohème"
 2013|02|Bologna, Teatro Comunale: "Macbeth"
 2012|09|Debutta a Salerno lOpera musical sulla vita di San Matteo
 2013|12|"Ernani" apre la stagione lirica dell'Opera di Roma
 2015|12|Torino, Teatro Regio: "Carmina Burana"
+2012|12|Catania, Teatro Bellini:"La Traviata"
 2014|12|Opera di Firenze: "Falstaff"
 2011|12|Una trionfale "Aida" al Teatro Verdi di Pisa
-2012|04|Parigi, Thtre des Champs Elyses:"La Didone"
+2012|04|Parigi, Théâtre des Champs Elysées:"La Didone"
 2012|04|Staatsoper Berlin:"Lulu"
 2015|11|"Tristan und Isolde" al Teatro Comunale "Pavarotti" di Modena
 2008|11|Festival Verdi 2008: "Il Corsaro"
@@ -875,13 +891,13 @@
 2015|12|Padova, Teatro Verdi: "La Traviata"
 2012|04|"La gazza ladra" torna a Verona
 2012|12|Piume di un cigno scomparso: "Lohengrin" alla Scala
-2014|11|"La Bohme" al Teatro Filarmonico di Verona (cast alternativo)
-2015|05|Bologna, Teatro Comunale: "Die Zauberflte"
+2014|11|"La Bohème" al Teatro Filarmonico di Verona (cast alternativo)
+2015|05|Bologna, Teatro Comunale: "Die Zauberflöte"
 2010|07|Santiago del Cile,  Teatro Municipal: "Alcina"
 2011|07|Tel Aviv, Israeli Opera:"La Traviata"
 2012|08|"Aida" all'Arena di Verona
 2012|05|Deutsche Oper Berlin:"I due Foscari"
-2013|08|Les Chorgies d'Orange:"Un ballo in maschera"
+2013|08|Les Chorégies d'Orange:"Un ballo in maschera"
 2010|12|Teatro dell'Opera di Roma:"Moise et Pharaon"
 2010|03|Ancona, Teatro delle Muse: una "Lucrezia Borgia" di successo
 2011|07|Firenze, Teatro Comunale:"Il cappello di paglia di Firenze"
@@ -889,113 +905,115 @@
 2012|12|Opera di Roma:"Simon Boccanegra"
 2014|11|"La scala di seta" al Teatro Comunale di Sassari
 2012|09|Venezia, Teatro La Fenice:"Rigoletto"
-2012|06|Opra de Marseille:"Die Zauberflote"
-2008|10|Venezia, Teatro Malibran:"La virt de' strali d'amore"
+2012|06|Opéra de Marseille:"Die Zauberflote"
+2008|10|Venezia, Teatro Malibran:"La virtù de' strali d'amore"
 2010|03|"Sogno di una notte di mezza estate" al Regio di Parma
-2011|08|QuellAdelaide romantica, ma non troppo
+2011|08|Quell’Adelaide romantica, ma non troppo…
 2009|06|"Assassinio nella cattedrale" di Pizzetti alla Scala
-2012|12|Opra de Monte-Carlo:"La fanciulla del West"
-2014|12|"Die Zauberflte" al Petruzzelli di Bari
-2016|02|Venezia, Teatro Malibran: "Les Chevaliers de la Table Ronde" di Herv
-2011|12|Teatro Comunale di Firenze:"La Bohme"
-2015|11|Opra national de Paris, "Moses und Aron"
-2013|10|L dove invan germoglia il ramo dellulivo: Simon Boccanegra a Torino
+2012|12|Opéra de Monte-Carlo:"La fanciulla del West"
+2014|12|"Die Zauberflöte" al Petruzzelli di Bari
+2016|02|Venezia, Teatro Malibran: "Les Chevaliers de la Table Ronde" di Hervé
+2011|12|Teatro Comunale di Firenze:"La Bohème"
+2015|11|Opéra national de Paris, "Moses und Aron"
+2013|10|«Là dove invan germoglia il ramo dell’ulivo»: “Simon Boccanegra” a Torino
 2011|09|Torino, Teatro Regio:"Lucia di Lammermoor"
 2009|07|"A midsummer night's dream" al Teatro alla Scala
 2011|08|Monteverdi in festa a Macerata
-2011|08|Buenos Aires, Teatro Coln:"Pellas et Mlisande"
+2011|08|Buenos Aires, Teatro Colón:"Pelléas et Mélisande"
 2011|03|New York, Metropolitan:"Armida"
-2014|12|Parigi, Opra Bastille: "La Bohme"
+2014|12|Parigi, Opéra Bastille: "La Bohème"
 2014|04|Catania, Teatro Massimo Bellini:"Don Pasquale"
 2016|04|Lucca, Teatro del Giglio: "Mefistofele"
 2012|05|"Joseph and the Amazing Technicolor Dreamcoat"
-2013|04|NYC, The Metropolitan Opera: "Gtterdmmerung"
+2013|04|NYC, The Metropolitan Opera: "Götterdämmerung"
 2012|03|Londra, Royal Albert Hall:"Aida"
-2012|03|"Die glckliche Hand" e "Osud" alla Staatsoper Stuttgart
+2012|03|"Die glückliche Hand" e "Osud" alla Staatsoper Stuttgart
 2015|03|Reggio Emilia, Teatro Valli: "Falstaff"
 2015|11|Pisa, Teatro Verdi: "Don Giovanni Tenorio o sia Il convitato di pietra"
-2014|12|"Voci di donna al Teatro Da Ponte di Vittorio Veneto
+2014|12|"Voci di donna” al Teatro Da Ponte di Vittorio Veneto
 2015|12|Bologna, Teatro Comunale: "L'elisir d'amore"
-2015|12|Rigoletto al Teatro Real di  Madrid
+2015|12|“Rigoletto” al Teatro Real di  Madrid
 2013|02|La bottega e i clienti vanitosi:"Il Barbiere di Siviglia" al Comunale di Ferrara
 2010|12|New York, Metropolitan Opera:"La fanciulla del West"
 2015|01|"I Capuleti e i Montecchi" al Teatro La Fenice di Venezia
 2016|05|Genova, Teatro Carlo Felice: "Tosca"
 2013|03|Madrid, Teatro de la Zarzuela: "Marina"
 2012|01|Monaco di Baviera, Bayerische Staatsoper: "Don Carlo"
-2014|08|Roma,Terme di Caracalla:"La Bohme"
+2014|08|Roma,Terme di Caracalla:"La Bohème"
 2016|06|"L'Amico Fritz" al Teatro La Fenice di Venezia
 2010|12|Staatsoper Stuttgart:"Carmen"
 2015|12|Jesi, Teatro Pergolesi: "La vedova allegra"
 2012|12|Doppia inaugurazione alla Fenice
-2013|06|Marsiglia, Opra Municipal: "Cloptre"
+2013|06|Marsiglia, Opéra Municipal: "Cléopâtre"
 2013|11|Bergamo, Teatro Donizetti: "La finta semplice"
 2011|10|Milano, Teatro alla Scala: "Der Rosenkavalier"
 2013|03|Zurigo,Opernhaus:"Parsifal"
-2009|10|Venezia, Teatro La Fenice: "Gtterdmmerung"
-2011|08|A Pesaro un "Mos in Egitto" tra kalashnikov e kamikaze
+2009|10|Venezia, Teatro La Fenice: "Götterdämmerung"
+2011|08|A Pesaro un "Mosè in Egitto" tra kalashnikov e kamikaze
 2014|11|"Salome" al Teatro San Carlo di Napoli
-2014|11|Bruxelles, Thtre La Monnaie: "Shell Schock"
+2014|11|Bruxelles, Théâtre La Monnaie: "Shell Schock"
 2013|01|Tra attrazione e sventura: "Rusalka" al San Carlo di Napoli
 2013|09|Como, Teatro Sociale:"Otello"
 2012|08|Arena di Verona: "Carmen"
 2015|04|"Lucia di Lammermoor" al Teatro dell'Opera di Roma
 2015|02|Teatro Regio di Torino: "Le nozze di Figaro" (cast alternativo)
 2015|02|Staatsoper Stuttgart: "Berenice, regina di Armenia" (Il Vologeso)
-2012|06|Una gelida "Bohme"
+2012|06|Una gelida "Bohème"
 2010|12|Padova, Teatro Verdi:"Rigoletto"
 2014|05|Opera di Firenze:"Roberto Devereux"
 2011|08|Messico, Centro Cultural Universitario: "The turn of the screw"
 2013|07|Arena di Verona:"Gala Verdi"
 2013|07|Arena di Verona:"Il Trovatore"
-2016|06|Madrid, Teatro Real: Der Kaiser von Atlantis di Viktor Ullmann
+2016|06|Madrid, Teatro Real: “Der Kaiser von Atlantis” di Viktor Ullmann
 2008|06|Samson et Dalila al Comunale di Bologna
 2009|04|"La Traviata" al Teatro Filarmonico di Verona
 2012|08|Caracalla Festival:"Norma"
 2011|02|Modena, Teatro Comunale:"Cavalleria rusticana" e "Pagliacci"
-2011|02|Metropolitan Opera:"Don Pasquale", "Iphignie en Tauride"
+2011|02|Metropolitan Opera:"Don Pasquale", "Iphigénie en Tauride"
 2015|07|Torino, Teatro Regio: "Il barbiere di Siviglia"
 2009|12|Pavia, Teatro Fraschini: "Norma"
 2012|12|Padova, Teatro Verdi:"Nabucco"
 2009|10|"I due Foscari" al Regio di Parma
 2012|10|Ascoli Piceno:"Manon Lescaut"
 2013|02|Verona, Teatro Filarmonico:"Attila"
-2016|04|Genova, Teatro Carlo Felice: "Andrea Chnier"
-2013|09|Arena di Verona:"Romo et Juliette"
+2016|04|Genova, Teatro Carlo Felice: "Andrea Chénier"
+2013|09|Arena di Verona:"Roméo et Juliette"
 2012|07|Venezia, Teatro La Fenice:"L'elisir d'amore"
 2013|05|Opera di Roma: "Rienzi"
+2012|12|Sassari, Teatro Comunale: "Nabucco"
 2012|02|Ancona, Teatro delle Muse:"Le nozze di Figaro"
 2014|03|Al Malibran "Il campiello" di Wolf-Ferrari, nostalgico, ma non troppo
 2014|06|"Orfeo ed Euridice" a Firenze
 2013|05|Madrid, Teatro de la Zarzuela: "Viento (es la dicha de Amor)"
-2010|12|Citt del Messico:"Fidelio" riapre il Palacio de Bellas Artes
+2010|12|Città del Messico:"Fidelio" riapre il Palacio de Bellas Artes
 2011|08|Il tempo di Mahler nel tempo di Principe
 2016|02|"Attila" al Teatro Comunale di Bologna
 2008|07|Firenze, Teatro Comunale:"Lady Macbeth del distretto di Mzesnk"
 2012|01|Roma, Teatro dell'Opera:"Candide"
-2012|05|Palermo: Manon Lescaut per lOrchestra Sinfonica Siciliana
+2012|05|Palermo: “Manon Lescaut” per l’Orchestra Sinfonica Siciliana
 2012|08|Rossini Opera Festival: "Ciro in Babilonia"
 2014|11|"La traviata" al Teatro Lirico di Cagliari
 2010|07|"Il Flaminio" in scena a Jesi
-2013|04|Pronta a scoppiar la folgore del ciel!  Ancora Don Carlo a Torino (cast alternativo)
-2013|04|Eliogabalo alla Gotham Chamber Opera
+2013|04|«Pronta a scoppiar la folgore del ciel!»  Ancora Don Carlo a Torino (cast alternativo)
+2012|10|«Tutti quanti han da brillar» per Cimarosa al Coccia: "Il matrimonio segreto" a Novara
+2013|04|“Eliogabalo” alla Gotham Chamber Opera
 2014|10|Teatro Regio di Parma: "La forza del destino"
 2009|04|&#8230;Ancora su "I Due Foscari" scaligeri
 2011|04|Parma, Teatro Regio:"Il Barbiere di Siviglia"
-2012|07|Arena di Verona: torna "Romo et Juliette" di Gounod
+2012|07|Arena di Verona: torna "Roméo et Juliette" di Gounod
 2010|06|"Edgar" al Teatro Comunale di Bologna
-2010|02|"La Bohme" al Teatro Filarmonico di Verona
+2010|02|"La Bohème" al Teatro Filarmonico di Verona
 2012|02|Bari, Teatro Petruzzelli:"Carmen"
-2016|04|Madrid, Teatro Real: Parsifal
+2016|04|Madrid, Teatro Real: “Parsifal”
 2013|10|Stagione lirica sassarese:"Falstaff"
 2015|02|"Werther" all'Opera di Roma
 2012|12|Magia del filtro, magia di Chung
 2011|07|Milano, Teatro alla Scala: "L'italiana in Algeri"
 2011|12|Parigi, Salle Pleyel:"Semele"
-2015|05|La Traviata al Teatro Real di Madrid (cast alternativo)
+2015|05|“La Traviata” al Teatro Real di Madrid (cast alternativo)
 2013|07|Teatro alla Scala: "Un ballo in maschera" (cast alternativo)
 2009|02|"Turandot" al Teatro Filarmonico di Verona
-2013|11|Perch ritornare allAida scaligera?
+2013|11|Perché ritornare all’“Aida” scaligera?
 2011|05|Trieste, Politeama Rossetti:Happy Days &#8211; Il nuovo Musical
 2012|09|Bergamo, Teatro Donizetti: "Belisario"
 2014|09|Taranto, "Giovanni Paisiello Festival":" Semiramide in Villa"
@@ -1005,9 +1023,9 @@
 2014|11|Genova, Teatro Carlo Felice: "Luisa Miller"
 2015|11|OperaLombardia, Teatro Fraschini di Pavia: "Un ballo in maschera"
 2016|06|Firenze, stagione lirica estiva dell'Opera: "L'elisir d'amore" a Palazzo Pitti
-2015|07|Otello di Rossini ritorna al Teatro alla Scala
-2008|08|Verona, 86 Festival Areniano: "Nabucco"
-2015|11|Alcina al Teatro Real di Madrid (cast alternativo)
+2015|07|“Otello” di Rossini ritorna al Teatro alla Scala
+2008|08|Verona, 86° Festival Areniano: "Nabucco"
+2015|11|“Alcina” al Teatro Real di Madrid (cast alternativo)
 2016|04|Milano, Teatro alla Scala: "La cena delle beffe"
 2014|10|Opera di Firenze: "Cavalleria rusticana"
 2014|10|Venezia, Teatro Malibran: "La porta della legge"
@@ -1015,9 +1033,9 @@
 2014|02|Perlacei fantasmi per Lucia ed Edgardo (cast alternativo)
 2015|03|"Madama Butterfly" al Teatro Petruzzelli di Bari
 2012|07|"Aida" a San Galgano
-2013|03|Lucca, Teatro del Giglio: Napoli milionaria
+2013|03|Lucca, Teatro del Giglio: “Napoli milionaria”
 2014|04|Ferrara, Teatro Comunale: "La Bohme"
-2011|09|"La Serva padrona" di Pergolesi e il teatro dellassurdo
+2011|09|"La Serva padrona" di Pergolesi e il teatro dell’assurdo
 2011|08|Una "Scala di seta" su "scala reale"
 2013|01|Barcellona, Gran Teatre del Liceu:"Rusalka"
 2012|11|Roma, Teatro dell'Opera: "La Gioconda"
@@ -1028,7 +1046,7 @@
 2012|03|Verona, Teatro Filarmonico:"Iris"
 2012|11|Brescia, Teatro Grande: "I Capuleti e i Montecchi"
 2013|04|Nella villa del boss mafioso insieme a Oberto
-2015|09|Teatro Massimo di Palermo: "La Bohme"
+2015|09|Teatro Massimo di Palermo: "La Bohème"
 2010|04|"L'elisir d'amore" al Comunale di Bologna
 2011|06|Trieste, Teatro Verdi:"Lucia di Lammermoor"
 2013|11|Pavia, Teatro Fraschini: "Tancredi"
@@ -1040,17 +1058,17 @@
 2010|12|The Boston Early Music Festival:"Dido and Aeneas"
 2013|06|Salerno, Teatro Verdi:"Simon Boccanegra"
 2014|06|Verona, Arena Opera Festival:"Carmen"
-2016|01|"Der fliegende Hollnder allAuditorio Nacional di Madrid
+2016|01|"Der fliegende Holländer” all’Auditorio Nacional di Madrid
 2014|04|"La cambiale di matrimonio" al Valli di Reggio Emilia
 2011|01|Madrid, Teatro Real:"Der Rosenkavalier"
-2012|07|"La Bohme" alla Choregies Orange
-2011|12|Opra de Marseille:"Roberto Devereux"
-2011|07|Macerata, Teatro Lauro Rossi: "Cos fan tutte"
+2012|07|"La Bohème" alla Choregies Orange
+2011|12|Opéra de Marseille:"Roberto Devereux"
+2011|07|Macerata, Teatro Lauro Rossi: "Così fan tutte"
 2016|03|Pesaro, Auditorium Pedrotti: "Il barbiere di Siviglia"
 2013|01|Bari, Teatro Petruzzelli:"Otello"
 2013|10|Brescia, Teatro Grande: "L'elisir d'amore"
 2011|10|Bergamo, Teatro Donizetti: "Maria di Rohan"
-2013|02|Opra di Toulon:"Les dialogues des Carmlites"
+2013|02|Opéra di Toulon:"Les dialogues des Carmélites"
 2011|12|Parigi, Palais Garnier:"La Cenerentola"
 2011|05|Trieste:"Monty Python's Spamlot"
 2014|01|"Il flauto magico" al Teatro Regio
@@ -1058,9 +1076,9 @@
 2010|07|"La fanciulla del West" a San Francisco
 2011|05|Palermo, Teatro Massimo:"The Greek Passion"
 2015|04|Verona, Teatro Filarmonico: "Il Barbiere di Siviglia" (cast alternativo)
-2013|02|Dallanime esultanti / sboccia lamor.  La bohme al Teatro Regio di Torino
+2013|02|«Dall’anime esultanti / sboccia l’amor».  La bohème al Teatro Regio di Torino
 2010|11|Trieste, Teatro Verdi:"La Traviata"
-2014|10|La Traviata inaugura la stagione del Teatro Coccia di Novara
+2014|10|“La Traviata” inaugura la stagione del Teatro Coccia di Novara
 2011|05|Bologna, Teatro Comunale:"Ernani"
 2013|11|Bergamo, Teatro Sociale: "La macchina" e "L'aumento"
 2013|06|Bergamo, Teatro Donizetti: "Ginevra di Scozia"
@@ -1070,9 +1088,10 @@
 2012|12|Bergamo, Teatro Donizetti: "La serenata al vento"
 2016|03|Torino, Teatro Regio: "La Cenerentola"
 2012|09|Arena di Verona: "Tosca"
-2013|06|Arena di Verona:l\'"Aida" del Centenario
+2013|06|Arena di Verona:l'"Aida" del Centenario
 2014|10|Teatro Sociale di Como: "Adriana Lecouvreur"
 2011|04|Torino, Teatro Regio:"I Vespri Siciliani"
+2014|04|Verona, Teatro Filarmonico:"Maria Stuarda"
 2012|02|Torino, Teatro Regio:"Ognenny Angel" (L'angelo di fuoco)
 2013|03|Trieste, Teatro Verdi:"Macbeth"
 2015|02|Novara, Teatro Coccia: "Turandot"
@@ -1088,12 +1107,12 @@
 2010|02|"Don Giovanni" al Teatro alla Scala
 2015|03|Verona, Teatro Filarmonico: "El amor brujo" &#038; "Cavalleria rusticana"
 2013|03|New York, Metropolitan:"Parsifal"
-2014|05|La tradizionale modernit di Tosca al Teatro La Fenice (cast alternativo)
-2012|11|Et surtout la chose enivrante: La libert! Carmen al Regio di Torino
+2014|05|La tradizionale modernità di “Tosca” al Teatro La Fenice (cast alternativo)
+2012|11|«Et surtout la chose enivrante: La liberté!» Carmen al Regio di Torino
 2015|06|Settimane Musicali al Teatro Olimpico di Vicenza: "Don Giovanni"
 2014|09|"Norma" al NCPA di Pechino
 2013|07|"Maria di Venosa", tra flashback, fantasmi sonori e tormenti visivi
-2013|05|Firenze, Teatro del Maggio Musicale Fiorentino: Don Carlo
+2013|05|Firenze, Teatro del Maggio Musicale Fiorentino: “Don Carlo”
 2010|06|"Don Pasquale" dal Teatro Olimpico di Vicenza
 2014|02|Firenze:"Madama Butterfly"
 2010|09|"Gigi" al Birch North Park Theatre, San Diego
@@ -1102,30 +1121,31 @@
 2015|03|"Macbeth" al Teatro Verdi di Pisa
 2012|04|Londra,ENO:"Jakob Lenz"
 2010|11|Torino, Teatro Regio:"Madama Butterfly"
-2012|11|"Iphignie en Aulide" di Gluck alla Statsoper Stuttgart
+2012|11|"Iphigénie en Aulide" di Gluck alla Statsoper Stuttgart
 2014|09|"Il cappello di paglia di Firenze" al Petruzzelli di Bari
 2013|10|"Rigoletto" al Verdi di Padova
 2012|02|Bologna, Teatro Comunale:"La Traviata"
 2012|11|Barcellona, Gran Teatre del Liceu: "L'elisir d'amore"
 2014|02|Torino, Teatro Regio: "Madama Butterfly"
 2011|07|Milano, Teatro alla Scala: "Attila"
-2012|07|Macerata Opera Festival:"La Bohme"
+2012|07|Macerata Opera Festival:"La Bohème"
 2013|06|Firenze, Teatro della Pergola: "Macbeth"
 2014|02|"L'elisir d'amore" al Teatro delle Muse di Ancona
 2011|04|Bologna, Teatro Comunale:"Risorgimento", "Il prigioniero"
 2010|06|Badisches Staatstheater di Karlsruhe:"Euryanthe"
 2010|10|"Aida" alla San Francisco Opera
 2012|01|Berlino, Deutsche Oper:"Tancredi"
-2012|06|Maggio Musicale Fiorentino: Dittico Bartk
+2012|06|Maggio Musicale Fiorentino: Dittico Bartók
 2013|11|"La Traviata" al Regio di Torino
+2012|12|Pisa, Teatro Verdi: "Nabucco"
 2011|05|Firenze, Teatro Goldoni:"L'Italia del destino"
-2015|03|Siegfried al Gran Teatre del Liceu di Barcelona
+2015|03|“Siegfried” al Gran Teatre del Liceu di Barcelona
 2011|03|Trieste, Teatro Verdi:"Salome"
 2015|02|Milano, Teatro alla Scala: "Aida"
-2012|11|"Die Zauberflte" all'Accademia di Santa Cecilia
+2012|11|"Die Zauberflöte" all'Accademia di Santa Cecilia
 2011|09|San Francisco Opera:"Heart of a Soldier"
 2012|05|Madrid, Teatro Real: "Cyrano de Bergerac"
-2014|06|Teatro Comunale di Bologna:"Cos fan tutte"
+2014|06|Teatro Comunale di Bologna:"Così fan tutte"
 2009|02|Milano, Teatro alla Scala: "L'Affare Makropulos"
 2016|04|Opera di Firenze: "I capricci della sorte, ossia l'Italiana in Algeri"
 2014|03|Teatro alla Scala:"Csarskaja Nevesta" (Una sposa per lo Zar)
@@ -1134,27 +1154,27 @@
 2015|09|OperaLombardia,  Teatro Sociale di Como: "Le nozze di Figaro"
 2011|12|Londra, Covent Garden:"La Traviata"
 2012|01|Trieste, Teatro Verdi:"Anna Bolena"
-2014|11|Staatsoper Stuttgart: "Chovanina"
+2014|11|Staatsoper Stuttgart: "Chovanščina"
 2011|02|Milano, Teatro alla Scala: "Tosca"
 2011|11|Londra, English National Opera:"Le nozze di Figaro"
-2011|11|Modena, Teatro Comunale: "Romo et Juliette"
-2012|05|Parigi, Thtre du Chtelet:"Nixon in China"
+2011|11|Modena, Teatro Comunale: "Roméo et Juliette"
+2012|05|Parigi, Théâtre du Châtelet:"Nixon in China"
 2014|03|Verona, Teatro Filarmonico: "La vedova allegra"
 2012|12|Bologna, Teatro Comunale:"Il Trovatore"
 2015|03|"El amor brujo" e "Cavalleria rusticana" al Teatro Filarmonico di Verona
 2008|09|Arena di Verona 2008:"Rigoletto"
-2011|11|Brescia, Teatro Grande: "Romo et Juliette"
+2011|11|Brescia, Teatro Grande: "Roméo et Juliette"
 2010|10|Prima mondiale de "Il postino" a Los Angeles
 2013|10|Staatsoper Stuttgart:"Falstaff"
 2015|11|"Le nozze di Figaro" al Teatro Fraschini di Pavia
 2014|02|Pisa:"Les Contes d'Hoffmann"
 2013|08|"L'Italiana in Algeri" apre il ROF
-2008|06|Milano, Teatro alla Scala: "Il prigioniero", "Il castello del duca Barbabl"
+2008|06|Milano, Teatro alla Scala: "Il prigioniero", "Il castello del duca Barbablù"
 2014|11|Milano, Teatro alla Scala: "Simon Boccanegra"
-2015|03|Les pcheurs de perles allAuditorium RAI di Torino
-2012|08|Chorgies d'Orange:"Turandot"
-2014|04|Genova, Teatro Carlo Felice: "La Bohme"
-2012|03|Parigi, Opra Comique:"Dido and Aeneas"
+2015|03|“Les pêcheurs de perles” all’Auditorium RAI di Torino
+2012|08|Chorégies d'Orange:"Turandot"
+2014|04|Genova, Teatro Carlo Felice: "La Bohème"
+2012|03|Parigi, Opéra Comique:"Dido and Aeneas"
 2015|03|Genova, Teatro Carlo Felice: "Fedora" (cast alternativo)
 2011|07|Palermo, Teatro di Verdura:"Turandot"
 2011|01|NYC, Metropolitan Opera: "The magic flute"
@@ -1170,6 +1190,6 @@
 2016|01|"La voix humaine" e "Suor Angelica" all'Opera di Firenze
 2013|11|"Il flauto magico" o "Un flauto magico"?
 2013|05|Staatsoper Stuttgart:"Ariadne auf Naxos"
-2011|10|"Vc Makropulos" per la terza volta a Firenze
+2011|10|"Věc Makropulos" per la terza volta a Firenze
 2010|10|"Attila" a Busseto
 2014|03|Teatro Valli di Reggio Emilia:"Tosca"

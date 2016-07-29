@@ -8,4 +8,4 @@ published on GBOPERA site
 
 from collector import grabber
 
-grabber.Grabber.grab_archive(grabber.Grabber())
+grabber.Grabber.grab_archive()
