@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+# - *- coding: utf- 8 - *-
 
 """
 Collects opera performance data
@@ -21,38 +22,39 @@ class Parser(object):
 
     ROLE_LINE_PATTERN = '<em>([^<>]+?)</em>([A-Z\s\/]+[A-Z])<br />'
     TITLE_PATTERN = '<title>(.+)</title>'
-    CREDIT_LINE_PATTERNS = ['<br />([^<>]+)<strong>([a-zA-Z\s\/]+[a-zA-Z])?</strong>',
+    CREDIT_LINE_PATTERNS = ['<br />Musica di.*?<strong>([a-zA-Z\s\/]+[a-zA-Z])?</strong>',
                             '<br />([^<>]+)<b>([a-zA-Z\s\/]+[a-zA-Z])?</b>']
+    MUSIC_PATTERNS = [
+        'Musica di.*?<strong[^>]*?>([^<]+?)<',
+        'Musica di.*?<b[^>]*?>([^<]+?)<',
+        'Musica di<strong> </strong><strong>([^<]+?)</strong>'
+    ]
     CREDIT_ROLES = ['Musica di', 'Direttore', 'Maestro del Coro', 'Regia', 'Maestro del coro', 'musica di']
 
-    def __init__(self):
-        self.roles = set([])
-
-    def parse(self):
+    @staticmethod
+    def parse():
         dir_name = os.getcwd() + '/../../' + Parser.PAGES_DIR
         count = 0
-        headlines = []
         for fn in os.listdir(dir_name):
             file_path = dir_name + '/' + fn
             if os.path.isfile(file_path):
                 [year, month, _, _] = fn.split('_')
                 count += 1
+                print(fn)
                 fh = open(file_path, "r")
                 content = fh.read()
-                headline = self.parse_page(content, year, month)
+                credit_lines = Parser.parse_credits(content, year, month)
+                if len(credit_lines):
+                    Parser.write_entry(credit_lines)
                 fh.close()
-                headlines.append(headline)
-
-        headline_file = os.getcwd() + '/../../' + Parser.HEADLINE_FILE
-        fh = open(headline_file, "w")
-        fh.write("\n".join(headlines))
-        fh.close()
         print(count)
 
-    def parse_page(self, content, year, month):
-        headline = Parser.parse_headline(content, year, month)
-        entry = Parser.parse_credits(content, year)
-        return headline
+    @staticmethod
+    def write_entry(entry):
+        filename = os.getcwd() + '/../../' + 'data/singer_event/SINGER_EVENT.csv'
+        fh = open(filename, "a+")
+        fh.write(entry + '\n')
+        fh.close()
 
     @staticmethod
     def parse_headline(content, year, month):
@@ -70,8 +72,26 @@ class Parser(object):
         return headline
 
     @staticmethod
-    def clean(str):
-        return str.\
+    def remove_html_markup(s):
+        tag = False
+        quote = False
+        out = ""
+
+        for c in s:
+            if c == '<' and not quote:
+                tag = True
+            elif c == '>' and not quote:
+                tag = False
+            elif (c == '"' or c == "'") and tag:
+                quote = not quote
+            elif not tag:
+                out = out + c
+
+        return out
+
+    @staticmethod
+    def clean(s):
+        return s.\
             replace('ritorna', ''). \
             replace('torna', ''). \
             replace('Torna', ''). \
@@ -87,7 +107,7 @@ class Parser(object):
             strip(" ")
 
     @staticmethod
-    def parse_credits(content, year):
+    def parse_title(content):
         pattern = re.compile(Parser.TITLE_PATTERN)
         match = pattern.findall(content)
         if len(match):
@@ -100,9 +120,8 @@ class Parser(object):
             if ':' in title:
                 parts = title.split(':')
                 if len(parts) == 2:
-                    has_delimeter = True
                     place, name = parts
-                    print(Parser.clean(place) + '|' + Parser.clean(name))
+                    return title + '|' + Parser.clean(place) + '|' + Parser.clean(name)
 
             if not has_delimeter:
                 if 'Messico' not in title:
@@ -114,11 +133,34 @@ class Parser(object):
                             if len(parts) == 2:
                                 name, place = parts
                                 if '"' in name and len(name) < 20:
-                                    has_delimeter = True
-                                    print(Parser.clean(place) + '|' + Parser.clean(name))
-                                    break
-            if not has_delimeter:
-                print(title)
+                                    return title + '|' + Parser.clean(place) + '|' + Parser.clean(name)
+            return title + '|-|-'
+
+    @staticmethod
+    def parse_music(content):
+        if 'Musica di' not in content:
+            return '-'
+        for pattern in Parser.MUSIC_PATTERNS:
+            pattern = re.compile(pattern)
+            match = Parser.clean_name_match(pattern.findall(content))
+            if len(match):
+                return Parser.format_name_match(match)
+        return '-'
+
+    @staticmethod
+    def clean_name_match(match):
+        if not len(match):
+            return match
+        return list(filter(lambda m: len(m) and len(m) < 50, map(lambda m: m.strip(',').strip('\xc2').strip('\xa0').strip(), match)))
+
+    @staticmethod
+    def format_name_match(match):
+        return ','.join(set([' '.join([w[0].upper() + w[1:].lower() for w in i.split(' ')]) for i in match]))
+
+    @staticmethod
+    def parse_credits(content, year, month):
+        metadata = year + '|' + month
+        metadata += '|' + Parser.parse_title(content)
 
         left_selector, right_selector = '<div class="entry-content" itemprop="articleBody" style="color: #363636">',\
                                         '</div><div class="clear"></div>'
@@ -127,25 +169,23 @@ class Parser(object):
         pos = content.index(right_selector)
         entry = content[:pos]
 
-        # pattern = re.compile(Parser.ROLE_LINE_PATTERN)
-        # match = pattern.findall(entry)
-        # for (role, name) in match:
-        #     print(role.strip() + '|' + name.strip() + '\n')
-        #
-        # matches = []
-        # for item in Parser.CREDIT_LINE_PATTERNS:
-        #     pattern = re.compile(item)
-        #     matches.append(pattern.findall(entry))
-        #
-        # for match in matches:
-        #     for (role, name) in match:
-        #         r = role.replace('&nbsp;', ' ').strip()
-        #         if r in Parser.CREDIT_ROLES:
-        #             print(r + '|' + name)
+        metadata += '|' + Parser.parse_music(entry)
 
+        pattern = re.compile(Parser.ROLE_LINE_PATTERN)
+        match = pattern.findall(entry)
+        entry_lines = []
+        for (role, name) in match:
+            role = role.strip('\xc2').strip('\xa0').strip()
+            name = name.strip('\xc2').strip('\xa0').strip()
+            if len(role) and len(name):
+                print('|'.join([role, name]))
+                entry_lines.append('|'.join([role, name, metadata]))
 
-
-        return entry
+        if len(entry_lines):
+            return '\n'.join(entry_lines)
+        else:
+            print('AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
+            return []
 
 
 Parser().parse()
