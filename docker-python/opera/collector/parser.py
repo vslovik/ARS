@@ -39,6 +39,31 @@ class Parser(object):
         'Direttore.*?<b[^>]*?>([^<]+?)<',
     ]
 
+    DIRECTION_PATTERNS = [
+        'Regia[^<]*?<strong>(.+?)<',
+        'Regia[^<]*?<strong>(.+?) &#8211; <',
+        'Regia[^<]*?<b>(.+?)<',
+        'Regia[^<]*?</em>\W*?<strong>(.+?)<',
+        'Regia[^<]*?<strong[^>]*?>(.+?)<',
+        'Regia[^<]*?<b[^>]*?>(.+?)<',
+        'Regia[^<]*?</span></span><span[^>]*?"><span[^>]*?><b>(.+?)<',
+        'Regia[^<]*?<strong>\W*?<b>(.+?)<',
+        'Regia[^<]*?<strong>\W*?<span[^>]*?>(.+?)<',
+        'Regia[^<]*?</span>\W*?<strong[^>]*?>(.+?)<',
+        'Regia[^<]*?</span>(.+?)<',
+        'Regia[^<]*?<span[^>]*?>\W*?</span><strong>(.+?)<',
+        'Regia[^<]*?<em>\W*?</em>\W*?<strong>(.+?)<',
+        'Regia[^<]*?<span[^>]*?><strong>\W*?</strong></span><strong>(.+?)<',
+        'Regia[^<]*?</span>\W*?<strong>(.+?)<',
+        'Regia[^<]*?<strong>,</strong> scene, costumi, luci e coreografia  di <strong>(.+?)<',
+        'Regia,</em>\W*?<em>scene, costumi, luci </em><strong>(.+?)<',
+        'Regia[^<]*?<em>(.+?)<',
+        'Regia[^<]*?<em>\W*?</em><strong>(.+?)<',
+        'Regia[^<]*?<strong>\W*?<strong>(.+?)<',
+        'Regia[^<]*?<strong>\W*?</strong><strong>(.+?)<',
+        'Regia, scene<strong> </strong>e costumi <strong>(.+?)<'
+    ]
+
     ROLE_LINE_PATTERNS = [
         '<em[^>]*?>([^<>]+?)</em>([^<]{0,50}?)<br />',
         '<i[^>]*?>([^<>]+?)</i>([^<]{0,50}?)<br />',
@@ -50,8 +75,6 @@ class Parser(object):
         '>([^<>]+?)\s+([^<a-z0-9]{0,50}?)<',
         '<br /> (Soprano|Baritono|Tenore) <strong>([^<]{0,50}?)</strong>'
     ]
-
-    CREDIT_ROLES = ['Musica di', 'Direttore', 'Maestro del Coro', 'Regia', 'Maestro del coro', 'musica di']
 
     @staticmethod
     def parse():
@@ -190,6 +213,17 @@ class Parser(object):
         return '-'
 
     @staticmethod
+    def parse_direction(content):
+        if 'Regia' not in content:
+            return '-'
+        for pattern in Parser.DIRECTION_PATTERNS:
+            pattern = re.compile(pattern)
+            match = Parser.clean_name_match(pattern.findall(content))
+            if len(match):
+                return Parser.format_name_match(match)
+        return '-'
+
+    @staticmethod
     def clean_name_match(match):
         if not len(match):
             return match
@@ -236,6 +270,7 @@ class Parser(object):
 
         metadata += '|' + Parser.parse_music(entry)
         metadata += '|' + Parser.parse_conductor(entry)
+        metadata += '|' + Parser.parse_direction(entry)
 
         credit_lines = Parser.parse_roles(entry, year, month, metadata)
 
