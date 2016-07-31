@@ -8,6 +8,7 @@ import requests
 import re
 import time
 import os
+import codecs
 
 """www.gbopera.it crawling"""
 
@@ -51,6 +52,6 @@ class Grabber(object):
             raise Exception('Can not grab gbopera page: ' + url)
         result.encoding = 'utf-8'
         filename = os.getcwd() + '/../' + 'data/pages/' + url.replace('http://www.gbopera.it/', '').replace('/', '_')
-        fh = open(filename, "w")
-        fh.write(result.text.encode('utf-8'))
+        fh = codecs.open(filename, 'w', 'utf-8')
+        fh.write(result.text)
         fh.close()

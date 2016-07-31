@@ -7,6 +7,7 @@ published on GBOPERA site
 """
 import re
 import os
+import codecs
 
 """www.gbopera.it crawling"""
 
@@ -65,15 +66,20 @@ class Parser(object):
     ]
 
     ROLE_LINE_PATTERNS = [
-        '<em[^>]*?>([^<>]+?)</em>([^<]{0,50}?)<br />',
-        '<i[^>]*?>([^<>]+?)</i>([^<]{0,50}?)<br />',
-        '<em[^>]*?>([^<>]+?)</em>([^<]{0,50}?)</div>',
-        '<i>([^<]{0,50}?)</i>([^<]{0,50}?)</div>',
-        '<i>([^<>]+?)</i>([^<>&]+?)</span>',
-        '>\s*([^<>\s]+?)\s*&#8211;([^<>]+?)<',
-        '>\s?([^<>]+?) ([A-Z\s\/]+[A-Z])<',
-        '>([^<>]+?)\s+([^<a-z0-9]{0,50}?)<',
-        '<br /> (Soprano|Baritono|Tenore) <strong>([^<]{0,50}?)</strong>'
+        '<em>([^<>]{3,50}?</em><em>[^<>]{3,50}?)</em>([^<:\*]{3,50}?)<br />',
+        '<em[^>]*?>([^<>]{3,50}?)</em>([^<:\*]{3,50}?)<br />',
+        '<i[^>]*?>([^<>]{3,50}?)</i>([^<]{3,50}?)<br />',
+        '<em[^>]*?>([^<>]{3,50}?)</em>([^<]{2,50}?)</div>',
+        '<i>([^<]{3,50}?)</i>([^<]{3,50}?)</div>',
+        '<br /> (Soprano|Baritono|Tenore) <strong>([^<]{3,50}?)</strong>',
+        '>([^<>]{0,50}?)</em></i></span></span><span[^>]*?><span[^>]*?>([^<a-z,:;\.]{0,50}?)<',
+        '>([^<>]{0,50}?)</em> </i><span[^>]*?><span[^>]*?>([^<a-z,:;\.]{0,50}?)<',
+        '>([^<>]{0,50}?)</i></span></span><span[^>]*?><span[^>]*?>([^<a-z,:;\.]{0,100}?)<',
+        '<i><em>([^<>]{0,50}?)</em></i></span></span><span[^>]*?><span[^>]*?>([^<a-z,:;\.]{0,50}?)<',
+        '<i>([^<>]{0,50}?)</i></span></span><span[^>]*?><span[^>]*?>([^<a-z,:;\.]{0,50}?)<',
+        '<i><em>([^<>]{0,50}?)</em></i></span></span><span[^>]*?><span[^>]*?>([^<a-z,:;\.]{0,50}?)<',
+        '<i>([^<>]{0,50}?)</i></span></span><span[^>]*?><span[^>]*?>([^<a-z,:;\.]{0,50}?)<',
+        '<i>([^<>]{0,50}?)</i></span></span><span[^>]*?><span[^>]*?>([^<a-z,:;\.]{0,50}?)<',
     ]
 
     @staticmethod
@@ -83,12 +89,12 @@ class Parser(object):
         for fn in os.listdir(dir_name):
             file_path = dir_name + '/' + fn
             if os.path.isfile(file_path):
-                # if fn != '2014_11_la-boheme-al-teatro-filarmonico-di-verona-cast-alternativo_':
+                # if fn != '2014_05_teatro-alla-scala-di-milanoelektra_':
                 #     continue
                 [year, month, _, _] = fn.split('_')
                 count += 1
                 print(fn)
-                fh = open(file_path, "r")
+                fh = codecs.open(file_path, 'r', 'utf-8')
                 content = fh.read()
                 credit_lines = Parser.parse_credits(content, year, month)
                 if len(credit_lines):
@@ -106,7 +112,7 @@ class Parser(object):
     @staticmethod
     def write_entry(entry):
         filename = os.getcwd() + '/../../' + 'data/singer_event/SINGER_EVENT.csv'
-        fh = open(filename, "a+")
+        fh = codecs.open(filename, "a+", 'utf-8')
         fh.write(entry + '\n')
         fh.close()
 
@@ -227,7 +233,7 @@ class Parser(object):
     def clean_name_match(match):
         if not len(match):
             return match
-        return list(filter(lambda m: len(m) and len(m) < 50, map(lambda m: ' '.join(re.split(r"[^\w']+", m)).strip(',').strip('\xc2').strip('\xa0').strip(), match)))
+        return list(filter(lambda m: len(m) and len(m) < 50, map(lambda m: ' '.join(re.split(r"\s+", m)).strip(',').strip(), match)))
 
     @staticmethod
     def format_name_match(match):
@@ -239,23 +245,28 @@ class Parser(object):
             return []
         cleaned = []
         for (role, name) in match:
-            role = ' '.join(map(lambda item: re.sub(r"[^\w']+", '', item), role.replace('&#8217;', "'").split(' ')))
-            name = ' '.join(map(lambda item: re.sub(r"[^\w']+", '', item), name.replace('&#8217;', "'").split(' ')))
+            role = (' '.join(re.split(r"\s+", role))).replace('&#8217;', "'").replace('(13)', '').replace('(19)', '').strip().replace('</em><em>', '')
+            name = (' '.join(re.split(r"\s+", name))).replace('&#8217;', "'").replace('(13)', '').replace('(19)', '').strip()
             if len(role) and len(name):
                 cleaned.append((role, name))
         return cleaned
 
     @staticmethod
     def parse_roles(content, year, month, metadata):
+        lines = []
         for pattern in Parser.ROLE_LINE_PATTERNS:
             pattern = re.compile(pattern)
             match = Parser.clean_role_match(pattern.findall(content))
             if len(match):
                 lines = []
                 for (role, name) in match:
-                    lines.append('|'.join([year, month, role, name, metadata]))
-                return lines
-        return []
+                    if role[0].isupper() and name.isupper():
+                        print(role + '|' + name)
+                        line = '|'.join([year, month, role, name, metadata])
+                        if line not in lines:
+                            lines.append(line)
+        return lines
+
 
     @staticmethod
     def parse_credits(content, year, month):
