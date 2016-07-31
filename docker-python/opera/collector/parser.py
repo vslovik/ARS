@@ -28,6 +28,17 @@ class Parser(object):
         'Musica di<strong> </strong><strong>([^<]+?)</strong>'
     ]
 
+    CONDUCTOR_PATTERNS = [
+        'Direttore<strong> </strong><strong>(.+?)</strong>',
+        'Direttore<strong> </strong><strong>([^<]+?)</strong>',
+        '> Direttore ([^<]+?)<br />',
+        'Direttore</em><strong> </strong><strong>([^<]+?)</strong>',
+        'Direttore\W*?<strong> <strong>([^<]+?)</strong>',
+        'Direttore<strong> <strong><strong>([^<]+?)</strong>',
+        'Direttore.*?<strong[^>]*?>([^<]+?)<',
+        'Direttore.*?<b[^>]*?>([^<]+?)<',
+    ]
+
     ROLE_LINE_PATTERNS = [
         '<em[^>]*?>([^<>]+?)</em>([^<]{0,50}?)<br />',
         '<i[^>]*?>([^<>]+?)</i>([^<]{0,50}?)<br />',
@@ -49,7 +60,7 @@ class Parser(object):
         for fn in os.listdir(dir_name):
             file_path = dir_name + '/' + fn
             if os.path.isfile(file_path):
-                # if fn != '2015_12_torino-teatro-regio-carmina-burana_':
+                # if fn != '2014_11_la-boheme-al-teatro-filarmonico-di-verona-cast-alternativo_':
                 #     continue
                 [year, month, _, _] = fn.split('_')
                 count += 1
@@ -168,14 +179,25 @@ class Parser(object):
         return '-'
 
     @staticmethod
+    def parse_conductor(content):
+        if 'Direttore' not in content:
+            return '-'
+        for pattern in Parser.CONDUCTOR_PATTERNS:
+            pattern = re.compile(pattern)
+            match = Parser.clean_name_match(pattern.findall(content))
+            if len(match):
+                return Parser.format_name_match(match)
+        return '-'
+
+    @staticmethod
     def clean_name_match(match):
         if not len(match):
             return match
-        return list(filter(lambda m: len(m) and len(m) < 50, map(lambda m: m.strip(',').strip('\xc2').strip('\xa0').strip(), match)))
+        return list(filter(lambda m: len(m) and len(m) < 50, map(lambda m: ' '.join(re.split(r"[^\w']+", m)).strip(',').strip('\xc2').strip('\xa0').strip(), match)))
 
     @staticmethod
     def format_name_match(match):
-        return ','.join(set([' '.join([w[0].upper() + w[1:].lower() for w in i.split(' ')]) for i in match]))
+        return ','.join(set([' '.join([w[0].upper() + w[1:].lower() for w in i.replace('  ', ' ').split(' ')]) for i in match]))
 
     @staticmethod
     def clean_role_match(match):
@@ -197,7 +219,6 @@ class Parser(object):
             if len(match):
                 lines = []
                 for (role, name) in match:
-                    print(role + ' ' + name)
                     lines.append('|'.join([year, month, role, name, metadata]))
                 return lines
         return []
@@ -214,6 +235,7 @@ class Parser(object):
         entry = content[:pos]
 
         metadata += '|' + Parser.parse_music(entry)
+        metadata += '|' + Parser.parse_conductor(entry)
 
         credit_lines = Parser.parse_roles(entry, year, month, metadata)
 
