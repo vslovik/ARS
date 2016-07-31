@@ -20,15 +20,26 @@ class Parser(object):
     PAGES_DIR = '/data/pages'
     HEADLINE_FILE = '/data/headline.txt'
 
-    ROLE_LINE_PATTERN = '<em>([^<>]+?)</em>([A-Z\s\/]+[A-Z])<br />'
     TITLE_PATTERN = '<title>(.+)</title>'
-    CREDIT_LINE_PATTERNS = ['<br />Musica di.*?<strong>([a-zA-Z\s\/]+[a-zA-Z])?</strong>',
-                            '<br />([^<>]+)<b>([a-zA-Z\s\/]+[a-zA-Z])?</b>']
+
     MUSIC_PATTERNS = [
         'Musica di.*?<strong[^>]*?>([^<]+?)<',
         'Musica di.*?<b[^>]*?>([^<]+?)<',
         'Musica di<strong> </strong><strong>([^<]+?)</strong>'
     ]
+
+    ROLE_LINE_PATTERNS = [
+        '<em[^>]*?>([^<>]+?)</em>([^<]{0,50}?)<br />',
+        '<i[^>]*?>([^<>]+?)</i>([^<]{0,50}?)<br />',
+        '<em[^>]*?>([^<>]+?)</em>([^<]{0,50}?)</div>',
+        '<i>([^<]{0,50}?)</i>([^<]{0,50}?)</div>',
+        '<i>([^<>]+?)</i>([^<>&]+?)</span>',
+        '>\s*([^<>\s]+?)\s*&#8211;([^<>]+?)<',
+        '>\s?([^<>]+?) ([A-Z\s\/]+[A-Z])<',
+        '>([^<>]+?)\s+([^<a-z0-9]{0,50}?)<',
+        '<br /> (Soprano|Baritono|Tenore) <strong>([^<]{0,50}?)</strong>'
+    ]
+
     CREDIT_ROLES = ['Musica di', 'Direttore', 'Maestro del Coro', 'Regia', 'Maestro del coro', 'musica di']
 
     @staticmethod
@@ -38,6 +49,8 @@ class Parser(object):
         for fn in os.listdir(dir_name):
             file_path = dir_name + '/' + fn
             if os.path.isfile(file_path):
+                # if fn != '2015_12_torino-teatro-regio-carmina-burana_':
+                #     continue
                 [year, month, _, _] = fn.split('_')
                 count += 1
                 print(fn)
@@ -47,7 +60,14 @@ class Parser(object):
                 if len(credit_lines):
                     Parser.write_entry(credit_lines)
                 fh.close()
+
+        Parser.write_sorted()
         print(count)
+
+    @staticmethod
+    def write_sorted():
+        filename = os.getcwd() + '/../../' + 'data/singer_event/SINGER_EVENT.csv'
+        os.system('sort ' + filename + ' -o ' + filename)
 
     @staticmethod
     def write_entry(entry):
@@ -158,9 +178,33 @@ class Parser(object):
         return ','.join(set([' '.join([w[0].upper() + w[1:].lower() for w in i.split(' ')]) for i in match]))
 
     @staticmethod
+    def clean_role_match(match):
+        if not len(match):
+            return []
+        cleaned = []
+        for (role, name) in match:
+            role = ' '.join(map(lambda item: re.sub(r"[^\w']+", '', item), role.replace('&#8217;', "'").split(' ')))
+            name = ' '.join(map(lambda item: re.sub(r"[^\w']+", '', item), name.replace('&#8217;', "'").split(' ')))
+            if len(role) and len(name):
+                cleaned.append((role, name))
+        return cleaned
+
+    @staticmethod
+    def parse_roles(content, year, month, metadata):
+        for pattern in Parser.ROLE_LINE_PATTERNS:
+            pattern = re.compile(pattern)
+            match = Parser.clean_role_match(pattern.findall(content))
+            if len(match):
+                lines = []
+                for (role, name) in match:
+                    print(role + ' ' + name)
+                    lines.append('|'.join([year, month, role, name, metadata]))
+                return lines
+        return []
+
+    @staticmethod
     def parse_credits(content, year, month):
-        metadata = year + '|' + month
-        metadata += '|' + Parser.parse_title(content)
+        metadata = Parser.parse_title(content)
 
         left_selector, right_selector = '<div class="entry-content" itemprop="articleBody" style="color: #363636">',\
                                         '</div><div class="clear"></div>'
@@ -171,20 +215,11 @@ class Parser(object):
 
         metadata += '|' + Parser.parse_music(entry)
 
-        pattern = re.compile(Parser.ROLE_LINE_PATTERN)
-        match = pattern.findall(entry)
-        entry_lines = []
-        for (role, name) in match:
-            role = role.strip('\xc2').strip('\xa0').strip()
-            name = name.strip('\xc2').strip('\xa0').strip()
-            if len(role) and len(name):
-                print('|'.join([role, name]))
-                entry_lines.append('|'.join([role, name, metadata]))
+        credit_lines = Parser.parse_roles(entry, year, month, metadata)
 
-        if len(entry_lines):
-            return '\n'.join(entry_lines)
+        if len(credit_lines):
+            return '\n'.join(credit_lines)
         else:
-            print('AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
             return []
 
 
