@@ -66,6 +66,9 @@ class Parser(object):
     ]
 
     ROLE_LINE_PATTERNS = [
+        '>([^<]{3,50}?)</em><span[^>]*?>([^<]{3,50}?)<',
+        '</em>([\w\s]{3,50})\s([A-Z\s]{3,50}?[A-Z]{3,50}?)<',
+        '>\s*?(.+?)\s+?([A-Z\s]{3,50}?[A-Z]{3,50}?)<',
         '<em>([^<>]{3,50}?</em><em>[^<>]{3,50}?)</em>([^<:\*]{3,50}?)<br />',
         '<em[^>]*?>([^<>]{3,50}?)</em>([^<:\*]{3,50}?)<br />',
         '<i[^>]*?>([^<>]{3,50}?)</i>([^<]{3,50}?)<br />',
@@ -89,7 +92,7 @@ class Parser(object):
         for fn in os.listdir(dir_name):
             file_path = dir_name + '/' + fn
             if os.path.isfile(file_path):
-                # if fn != '2014_05_teatro-alla-scala-di-milanoelektra_':
+                # if fn != '2013_11_la-traviata-al-regio-di-torino_':
                 #     continue
                 [year, month, _, _] = fn.split('_')
                 count += 1
@@ -258,15 +261,16 @@ class Parser(object):
             pattern = re.compile(pattern)
             match = Parser.clean_role_match(pattern.findall(content))
             if len(match):
-                lines = []
                 for (role, name) in match:
-                    if role[0].isupper() and name.isupper():
+                    if not role.isupper() and role[0].isupper() and name.isupper():
                         print(role + '|' + name)
                         line = '|'.join([year, month, role, name, metadata])
                         if line not in lines:
                             lines.append(line)
-        return lines
 
+        if not len(lines):
+            print('AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
+        return lines
 
     @staticmethod
     def parse_credits(content, year, month):
