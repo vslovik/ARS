@@ -66,6 +66,31 @@ class Parser(object):
     ]
 
     ROLE_LINE_PATTERNS = [
+        '>\s([A-Z][^<A-Z\s]+)\s([A-Z]{1,3}[^<]{3,50}?)<',
+        '>\s([A-Z][^<A-Z\s]+\s[A-Z][^<A-Z\s]+)\s([A-Z]{1,3}[^<]{3,50}?)<',
+        '>(\s[A-Z][a-z]+\s[a-z]+\s[A-Z][a-z]+)[^<>A-Z]+?([A-Z]+\s+[^<>]+)<',
+        '>([^<]{3,50}?),\s+?([^<]{3,50}?)<',
+        '>([^<]{3,50}?)</em>\s?</em>([^<]{3,50}?)<',
+        '>([^<]{3,50}?)</em></span><span[^>]*?>([^<]{3,50}?)<',
+        '>([^<]{3,50}?),[^<>]{0,2}?</em></em><em><span[^>]*?>[^<>]{0,50}?</span></em><span[^>]*?>[^<>]{0,2}?([^<]{3,50}?)<',
+        '>([^<]{3,50}?),</em><em><span[^>]*?>[^<>]{0,50}?</span></em><span[^>]*?>([^<]{3,50}?)<',
+        '>([^<]{3,50}?)</em><span[^>]*?>([^<]{3,50}?)<',
+        '>([^<]{3,50}?),.{0,2}?</em><em><span[^>]*?>[^<]{3,50}?</span></em><em[^>]*?>[^<>]{0,2}?</em><span[^>]*?>([^<]{3,50}?)<',
+        '>([^<]{3,50}?)</span></em><span[^>]*?>([^<]{3,50}?)<',
+        '>([^<]{3,50}?)</span></em><span[^>]*?><span[^>]*?>[^<>]+?</span></span><span[^>]*?>([^<]{3,50}?)<',
+        '>([^<]{3,50}?)</i></span><span[^>]*?>([^<]{3,50}?)<',
+        '>([^<]{3,50}?)</span></strong></em><strong><span[^>]*?>([^<]{3,50}?)<',
+        '>([^<]{3,50}?)</span></em><span[^>]*?><span[^>]*?>[^<>]+?</span>([^<]{3,50}?)<',
+        '>([^<]{3,50}?)<span[^>]*?>[^<>]+?</span></span></em><span[^>]*?>([^<]{3,50}?)<',
+        '>(G[^<]+?)</em><span[^>]*?>[^<>]+?</span>([^<]{3,50}?)<',
+        '>([^<]{3,50}?)</em><span[^>]*?>[^<>]+?</span>([^<]{3,50}?)<',
+        '<em>([^<]{3,50}?)</em><em>\s+?</em>([^<]{3,50}?)<br />',
+        '<em>([^<]{3,50}?)</em>([^<]{3,50}?)<',
+        '<i[^>]*?>([^<]{3,50}?)</i>([^<]{3,50}?)</div>',
+        '<i>([^<]{3,50}?)</i>([^<]{3,50}?)</span><br />',
+        '<br />([^<]{3,50}?)</em>([^<]{3,50}?)<em>',
+        '([^<]{3,50}?) </em>([^<]{3,50}?)<',
+        '<em><br />([^<]{3,50}?)</em>([^<]{3,50}?)<',
         '>([^<,&#0-9;]{3,50}?)</em><span[^>]*?>([^<,&#0-9;]{3,50}?)<',
         '>([^<,&#0-9;]{3,50})\s([A-Z\s]{3,50}?[A-Z]{3,50}?)<',
         '>([^<,&#0-9;]{3,50}),\s([A-Z\s]{3,50}?[A-Z]{3,50}?)<',
@@ -96,8 +121,8 @@ class Parser(object):
         for fn in os.listdir(dir_name):
             file_path = dir_name + '/' + fn
             if os.path.isfile(file_path):
-                if fn != '2011_12_the-fairy-queen-alla-salle-pleyel-di-parigi_':
-                    continue
+                # if fn != '2009_05_gotterdammerung-al-maggio-musicale-fiorentino_':
+                #     continue
                 [year, month, _, _] = fn.split('_')
                 count += 1
                 print(fn)
@@ -291,12 +316,14 @@ class Parser(object):
         metadata += '|' + Parser.parse_conductor(entry)
         metadata += '|' + Parser.parse_direction(entry)
 
-        credit_lines = Parser.parse_roles(entry, year, month, metadata)
+        if 'Interpreti:' not in content:
+            credit_lines = Parser.parse_roles(entry, year, month, metadata)
+            if len(credit_lines):
+                return '\n'.join(credit_lines)
+            else:
+                return []
 
-        if len(credit_lines):
-            return '\n'.join(credit_lines)
-        else:
-            return []
+        return []
 
 
 Parser().parse()
