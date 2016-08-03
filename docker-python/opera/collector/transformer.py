@@ -28,7 +28,7 @@ class Transformer(object):
 
     @staticmethod
     def get_data_dir():
-        return os.getcwd() + '/../../'
+        return os.getcwd() + '/../..'
 
     @staticmethod
     def events2multi_graphs():
@@ -42,8 +42,8 @@ class Transformer(object):
             for line in lines:
                 [_, _, event, theatre, title, composer, conductor, director, role, name] = line.split('|')
                 if prev_event == event:
-                    event_roles.append(''.join([role, title]))
-                    event_names.append('|'.join([name, theatre, title, composer, conductor, director, role]))
+                    event_roles.append('|'.join([role, title]).replace('\n',''))
+                    event_names.append('|'.join([name, theatre, title, composer, conductor, director, role]).replace('\n',''))
                 else:
                     if len(event_roles) > 0:
                         l = len(event_roles)
@@ -55,9 +55,9 @@ class Transformer(object):
                         for i in xrange(0, l):
                             for j in xrange(i + 1, l):
                                 sfh.write('{0};{1}\n'.format(event_names[i], event_names[j]))
-                    event_roles = []
                     prev_event = event
-                    event_names = dict()
+                    event_roles = []
+                    event_names = []
         efh.close()
         rfh.close()
         sfh.close()
@@ -120,7 +120,7 @@ class Transformer(object):
                     pairs[line] = 1
         fh.close()
 
-        fh = open(Transformer.get_data_dir() + Transformer.ROLE_GRAPH_FILE_W, 'r')
+        fh = open(Transformer.get_data_dir() + Transformer.ROLE_GRAPH_FILE_W, 'w')
         for pair_key, weight in pairs.iteritems():
             this_role, that_role = pair_key.split(';')
 
@@ -134,5 +134,5 @@ class Transformer(object):
 
 transformer = Transformer()
 transformer.events2multi_graphs()
-transformer.weight_role_links()
-transformer.weight_singer_links()
+# transformer.weight_role_links()
+# transformer.weight_singer_links()

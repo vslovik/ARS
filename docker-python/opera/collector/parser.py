@@ -220,7 +220,10 @@ class Parser(object):
             replace(' | GBOPERA', '').\
             replace('&#8220;', '"').\
             replace('&#8221;', '"').\
-            replace('&#8217;', "'")
+            replace('&#8217;', "'"). \
+            replace('&#8216;', "'"). \
+            replace('&#8211;', "'--").\
+            replace('&#8230;', "'...")
 
         title = Parser.clean(title)
 
@@ -230,9 +233,18 @@ class Parser(object):
                 place, name = parts
                 return '|'.join([title, Parser.clean(place), Parser.clean(name)])
 
-        for delimiter in [' a ', ' dal ', ' al ', ' dalla ', ' alla ', ' alle ',
-                                  " dall", "all'", ' nella ', ' nel ', ' del ',
-                                  ' apre ']:
+        for delimiter in [' dal ',
+                          ' al ',
+                          ' dalla ',
+                          ' alla ',
+                          ' alle ',
+                          ' dall',
+                          ' all',
+                          ' nella ',
+                          ' nel ',
+                          ' del ',
+                          ' apre ',
+                          ' a ']:
             if delimiter in title:
                 parts = title.split(delimiter)
                 if len(parts) == 2:
@@ -278,7 +290,8 @@ class Parser(object):
     def clean_name_match(match):
         if not len(match):
             return match
-        return list(filter(lambda m: len(m) and len(m) < 50, map(lambda m: ' '.join(re.split(r"\s+", m)).strip(',').strip(), match)))
+        return list(filter(lambda m: len(m) and len(m) < 50,
+                           map(lambda m: ' '.join(re.split(r"\s+", m.replace('&#8216;', "'").replace('&#8217;', "'").replace('&#8211;', '').strip(','))).strip(), match)))
 
     @staticmethod
     def format_name_match(match):
@@ -290,8 +303,28 @@ class Parser(object):
             return []
         cleaned = []
         for (role, name) in match:
-            role = (' '.join(re.split(r"\s+", role))).replace('&#8217;', "'").replace('(13)', '').replace('(19)', '').strip().replace('</em><em>', '')
-            name = (' '.join(re.split(r"\s+", name))).replace('&#8217;', "'").replace('(13)', '').replace('(19)', '').strip()
+            role = (' '.join(re.split(r"\s+", role))).\
+                replace('(13)', '').\
+                replace('(19)', '').\
+                replace('&#8220;', '"'). \
+                replace('&#8221;', '"'). \
+                replace('&#8217;', "'"). \
+                replace('&#8216;', "'"). \
+                replace('&#8211;', "'"). \
+                replace('&#8230;', "'").\
+                strip().\
+                replace('</em><em>', '')
+
+            name = (' '.join(re.split(r"\s+", name))).\
+                replace('(13)', '').\
+                replace('(19)', ''). \
+                replace('&#8220;', '"'). \
+                replace('&#8221;', '"'). \
+                replace('&#8217;', "'"). \
+                replace('&#8216;', "'"). \
+                replace('&#8211;', "'"). \
+                replace('&#8230;', "'").\
+                strip()
             if len(role) and len(name):
                 cleaned.append((role, name))
         return cleaned
