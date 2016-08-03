@@ -21,7 +21,7 @@ class Parser(object):
     PAGES_DIR = '/data/pages'
     HEADLINE_FILE = '/data/headline.txt'
 
-    TITLE_PATTERN = '<title>(.+)</title>'
+    TITLE_PATTERN = '<title>([^<]+?):([^<]+?) | GBOPERA</title>'
 
     MUSIC_PATTERNS = [
         'Musica di.*?<strong[^>]*?>([^<,&#0-9;]+?)<',
@@ -199,38 +199,47 @@ class Parser(object):
             replace('per la prima volta', ''). \
             replace('diverte il pubblico', ''). \
             replace('Una trionfale', ''). \
+            replace('per la terza volta', ''). \
+            replace('il ', ''). \
+            replace('Prima mondiale de ', ''). \
+            replace(u'La tradizionale modernità di ', ''). \
+            replace(u'«Dall’anime esultanti / sboccia l’amor». ', ''). \
+            replace('Una', ''). \
+            replace('ambientalista', ''). \
             strip("'").\
             strip(" ")
 
     @staticmethod
     def parse_title(content):
-        pattern = re.compile(Parser.TITLE_PATTERN)
-        match = pattern.findall(content)
-        if len(match):
-            title = match[0].replace(' | GBOPERA', '').\
-                replace('&#8220;', '"'). \
-                replace('&#8221;', '"'). \
-                replace('&#8217;', "'")
 
-            has_delimeter = False
-            if ':' in title:
-                parts = title.split(':')
+        left_selector, right_selector = '<title>',  '</title>'
+        pos = content.index(left_selector)
+        content = content[pos + len(left_selector):]
+        pos = content.index(right_selector)
+        title = content[:pos].\
+            replace(' | GBOPERA', '').\
+            replace('&#8220;', '"').\
+            replace('&#8221;', '"').\
+            replace('&#8217;', "'")
+
+        title = Parser.clean(title)
+
+        if ':' in title:
+            parts = title.split(':')
+            if len(parts) == 2:
+                place, name = parts
+                return '|'.join([title, Parser.clean(place), Parser.clean(name)])
+
+        for delimiter in [' a ', ' dal ', ' al ', ' dalla ', ' alla ', ' alle ',
+                                  " dall", "all'", ' nella ', ' nel ', ' del ',
+                                  ' apre ']:
+            if delimiter in title:
+                parts = title.split(delimiter)
                 if len(parts) == 2:
-                    place, name = parts
-                    return title + '|' + Parser.clean(place) + '|' + Parser.clean(name)
+                    name, place = parts
+                    return '|'.join([title, Parser.clean(place), Parser.clean(name)])
 
-            if not has_delimeter:
-                if 'Messico' not in title:
-                    for delimiter in [' dal ', ' al ', ' dalla ', ' alla ', ' alle ',
-                                      " dall",  "all'", ' nella ', ' nel ', ' del ',
-                                      ' apre ']:
-                        if delimiter in title:
-                            parts = title.split(delimiter)
-                            if len(parts) == 2:
-                                name, place = parts
-                                if '"' in name and len(name) < 20:
-                                    return title + '|' + Parser.clean(place) + '|' + Parser.clean(name)
-            return title + '|-|-'
+        return '|'.join([title, '-', '-'])
 
     @staticmethod
     def parse_music(content):
@@ -301,8 +310,6 @@ class Parser(object):
                         if line not in lines:
                             lines.append(line)
 
-        # if not len(lines):
-        #     print('AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
         return lines
 
     @staticmethod
