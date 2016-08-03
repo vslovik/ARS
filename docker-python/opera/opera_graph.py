@@ -10,6 +10,9 @@ def parse(input_file, output_file):
     event_roles = []
     fh = open(output_file, "w")
     with open(input_file, 'r') as lines:
+
+
+
         prev_event = ''
         for line in lines:
             line = line.rstrip()

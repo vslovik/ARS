@@ -121,7 +121,7 @@ class Parser(object):
         for fn in os.listdir(dir_name):
             file_path = dir_name + '/' + fn
             if os.path.isfile(file_path):
-                # if fn != '2009_05_gotterdammerung-al-maggio-musicale-fiorentino_':
+                # if fn != '2011_12_the-fairy-queen-alla-salle-pleyel-di-parigi_':
                 #     continue
                 [year, month, _, _] = fn.split('_')
                 count += 1
@@ -293,12 +293,12 @@ class Parser(object):
                 for (role, name) in match:
                     if not role.isupper() and role[0].isupper() and name.isupper():
                         print(role + '|' + name)
-                        line = '|'.join([year, month, role, name, metadata])
+                        line = '|'.join([year, month, metadata, role, name])
                         if line not in lines:
                             lines.append(line)
 
-        if not len(lines):
-            print('AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
+        # if not len(lines):
+        #     print('AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA')
         return lines
 
     @staticmethod
