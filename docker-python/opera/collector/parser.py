@@ -115,8 +115,12 @@ class Parser(object):
     ]
 
     @staticmethod
+    def get_data_dir():
+        return os.getcwd() + '/../../'
+
+    @staticmethod
     def parse():
-        dir_name = os.getcwd() + '/../../' + Parser.PAGES_DIR
+        dir_name = Parser.get_data_dir() + Parser.PAGES_DIR
         count = 0
         for fn in os.listdir(dir_name):
             file_path = dir_name + '/' + fn
@@ -138,12 +142,12 @@ class Parser(object):
 
     @staticmethod
     def write_sorted():
-        filename = os.getcwd() + '/../../' + 'data/singer_event/SINGER_EVENT.csv'
+        filename = Parser.get_data_dir() + 'data/singer_event/SINGER_EVENT.csv'
         os.system('sort ' + filename + ' -o ' + filename)
 
     @staticmethod
     def write_entry(entry):
-        filename = os.getcwd() + '/../../' + 'data/singer_event/SINGER_EVENT.csv'
+        filename = Parser.get_data_dir() + 'data/singer_event/SINGER_EVENT.csv'
         fh = codecs.open(filename, "a+", 'utf-8')
         fh.write(entry + '\n')
         fh.close()
