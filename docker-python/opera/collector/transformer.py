@@ -92,13 +92,13 @@ class Transformer(object):
                     pairs[pair_key] = 1
         fh.close()
 
-        fh = open(Transformer.get_data_dir() + Transformer.SINGER_GRAPH_FILE_W, 'r')
+        fh = open(Transformer.get_data_dir() + Transformer.SINGER_GRAPH_FILE_W, 'w')
         for pair_key, weight in pairs.iteritems():
             this_singer, that_singer = pair_key.split('|')
 
             fh.write('{0};{1};{2}\n'.format(
-                '|'.join([this_singer, '|'.join(sorted(list(self.meta[this_singer])))]),
-                '|'.join([that_singer, '|'.join(sorted(list(self.meta[this_singer])))]),
+                '|'.join([this_singer, '|'.join(sorted(list(self.meta[this_singer])))]).replace('\n',''),
+                '|'.join([that_singer, '|'.join(sorted(list(self.meta[this_singer])))]).replace('\n',''),
                 weight
             ))
 
@@ -125,8 +125,8 @@ class Transformer(object):
             this_role, that_role = pair_key.split(';')
 
             fh.write('{0};{1};{2}\n'.format(
-                this_role,
-                that_role,
+                this_role.replace('\n',''),
+                that_role.replace('\n',''),
                 weight
             ))
 
@@ -134,5 +134,5 @@ class Transformer(object):
 
 transformer = Transformer()
 transformer.events2multi_graphs()
-# transformer.weight_role_links()
-# transformer.weight_singer_links()
+transformer.weight_role_links()
+transformer.weight_singer_links()

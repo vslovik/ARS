@@ -312,7 +312,6 @@ class Parser(object):
     @staticmethod
     def clean_name(name):
         return (' '.join(re.split(r"\s+", name))). \
-            replace(';', ','). \
             replace('(13)', ''). \
             replace('(19)', ''). \
             replace('&#8220;', '"'). \
@@ -323,7 +322,8 @@ class Parser(object):
             replace('&#8230;', "'"). \
             replace('&#038;', "'"). \
             strip(). \
-            replace('</em><em>', '')
+            replace('</em><em>', '').\
+            replace(';', ',')
 
     @staticmethod
     def parse_roles(content, year, month, metadata):
