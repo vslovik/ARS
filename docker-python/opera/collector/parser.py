@@ -41,28 +41,28 @@ class Parser(object):
     ]
 
     DIRECTION_PATTERNS = [
-        'Regia[^<]*?<strong>(.+?)<',
-        'Regia[^<]*?<strong>(.+?) &#8211; <',
-        'Regia[^<]*?<b>(.+?)<',
-        'Regia[^<]*?</em>\W*?<strong>(.+?)<',
-        'Regia[^<]*?<strong[^>]*?>(.+?)<',
-        'Regia[^<]*?<b[^>]*?>(.+?)<',
-        'Regia[^<]*?</span></span><span[^>]*?"><span[^>]*?><b>(.+?)<',
-        'Regia[^<]*?<strong>\W*?<b>(.+?)<',
-        'Regia[^<]*?<strong>\W*?<span[^>]*?>(.+?)<',
-        'Regia[^<]*?</span>\W*?<strong[^>]*?>(.+?)<',
-        'Regia[^<]*?</span>(.+?)<',
-        'Regia[^<]*?<span[^>]*?>\W*?</span><strong>(.+?)<',
-        'Regia[^<]*?<em>\W*?</em>\W*?<strong>(.+?)<',
-        'Regia[^<]*?<span[^>]*?><strong>\W*?</strong></span><strong>(.+?)<',
-        'Regia[^<]*?</span>\W*?<strong>(.+?)<',
-        'Regia[^<]*?<strong>,</strong> scene, costumi, luci e coreografia  di <strong>(.+?)<',
-        'Regia,</em>\W*?<em>scene, costumi, luci </em><strong>(.+?)<',
-        'Regia[^<]*?<em>(.+?)<',
-        'Regia[^<]*?<em>\W*?</em><strong>(.+?)<',
-        'Regia[^<]*?<strong>\W*?<strong>(.+?)<',
-        'Regia[^<]*?<strong>\W*?</strong><strong>(.+?)<',
-        'Regia, scene<strong> </strong>e costumi <strong>(.+?)<'
+        'Regia[^<]*?<strong>([^<>]{3,50}?)<',
+        'Regia[^<]*?<strong>([^<>]{3,50}?) &#8211; <',
+        'Regia[^<]*?<b>([^<>]{3,50}?)<',
+        'Regia[^<]*?</em>\W*?<strong>([^<>]{3,50}?)<',
+        'Regia[^<]*?<strong[^>]*?>([^<>]{3,50}?)<',
+        'Regia[^<]*?<b[^>]*?>([^<>]{3,50}?)<',
+        'Regia[^<]*?</span></span><span[^>]*?"><span[^>]*?><b>([^<>]{3,50}?)<',
+        'Regia[^<]*?<strong>\W*?<b>([^<>]{3,50}?)<',
+        'Regia[^<]*?<strong>\W*?<span[^>]*?>([^<>]{3,50}?)<',
+        'Regia[^<]*?</span>\W*?<strong[^>]*?>([^<>]{3,50}?)<',
+        'Regia[^<]*?</span>([^<>]{3,50}?)<',
+        'Regia[^<]*?<span[^>]*?>\W*?</span><strong>([^<>]{3,50}?)<',
+        'Regia[^<]*?<em>\W*?</em>\W*?<strong>([^<>]{3,50}?)<',
+        'Regia[^<]*?<span[^>]*?><strong>\W*?</strong></span><strong>([^<>]{3,50}?)<',
+        'Regia[^<]*?</span>\W*?<strong>([^<>]{3,50}?)<',
+        'Regia[^<]*?<strong>,</strong> scene, costumi, luci e coreografia  di <strong>([^<>]{3,50}?)<',
+        'Regia,</em>\W*?<em>scene, costumi, luci </em><strong>([^<>]{3,50}?)<',
+        'Regia[^<]*?<em>([^<>]{3,50}?)<',
+        'Regia[^<]*?<em>\W*?</em><strong>([^<>]{3,50}?)<',
+        'Regia[^<]*?<strong>\W*?<strong>([^<>]{3,50}?)<',
+        'Regia[^<]*?<strong>\W*?</strong><strong>([^<>]{3,50}?)<',
+        'Regia, scene<strong> </strong>e costumi <strong>([^<>]{3,50}?)<'
     ]
 
     ROLE_LINE_PATTERNS = [
@@ -211,7 +211,6 @@ class Parser(object):
 
     @staticmethod
     def parse_title(content):
-
         left_selector, right_selector = '<title>',  '</title>'
         pos = content.index(left_selector)
         content = content[pos + len(left_selector):]
@@ -223,7 +222,8 @@ class Parser(object):
             replace('&#8217;', "'"). \
             replace('&#8216;', "'"). \
             replace('&#8211;', "'--").\
-            replace('&#8230;', "'...")
+            replace('&#8230;', "'..."). \
+            replace('&#038;', "&")
 
         title = Parser.clean(title)
 
@@ -303,31 +303,27 @@ class Parser(object):
             return []
         cleaned = []
         for (role, name) in match:
-            role = (' '.join(re.split(r"\s+", role))).\
-                replace('(13)', '').\
-                replace('(19)', '').\
-                replace('&#8220;', '"'). \
-                replace('&#8221;', '"'). \
-                replace('&#8217;', "'"). \
-                replace('&#8216;', "'"). \
-                replace('&#8211;', "'"). \
-                replace('&#8230;', "'").\
-                strip().\
-                replace('</em><em>', '')
-
-            name = (' '.join(re.split(r"\s+", name))).\
-                replace('(13)', '').\
-                replace('(19)', ''). \
-                replace('&#8220;', '"'). \
-                replace('&#8221;', '"'). \
-                replace('&#8217;', "'"). \
-                replace('&#8216;', "'"). \
-                replace('&#8211;', "'"). \
-                replace('&#8230;', "'").\
-                strip()
+            role = Parser.clean_name(role)
+            name = Parser.clean_name(name)
             if len(role) and len(name):
                 cleaned.append((role, name))
         return cleaned
+
+    @staticmethod
+    def clean_name(name):
+        return (' '.join(re.split(r"\s+", name))). \
+            replace(';', ','). \
+            replace('(13)', ''). \
+            replace('(19)', ''). \
+            replace('&#8220;', '"'). \
+            replace('&#8221;', '"'). \
+            replace('&#8217;', "'"). \
+            replace('&#8216;', "'"). \
+            replace('&#8211;', "'"). \
+            replace('&#8230;', "'"). \
+            replace('&#038;', "'"). \
+            strip(). \
+            replace('</em><em>', '')
 
     @staticmethod
     def parse_roles(content, year, month, metadata):
