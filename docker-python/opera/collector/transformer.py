@@ -44,6 +44,7 @@ class Transformer(object):
         sfh = open(Transformer.get_data_dir() + Transformer.SINGER_GRAPH_FILE, "w")
         with efh as lines:
             for line in lines:
+                line = line.strip('\n')
                 [_, _, event, theatre, title, composer, conductor, director, role, name] = line.split('|')
                 if prev_event == event:
                     event_roles.append('|'.join([role, title]).replace('\n',''))
@@ -70,8 +71,7 @@ class Transformer(object):
         items = half_line.split('|')
         singer, meta = items[0], items[1:]
         if singer in self.singer_meta:
-            for item in meta:
-                self.singer_meta[singer].add(item)
+            self.singer_meta[singer].update(set(meta))
         else:
             self.singer_meta[singer] = set(meta)
         if singer not in self.singer_ids:
@@ -84,6 +84,7 @@ class Transformer(object):
         fh = open(Transformer.get_data_dir() + Transformer.SINGER_GRAPH_FILE, 'r')
         with fh as lines:
             for line in lines:
+                line = line.strip('\n')
                 if not len(line):
                     continue
                 this, that = line.split(';')
@@ -102,7 +103,7 @@ class Transformer(object):
         fh = open(Transformer.get_data_dir() + Transformer.SINGER_DICT, 'w')
         for singer in self.singer_ids:
             fh.write(
-                '|'.join([str(self.singer_ids[singer]), singer, '|'.join(sorted(list(self.singer_meta[singer])))]).replace('\n', '') + '\n'
+                '|'.join([str(self.singer_ids[singer]), singer, '|'.join(sorted(list(self.singer_meta[singer])))]) + '\n'
             )
         fh.close()
 
@@ -123,6 +124,7 @@ class Transformer(object):
         fh = open(Transformer.get_data_dir() + Transformer.ROLE_GRAPH_FILE, 'r')
         with fh as lines:
             for line in lines:
+                line = line.strip('\n')
                 if not len(line):
                     continue
                 this, that = line.split(';')
@@ -140,7 +142,7 @@ class Transformer(object):
 
         fh = open(Transformer.get_data_dir() + Transformer.ROLE_DICT, 'w')
         for role in self.role_ids:
-            fh.write('|'.join([str(self.role_ids[role]), role]).replace('\n', '') + '\n')
+            fh.write('|'.join([str(self.role_ids[role]), role]) + '\n')
         fh.close()
 
         fh = open(Transformer.get_data_dir() + Transformer.ROLE_GRAPH_FILE_W, 'w')
