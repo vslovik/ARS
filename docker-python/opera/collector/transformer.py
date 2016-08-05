@@ -21,10 +21,14 @@ class Transformer(object):
     SINGER_GRAPH_FILE = '/data/singer_singer/multi/SINGER_SINGER.csv'
 
     ROLE_GRAPH_FILE_W = '/data/role_role/weighted/ROLE_ROLE.csv'
+    ROLE_DICT = '/data/role_role/weighted/ROLE_DICT.csv'
     SINGER_GRAPH_FILE_W = '/data/singer_singer/weighted/SINGER_SINGER.csv'
+    SINGER_DICT = '/data/singer_singer/weighted/SINGER_DICT.csv'
 
     def __init__(self):
-        self.meta = dict()
+        self.singer_meta = dict()
+        self.singer_ids = dict()
+        self.role_ids = dict()
 
     @staticmethod
     def get_data_dir():
@@ -65,11 +69,14 @@ class Transformer(object):
     def parse_singer(self, half_line):
         items = half_line.split('|')
         singer, meta = items[0], items[1:]
-        if singer in meta:
-            self.meta[singer].add(meta)
+        if singer in self.singer_meta:
+            for item in meta:
+                self.singer_meta[singer].add(item)
         else:
-            self.meta[singer] = set(meta)
-        return singer
+            self.singer_meta[singer] = set(meta)
+        if singer not in self.singer_ids:
+            self.singer_ids[singer] = len(self.singer_ids) + 1
+        return self.singer_ids[singer]
 
     def weight_singer_links(self):
         pairs = dict()
@@ -82,8 +89,8 @@ class Transformer(object):
                 this, that = line.split(';')
 
                 pair_key = '|'.join([
-                    self.parse_singer(this),
-                    self.parse_singer(that)
+                    str(self.parse_singer(this)),
+                    str(self.parse_singer(that))
                 ])
 
                 if pair_key in pairs:
@@ -92,20 +99,25 @@ class Transformer(object):
                     pairs[pair_key] = 1
         fh.close()
 
-        fh = open(Transformer.get_data_dir() + Transformer.SINGER_GRAPH_FILE_W, 'w')
-        for pair_key, weight in pairs.iteritems():
-            this_singer, that_singer = pair_key.split('|')
-
-            fh.write('{0};{1};{2}\n'.format(
-                '|'.join([this_singer, '|'.join(sorted(list(self.meta[this_singer])))]).replace('\n',''),
-                '|'.join([that_singer, '|'.join(sorted(list(self.meta[this_singer])))]).replace('\n',''),
-                weight
-            ))
-
+        fh = open(Transformer.get_data_dir() + Transformer.SINGER_DICT, 'w')
+        for singer in self.singer_ids:
+            fh.write(
+                '|'.join([str(self.singer_ids[singer]), singer, '|'.join(sorted(list(self.singer_meta[singer])))]).replace('\n', '') + '\n'
+            )
         fh.close()
 
-    @staticmethod
-    def weight_role_links():
+        fh = open(Transformer.get_data_dir() + Transformer.SINGER_GRAPH_FILE_W, 'w')
+        for pair_key, weight in pairs.iteritems():
+            this_id, that_id = pair_key.split('|')
+            fh.write('{0};{1};{2}\n'.format(this_id, that_id, weight))
+        fh.close()
+
+    def parse_role(self, role):
+        if role not in self.role_ids:
+            self.role_ids[role] = len(self.role_ids) + 1
+        return self.role_ids[role]
+
+    def weight_role_links(self):
         pairs = dict()
 
         fh = open(Transformer.get_data_dir() + Transformer.ROLE_GRAPH_FILE, 'r')
@@ -113,20 +125,31 @@ class Transformer(object):
             for line in lines:
                 if not len(line):
                     continue
+                this, that = line.split(';')
 
-                if line in pairs:
-                    pairs[line] += 1
+                pair_key = '|'.join([
+                    str(self.parse_role(this)),
+                    str(self.parse_role(that))
+                ])
+
+                if pair_key in pairs:
+                    pairs[pair_key] += 1
                 else:
-                    pairs[line] = 1
+                    pairs[pair_key] = 1
+        fh.close()
+
+        fh = open(Transformer.get_data_dir() + Transformer.ROLE_DICT, 'w')
+        for role in self.role_ids:
+            fh.write('|'.join([str(self.role_ids[role]), role]).replace('\n', '') + '\n')
         fh.close()
 
         fh = open(Transformer.get_data_dir() + Transformer.ROLE_GRAPH_FILE_W, 'w')
         for pair_key, weight in pairs.iteritems():
-            this_role, that_role = pair_key.split(';')
+            this_id, that_id = pair_key.split('|')
 
             fh.write('{0};{1};{2}\n'.format(
-                this_role.replace('\n',''),
-                that_role.replace('\n',''),
+                this_id,
+                that_id,
                 weight
             ))
 
