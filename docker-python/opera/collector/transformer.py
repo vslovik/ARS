@@ -28,6 +28,7 @@ class Transformer(object):
     def __init__(self):
         self.singer_meta = dict()
         self.singer_ids = dict()
+        self.role_meta = dict()
         self.role_ids = dict()
 
     @staticmethod
@@ -113,9 +114,13 @@ class Transformer(object):
             fh.write('{0};{1};{2}\n'.format(this_id, that_id, weight))
         fh.close()
 
-    def parse_role(self, role):
+    def parse_role(self, half_line):
+        items = half_line.split('|')
+        role, title = items[0], items[1]
         if role not in self.role_ids:
             self.role_ids[role] = len(self.role_ids) + 1
+        if title not in self.role_meta and title != '':
+            self.role_meta[role] = title
         return self.role_ids[role]
 
     def weight_role_links(self):
@@ -142,7 +147,11 @@ class Transformer(object):
 
         fh = open(Transformer.get_data_dir() + Transformer.ROLE_DICT, 'w')
         for role in self.role_ids:
-            fh.write('|'.join([str(self.role_ids[role]), role]) + '\n')
+            if role in self.role_meta:
+                title = self.role_meta[role]
+            else:
+                title = '-'
+            fh.write('|'.join([str(self.role_ids[role]), role, title]) + '\n')
         fh.close()
 
         fh = open(Transformer.get_data_dir() + Transformer.ROLE_GRAPH_FILE_W, 'w')
