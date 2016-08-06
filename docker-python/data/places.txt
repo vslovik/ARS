@@ -1,0 +1,842 @@
+/usr/bin/python2.7 /home/valeriya/project/ARS/docker-python/opera/collector/parser.py
+Venezia, Teatro La Fenice
+Parma, Teatro Regio
+Brescia, Teatro Grande
+Napoli, Teatro di San Carlo
+Dal Politeama Rossetti di Trieste
+Boston Lyric Opera
+Staatsoper Stuttgart
+Teatro Grande di Brescia
+Bari, Teatro Petruzzelli
+Philadelphia Opera
+Venezia, Teatro La Fenice
+Verona, Arena Opera Festival
+Staatsoper Stuttgart
+Verona, Teatro Filarmonico
+Staatsoper Stuttgart
+Roma,Teatro dell'Opera
+Opéra di Toulon
+Teatro Regio di Torino
+NYC, Metropolitan Opera
+Pisa, Teatro Verdi
+Napoli, Teatro San Carlo
+Milano, Teatro alla Scala
+Teatro dell'Opera di Roma
+Palermo
+Palermo, Teatro Massimo
+Vicenza, Teatro Olimpico
+Lucca, Teatro del Giglio
+Rossini Opera Festival
+Liegi, Opéra Royale de Wallonie
+Napoli, Teatro San Carlo
+Brescia, Teatro Grande
+Genova, Teatro Carlo Felice
+Trieste, Teatro Verdi
+Genova, Teatro Carlo Felice
+Metropolitan Opera
+Bergamo, Teatro Donizetti
+Modena
+Salerno, Teatro Verdi
+Ascoli Piceno
+Parigi, Salle Pleyel
+Roma, Terme di Caracalla
+Verona, Teatro Filarmonico
+Valencia, Palau de Les Arts
+Modena, Teatro Comunale
+Rossini Opera Festival 2008
+Palermo, Teatro Massimo
+Roma, Teatro dell'Opera
+Madrid, Teatro Real
+Madrid, Teatro Real
+Firenze, Teatro Goldoni
+Torino, Teatro Regio
+Teatro di Bellas Artes
+Venezia, Teatro La Fenice
+Teatro della Fortuna di Fano
+Catania, Teatro Massimo Bellini
+Trieste
+Verona, Teatro Filarmonico
+Salerno, Teatro Verdi
+Teatro del Palacio de Bellas Artes
+Reggio Emilia, Teatro Valli
+Marsiglia, Opéra Municipal
+Bologna, Teatro Comunale
+Trieste, Teatro Verdi
+Staatsoper Stuttgart
+Modena, Teatro Comunale
+Teatro Carlo Felice di Genova
+Genova, Teatro Carlo Felice
+Parma, Teatro Regio
+Milano, Teatro alla Scala
+L’altra faccia della luna
+Opera Philadelphia
+Modena, Teatro Comunale
+Bologna, Teatro Comunale
+Abbazia di San Galgano
+Firenze, Teatro Comunale
+Venezia, Teatro La Fenice
+Verona, 86° Festival Lirico
+Berlino, Komische Oper
+Bilbao
+Opéra di Toulon
+Venezia, Teatro la Fenice
+Madrid, Teatro Real
+Verona, Teatro Filarmonico
+Bernd Alois Zimmermann
+Milano, Teatro alla Scala
+Rovigo, Teatro Sociale
+Staatsoper Stuttgart
+Trieste
+Opera di Roma
+Teatro Regio di Torino
+Opera di Firenze
+Cagliari, Teatro Lirico
+Palermo, Teatro Massimo
+Teatro dell'Opera di Roma
+Bruxelles, Théâtre La Monnaie
+Sessantesimo Festival Puccini, Torre del Lago
+Bologna, Teatro Comunale
+Torino, Teatro Regio
+Torino, Teatro Regio
+Teatro dell'Opera di Roma
+Fidenza, Teatro Magnani
+Rovereto, Teatro Zandonai
+Teatro alla Scala
+Verona, Teatro Ristori
+Torino, Teatro Regio
+Opéra Bastille
+Cuernavaca, Morelos
+Rossini Opera Festival
+Opéra de Monte-Carlo
+Opéra di Marsiglia
+Buenos Aires, Teatro Avenida
+Torino, Teatro Regio
+Da Lorca a Sotelo
+Bologna, Teatro Comunale
+Bologna, Teatro Comunale
+Festival Verdi 2008
+Reggio Emilia, Teatro Municipale Valli
+Modena, Teatro Comunale
+Teatro Comunale di Ferrara
+Milano, Teatro alla Scala
+Brescia, Teatro Grande
+Fidenza, Teatro Magnani
+Trieste, Politeama Rossetti
+Torino, Teatro Regio
+Parma, Teatro Regio
+Staatsoper Stuttgart
+Genova, Teatro Carlo Felice
+L’anti-eroe attuale
+Parma, Teatro Regio
+OperaLombardia, Teatro Grande di Brescia
+Zürich, Opernhaus
+Staatsoper Stuttgart
+Parigi, Opéra Bastille
+Bergamo Musica Festival
+Bologna, Teatro Comunale
+Città del Messico
+Staatsoper Stuttgart
+Verona, Teatro Filarmonico
+Firenze, Teatro La Pergola
+Firenze
+New York, Metropolitan Opera
+Milano, Scala
+Staatsoper Stuttgart
+Milano, Teatro alla Scala
+Milano, Teatro alla Scala
+Ravenna, Teatro Alighieri
+Milano, Teatro alla Scala
+Opéra di Marsiglia
+Fano, Teatro della Fortuna
+Teatro Cantero di Chiavari
+Torino, Teatro Regio
+Brescia, Teatro Grande
+Teatro alla Scala
+XXXVIII° Festival della Valle d'Itria
+«Prediletti dalle stelle, / io vi lascio un gran tesoro»
+Bologna, Teatro Comunale
+Jesi, Teatro Pergolesi
+Parma, Teatro Regio
+Bergamo, Teatro Donizetti
+Catania, Teatro Massimo Bellini
+Firenze, Teatro Comunale
+Milano, Teatro alla Scala
+Venezia, Festival lo Spirito di Venezia, Palazzo Ducale
+Ancona, Teatro delle Muse “Franco Corelli”
+Bruxelles, Théâtre La Monnaie
+Venezia, Teatro La Fenice
+Parigi, Théâtre des Champs Elysées
+Parigi,Théâtre des Champs Elysées
+New York, Metropolitan
+Genova, Teatro Carlo Felice
+Firenze
+Milano, Teatro alla Scala
+Staatsoper Stuttgart
+Staatsoper Stuttgart
+Milano, Teatro alla Scala
+Lima, Teatro Segura
+Madrid, Teatro de la Zarzuela
+Teatro Carlo Felice di Genova
+Arena di Verona
+Padova, Teatro Verdi
+Bologna, Teatro Comunale
+Teatro alla Scala
+Bayreuther Festspiele
+Reggio Emilia, Teatro Valli
+Bologna, Teatro Comunale
+Firenze, Teatro della Pergola
+Teatro alla Scala di Milano
+Palermo, Teatro Massimo
+Staatsoper Stuttgart
+Torino, Teatro Regio
+Palermo, Teatro Massimo
+Metropolitan Opera
+Teatro Comunale di Modena
+Il giovane Rossini al Malibran
+Opera di Roma
+Genova, Teatro Carlo Felice
+Ravenna, Teatro Alighieri
+Arena Opera Festival
+Parigi, Opéra
+Teatro alla Scala di Milano
+Roma, Teatro dell'Opera
+Santa Fe Opera Festival
+Pisa, Teatro Verdi
+Venezia, Teatro La Fenice
+Sassari, Teatro Comunale
+Lucca, Teatro del Giglio
+Opéra di Marsiglia
+Madrid, Teatro Real
+OperaLombardia, Teatro Ponchielli di Cremona
+Teatro Massimo Bellini di Catania
+Città del Messico, Teatro de las Artes
+Opéra di Marsiglia
+Teatro Comunale di Bologna
+Milano, Teatro alla Scala
+Brescia, Teatro Grande
+Catania, Teatro Bellini
+Genova, Teatro Carlo Felice
+Staatsoper Stuttgart
+Les Chorégies d'Orange
+Torino, Teatro Regio
+Milano, Teatro alla Scala
+Trieste, Teatro Verdi
+Staatsoper Stuttgart
+Parigi, Théâtre des Champs Elysées
+Modena, Teatro Comunale
+Verona, Teatro Filarmonico
+Sessantesimo Festival Puccini, Torre del Lago
+Ravenna Festival
+Catania, Teatro Massimo Bellini
+Cronache del MiTo
+Roma, Teatro dell'Opera
+Roma, Teatro dell'Opera
+Firenze, Teatro Goldoni
+Staatsoper Stuttgart
+Città del Messico
+Bruxelles, Théâtre  La Monnaie
+Torino, Teatro Regio
+Opera di Firenze
+Ferrara, Teatro Comunale
+Milano, Teatro alla Scala
+Madrid,Teatro Real
+Bari, Teatro Petruzzelli
+Bologna, Teatro Comunale
+Lucca, Teatro del Giglio
+Bruxelles, Théâtre La Monnaie
+Pisa, Teatro Verdi
+Teatro Carlo Felice di Genova
+Teatro Lirico di Cagliari
+E Cristina disse
+Teatro dell'Opera di Roma
+Parma, Teatro Regio
+Torino, Teatro Regio
+Napoli, Teatro di Corte di Palazzo Reale
+Verona, Teatro Filarmonico
+Roma, Teatro dell'Opera
+Opéra de Marseille
+Verona, Teatro Filarmonico
+Opera di Firenze
+Teatro Lirico di Cagliari
+Sassari
+Trieste, Teatro Verdi
+Ancona, Teatro delle Muse
+Milano, Teatro alla Scala
+Madrid, Teatro de La Zarzuela
+Teatro del Maggio Musicale Fiorentino
+Firenze, Teatro Goldoni
+Scienza e Belcanto all'Opera di Firenze
+Opera di Roma
+Torre del Lago
+Bologna, Teatro Comunale
+Torino, Teatro Regio
+Ferrara, Teatro Comunale
+Staatsoper Stuttgart
+Opéra di Toulon
+Arena Sferisterio di Macerata
+Parma, Teatro Regio
+Venezia, Teatro La Fenice
+Macerata Opera Festival
+Cagliari, Teatro Lirico
+Pesaro, Rossini Opera Festival 2007
+Bruxelles, Théâtre La Monnaie
+Città del Messico
+Venezia, Teatro La Fenice
+Milano, Teatro alla Scala
+Verona, 86° Festival Areniano
+Modena, Cortile di Palazzo Ducale
+Teatro Regio di Torino
+Verona, Teatro Filarmonico
+Firenze, Palazzo Pitti
+Bergamo, Teatro Donizetti
+Bergamo, Teatro Donizetti
+Bilbao
+Santa Barbara, California
+Jesi, Teatro "Pergolesi"
+Firenze, Teatro Comunale
+Torino, Teatro Regio
+Opera di Oviedo
+Opera di Firenze
+Torino, Teatro Regio
+Modena, Teatro Comunale
+Piacenza, Teatro Municipale
+Ancona, Teatro delle Muse
+Bari, Teatro Petruzzelli
+Opéra di Marsiglia
+Teatro Carlo Felice di Genova
+Bruxelles, Théâtre La Monnaie
+Regio di Torino
+Verona, Teatro Filarmonico
+Salerno, Teatro Verdi
+Novara, Teatro Coccia
+Staatsoper Stuttgart
+Napoli, Teatro di San Carlo
+Madrid, Teatro Real
+Palermo, Teatro Massimo
+Piacenza, Teatro Municipale
+Ricordando Svoboda
+Milano, Teatro alla Scala
+Torino, Teatro Regio
+Festival di Aix-en-Provence
+Staatsoper Stuttgart
+Venezia, Teatro La fenice
+Bologna, Teatro Comunale
+Arena Sferisterio di Macerata
+Cremona, Teatro Ponchielli
+Roma, Teatro dell’Opera
+Firenze, Teatro Comunale
+Metropolitan Opera
+Marsiglia, Opéra Municipal
+Teatro alla Scala
+Festival Verdi 2008
+Theater an der Wien
+Madrid, Teatro Real
+Verona, Teatro Filarmonico
+Trieste
+Opera di Firenze
+Pisa, Teatro Verdi
+Palermo, Teatro Massimo
+Theater an der Wien
+Milano, Teatro alla Scala
+Venezia, Teatro La Fenice
+Toulouse, Théâtre du Capitole
+Roma, Teatro dell'Opera
+Vicenza, Teatro Olimpico
+Bruxelles, Théâtre La Monnaie
+Roma, Accademia Nazionale di Santa Cecilia
+OperaLombardia, Teatro Donizetti di Bergamo
+Milano, Teatro alla Scala
+Praga, Teatro Nazionale
+Orizzonti Festival di Chiusi
+Palermo, Teatro Massimo
+Genova, Teatro Carlo Felice
+Madrid, Teatro de la Zarzuela
+Modena, Teatro Comunale
+Trieste
+Torino, Teatro Regio
+Genova, Teatro Carlo Felice
+Teatro Olimpico di Vicenza
+Rovigo, Teatro Sociale
+Jesi, Teatro Pergolesi
+Toulon, Opéra
+Teatro delle Muse di Ancona
+Lucca, Teatro del Giglio
+Staatsoper Stuttgart
+Venezia, Teatro La Fenice
+Opéra de Toulon
+Madrid, Teatro de La Zarzuela
+Staatsoper Stuttgart
+Madrid, Teatro Real
+Torino, Teatro Regio
+Opera di Roma
+Como, Teatro Sociale
+Bari, Teatro Petruzzelli
+Venezia, Teatro Malibran
+Jerez, Teatro Villamarta
+Venezia, Teatro La Fenice
+Festival Pucciniano
+Festival d'Aix-en-Provence
+«L’affar non può andar meglio»
+Sassari, Teatro Comunale
+Bologna, Teatro Comunale
+Opera di Firenze
+Festival di Glyndebourne
+Madrid, Teatro Real
+Bruxelles, Théâtre La Monnaie
+Teatro Massimo di Palermo
+Venezia, Teatro La Fenice
+Milano, Teatro alla Scala
+Napoli, Teatro San Carlo
+Staatsoper Stuttgart
+Metropolitan Opera
+Trieste, Teatro Verdi
+Deutsche Oper Berlin
+«Nume custode e vindice / di questa sacra» Arena
+Sassari, Teatro Comunale
+Staatsoper Stuttgart
+Verona, 86° Festival Areniano
+Firenze, Teatro Goldoni
+Verona, Teatro Filarmonico
+Parma, Teatro Regio
+Modena, Teatro Comunale
+Sessantesimo Festival Puccini, Torre del Lago
+Brescia, Teatro Grande
+Teatro Comunale di Modena
+Como, Teatro Sociale
+Bruxelles, Théâtre La Monnaie
+Madrid, Teatro Real
+Festival della Valle d'Itria
+Catania
+Milano, Teatro alla Scala
+Opéra de Marseille
+Genova, Teatro Carlo Felice
+Trieste, Teatro Verdi
+Milano, Teatro alla Scala
+Staatsoper Stuttgart
+Santiago del Cile, Teatro Municipal
+Verona, Teatro Filarmonico
+Modena, Teatro Comunale
+Trieste, Teatro Verdi
+Teatro "Verdi" di Padova
+Milano, Teatro alla Scala
+Milano, Teatro alla Scala
+Busseto, Teatro Verdi
+Theater an der Wien
+Parigi, Opéra Bastille
+Staatsoper Stuttgart
+«Se amor si gode in pace, non v’è maggior contento»
+Opera di Firenze
+Ferrara, Teatro Comunale
+Luglio Musicale Trapanese
+Trieste, Politeama Rossetti
+Brescia, Teatro Grande
+Bergamo, Teatro Donizetti
+Genova, Teatro Carlo Felice
+Bilbao, Palacio Euskalduna
+Salerno, Teatro Verdi
+Buenos Aires, Teatro Colón
+Milano, Teatro alla Scala
+Novara, Teatro Coccia
+Opera di Firenze, Opening Gala
+Torino, Teatro Regio
+Opéra di Toulon
+Madrid, Teatro de la Zarzuela
+Padova, Teatro Verdi
+Teatro Regio di Torino
+Modena, Teatro Comunale
+Torino, Teatro Regio
+Madrid, Teatro Real
+Ancona, Teatro delle Muse
+New York, Metropolitan Opera
+Jesi,Teatro Pergolesi
+Genova, Teatro Carlo Felice
+Vicenza, Teatro Olimpico
+New York, Metropolitan Opera
+Sassari, Teatro Comunale
+Roma, Accademia Nazionale di Santa Cecilia
+Opera di Firenze
+Jesi, Teatro Pergolesi
+Opera di Roma
+Cagliari, Teatro Lirico
+Boston Opera
+Opera di Firenze
+Santiago del Cile, Teatro Municipal
+Milano, Teatro alla Scala
+Bilbao,Palacio Euskalduna
+Torino, Teatro Regio
+Milano, Teatro alla Scala
+Bilbao
+Cremona, Teatro Ponchielli
+Zurigo, Opernhaus
+Boston Midsummer Opera
+Reggio Emilia, Teatro Valli
+Genova
+Macerata Opera Festival
+Lucca, Teatro del Giglio
+Brescia, Teatro Grande
+Verona, Teatro Filarmonico
+Genova, Teatro Carlo Felice
+Trieste, Teatro Verdi
+Arena di Verona
+Londra, English National Opera
+Madrid, Teatro Réal
+Venezia,Teatro Malibran
+Verona, Teatro Filarmonico
+Modena, Teatro Comunale
+Ferrara, Teatro Nuovo
+Metropolitan Opera
+Fidenza, Teatro Magnani
+Opera di Roma
+Teatro San Carlo di Napoli
+Palermo, Teatro Massimo
+Teatro Petruzzelli di Bari
+Bergamo, Teatro Donizetti
+Festival Verdi 2008
+Accademia Nazionale di Santa Cecilia
+Strasburgo
+Bergamo, Teatro Donizetti
+Torino, Teatro Regio
+Napoli, Teatro di San Carlo
+Venezia, Teatro La Fenice
+Teatro Massimo di Palermo
+Politeama Rossetti
+Komische Oper Berlin
+Theater an der Wien
+Dittico al femminile
+Genova, Teatro Carlo Felice
+Bergamo Musica Festival
+Trieste, Politeama Rossetti
+Leipzig, Opernhaus
+Sassari, Teatro Comunale
+Savona, Complesso Monumentale del Priamar
+Roma, Terme di Caracalla
+Opéra di Marsiglia
+Alicante, Teatro Principal
+Roma, Teatro dell'Opera
+Bilbao, Teatro Arriaga
+Arena Sferisterio di Macerata
+Vicenza, Teatro Olimpico
+Opera di Roma
+Madrid, Teatro Real
+Parigi, Opéra Bastille
+Opéra di Marsiglia
+Deutsche Oper Berlin
+Torino, Teatro Carignano
+Opera di Roma
+Milano, Teatro alla Scala
+Venezia
+Salerno, Teatro Verdi
+Firenze, Teatro Comunale
+Staatsoper Stuttgart
+Madrid, Teatro Real
+Staatsoper Stuttgart
+Teatro "La Fenice" di Venezia
+Genova, Teatro Carlo Felice
+Opéra di Marsiglia
+Bergamo Musica Festival
+Milano, Teatro alla Scala
+Brescia, Teatro Grande
+Venezia, Teatro La Fenice
+Firenze, Teatro del Maggio Musicale Fiorentino
+Parigi, Opéra Bastille
+Modena, Teatro Comunale
+Bergamo, Teatro Donizetti
+Cronache del MITO
+Palermo, Teatro Massimo
+Parma, Teatro Regio
+Teatro Sociale di Como
+Arena Sferisterio di Macerata
+Firenze, Teatro del Maggio Musicale Fiorentino
+Parigi, Théatre des Champs Elysées
+Opera di Roma
+Madrid, Teatro Real
+Padova, Teatro Verdi
+Verona, Teatro Filarmonico
+Teatro Filarmonico
+Savona
+Verona, Arena Opera Festival
+Teatro dell'Opera di Firenze
+Opera di Roma
+Opera di Roma
+"Rigoletto" al Teatro Pergolesi di Jesi
+Verona, Teatro Filarmonico
+Sessantesimo Festival Puccini, Torre del Lago
+Berlino, Deutsche Oper
+Arena Sferisterio di Macerata
+Trieste
+Parigi, Opéra Comique
+Opera di Firenze, Cortile di Palazzo Pitti
+Rovigo, Teatro Sociale
+Parigi, Opéra Bastille
+XXXVIII° Festival della Valle d'Itria
+Caracalla Festival
+Bologna, Teatro Comunale
+Parigi, Opéra Bastille
+Bruxelles, Théâtre La Monnaie
+Torino, Teatro Regio
+Napoli, Teatrino di Corte
+Sferisterio Opera Festival
+Bergamo Musical Festival "Gaetano Donizetti"
+Venezia, Teatro La Fenice
+Firenze, Teatro Goldoni
+Cagliari, Teatro Lirico
+Como, Teatro Sociale
+Venezia, Teatro La Fenice
+Parma, Teatro Regio
+Roma, Teatro dell'Opera
+Firenze
+Bologna, Teatro Comunale
+Milano, Teatro alla Scala
+Bologna, Teatro Comunale
+Verona, Teatro Filarmonico
+Palermo, Teatro Massimo
+Torino, Teatro Regio
+Verona, Teatro Filarmonico
+Trieste, Politeama Rossetti
+Teatro Verdi di Pisa
+Milano, Teatro alla Scala
+Teatro alla Scala
+Teatro di San Carlo di Napoli
+Ancona, Teatro delle Muse
+Seattle
+Parigi, Palais Garnier
+Brescia, Teatro Grande
+Bologna, Teatro Comunale
+Opera National du Rhin
+Venezia, Teatro La Fenice
+Palermo, Teatro Massimo
+Bologna, Teatro Comunale
+Bologna, Teatro Comunale
+Madrid,Teatro Real
+Teatro Comunale di Sassari
+Teramo, Teatro Comunale
+Modena, Teatro Comunale
+Bologna, Teatro Comunale
+Torino, Teatro Regio
+Catania, Teatro Bellini
+Opera di Firenze
+Parigi, Théâtre des Champs Elysées
+Staatsoper Berlin
+Festival Verdi 2008
+Martina Franca
+Salerno, Teatro Verdi
+Palermo
+Jesi, Teatro Pergolesi
+Milano, Teatro alla Scala
+Padova, Teatro Verdi
+Piume di un cigno scomparso
+Bologna, Teatro Comunale
+Santiago del Cile,  Teatro Municipal
+Tel Aviv, Israeli Opera
+Deutsche Oper Berlin
+Les Chorégies d'Orange
+Teatro dell'Opera di Roma
+Ancona, Teatro delle Muse
+Firenze, Teatro Comunale
+Bergamo, Teatro Donizetti
+Opera di Roma
+Venezia, Teatro La Fenice
+Opéra de Marseille
+Venezia, Teatro Malibran
+Opéra de Monte-Carlo
+Venezia, Teatro Malibran
+Teatro Comunale di Firenze
+«Là dove invan germoglia ramo dell’ulivo»
+Torino, Teatro Regio
+Buenos Aires, Teatro Colón
+New York, Metropolitan
+Parigi, Opéra Bastille
+Catania, Teatro Massimo Bellini
+Lucca, Teatro del Giglio
+NYC, The Metropolitan Opera
+Londra, Royal Albert Hall
+Reggio Emilia, Teatro Valli
+Pisa, Teatro Verdi
+Bologna, Teatro Comunale
+La bottega e i clienti vanitosi
+New York, Metropolitan Opera
+Genova, Teatro Carlo Felice
+Madrid, Teatro de la Zarzuela
+Monaco di Baviera, Bayerische Staatsoper
+Roma,Terme di Caracalla
+Staatsoper Stuttgart
+Jesi, Teatro Pergolesi
+Marsiglia, Opéra Municipal
+Bergamo, Teatro Donizetti
+Milano, Teatro alla Scala
+Zurigo,Opernhaus
+Venezia, Teatro La Fenice
+Bruxelles, Théâtre La Monnaie
+Tra attrazione e sventura
+Como, Teatro Sociale
+Arena di Verona
+Teatro Regio di Torino
+Staatsoper Stuttgart
+Padova, Teatro Verdi
+Opera di Firenze
+Messico, Centro Cultural Universitario
+Arena di Verona
+Arena di Verona
+Madrid, Teatro Real
+Caracalla Festival
+Modena, Teatro Comunale
+Metropolitan Opera
+Torino, Teatro Regio
+Pavia, Teatro Fraschini
+Padova, Teatro Verdi
+Ascoli Piceno
+Verona, Teatro Filarmonico
+Genova, Teatro Carlo Felice
+Arena di Verona
+Venezia, Teatro La Fenice
+Opera di Roma
+Sassari, Teatro Comunale
+Ancona, Teatro delle Muse
+Madrid, Teatro de la Zarzuela
+Città del Messico
+Firenze, Teatro Comunale
+Roma, Teatro dell'Opera
+Palermo
+Rossini Opera Festival
+«Tutti quanti han da brillar» per Cimarosa al Coccia
+Teatro Regio di Parma
+Parma, Teatro Regio
+Arena di Verona
+Bari, Teatro Petruzzelli
+Madrid, Teatro Real
+Stagione lirica sassarese
+Milano, Teatro alla Scala
+Parigi, Salle Pleyel
+Teatro alla Scala
+Trieste, Politeama Rossetti
+Bergamo, Teatro Donizetti
+Taranto, "Giovanni Paisiello Festival"
+Torino, Teatro Regio
+Teatro Comunale di Bologna
+Venezia, Teatro La Fenice
+Genova, Teatro Carlo Felice
+OperaLombardia, Teatro Fraschini di Pavia
+Firenze, stagione lirica estiva dell'Opera
+Verona, 86° Festival Areniano
+Milano, Teatro alla Scala
+Opera di Firenze
+Venezia, Teatro Malibran
+Lucca, Teatro del Giglio
+Ferrara, Teatro Comunale
+Barcellona, Gran Teatre del Liceu
+Roma, Teatro dell'Opera
+Trieste, Teatro Verdi
+Verona, Teatro Filarmonico
+Brescia, Teatro Grande
+Teatro Massimo di Palermo
+Trieste, Teatro Verdi
+Pavia, Teatro Fraschini
+Bologna, Teatro Comunale
+Torino
+Torino, Teatro Regio
+Milano, Teatro alla Scala
+The Boston Early Music Festival
+Salerno, Teatro Verdi
+Verona, Arena Opera Festival
+Madrid, Teatro Real
+Opéra de Marseille
+Macerata, Teatro Lauro Rossi
+Pesaro, Auditorium Pedrotti
+Bari, Teatro Petruzzelli
+Brescia, Teatro Grande
+Bergamo, Teatro Donizetti
+Opéra di Toulon
+Parigi, Palais Garnier
+Trieste
+Torino, Teatro Regio
+Palermo, Teatro Massimo
+Verona, Teatro Filarmonico
+Trieste, Teatro Verdi
+Bologna, Teatro Comunale
+Bergamo, Teatro Sociale
+Bergamo, Teatro Donizetti
+Palermo, Teatro Massimo
+Catania, Teatro Massimo Bellini
+Bergamo, Teatro Donizetti
+Torino, Teatro Regio
+Arena di Verona
+Arena di Verona
+Teatro Sociale di Como
+Torino, Teatro Regio
+Verona, Teatro Filarmonico
+Torino, Teatro Regio
+Trieste, Teatro Verdi
+Novara, Teatro Coccia
+Teatro Massimo di Palermo
+Genova, Teatro Carlo Felice
+Torino, Teatro Regio
+Parma, Teatro Regio
+Venezia, Teatro La Fenice
+Teatro Massimo di Palermo
+Teatro dell'Opera di Firenze
+Staatsoper Stuttgart
+Verona, Teatro Filarmonico
+New York, Metropolitan
+«Et surtout la chose enivrante
+Settimane Musicali al Teatro Olimpico di Vicenza
+Firenze, Teatro del Maggio Musicale Fiorentino
+Firenze
+Los Angeles Opera
+Palermo, Teatro Massimo
+Londra,ENO
+Torino, Teatro Regio
+Bologna, Teatro Comunale
+Barcellona, Gran Teatre del Liceu
+Torino, Teatro Regio
+Milano, Teatro alla Scala
+Macerata Opera Festival
+Firenze, Teatro della Pergola
+Bologna, Teatro Comunale
+Badisches Staatstheater di Karlsruhe
+Berlino, Deutsche Oper
+Maggio Musicale Fiorentino
+Pisa, Teatro Verdi
+Firenze, Teatro Goldoni
+Trieste, Teatro Verdi
+Milano, Teatro alla Scala
+San Francisco Opera
+Madrid, Teatro Real
+Teatro Comunale di Bologna
+Milano, Teatro alla Scala
+Opera di Firenze
+Teatro alla Scala
+Madrid, Tearo Real
+Cesena, Teatro Bonci
+OperaLombardia,  Teatro Sociale di Como
+Londra, Covent Garden
+Trieste, Teatro Verdi
+Staatsoper Stuttgart
+Milano, Teatro alla Scala
+Londra, English National Opera
+Modena, Teatro Comunale
+Parigi, Théâtre du Châtelet
+Verona, Teatro Filarmonico
+Bologna, Teatro Comunale
+Arena di Verona 2008
+Brescia, Teatro Grande
+Staatsoper Stuttgart
+Pisa
+Milano, Teatro alla Scala
+Milano, Teatro alla Scala
+Chorégies d'Orange
+Genova, Teatro Carlo Felice
+Parigi, Opéra Comique
+Genova, Teatro Carlo Felice
+Palermo, Teatro di Verdura
+NYC, Metropolitan Opera
+Opera di Roma
+Teatro alla Scala di Milano
+Teatro alla Scala
+Brescia, Teatro Grande
+Brescia, Teatro Grande
+Torino, Teatro Regio
+Arena Sferisterio di Macerata
+Fano,Teatro della Fortuna
+Staatsoper Stuttgart
+Teatro Valli di Reggio Emilia
+
