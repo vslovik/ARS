@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 """
-Collects opera performance data
+Grabs opera performance data
 published on GBOPERA site
 """
 import requests

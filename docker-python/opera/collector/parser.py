@@ -2,7 +2,7 @@
 # - *- coding: utf- 8 - *-
 
 """
-Collects opera performance data
+Parses opera performance data
 published on GBOPERA site
 """
 import re
@@ -19,7 +19,6 @@ __package__ = "collector"
 class Parser(object):
 
     PAGES_DIR = '/data/pages'
-    HEADLINE_FILE = '/data/headline.txt'
 
     TITLE_PATTERN = '<title>([^<]+?):([^<]+?) | GBOPERA</title>'
 
@@ -291,7 +290,8 @@ class Parser(object):
         if not len(match):
             return match
         return list(filter(lambda m: len(m) and len(m) < 50,
-                           map(lambda m: ' '.join(re.split(r"\s+", m.replace('&#8216;', "'").replace('&#8217;', "'").replace('&#8211;', '').strip(','))).strip(), match)))
+                           map(lambda m: ' '.join(re.split(r"\s+", m.replace('&#8216;', "'").replace('&#8217;', "'")
+                                                           .replace('&#8211;', '').strip(','))).strip(), match)))
 
     @staticmethod
     def format_name_match(match):
