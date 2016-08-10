@@ -67,7 +67,7 @@ class Transformer(object):
 
     @staticmethod
     def write_items(items, fh):
-        items = list(set(items))
+        items = sorted(list(set(items)))
         if len(items) > 0:
             l = len(items)
             for i in xrange(l):
