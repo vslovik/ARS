@@ -26,13 +26,19 @@ class Transformer(object):
     SINGER_GRAPH_FILE_W = '/data/singer_singer/weighted/SINGER_SINGER.csv'
     SINGER_DICT = '/data/singer_singer/weighted/SINGER_DICT.csv'
 
+    def __init__(self):
+        self.singer_meta = dict()
+        self.singer_ids = dict()
+        self.role_meta = dict()
+        self.role_ids = dict()
+
     @staticmethod
     def get_data_dir():
         return os.getcwd() + '/../..'
 
     def events2multi_graphs(self):
-        event_roles = []
-        event_names = []
+        event_roles = dict()
+        event_names = dict()
         prev_event = None
         efh = open(Transformer.get_data_dir() + Transformer.EVENTS_FILE, "r")
         rfh = open(Transformer.get_data_dir() + Transformer.ROLE_GRAPH_FILE, "w")
@@ -41,27 +47,32 @@ class Transformer(object):
             for line in lines:
                 items = line.strip('\n').split('|')
                 [_, _, event, theatre, title, composer, conductor, director, role, name] = items
-                if prev_event == event:
-                    event_roles.append('|'.join([role, title]).replace('\n',''))
-                    event_names.append('|'.join([name, theatre, title, composer, conductor, director, role]).replace('\n',''))
-                else:
-                    if len(event_roles) > 0:
-                        l = len(event_roles)
-                        for i in xrange(0, l):
-                            for j in xrange(i + 1, l):
-                                rfh.write('{0};{1}\n'.format(event_roles[i], event_roles[j]))
-                    if len(event_names) > 0:
-                        l = len(event_names)
-                        for i in xrange(0, l):
-                            for j in xrange(i + 1, l):
-                                sfh.write('{0};{1}\n'.format(event_names[i], event_names[j]))
+                if prev_event != event:
+                    Transformer.write_items(event_roles.values(), rfh)
+                    Transformer.write_items(event_names.values(), sfh)
                     prev_event = event
-                    event_roles = []
-                    event_names = []
+                    event_roles = dict()
+                    event_names = dict()
+                if role not in event_roles:
+                    event_roles[role] = '|'.join([role, title]).replace('\n','')
+                if name not in event_names:
+                    event_names[name] = '|'.join([name, theatre, title, composer, conductor, director, role]).replace('\n','')
+                else:
+                    event_names[name] += '|' + role
+            Transformer.write_items(event_roles.values(), rfh)
+            Transformer.write_items(event_names.values(), sfh)
         efh.close()
         rfh.close()
         sfh.close()
-        self.write_stat()
+
+    @staticmethod
+    def write_items(items, fh):
+        items = list(set(items))
+        if len(items) > 0:
+            l = len(items)
+            for i in xrange(l):
+                for j in xrange(i + 1, l):
+                    fh.write('{0};{1}\n'.format(items[i], items[j]))
 
     def parse_singer(self, half_line):
         items = half_line.split('|')
@@ -89,6 +100,9 @@ class Transformer(object):
                     str(self.parse_singer(this)),
                     str(self.parse_singer(that))
                 ])
+
+                if self.parse_singer(this) == self.parse_singer(that):
+                    print(line)
 
                 if pair_key in pairs:
                     pairs[pair_key] += 1

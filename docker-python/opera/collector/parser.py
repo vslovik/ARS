@@ -132,14 +132,14 @@ class Parser(object):
         return x
 
     def collect_stat_item(self, topic, year, value):
-            if value in self.stat[topic][year]:
-                self.stat[topic][year][value] += 1
-            else:
-                self.stat[topic][year][value] = 1
-            if value in self.stat[topic]['total']:
-                self.stat[topic]['total'][value] += 1
-            else:
-                self.stat[topic]['total'][value] = 1
+        if value in self.stat[topic][year]:
+            self.stat[topic][year][value] += 1
+        else:
+            self.stat[topic][year][value] = 1
+        if value in self.stat[topic]['total']:
+            self.stat[topic]['total'][value] += 1
+        else:
+            self.stat[topic]['total'][value] = 1
 
     def write_stat(self):
         for topic in ['place', 'title', 'composer', 'conductor', 'director', 'singer']:
@@ -163,7 +163,7 @@ class Parser(object):
         for fn in os.listdir(dir_name):
             file_path = dir_name + '/' + fn
             if os.path.isfile(file_path):
-                # if fn != '2014_11_salome-al-teatro-san-carlo-di-napoli_':
+                # if fn != '2014_11_salome-al-teatro-san-carlo-di-napoli_' and fn != '2011_10_milano-teatro-alla-scala-der-rosenkavalier_':
                 #     continue
                 [year, month, _, _] = fn.split('_')
                 count += 1
@@ -367,7 +367,7 @@ class Parser(object):
             replace('FLOREZ', u'FLÓREZ'). \
             replace('PLACIDO', u'PLÁCIDO'). \
             replace(u'  ', ' ')
-        return re.sub(r"\s+", ' ', name)
+        return re.sub(r"\s+", ' ', name.strip())
 
     def parse_roles(self, content, year, month, metadata):
         lines = []
@@ -384,6 +384,7 @@ class Parser(object):
                         else:
                             singers = [name]
                         for name in singers:
+                            name = Parser.clean_name(name)
                             print(role + '|' + name)
                             line = '|'.join([year, month, metadata, role, name])
                             if line not in lines:
