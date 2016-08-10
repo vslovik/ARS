@@ -1,0 +1,27 @@
+KRESIMIR SPICER|"Der Rosenkavalier"|"La Didone"|-|Clément Hervieu-léger|Enea|Francesco Cavalli|Harry Kupfer|Lucio Silla|Marc Minkowski,Makhar Vaziev|Marshall Pynkoski|Parigi, Théâtre des Champs Elysées|Richard Strauss|Scala|Teatro alla Scala di Milano|Valzacchi|William Christie|Zubin Mehta|“Lucio Silla” di Mozart
+SACHA EMANUEL KRAMER|"Der Rosenkavalier"|Ein Tierhandler|Harry Kupfer|Richard Strauss|Teatro alla Scala di Milano|Zubin Mehta
+BENJAMIN BERNHEIM|"Der Rosenkavalier"|Ein Sänger|Harry Kupfer|Richard Strauss|Teatro alla Scala di Milano|Zubin Mehta
+DENNIS WILGENHOF|"Der Rosenkavalier"|Ein Notar|Harry Kupfer|Richard Strauss|Teatro alla Scala di Milano|Zubin Mehta
+FRANZ SUPPER|"Der Rosenkavalier"|Der Haushofmeister bei der Feldmarschallin|Harry Kupfer|Richard Strauss|Teatro alla Scala di Milano|Zubin Mehta
+GÜNTER GROISSBÖCK|"Der Rosenkavalier"|Der Baron Ochs|Harry Kupfer|Richard Strauss|Teatro alla Scala di Milano|Zubin Mehta
+ADRIAN ERÖD|"Der Rosenkavalier"|Harry Kupfer|Herr von Faninal|Richard Strauss|Teatro alla Scala di Milano|Zubin Mehta
+ROMAN SADNIK|"Der Rosenkavalier"|Ein Wirt|Harry Kupfer|Richard Strauss|Teatro alla Scala di Milano|Zubin Mehta
+MODESTAS SEDLEVICIUS|"La Cenerentola"|Dandini|Gioachino Rossini|Paolo Panizza|Sebastiano Rolli|Verona, Teatro Filarmonico
+CHIARA TIROTTA|"La Cenerentola"|"La cena delle beffe"|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Carlo Rizzi|Gioachino Rossini|Laldomine|Laurent Pelly|Marc Minkowski|Mario Martone|Maurice Ravel|Milano, Teatro alla Scala|Paolo Panizza|Sebastiano Rolli|Tisbe|Umberto Giordano|Un pâtre|Verona, Teatro Filarmonico
+AYA WAKIZONO|"Il barbiere di Siviglia"|"La Cenerentola"|-|Angelina, detta Cenerentola|Francesco Micheli|Gioachino Rossini|Paolo Panizza|Rosina|Sebastiano Rolli|Teatro Comunale di Bologna|Verona, Teatro Filarmonico
+CECILIA LEE|"Der Rosenkavalier"|"La Cenerentola"|Clorinda|Eine Modistin|Gioachino Rossini|Harry Kupfer|Paolo Panizza|Richard Strauss|Sebastiano Rolli|Teatro alla Scala di Milano|Verona, Teatro Filarmonico|Zubin Mehta
+PIETRO ADAINI|"Don Pasquale"|"L'elisir d'amore"|"La Cenerentola"|Alvise Casellati|Andrea Cigni|Carlo Felice di Genova|Christopher Franklin|Don Ramiro|Ernesto|Filippo Crivelli|Gaetano Donizetti|Gioachino Rossini|Nemorino|OperaLombardia, Teatro Donizetti di Bergamo|Paolo Panizza|Sebastiano Rolli|Verona, Teatro Filarmonico
+SOPHIE KOCH|"Der Rosenkavalier"|"Tannhäuser"|-|Harry Kupfer|Octavian|Parigi, Opéra Bastille|Richard Strauss|Robert Carsen|Sir Mark Elder|Teatro alla Scala di Milano|Venus|Zubin Mehta
+THOMAS E. BAUER|"Der Rosenkavalier"|"Die Zauberflöte"|-|Accademia di Santa Cecilia|Alvis Hermanis|Bernd Alois Zimmermann|Ein Polizeikommissär|Harry Kupfer|Ingo Metzmacher|Oratore, Primo Sacerdote, Secondo Armigero|René Jacobs|Richard Strauss|Stolzius|Teatro alla Scala di Milano|Wolfgang Amadeus Mozart|Zubin Mehta|“Die Soldaten” al Teatro alla Scala
+MICHELE MAURO|"Der Rosenkavalier"|"Le nozze di Figaro"|-|Beppe|Catania|Delil|Der Haushofmeister bei Faninal|Don Basilio|Giulio Ciabatti|Harry Kupfer|Maurizio Arena|Moshe Leiser|Onore e morte nella "Cavalleria rusticana" e nei "Pagliacci" di nuovo insieme|Pietro Mascagni|Riccardo Chailly|Richard Strauss|Sergio Alapont|Teatro Massimo Bellini di Catania|Teatro alla Scala|Teatro alla Scala di Milano|Wolfgang Amadeus Mozart|Zubin Mehta|“Giovanna d’Arco”
+KRASSIMIRA STOYANOVA|"Der Rosenkavalier"|Alain Altinoglu|David Kneuss|Desdemona|Die Feldmarschallin|Giuseppe Verdi|Harry Kupfer|New York, Metropolitan|Richard Strauss|Teatro alla Scala di Milano|Zubin Mehta|“Otello”
+SILVANA DUSSMANN|"Der Rosenkavalier"|Harry Kupfer|Jungfer Marianne Leitmetzerin|Richard Strauss|Teatro alla Scala di Milano|Zubin Mehta
+DAVID MEDEN|"Der Rosenkavalier"|Harry Kupfer|Leopold|Richard Strauss|Teatro alla Scala di Milano|Zubin Mehta
+YANNICK LOBOTO|"Der Rosenkavalier"|Harry Kupfer|Mohammed|Richard Strauss|Teatro alla Scala di Milano|Zubin Mehta
+CHRISTIANE KARG|"Der Rosenkavalier"|Harry Kupfer|Richard Strauss|Sophie|Teatro alla Scala di Milano|Zubin Mehta
+GIOVANNI ROMEO|"La Cenerentola"|"La cena delle beffe"|"Occasione"|Carlo Rizzi|Don Magnifico|Elisabetta Brusa|Gioachino Rossini|Il Calandra|Il bianco s'addice|Mario Martone|Martino|Milano, Teatro alla Scala|Paolo Panizza|Sebastiano Rolli|Stefano Rabaglia|Umberto Giordano|Verona, Teatro Filarmonico
+tag|Harry Kupfer|17
+tag|Zubin Mehta|17
+tag|"Der Rosenkavalier"|17
+tag|Teatro alla Scala di Milano|17
+tag|Richard Strauss|17

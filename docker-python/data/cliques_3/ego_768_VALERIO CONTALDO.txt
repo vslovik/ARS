@@ -1,0 +1,23 @@
+ANNA BONITATIBUS|"Così fan tutte"|"La Didone"|"La clemenza di Tito" inaugura la nuova stagione|"Orfeo ed Euridice"|-|Bari, Teatro Petruzzelli|Clément Hervieu-léger|Cristoph Willibald Gluck|Denis Krief|Didone|Dorabella|Federico Maria Sardelli|Firenze|Francesco Cavalli|Ivo Van Hove|La Monnaie di Bruxelles|Lodovic Morlot|Orfeo|Parigi, Théâtre des Champs Elysées|Roberto Abbado|Sesto|William Christie|Wolfgang Amadeus Mozart
+MARIA STEIJFFERT|"La Didone"|Clément Hervieu-léger|Ecuba|Francesco Cavalli|Parigi, Théâtre des Champs Elysées|William Christie
+KRESIMIR SPICER|"Der Rosenkavalier"|"La Didone"|-|Clément Hervieu-léger|Enea|Francesco Cavalli|Harry Kupfer|Lucio Silla|Marc Minkowski,Makhar Vaziev|Marshall Pynkoski|Parigi, Théâtre des Champs Elysées|Richard Strauss|Scala|Teatro alla Scala di Milano|Valzacchi|William Christie|Zubin Mehta|“Lucio Silla” di Mozart
+CLAIRE DEBONO|"La Didone"|Clément Hervieu-léger|Francesco Cavalli|Parigi, Théâtre des Champs Elysées|Venere, Iride, Damigella II|William Christie
+FRANCISCO JAVIER BORDA|"La Didone"|Clément Hervieu-léger|Francesco Cavalli|Parigi, Théâtre des Champs Elysées|Sinon Greco, Giove, Nettuno, Cacciatore|William Christie
+CHLOE BRIOT|"L'enfant et les sortilèges"|Arnaud Meunier|Didier Puntos|Festival di Aix-en-Provence|L’Enfant|Maurice Ravel
+MARIANA REWERSKI|"La Didone"|Clément Hervieu-léger|Fortuna, Anna, Dama I|Francesco Cavalli|Parigi, Théâtre des Champs Elysées|William Christie
+NICOLAS REVENQ|"La Didone"|Anchise, Un Vecchio|Clément Hervieu-léger|Francesco Cavalli|Parigi, Théâtre des Champs Elysées|William Christie
+DAMIEN GUILLON / TERRY WEY|"La Didone"|Ascanio, Amore, Cacciatore|Clément Hervieu-léger|Francesco Cavalli|Parigi, Théâtre des Champs Elysées|William Christie
+MERCEDES ARCURI|"L'enfant et les sortilèges"|"Viento (es la dicha de Amor)"|-|Alan Curtis|Andrés Lima|Arnaud Meunier|David Mcvicar|Didier Puntos|Festival di Aix-en-Provence|Il paggio della duchessa|José De Nebra|Le Feu, le Rossignol|Madrid, Teatro de la Zarzuela|Maurice Ravel|Nicola Luisotti,Justin Way|Ninfa|Teatro Real di  Madrid|“Rigoletto”
+VALERIO CONTALDO|"L'enfant et les sortilèges"|"La Didone"|Arnaud Meunier|Clément Hervieu-léger|Corebo, Eolo, Cacciatore|Didier Puntos|Festival di Aix-en-Provence|Francesco Cavalli|La Théière, le Petit Vieillard, la Rainette|Maurice Ravel|Parigi, Théâtre des Champs Elysées|William Christie
+GUILLAUME ANDRIEUX|"L'enfant et les sortilèges"|-|Arnaud Meunier|Didier Puntos|Festival di Aix-en-Provence|Juraj Valčuha|L’Horloge, le Chat|Maurice Ravel|Pelléas|Torino|“Pelléas et Mélisande”  dell’OSN RAI
+MATHIAS VIDAL|"La Didone"|"Les Chevaliers de la Table Ronde" di Hervé|Christophe Grapperon|Clément Hervieu-léger|Francesco Cavalli|Hervé|Ilioneo, Mercurio|Médor|Parigi, Théâtre des Champs Elysées|Pierre-andré Weitz|Venezia, Teatro Malibran|William Christie
+EVE-MAUD HUBEAUX|"Béatrice et Bénédict"|"L'enfant et les sortilèges"|"Penthesilea"|-|Arnaud Meunier|Bruxelles, Théâtre La Monnaie|Didier Puntos|Festival di Aix-en-Provence|Franck Ollu|Maman, la Tasse Chinoise, la Libellule|Maurice Ravel|Oberpriesterin|Pascal Dusapin|Pierre Audi|Richard Brunel|Samuel Jean|Théâtre La Monnaie|Ursula
+JEAN GABRIEL SAINT MARTIN|"L'enfant et les sortilèges"|Arnaud Meunier|Didier Puntos|Festival di Aix-en-Provence|Le Fauteuil, le Chêne|Maurice Ravel
+CLEMENCE TILQUIN|"L'enfant et les sortilèges"|Arnaud Meunier|Didier Puntos|Festival di Aix-en-Provence|La Princesse, la Chauve Souris, la Pastourelle|Maurice Ravel
+KATHERINE WATSON|"La Didone"|"Médée"|Cassandra, Damigella I, Dama III|Clément Hervieu-léger|Emmanuelle Haïm|Francesco Cavalli|Marc-antoine Charpentier|Parigi, Théâtre des Champs Elysées|Pierre Audi|Une Italienne, un fantôme, une bergère|William Christie
+TEHILA NENI GOLDSTEIN|"La Didone"|Clément Hervieu-léger|Creusa, Giunone, Damigella II, Dama II|Francesco Cavalli|Parigi, Théâtre des Champs Elysées|William Christie
+tag|Francesco Cavalli|12
+tag|Parigi, Théâtre des Champs Elysées|12
+tag|"La Didone"|12
+tag|William Christie|12
+tag|Clément Hervieu-léger|12

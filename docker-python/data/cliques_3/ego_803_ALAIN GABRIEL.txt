@@ -1,0 +1,29 @@
+INVA MULA|"Cavalleria rusticana" e "Pagliacci"|"La Bohème"|"Otello"|Alberto Veronesi|Bologna, Teatro Comunale|Choregies Orange|Desdemona|Friedrich Pleyer|Giacomo Puccini|Giuseppe Verdi|Liliana Cavani|Mimì|Myung Whun Chung|Nadine Duffaut|Nedda|Opéra di Marsiglia|Pietro Mascagni
+PASQUALE FERRARO|"La Favorite"|-|Jacques Lacombe|Monaco (Monte-Carlo)|Un Seigneur
+JULIA NOVIKOVA|"La Favorite"|-|Inès|Jacques Lacombe|Monaco (Monte-Carlo)
+LUCIE ROCHE|"Die Zauberflote"|Dritte Dame|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Wolfgang Amadeus Mozart
+MAÎTRISE DES BOUCHES-DU-RHÔNE|"Die Zauberflote"|Drei Knaben|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Wolfgang Amadeus Mozart
+NICOLAS CAVALLIER|"Elektra"|"La Chartreuse de Parme"|"La Favorite"|-|Balthazar|Charles Roubaud|Comte Mosca della Rovere|Henri Sauguet|Jacques Lacombe|Lawrence Foster|Monaco (Monte-Carlo)|Opéra de Marseille|Opéra di Marsiglia|Orest|Renée Auphan|Richard Strauss
+BÉATRICE URIA-MONZON|"Cléopâtre"|"La Favorite"|-|Charles Roubaud|Cléopâtre|Jacques Lacombe|Jules Massenet|Lawrence Foster|Léonor de Guzman|Marsiglia, Opéra Municipal|Monaco (Monte-Carlo)
+RAPHAËL BRÉMARD|"Die Zauberflote"|Jean-paul Scarpitta|Kenneth Montgomery|Monostatos|Opéra de Marseille|Wolfgang Amadeus Mozart
+BURCU UYAR|"Die Zauberflote"|"Die Zauberflöte"|"Il trionfo di Clelia"|"Lucia di Lammermoor"|"Roméo et Juliette"|-|Accademia di Santa Cecilia|Andrea Cigni|Bologna, Teatro Comunale|Charles Gounod|Christoph Willibald Gluck|Francesco Rosa|Gaetano Donizetti|Giuseppe Sigismondi De Risio|Jean-paul Scarpitta|Juliette|Kenneth Montgomery|Königin der Nacht|Larissa|Miss Lucia|Nigel Lowery|Opéra de Marseille|Padova, Teatro Verdi|Regina della Notte|René Jacobs|Sassari, Teatro Comunale|Sergio Alapont|Stefano Poda|Wolfgang Amadeus Mozart
+VLADIMIR GALOUZINE|"Otello"|Friedrich Pleyer|Giuseppe Verdi|Nadine Duffaut|Opéra di Marsiglia|Otello
+SENG-HYOUN KO|"Otello"|Friedrich Pleyer|Giuseppe Verdi|Iago|Nadine Duffaut|Opéra di Marsiglia
+YANN TOUSSAINT|"Otello"|Friedrich Pleyer|Giuseppe Verdi|Montano|Nadine Duffaut|Opéra di Marsiglia
+NUNO ROQUE|"Die Zauberflote"|Il pavone, il liocorno|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Wolfgang Amadeus Mozart
+OLIVIER HAGENLOCH|"Die Zauberflote"|Jean-paul Scarpitta|Kenneth Montgomery|Marionettista|Opéra de Marseille|Wolfgang Amadeus Mozart
+EDUARDA MELO|"Die Zauberflote"|Erste Dame|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Wolfgang Amadeus Mozart
+ALAIN GABRIEL|"Die Zauberflote"|"La Favorite"|"Otello"|-|Don Gaspar|Erster Geharnischter Mann|Friedrich Pleyer|Giuseppe Verdi|Jacques Lacombe|Jean-paul Scarpitta|Kenneth Montgomery|Monaco (Monte-Carlo)|Nadine Duffaut|Opéra de Marseille|Opéra di Marsiglia|Roderigo|Wolfgang Amadeus Mozart
+YÉTÉ QUEIROZ|"Die Zauberflote"|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Papagena|Wolfgang Amadeus Mozart
+HENK NEVEN|"Die Zauberflote"|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Papageno|Wolfgang Amadeus Mozart
+JUAN DIEGO FLÓREZ|"La Favorite"|"Matilde di Shabran"|-|Corradino|Fernand|Gioachino Rossini|Jacques Lacombe|Jürgen Flimm|Mario Martone|Michele Mariotti|Monaco (Monte-Carlo)|Muhai Tang|Rodrigo|Rossini Opera Festival|Teatro alla Scala|“Otello” di Rossini
+SANDRINE PIAU|"Die Zauberflote"|-|Jean-paul Scarpitta|Juraj Valčuha|Kenneth Montgomery|Mélisande|Opéra de Marseille|Pamina|Torino|Wolfgang Amadeus Mozart|“Pelléas et Mélisande”  dell’OSN RAI
+SÉBASTIEN DROY|"Die Zauberflote"|"Otello"|Cassio|Friedrich Pleyer|Giuseppe Verdi|Jean-paul Scarpitta|Kenneth Montgomery|Nadine Duffaut|Opéra de Marseille|Opéra di Marsiglia|Tamino|Wolfgang Amadeus Mozart
+BLANDINE STASKIEWICZ|"Die Zauberflote"|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Wolfgang Amadeus Mozart|Zweite Dame
+JEAN-MARIE DELPAS|"Carmen"|"Cléopâtre"|"Otello"|"Roberto Devereux"|-|Alain Guingal|Charles Roubaud|Friedrich Pleyer|Gaetano Donizetti|Georges Bizet|Giuliano Carella|Giuseppe Verdi|Jean-philippe Delavault|Jules Massenet|Lawrence Foster|Lodovico|Marsiglia, Opéra Municipal|Nadine Duffaut|Opéra de Marseille|Opéra di Marsiglia|Opéra di Toulon|Sir Gualtiero Raleigh / un famigliare|Sévérus|Zuniga
+DORIS LAMPRECHT|"Cyrano de Bergerac"|"Otello"|Emilia|Franco Alfano|Friedrich Pleyer|Giuseppe Verdi|La governante/Soeur Marthe|Madrid, Teatro Real|Nadine Duffaut|Opéra di Marsiglia|Pedro Halffter|Petrika Ionesco
+tag|Opéra de Marseille|15
+tag|Kenneth Montgomery|13
+tag|Jean-paul Scarpitta|13
+tag|Wolfgang Amadeus Mozart|13
+tag|"Die Zauberflote"|13

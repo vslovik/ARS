@@ -1,0 +1,25 @@
+GÜNTHER GROISSBÖCK|"Boris Godunov"|"Tannhäuser"|-|Bayreuther Festspiele|Boris Godunov|Christian Thielemann|Hartmut Haenchen|Johan Simons|Landgraf Hermann|Madrid, Teatro Real
+ARNOLD BEZUYEN|"Das Rheingold"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Fabio Luisi|Heinrich der Schreiber|Loge|Metropolitan Opera|Robert Lepage
+LOTHAR ODINIUS|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Walther von der Vogelweide
+MICHAEL NAGY|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Wolfram von Eschenbach
+JENNIFER JOHNSON|"Das Rheingold"|-|Fabio Luisi|Metropolitan Opera|Robert Lepage|Woglinde
+BRYN TERFEL|"Das Rheingold"|"Der fliegende Holländer”|"Die Walküre"|-|Andreas Homoki|Daniel Harding|David Afkham|Der Holländer|Deutsche Oper Berlin|Donald Runnicles|Fabio Luisi|Giuseppe Verdi|Gotz Friedrich|Hartmut Haenchen|James Levine|Metropolitan Opera|Richard Wagner|Robert Carsen|Robert Lepage|Sir John Falstaff|Wotan|’Auditorio Nacional di Madrid
+GERHARD SIEGEL|"Das Rheingold"|"Saint-Francois d'Assise"|"Wozzeck"|-|Andrea Moses|Fabio Luisi|Frère  Elie|Giuseppe Frigeni|Gran Teatre del Liceu di Barcelona|Il Capitano|Il capitano|James Levine|Josep Pons,Robert Carsen|Madrid, Teatro Real|Mark Lamos|Metropolitan Opera|Michael Schønwandt|Mime|Richard Wagner|Robert Carsen|Robert Lepage|Staatsoper Stuttgart|Sylvain  Cambreling|“Siegfried”
+MICHELLE BREEDT|"Rusalka"|"Tannhäuser"|-|Antonìn Dvoràk|Bayreuther Festspiele|Christian Thielemann|Denis Krief|Eivind Gullberg Jensen|La Principessa Straniera|Teatro dell'Opera di Roma|Venus
+DWYNE CROFT|"Das Rheingold"|-|Donner|Fabio Luisi|Metropolitan Opera|Robert Lepage
+LISETTE OROPESA|"Das Rheingold"|-|Fabio Luisi|Metropolitan Opera|Robert Lepage|Wellgunde
+FRANZ-JOSEF SELIG|"Das Rheingold"|-|Claus Guth,Anja Kampe|Fabio Luisi|Fasolt|Gurnemanz|Madrid, Teatro Real|Metropolitan Opera|Robert Lepage|Semyon Bychkov|“Parsifal”
+HANS-PETER KOENIG|"Das Rheingold"|-|Fabio Luisi|Fafner|Metropolitan Opera|Robert Lepage
+PATRICIA BARDON|"Das Rheingold"|-|Erda|Fabio Luisi|Metropolitan Opera|Robert Lepage
+KATJA STUBER|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Ein junger Hirt
+TORSTEN KERL|"Der fliegende Holländer”|"Die Walküre"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|David Afkham|Deutsche Oper Berlin|Donald Runnicles|Erik|Firenze, Teatro Comunale|Gotz Friedrich|La Fura Dels Baus (carlus Padrissa)|Siegmund|Tannhäuser|Zubin Mehta|’Auditorio Nacional di Madrid
+STEPHANIE BLYTHE|"Das Rheingold"|"Die Walküre"|-|Charles Tim Buck,Asher Fisch|Fabio Luisi|Fricka|James Levine|Metropolitan Opera|Robert Lepage|Seattle|Stephen Wadsworth|Waltraute/ Zweite Norn|un "Ring" che avrebbe reso Wagner orgoglioso
+MARTIN SNELL|"Der Rosenkavalier"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Ein Notar|Herbert Wernicke,Alejandro Stadler|Milano, Teatro alla Scala|Philippe Jordan|Reinmar von Zweter|Richard Strauss
+TAMARA MUMFORD|"Das Rheingold"|"The magic flute"|-|Erik Nielsen|Fabio Luisi|Flosshilde|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|Robert Lepage|Terza Dama|Wolfgang Amadeus Mozart
+CAMILLA NYLUND|"Rusalka"|"Tannhäuser"|-|Andrew Davis|Antonin Dvořák|Barcellona, Gran Teatre del Liceu|Bayreuther Festspiele|Christian Thielemann|Elisabeth, Nichte des Landgrafen|Rusalka|Stefan Herheim
+ADAM DIEGEL|"Das Rheingold"|-|Fabio Luisi|Froh|Metropolitan Opera|Robert Lepage
+WENDY BRYN HARMER|"Das Rheingold"|"Die Walküre"|"Götterdämmerung"|"The magic flute"|-|Charles Tim Buck,Asher Fisch|Erik Nielsen|Fabio Luisi|Freia|Gerhilde|Gutrune|James Levine|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|NYC, The Metropolitan Opera|Ortlinde|Prima Dama|Robert Lepage|Seattle|Stephen Wadsworth|Wolfgang Amadeus Mozart|un "Ring" che avrebbe reso Wagner orgoglioso
+tag|"Das Rheingold"|13
+tag|Fabio Luisi|13
+tag|Robert Lepage|13
+tag|Metropolitan Opera|13

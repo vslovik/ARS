@@ -1,0 +1,31 @@
+ANTONIO BARBAGALLO|"Candide"|"Götterdämmerung"|"La Bohème"|"La Gioconda"|"Madama Butterfly"|"Nabucco"|"Otello"|"Rigoletto"|"Roméo et Juliette"|"Un ballo in maschera"|-|Amilcare Ponchielli|Andrea Battistoni|Andrea Cigni|Brescia, Teatro Grande|Charles Gounod|Como, Teatro Sociale|Daniele Callegari|Ein Mann|Giacomo Puccini|Giampaolo Bisanti|Giulio Ciabatti|Giuseppe Verdi|Graham Vick|Gran Sacerdote|Hermann Augustus|Il principe Yamadori/Il commissario imperiale|Jean Louis Grinda|Le Duc|Leonard Bernstein|Lorenzo Mariani|Macerata Opera Festival|Marcello Mottadelli|Mario Pontiggia|Massimo Gasparon|Montano|Palermo, Teatro Massimo|Pier Giorgio Morandi|Pier Luigi Pizzi|Renato Palumbo|Roma, Teatro dell'Opera|Samuel|Sassari, Teatro Comunale|Sergio Alapont|Sferisterio Opera Festival|Srboljub Dinic|Stefan Anton Reck,Graham Vick|Stefano De Luca|Teatro Massimo di Palermo|Teatro Ponchielli di Cremona|Torino, Teatro Regio|Un cantore /Barnabotto|Un doganiere|Un usciere|Wayne Marshall
+LANCE RYAN|Gran Teatre del Liceu di Barcelona|Josep Pons|Josep Pons,Robert Carsen|Richard Wagner|Robert Carsen|Siegfried|“Götterdämmerung”|“Siegfried”
+ISABELLA GAUDÍ|-|Da Lorca a Sotelo|Gran Teatre del Liceu di Barcelona|Josep Pons|Julieta / Niño|Pablo Heras-casado|Richard Wagner|Robert Carsen|Robert Castro|Woglinde|prima mondiale di “El Público” a Madrid|“Götterdämmerung”
+CARLO MORGANTE|"Götterdämmerung"|"La Bohème"|-|Ein anderer</em> <em>Mann|Giacomo Puccini|Graham Vick|Mann|Mario Pontiggia|Palermo, Teatro Massimo|Pier Giorgio Morandi|Stefan Anton Reck,Graham Vick|Teatro Massimo di Palermo|Un venditore di prugne
+IRÉNE THEORIN|"Götterdämmerung"|-|Brünnhilde|Graham Vick|Gran Teatre del Liceu di Barcelona|Josep Pons|Palermo, Teatro Massimo|Richard Wagner|Robert Carsen|Stefan Anton Reck,Graham Vick|“Götterdämmerung”
+SAMUEL YOUN|"Elektra"|"Salome"|Gran Teatre del Liceu di Barcelona|Gunther|Jochanaan|Josep Pons|Klaus Michael Grüber|Madrid, Teatro Real|Manfred Schweigkofler|Modena, Teatro Comunale|Niksa Bareza|Orest|Richard Strauss|Richard Wagner|Robert Carsen|Semyon Bychkov|“Götterdämmerung”
+RENÉE TATUM|"Götterdämmerung"|-|Charles Tim Buck,Asher Fisch|Flosshilde|Graham Vick|Grimgerde|Palermo, Teatro Massimo|Seattle|Stefan Anton Reck,Graham Vick|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+ERIC GREENE|"Das Rheingold"|"Götterdämmerung"|-|Donner|Graham Vick|Gunther|Palermo|Palermo, Teatro Massimo|Pietari Inkinen|Stefan Anton Reck,Graham Vick
+ANNETTE JAHNS|"Die Walküre"|"Götterdämmerung"|-|Erste Norn|Graham Vick|Palermo, Teatro Massimo|Pietari Inkinen|Schwertleite|Stefan Anton Reck,Graham Vick|Teatro Massimo di Palermo
+CRISTINA FAUS|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Gran Teatre del Liceu di Barcelona|Josep Pons|Madrid, Teatro de La Zarzuela|Manuela|Miquel Ortega|Prima Norma|Richard Wagner|Robert Carsen|“Götterdämmerung”
+CHRISTINE KNORREN|"Götterdämmerung"|-|Graham Vick|Palermo, Teatro Massimo|Stefan Anton Reck,Graham Vick|Zweite Norn / Wellgunde
+VIKTORIA VIZIN|"Götterdämmerung"|-|Graham Vick|Palermo, Teatro Massimo|Stefan Anton Reck,Graham Vick|Waltraute
+MATS ALMGREN|"Götterdämmerung"|-|Graham Vick|Hagen|Palermo, Teatro Massimo|Stefan Anton Reck,Graham Vick
+ELIZABETH BLANCKE-BIGGS|"Götterdämmerung"|-|Graham Vick|Gutrune|Palermo, Teatro Massimo|Stefan Anton Reck,Graham Vick
+HANS-PETER KÖNIG|"Götterdämmerung"|-|Fabio Luisi|Gran Teatre del Liceu di Barcelona|Hagen|Josep Pons|NYC, The Metropolitan Opera|Richard Wagner|Robert Carsen|“Götterdämmerung”
+ANN ALÀS I JOVÉ|Gran Teatre del Liceu di Barcelona|Josep Pons|Richard Wagner|Robert Carsen|Wellgunde|“Götterdämmerung”
+MARINA PINCHUK|Flosshilde|Gran Teatre del Liceu di Barcelona|Josep Pons|Richard Wagner|Robert Carsen|“Götterdämmerung”
+MICHAELA SCHUSTER|Gran Teatre del Liceu di Barcelona|Josep Pons|Richard Wagner|Robert Carsen|Waltraute|“Götterdämmerung”
+CHRISTIAN VOIGT|"Götterdämmerung"|"Siegfried"|-|Graham Vick|Palermo, Teatro Massimo|Siegfried|Stefan Anton Reck|Stefan Anton Reck,Graham Vick|Teatro Massimo di Palermo
+PILAR VÁZQUEZ|"Boris Godunov"|"Der fliegende Holländer”|"Die Walküre"|-|David Afkham|Firenze, Teatro Comunale|Gran Teatre del Liceu di Barcelona|Hartmut Haenchen|Johan Simons|Josep Pons|L'ostessa|La Fura Dels Baus (carlus Padrissa)|Madrid, Teatro Real|Mary|Richard Wagner|Robert Carsen|Seconda Norna|Waltraute|Zubin Mehta|’Auditorio Nacional di Madrid|“Götterdämmerung”
+STEPHANIE CORLEY|"Das Rheingold"|"Götterdämmerung"|-|Dritte Norn / Woglinde|Freia|Graham Vick|Palermo|Palermo, Teatro Massimo|Pietari Inkinen|Stefan Anton Reck,Graham Vick
+JACQUELYN WAGNER|"Die Walküre"|-|Firenze, Teatro Comunale|Gran Teatre del Liceu di Barcelona|Gutrune|Josep Pons|La Fura Dels Baus (carlus Padrissa)|Ortlinde|Richard Wagner|Robert Carsen|Terza Norna|Zubin Mehta|“Götterdämmerung”
+tag|"Götterdämmerung"|13
+tag|Palermo, Teatro Massimo|12
+tag|Graham Vick|12
+tag|Stefan Anton Reck,Graham Vick|12
+tag|Richard Wagner|11
+tag|Gran Teatre del Liceu di Barcelona|11
+tag|“Götterdämmerung”|11
+tag|Robert Carsen|11
+tag|Josep Pons|11

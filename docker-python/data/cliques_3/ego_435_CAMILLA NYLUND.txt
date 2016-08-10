@@ -1,0 +1,13 @@
+GÜNTHER GROISSBÖCK|"Boris Godunov"|"Tannhäuser"|-|Bayreuther Festspiele|Boris Godunov|Christian Thielemann|Hartmut Haenchen|Johan Simons|Landgraf Hermann|Madrid, Teatro Real
+MICHELLE BREEDT|"Rusalka"|"Tannhäuser"|-|Antonìn Dvoràk|Bayreuther Festspiele|Christian Thielemann|Denis Krief|Eivind Gullberg Jensen|La Principessa Straniera|Teatro dell'Opera di Roma|Venus
+LOTHAR ODINIUS|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Walther von der Vogelweide
+MICHAEL NAGY|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Wolfram von Eschenbach
+KATJA STUBER|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Ein junger Hirt
+CAMILLA NYLUND|"Rusalka"|"Tannhäuser"|-|Andrew Davis|Antonin Dvořák|Barcellona, Gran Teatre del Liceu|Bayreuther Festspiele|Christian Thielemann|Elisabeth, Nichte des Landgrafen|Rusalka|Stefan Herheim
+TORSTEN KERL|"Der fliegende Holländer”|"Die Walküre"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|David Afkham|Deutsche Oper Berlin|Donald Runnicles|Erik|Firenze, Teatro Comunale|Gotz Friedrich|La Fura Dels Baus (carlus Padrissa)|Siegmund|Tannhäuser|Zubin Mehta|’Auditorio Nacional di Madrid
+MARTIN SNELL|"Der Rosenkavalier"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Ein Notar|Herbert Wernicke,Alejandro Stadler|Milano, Teatro alla Scala|Philippe Jordan|Reinmar von Zweter|Richard Strauss
+ARNOLD BEZUYEN|"Das Rheingold"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Fabio Luisi|Heinrich der Schreiber|Loge|Metropolitan Opera|Robert Lepage
+XAVIER MENDOZA|"Rusalka"|Andrew Davis|Antonin Dvořák|Barcellona, Gran Teatre del Liceu|Lo sguattero|Stefan Herheim
+TONI MARSOL|"Rusalka"|Andrew Davis|Antonin Dvořák|Barcellona, Gran Teatre del Liceu|Il guardiacaccia|Stefan Herheim
+EMILY MAGEE|"Rusalka"|Andrew Davis|Antonin Dvořák|Barcellona, Gran Teatre del Liceu|La principessa straniera|Stefan Herheim
+ILDIKÓ KOMLÓSI|"Rusalka"|Andrew Davis|Antonin Dvořák|Barcellona, Gran Teatre del Liceu|Ježibaba|Stefan Herheim

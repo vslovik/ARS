@@ -1,0 +1,54 @@
+ADAM DIEGEL|"Das Rheingold"|-|Fabio Luisi|Froh|Metropolitan Opera|Robert Lepage
+ARNOLD BEZUYEN|"Das Rheingold"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Fabio Luisi|Heinrich der Schreiber|Loge|Metropolitan Opera|Robert Lepage
+FRANZ-JOSEF SELIG|"Das Rheingold"|-|Claus Guth,Anja Kampe|Fabio Luisi|Fasolt|Gurnemanz|Madrid, Teatro Real|Metropolitan Opera|Robert Lepage|Semyon Bychkov|“Parsifal”
+STEPHANIE BLYTHE|"Das Rheingold"|"Die Walküre"|-|Charles Tim Buck,Asher Fisch|Fabio Luisi|Fricka|James Levine|Metropolitan Opera|Robert Lepage|Seattle|Stephen Wadsworth|Waltraute/ Zweite Norn|un "Ring" che avrebbe reso Wagner orgoglioso
+JENNIFER JOHNSON|"Das Rheingold"|-|Fabio Luisi|Metropolitan Opera|Robert Lepage|Woglinde
+BRYN TERFEL|"Das Rheingold"|"Der fliegende Holländer”|"Die Walküre"|-|Andreas Homoki|Daniel Harding|David Afkham|Der Holländer|Deutsche Oper Berlin|Donald Runnicles|Fabio Luisi|Giuseppe Verdi|Gotz Friedrich|Hartmut Haenchen|James Levine|Metropolitan Opera|Richard Wagner|Robert Carsen|Robert Lepage|Sir John Falstaff|Wotan|’Auditorio Nacional di Madrid
+GERHARD SIEGEL|"Das Rheingold"|"Saint-Francois d'Assise"|"Wozzeck"|-|Andrea Moses|Fabio Luisi|Frère  Elie|Giuseppe Frigeni|Gran Teatre del Liceu di Barcelona|Il Capitano|Il capitano|James Levine|Josep Pons,Robert Carsen|Madrid, Teatro Real|Mark Lamos|Metropolitan Opera|Michael Schønwandt|Mime|Richard Wagner|Robert Carsen|Robert Lepage|Staatsoper Stuttgart|Sylvain  Cambreling|“Siegfried”
+ANDREAS HÖRL|-|Fafner|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|Lothar Koenigs|Richard Wagner|Robert Carsen|Romeo Castellucci|Teatro Real di Madrid|Un sacerdote|“Moses und Aron”|“Siegfried”
+LANCE RYAN|Gran Teatre del Liceu di Barcelona|Josep Pons|Josep Pons,Robert Carsen|Richard Wagner|Robert Carsen|Siegfried|“Götterdämmerung”|“Siegfried”
+CATHERINE FOSTER|"Nabucco"|Abigaille|Brünnhilde|Giuliano Carella|Giuseppe Verdi|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|Richard Wagner|Robert Carsen|Rudolf Frey|Staatsoper Stuttgart|“Siegfried”
+LISETTE OROPESA|"Das Rheingold"|-|Fabio Luisi|Metropolitan Opera|Robert Lepage|Wellgunde
+TAMARA MUMFORD|"Das Rheingold"|"The magic flute"|-|Erik Nielsen|Fabio Luisi|Flosshilde|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|Robert Lepage|Terza Dama|Wolfgang Amadeus Mozart
+DANIEL BRENNA|"Siegfried"|"Wozzeck"|-|Alvis Hermanis|Andrea Moses|Bernd Alois Zimmermann|Desportes|Il tamburmaggiore|Ingo Metzmacher|Jossi Wieler|Marc Soustrot|Michael Schønwandt|Siegfried|Staatsoper Stuttgart|“Die Soldaten” al Teatro alla Scala
+ROLAND BRACHT|"Falstaff"|"Fidelio"|"I Puritani"|"L' ecume des Jours" di Edison Denisov|"Les contes d'Hoffmann"|"Rigoletto"|"Wozzeck"|-|Altea|Andrea Moses|Andreas Moses|Bert Neumann|Christoph Marthaler|Doktor Mangemanche|Giuliano Carella|Giuseppe Verdi|Il Conte di Monterone|Il dottore|Jacques Offenbach|Jossi Wieler E Sergio Morabito|Jossi Wieler, Sergio Morabito|Lord Gualtiero Valton|Maître Luther / Crespel|Michael Schønwandt|Pistola|Rocco|Staatsoper Stuttgart|Sylvain Cambreling
+JOHN ALBERT|"Wozzeck"|-|Il bambino di Marie|James Levine|Mark Lamos|Metropolitan Opera
+RICHARD  BERNSTEIN, MARK SCHOWALTER|"Wozzeck"|-|Due garzoni|James Levine|Mark Lamos|Metropolitan Opera
+PHILIPPE CASTAGNER|"Wozzeck"|-|Il pazzo|James Levine|Mark Lamos|Metropolitan Opera
+WALTER FINK|"Wozzeck"|-|Il Dottore|James Levine|Mark Lamos|Metropolitan Opera
+CLAUDIO OTELLI|"Wozzeck"|-|Andrea Moses|Michael Schønwandt|Staatsoper Stuttgart|Wozzeck
+CHRISTIANE IVEN|"Ariadne auf Naxos"|"Parsifal"|"Wozzeck"|-|Andrea Moses|Calixto Bieito|Jossi Wieler, Sergio Morabito|Kundry|Marie|Michael Schønwandt|Michael Schøwandt|Prima Donna / Ariadne|Richard Strauss|Staatsoper Stuttgart|Sylvain Cambreling
+CAMILLA TILLING|"Pelléas et Mélisande"|"Saint-Francois d'Assise"|-|Claude Debussy|Giuseppe Frigeni|L'Ange|Madrid, Teatro Real|Mélisande|Robert Wilson|Sylvain Cambreling|Sylvain  Cambreling
+MICHAEL KÖNIG|"Boris Godunov"|"Fidelio"|"Lady Macbeth del distretto di Mzesnk"|"Saint-Francois d'Assise"|-|Bert Neumann|Dimitrij Sostakovic|Florestan|Giuseppe Frigeni|Grigorij (il falso Dimitrij)|Hartmut Haenchen|Johan Simons|Jossi Wieler, Sergio Morabito|Le Lépreux|Madrid, Teatro Real|Martin Kušej|Sergej|Staatsoper Stuttgart|Sylvain  Cambreling
+FWIARD WITHOLT|"Saint-Francois d'Assise"|-|Frère</em> <em>Léon|Giuseppe Frigeni|Léon|Madrid, Teatro Real|Sylvain  Cambreling
+TOM RANDLE|"Saint-Francois d'Assise"|-|Frère Massée|Giuseppe Frigeni|Madrid, Teatro Real|Sylvain  Cambreling
+DAVID RUBIERA|"Ainadamar"|"Cyrano de Bergerac"|"Saint-Francois d'Assise"|-|Alejo Pérez|Franco Alfano|Frère Rufin|Giuseppe Frigeni|L'ufficiale spagnolo/Il cuoco|Madrid, Tearo Real|Madrid, Teatro Real|Osvaldo Golijov|Pedro Halffter|Peter Sellars|Petrika Ionesco|Sylvain  Cambreling|Un maestro
+VLADIMIR KAPSHUK|"Saint-Francois d'Assise"|-|Frère Sylvestre|Giuseppe Frigeni|Madrid, Teatro Real|Sylvain  Cambreling
+DWYNE CROFT|"Das Rheingold"|-|Donner|Fabio Luisi|Metropolitan Opera|Robert Lepage
+WALTRAUD MEIER|"Die Walküre"|"Elektra"|"Wozzeck"|-|Daniel Barenboim|Guy Cassiers|James Levine|Klytämnestra|Maestro Del Coro|Marie|Mark Lamos|Metropolitan Opera|Milano, Teatro alla Scala|Patrice Ch|Richard Strauss|Sieglinde|Teatro alla Scala di Milano
+HANS-PETER KOENIG|"Das Rheingold"|-|Fabio Luisi|Fafner|Metropolitan Opera|Robert Lepage
+PATRICIA BARDON|"Das Rheingold"|-|Erda|Fabio Luisi|Metropolitan Opera|Robert Lepage
+GREER GRIMSLEY|-|Charles Tim Buck,Asher Fisch|Der Wanderer|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|Richard Wagner|Robert Carsen|Seattle|Stephen Wadsworth|Wotan|un "Ring" che avrebbe reso Wagner orgoglioso|“Siegfried”
+RAYMOND APARENTADO|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|"Wozzeck"|-|Antony Walker,Marco Armiliato,Fabio Luisi|David Mcvicar,Mark Morris,Otto Schenk|Giuseppe Verdi,Christoph Willibald Gluck|James Levine|Mark Lamos|Metropolitan Opera|Un cittadino|Un messaggero
+HEINZ GOEHRING|"Carmen"|"Wozzeck"|-|Andrea Moses|Dancaire|Georges Bizet|Il pazzo|Michael Schønwandt|Patrick Fournillier|Sebastian Neubling|Staatsoper Stuttgart
+DANIEL CLARK SMITH|"Wozzeck"|-|James Levine|Mark Lamos|Metropolitan Opera|Un soldato
+ALAN HELD|"Wozzeck"|-|James Levine|Mark Lamos|Metropolitan Opera|Wozzeck
+STUART SKELTON|"Parsifal"|"Wozzeck"|-|Charles Tim Buck,Asher Fisch|Claus Guth|Il Tamburmaggiore|James Levine|Mark Lamos|Metropolitan Opera|Mikko Franck|Parsifal|Seattle|Siegmund|Stephen Wadsworth|Zurigo,Opernhaus|un "Ring" che avrebbe reso Wagner orgoglioso
+WENDY WHITE|"Wozzeck"|-|James Levine|Margret|Mark Lamos|Metropolitan Opera
+CRISTINA TOLEDO|"Cyrano de Bergerac"|Franco Alfano|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|Lise/Una suora|Madrid, Teatro Real|Pedro Halffter|Petrika Ionesco|Richard Wagner|Robert Carsen|Stimme des Waldvogels|“Siegfried”
+MARK MUNKITTRICK, KAI PREUSKER|"Wozzeck"|-|Andrea Moses|Due garzoni|Michael Schønwandt|Staatsoper Stuttgart
+MARIA RADNER|"Die Walküre"|-|Anna|David Mcvicar|Erda|Firenze, Teatro Comunale|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|La Fura Dels Baus (carlus Padrissa)|La Storia Esecutiva E La Ricezione Dei|Richard Wagner|Robert Carsen|Scala "Les Troyens" di Hector Berlioz|Schwertleite|Trionfano|Zubin Mehta|“Siegfried”
+WENDY BRYN HARMER|"Das Rheingold"|"Die Walküre"|"Götterdämmerung"|"The magic flute"|-|Charles Tim Buck,Asher Fisch|Erik Nielsen|Fabio Luisi|Freia|Gerhilde|Gutrune|James Levine|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|NYC, The Metropolitan Opera|Ortlinde|Prima Dama|Robert Lepage|Seattle|Stephen Wadsworth|Wolfgang Amadeus Mozart|un "Ring" che avrebbe reso Wagner orgoglioso
+TINA HORHOLD|"Elektra"|"Wozzeck"|-|Andrea Moses|Dritte Magd|Johannes Knecht|Margret|Michael Schønwandt|Peter Konwitschny|Richard Strauss|Staatsoper Stuttgart
+VINCENT LE TEXIER|"L’heure espagnole" '-- "L’enfant et les sortilèges"|"Saint-Francois d'Assise"|-|Don Iñigo Gomez|Giuseppe Frigeni|Laurent Pelly|Madrid, Teatro Real|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala|Saint-Francois|Sylvain  Cambreling
+JESÚS CARAMÉS|"Saint-Francois d'Assise"|-|Giuseppe Frigeni|L´ombra dal lebbroso|Madrid, Teatro Real|Sylvain  Cambreling
+JAN-CRISTOF TOMERL|"Wozzeck"|-|Andrea Moses|Il bambino di Marie|Michael Schønwandt|Staatsoper Stuttgart
+tag|Metropolitan Opera|23
+tag|"Wozzeck"|19
+tag|James Levine|14
+tag|"Das Rheingold"|13
+tag|Fabio Luisi|13
+tag|Robert Lepage|13
+tag|Staatsoper Stuttgart|11
+tag|Madrid, Teatro Real|11
+tag|Mark Lamos|11

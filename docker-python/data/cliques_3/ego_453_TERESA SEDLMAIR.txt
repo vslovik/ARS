@@ -1,0 +1,24 @@
+THOMAS TATZL|"Der ferne klang"|-|Ingo Metzmacher|Jens-daniel Herzog|Polizist|Zurigo
+TERESA SEDLMAIR|"Der ferne klang"|"Don Pasquale"|"La voix humaine" e "The telephone"|-|Gaetano Donizetti|Giampaolo Bisanti|Giancarlo Menotti,Francis Poulenc|Giulio Ciabatti|Ingo Metzmacher|Jens-daniel Herzog|Jonathan Webb|Lucca|Lucy|Mizzi / eine choristen|Norina|Sandro Pasqualetto|Zurigo|giardino di Palazzo Zuckermann di Padova
+SUSANNE GROBHOLZ|"Der ferne klang"|-|Ingo Metzmacher|Jens-daniel Herzog|Milli / eine ender choristen|Zurigo
+AGNIESZKA ADAMCZAK|"Der ferne klang"|"Luisa Miller"|-|Damiano Michieletto|Giuseppe Verdi|Ingo Metzmacher|Jens-daniel Herzog|Laura|Madchen|Opernhaus di Zurigo|Paolo Fantin|Zurigo
+IGOR BAKAN|"Der ferne klang"|-|Ingo Metzmacher|Jens-daniel Herzog|Zurigo|Zweiter Chorist
+OLIVER WIDMER|"Der ferne klang"|-|Der Graf|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+TOMASZ SLAWINSKI|"Der ferne klang"|-|Der Wirt / 1 Gast|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+PETER SONN|"Der ferne klang"|-|Der Chavalier / 6 Gast|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+STEFANIA KALUSA|"Der ferne klang"|"Eugenio Onegin"|-|Der Frau des alten Graumann|Grischa Asagaroff|Ingo Metzmacher|Jens-daniel Herzog|Larina|Opernhaus di Zurigo|Vladimir Fedoseyev|Zurigo
+DAVIDE FERSINI|"Der ferne klang"|"La scala di seta"|-|Bepi Morassi|Der Baron / 2 Gast|Francesco Pasqualetti|Germano|Gioachino Rossini|Ingo Metzmacher|Jens-daniel Herzog|Teatro Comunale di Sassari|Zurigo
+ANDREAS WINKLER|"Der ferne klang"|-|Erster Chorist|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+IRENE FRIEDLI|"Der ferne klang"|-|Die Kellnerin|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+VALERIJ MURGA|"Der ferne klang"|-|Dr.Vigilius|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+ROBERTO SACCA'|"Der ferne klang"|-|Fritz|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+ALDA CAIELLO|"Dido and Aeneas"|"L'Italia del destino"|"La voix humaine" e "The telephone"|Chiara Muti|Davide Livermore|Elle|Firenze, Teatro Goldoni|Giancarlo Menotti,Francis Poulenc|Henry Purcell|Jonathan Webb|La Stilista|La maga|Luca Mosca|Lucca|Sandro Pasqualetto|Terme di Carcalla
+CAMILLE BUTCHER|"Der ferne klang"|-|Ingo Metzmacher|Jens-daniel Herzog|Mary|Zurigo
+GABRIELE NANI|"Don Pasquale"|"La Bohème"|"La Traviata"|"La finta semplice"|"Lucrezia Borgia"|"Rigoletto"|Ascanio Petrucci|Como, Teatro Sociale|Dottor Malatesta|Elio Boncompagni|Elisabetta Courir|Francesco Bellotto|Gaetano Donizetti|Giacomo Puccini|Giampaolo Bisanti|Giovanni Battista Rigon|Giulio Ciabatti|Giuseppe Verdi|Hugo De Hana|Lucca, Teatro del Giglio|Malatesta|Marchese d'Obigny|Marco Gandini|Marullo|Padova, Teatro Verdi|Pietro Rizzo|Salvatore Percacciolo|Schaunard|Simone|Stefano Poda|Steven Mercurio|Teatro Olimpico di Vicenza|Tiziano Severini|Verdi di Padova|Wolfgang Amadeus Mozart|giardino di Palazzo Zuckermann di Padova
+CHRISTIAN STARINIERI|"Don Pasquale"|"Il barbiere di Siviglia"|"La Traviata"|"Tosca"|Barone Douphol|Corrado Rovaris|Donato Renzetti|Fiorello|Gaetano Donizetti|Giacomo Puccini|Giampaolo Bisanti|Gianluigi Gelmetti|Gioachino Rossini|Giulio Ciabatti|Giuseppe Verdi|Henning Brockhaus|Ruggero Cappuccio|Sciarrone|Teatro Verdi di Trieste|Trieste, Teatro Verdi|Un notaro|giardino di Palazzo Zuckermann di Padova
+ALESSANDRO SCOTTO DI LUZIO|"Don Pasquale"|"Il Campiello"|"L'Amico Fritz"|"L'elisir d'amore"|"Lucia di Lammermoor"|"Lucia di Lammermoor" al Pergolesi di Jesi|"Rigoletto"|-|Arnaud Bernard|Arturo|Brescia, Teatro Grande|Bucklaw|Ermanno Wolf-ferrari|Ernesto|Fabrizio Maria Carminati|Francesco Cilluffo|Fritz Kobus|Gaetano Donizetti|Giampaolo Bisanti|Giulio Ciabatti|Giuseppe Verdi|Guglielmo Ferro|Henning Brockhaus|Il duca di Mantova|Italo Nunziata|Leo Muscato|Lord Arturo Bucklaw|Lord Arturo</em> <em>Bucklaw|Lorenzo Fratini,Giuseppe La Malfa|Matteo Beltrami|Nemorino|Novara|Omer Meir Wellber|Pietro Mascagni|Ricordando Svoboda|Rosetta Cucchi|Simona Marchini|Sir Edgardo di Ravenswood|Teatro La Fenice di Venezia|Teatro del Maggio Musicale Fiorentino|Teatro dell'Opera di Firenze|Venezia, Teatro La Fenice|Verona, Teatro Filarmonico|Zorzeto|giardino di Palazzo Zuckermann di Padova|«Di ragion la trasse amore …». "Lucia di Lammermoor"
+ANDREA SCHWENDENER|"Der ferne klang"|-|Eine Spanierin|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+tag|Ingo Metzmacher|16
+tag|Jens-daniel Herzog|16
+tag|"Der ferne klang"|16
+tag|Zurigo|16

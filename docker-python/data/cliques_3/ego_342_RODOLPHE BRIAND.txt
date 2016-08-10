@@ -1,0 +1,63 @@
+LORENZO TEDONE|"Carmen"|Daniel Barenboim|Emma Dante|Georges Bizet|Milano, Teatro alla Scala|Un bohémien
+PERLA VIVIANI CIGOLINI|"Carmen"|Daniel Barenboim|Emma Dante|Georges Bizet|Milano, Teatro alla Scala|Une marchande
+VLADIMIR STOYANOV|"I Masnadieri" alTeatro di San Carlo|"La forza del destino"|"Macbeth"|"Rigoletto"|-|Bilbao|Don Carlo di Vargas|Donato Renzetti|Francesco|Francisco Negrin|Gabriele Lavia|Gianluigi Gelmetti|Giuseppe Verdi|Henning Brockhaus|Jean-claude Auvray|L’altra faccia della luna|Macbeth|Nicola Luisotti|Opera di Firenze|Parigi, Opéra|Parma, Teatro Regio|Philippe Jordan|Rigoletto|Stefano Poda|Zubin Mehta
+ERWIN SCHROTT|"Aida"|"Carmen"|-|Antonio Pappano|Daniel Barenboim|Emma Dante|Escamillo|Georges Bizet|Giuseppe Verdi|Milano, Teatro alla Scala|Ramfis|Roma, Accademia Nazionale di Santa Cecilia
+MICHÈLE LOSIER|"Carmen"|"Médée"|Daniel Barenboim|Emma Dante|Emmanuelle Haïm|Frasquita|Georges Bizet|Marc-antoine Charpentier|Milano, Teatro alla Scala|Médée, La Gloire|Parigi, Théâtre des Champs Elysées|Pierre Audi
+CARMINE MARINGOLA|"Carmen"|Daniel Barenboim|Emma Dante|Georges Bizet|Guida|Milano, Teatro alla Scala
+DANIELA SINDRAM|"Die Walküre"|"Les contes d'Hoffmann"|"The Turn of the Screw"|-|Benjamin Britten|David Mcvicar|Deutsche Oper Berlin|Donald Runnicles|Fricka|Gotz Friedrich|Jacques Offenbach|Josep Pons|La Muse, Nicklausse|Madrid,Teatro Real|Marko Letonja|Milano, Teatro alla Scala|Miss Jessel|Robert Carsen
+GABRIEL DA COSTA|"Carmen"|Daniel Barenboim|Emma Dante|Georges Bizet|Gustavo Dudamel|Lillas Pastia|Milano, Teatro alla Scala|Teatro alla Scala
+ADRIANA KUČEROVÁ|"Carmen"|Daniel Barenboim|Emma Dante|Georges Bizet|Mercédès|Milano, Teatro alla Scala
+FRANCOIS LIS|"La forza del destino"|-|Georges Bizet|Giuseppe Verdi|Gustavo Dudamel|Gustavo Dudamel dirige "Carmen"|Jean-claude Auvray|Los Angeles|Parigi, Opéra|Philippe Jordan|Un chirurgo|Zúñiga
+MATHIAS HAUSMANN|"Carmen"|-|Daniel Barenboim|Emma Dante|Georges Bizet|Gustavo Dudamel|Gustavo Dudamel dirige "Carmen"|Los Angeles|Milano, Teatro alla Scala|Morales|Moralès|Teatro alla Scala
+ALEXIA VOULGARIDOU|"Carmen"|"La Bohème"|"Tosca"|-|Donato Renzetti|Elisabetta Brusa|Emma Dante|Floria Tosca|Georges Bizet|Giacomo Puccini|Giulio Ciabatti|Gustavo Dudamel|Gustavo Dudamel dirige "Carmen"|Los Angeles|Micaela|Micaëla|Mimì|Teatro alla Scala|Trieste|Trieste, Teatro Verdi
+ELLIE DEHN|"A Midsummer night's dream"|"La Bohème"|"Le Nozze di Figaro"|"Les contes d'Hoffmann"|Antonia|Benjamin Britten|Daniele Rustioni|Franco Zeffirelli|Giacomo Puccini|Helena,innamorata di Demetrius|Jacques Offenbach|James Conlon|John Copley|La contessa|Marko Letonja|Milano, Teatro alla Scala|Musetta|Nicola Luisotti|Opera di Roma|Paul Curran|Robert Carsen|San Francisco|Wolfgang Amadeus Mozart
+LAURENT NAOURI|"Der Rosenkavalier"|"Les contes d'Hoffmann"|"Médée"|"Pelléas et Mélisande"|Claude Debussy|Créon|Emmanuelle Haïm|Faninal|Golaud|Herbert Wernicke|Jacques Offenbach|Jeffrey Tate|Lindorf, Coppelius, Dapertutto, Miracle|Madrid, Teatro Real|Madrid,Teatro Real|Marc-antoine Charpentier|Marko Letonja|Milano, Teatro alla Scala|Parigi, Théâtre des Champs Elysées|Pierre Audi|Richard Strauss|Robert Carsen|Robert Wilson|Sylvain Cambreling
+FRANCIS DUDZIAK|"Carmen"|"La vedova allegra"|Ascher Fisch|Daniel Barenboim|Emma Dante|Franz Lehar|Georges Bizet|Gustavo Dudamel|Kromw|Le Dancaïre|Milano, Teatro alla Scala|Pier Luigi Pizzi|Teatro alla Scala
+FRANCIS  DUDZIAK|"Carmen"|Daniel Barenboim|Emma Dante|Georges|Le Dancaire|Milano, Teatro alla Scala
+VIOLETA URMANA|"Il Trittico" di Giacomo Puccini|"La forza del destino"|A Firenze una "Forza del destino"|Damiano Michieletto|Daniele Rustioni|Donna Leonora|Giacomo Puccini|Giuseppe Verdi|Jean-claude Auvray|La zia Principessa|Nicolas Joël|Parigi, Opéra|Philippe Jordan|Roma, Teatro dell'Opera|Zubin Mehta|’insegna del patriottismo
+ALEXANDER VINOGRADOV|"Carmen"|"Faust"|"I due Foscari"|"Roméo et Juliette"|Andrea Battistoni|Arena Sferisterio di Macerata|Bartlett Sher|Carlo Felice di Genova|Charles Gounod|Davide Livermore|Emma Dante|Escamillo|Frère Laurent|Georges Bizet|Giudeppe Verdi|Giuliano Carella|Gustavo Dudamel|Jacopo Loredano|Jean-luc Tingaud,Jean Luc Tingaud|Jean-philippe Delavault|Joseph Franconi Lee|La "Carmen"|Milano, Teatro alla Scala|Mèphistophélès|Opéra di Toulon|Pier Luigi Pizzi|Renato Palumbo|Teatro alla Scala|Trieste|Yannick Nézet-séguin
+RICCARDO MASSI|"Aida"|"Carmen"|"Norma"|Andrea De Rosa|Caracalla Festival|Daniel Barenboim|Don José|Emma Dante|Gabriele Ferro|Georges Bizet|Gianandrea Noseda|Giuseppe Verdi|Milano, Teatro alla Scala|Pollione|Radamès|Torino, Teatro Regio|Vincenzo Bellini|William Friedkin
+RODOLPHE BRIAND|"Carmen"|"La forza del destino"|"Les contes d'Hoffmann"|Daniel Barenboim|Emma Dante|Georges Bizet|Giuseppe Verdi|Gustavo Dudamel|Jacques Offenbach|Jean-claude Auvray|Le Remendado|Marko Letonja|Mastro Trabuco|Milano, Teatro alla Scala|Parigi, Opéra|Philippe Jordan|Robert Carsen|Spalanzani|Teatro alla Scala
+MATHIAS  HAUSMANN|"Carmen"|Daniel Barenboim|Emma Dante|Georges|Milano, Teatro alla Scala|Morales
+ADRIANA  DAMATO|"Carmen"|Daniel Barenboim|Emma Dante|Georges|Micaela|Milano, Teatro alla Scala
+RODOLPHE  BRIAND|"Carmen"|Daniel Barenboim|Emma Dante|Georges|Le Remendado|Milano, Teatro alla Scala
+TARA VENDITTI|"Carmen"|Emma Dante|Frasquita|Georges Bizet|Gustavo Dudamel|Teatro alla Scala
+ADRIANA  KUCEROVA|"Carmen"|Daniel Barenboim|Emma Dante|Georges|Mercedes|Milano, Teatro alla Scala
+GABRIEL  DA COSTA|"Carmen"|Daniel Barenboim|Emma Dante|Georges|Lillas Pastia|Milano, Teatro alla Scala
+JONAS  KAUFMANN|"Carmen"|Daniel Barenboim|Don José|Emma Dante|Georges|Milano, Teatro alla Scala
+ANITA  RACHVELISHVILI|"Carmen"|Carmen|Daniel Barenboim|Emma Dante|Georges|Milano, Teatro alla Scala
+MICHELE  LOSIER|"Carmen"|Daniel Barenboim|Emma Dante|Frasquita|Georges|Milano, Teatro alla Scala
+ERWIN  SCHROTT|"Carmen"|Daniel Barenboim|Emma Dante|Escamillo|Georges|Milano, Teatro alla Scala
+ADRIANA DAMATO|"Carmen"|Daniel Barenboim|Emma Dante|Georges Bizet|Micaëla|Milano, Teatro alla Scala
+) CARMINE  MARINGOLA|"Carmen"|Daniel Barenboim|Emma Dante|Georges|Milano, Teatro alla Scala|Prete (Guida
+ADRIANA KUCEROVA|"Carmen"|"Le nozze di Figaro"|Ancona, Teatro delle Muse|Emma Dante|Georges Bizet|Guillaume Tourniaire|Gustavo Dudamel|Mercédès|Pier Luigi Pizzi|Susanna|Teatro alla Scala|Wolfganag  Amadeus Mozart
+BRUNO GAUDENZI|"Carmen"|Emma Dante|Georges Bizet|Gustavo Dudamel|Teatro alla Scala|Un bohémien
+MARCELO ALVAREZ|"Il Trovatore"|"La forza del destino"|Daniele Rustioni|Don Alvaro|Giuseppe Verdi|Hugo De Ana|Jean-claude Auvray|Manrico|Parigi, Opéra|Philippe Jordan|Teatro alla Scala
+NICOLA ALAIMO|"Attila"|"Falstaff"|"I puritani"|"L'elisir d'amore"|"La cena delle beffe"|"La forza del destino"|"Moise et Pharaon"|-|Carlo Rizzi|Corrado Rovaris|Daniele Gatti|Ezio|Fabio Biondi|Fabio Ceresa|Fra Melitone|Francesco Cilluffo|Gaetano Donizetti|Gioachino Rossini|Giorgio Germont|Giovanni Battista Pergolesi|Giuseppe Verdi|Graham Vick|Guillaume Tell|Il Dottor Dulcamara|Il dottor Dulcamara, medico ambulante|Jean-claude Auvray|Laurent Pelly,Anna Maria Bruzzese|Marcaniello|Marcello Grigorov|Mario Martone|Michele Mariotti|Milano, Teatro alla Scala|Neri Chiaramantesi|Opera di Roma|Parigi, Opéra|Pharaon|Philippe Jordan|Pier Luigi Pizzi|Pier’alli|Riccardo Canessa|Riccardo Muti|Robert Carsen|Sir John Falstaff|Sir Riccardo Forth|Teatro Comunale di Modena|Teatro Di San Carlo|Teatro Regio di Torino|Teatro San Carlo di Napoli|Teatro alla Scala di Milano|Teatro dell'Opera di Roma|Torino, Teatro Regio|Umberto Giordano|Vincenzo Bellini|«Le rose del volto già sono pallenti». La Traviata
+NADIA KRASTEVA|"Aida"|"La forza del destino"|Amneris|Franco Zeffirelli,Marco Gandini|Gianandrea Noseda|Giuseppe Verdi|Jean-claude Auvray|Parigi, Opéra|Perché re|Philippe Jordan|Preziosilla|Teatro alla Scala|’“Aida” scaligera?
+GABOR BRETZ|"Carmen"|"Don Carlo"|"Il prigioniero", "Il castello del duca Barbablù"|Béla Bartók|Daniel Barenboim|Daniel Harding|Daniele Gatti|Emma Dante|Georges Bizet|Giuseppe Verdi|Gustavo Dudamel|Il duca|Milano, Teatro alla Scala|Peter Stein|Stephane Braunschweig|Teatro alla Scala|Un frate|Zuniga
+WILLIAM SHIMELL|"Così fan tutte"|"Les contes d'Hoffmann"|-|Ancona, Teatro delle Muse|Crespel, Luther|Don Alfonso|Jacques Offenbach|Madrid, Teatro Real|Marko Letonja|Milano, Teatro alla Scala|Pierluigi Pizzi,Daniel Kawka|Robert Carsen|Sylvain Cambreling|Wolfgang Amadeus Mozart
+LORENZO B.  TEDONE|"Carmen"|Daniel Barenboim|Emma Dante|Georges|Milano, Teatro alla Scala|Un bohémien
+GABOR  BRETZ|"Carmen"|Daniel Barenboim|Emma Dante|Georges|Milano, Teatro alla Scala|Zuniga
+CHRISTOPHE FEL|"Elektra"|"La forza del destino"|Charles Roubaud|Ein alte diener|Giuseppe Verdi|Jean-claude Auvray|Opéra di Marsiglia|Parigi, Opéra|Philippe Jordan|Richard Strauss|Un alcade
+PERLA VIVIANA  CIGOLINI|"Carmen"|Daniel Barenboim|Emma Dante|Georges|Milano, Teatro alla Scala|Una venditrice di arance
+KWANGCHUL YOUN|"Fidelio"|"Il Trovatore"|"La forza del destino"|"Luisa Miller"|Daniel Barenboim|Daniele Rustioni|Deborah Warner|Ferrando|Gianandrea Noseda|Giuseppe Verdi|Hugo De Ana|Jean-claude Auvray|Ludwig Van Beethoven|Mario Martone|Milano, Teatro alla Scala|Padre guardiano|Parigi, Opéra|Philippe Jordan|Rocco|Teatro alla Scala|Wurm
+VERONICA SIMEONI|"La Favorite"|"Les contes d'Hoffmann"|"Nabucco"|"Norma"|"Werther"|-|Adalgisa|Alberto Fassini|Alessandro Talevi|Andriy Yurkevych|Charlotte|Daniele Abbado|Donato Renzetti|Emmanuel Villaume|Fenena|Gaetano Donizetti|Giacomo Meyerbeer|Gioachino Rossini|Giulietta|Giuseppe Verdi|Graham Vick|Hedwige|Jacques Offenbach|Jesùs Lopez-cobos|Jules Massenet|La Fenice|Leo Muscato|Léonor de Guzman|Marko Letonja|Michele Mariotti|Milano, Teatro alla Scala|Nicola Luisotti|Opera di Roma|Robert Carsen|Sara|Sélika|Teatro Real di Madrid|Torino, Teatro Regio|Venezia, Teatro La Fenice|Vincenzo Bellini|Willy Decker|con L'Africaine, tra esotismo e denuncia anticolonialista|“Roberto Devereux”
+NICOLAS TESTE'|"Il Trovatore"|"Les contes d'Hoffmann"|-|Charles Roubaud|Ferrando|Giuseppe Verdi|Hermann, Schlemil|Jacques Offenbach|Marko Letonja|Milano, Teatro alla Scala|Opéra di Marsiglia|Robert Carsen
+ARTURO CHACON CRUZ|"Les contes d'Hoffmann"|Hoffmann|Jacques Offenbach|Marko Letonja|Milano, Teatro alla Scala|Robert Carsen
+CYRILLE DUBOIS|"Le Saphir" di Félicien David|"Les contes d'Hoffmann"|-|Félicien David|Gaston|Jacques Offenbach|Marko Letonja|Milano, Teatro alla Scala|Nathanael|Robert Carsen|Venezia
+VASSILIKI KARAYANNI|"Les contes d'Hoffmann"|Jacques Offenbach|Marko Letonja|Milano, Teatro alla Scala|Olympia|Robert Carsen
+HERMINE MAY|"Les contes d'Hoffmann"|Jacques Offenbach|Marko Letonja|Milano, Teatro alla Scala|Robert Carsen|Une voix
+tag|Milano, Teatro alla Scala|40
+tag|"Carmen"|32
+tag|Emma Dante|32
+tag|Daniel Barenboim|28
+tag|Georges Bizet|19
+tag|Giuseppe Verdi|14
+tag|Georges|14
+tag|Teatro alla Scala|13
+tag|Robert Carsen|12
+tag|Gustavo Dudamel|11
+tag|"Les contes d'Hoffmann"|11
+tag|Marko Letonja|11
+tag|Jacques Offenbach|11

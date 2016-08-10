@@ -1,0 +1,23 @@
+DWYNE CROFT|"Das Rheingold"|-|Donner|Fabio Luisi|Metropolitan Opera|Robert Lepage
+ARNOLD BEZUYEN|"Das Rheingold"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Fabio Luisi|Heinrich der Schreiber|Loge|Metropolitan Opera|Robert Lepage
+FRANZ-JOSEF SELIG|"Das Rheingold"|-|Claus Guth,Anja Kampe|Fabio Luisi|Fasolt|Gurnemanz|Madrid, Teatro Real|Metropolitan Opera|Robert Lepage|Semyon Bychkov|“Parsifal”
+STEPHANIE BLYTHE|"Das Rheingold"|"Die Walküre"|-|Charles Tim Buck,Asher Fisch|Fabio Luisi|Fricka|James Levine|Metropolitan Opera|Robert Lepage|Seattle|Stephen Wadsworth|Waltraute/ Zweite Norn|un "Ring" che avrebbe reso Wagner orgoglioso
+JENNIFER JOHNSON|"Das Rheingold"|-|Fabio Luisi|Metropolitan Opera|Robert Lepage|Woglinde
+KLAUS FLORIAN VOGT|"Fidelio"|"Parsifal"|-|Andreas Homoki|Berlino, Deutsche Oper|Claus Guth,Anja Kampe|Daniel Barenboim|Deborah Warner|Donald Runnicles|Erik|Florestan|Hartmut Haenchen|Ludwig Van Beethoven|Madrid, Teatro Real|Milano, Teatro alla Scala|Parsifal|Philipp Stölzl|Richard Wagner|Semyon Bychkov|“Parsifal”
+GERHARD SIEGEL|"Das Rheingold"|"Saint-Francois d'Assise"|"Wozzeck"|-|Andrea Moses|Fabio Luisi|Frère  Elie|Giuseppe Frigeni|Gran Teatre del Liceu di Barcelona|Il Capitano|Il capitano|James Levine|Josep Pons,Robert Carsen|Madrid, Teatro Real|Mark Lamos|Metropolitan Opera|Michael Schønwandt|Mime|Richard Wagner|Robert Carsen|Robert Lepage|Staatsoper Stuttgart|Sylvain  Cambreling|“Siegfried”
+LISETTE OROPESA|"Das Rheingold"|-|Fabio Luisi|Metropolitan Opera|Robert Lepage|Wellgunde
+ROSIE ALDRIDGE|-|Claus Guth,Anja Kampe|Madrid, Teatro Real|Semyon Bychkov|Una voce|“Parsifal”
+HANS-PETER KOENIG|"Das Rheingold"|-|Fabio Luisi|Fafner|Metropolitan Opera|Robert Lepage
+PATRICIA BARDON|"Das Rheingold"|-|Erda|Fabio Luisi|Metropolitan Opera|Robert Lepage
+TAMARA MUMFORD|"Das Rheingold"|"The magic flute"|-|Erik Nielsen|Fabio Luisi|Flosshilde|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|Robert Lepage|Terza Dama|Wolfgang Amadeus Mozart
+ANTE JERKUNIKA|-|Claus Guth,Anja Kampe|Madrid, Teatro Real|Semyon Bychkov|Titurel|“Parsifal”
+VICENÇ ESTEVE, DAVID SÁNCHEZ|-|Claus Guth,Anja Kampe|Due cavalieri del Graal|Madrid, Teatro Real|Semyon Bychkov|“Parsifal”
+WENDY BRYN HARMER|"Das Rheingold"|"Die Walküre"|"Götterdämmerung"|"The magic flute"|-|Charles Tim Buck,Asher Fisch|Erik Nielsen|Fabio Luisi|Freia|Gerhilde|Gutrune|James Levine|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|NYC, The Metropolitan Opera|Ortlinde|Prima Dama|Robert Lepage|Seattle|Stephen Wadsworth|Wolfgang Amadeus Mozart|un "Ring" che avrebbe reso Wagner orgoglioso
+EVGENY NIKITIN|"Boris Godunov"|"Parsifal"|-|Asher Fisch|Claus Guth,Anja Kampe|François Girard|Hartmut Haenchen|Johan Simons|Klingsor|Madrid, Teatro Real|New York, Metropolitan|Rangoni|Semyon Bychkov|“Parsifal”
+ADAM DIEGEL|"Das Rheingold"|-|Fabio Luisi|Froh|Metropolitan Opera|Robert Lepage
+ANJA KAMPE|"Fidelio"|-|Andreas Homoki|Claus Guth,Anja Kampe|Daniel Barenboim|Deborah Warner|Hartmut Haenchen|Kundry|Leonore|Ludwig Van Beethoven|Madrid, Teatro Real|Milano, Teatro alla Scala|Richard Wagner|Semyon Bychkov|Senta|“Parsifal”
+BRYN TERFEL|"Das Rheingold"|"Der fliegende Holländer”|"Die Walküre"|-|Andreas Homoki|Daniel Harding|David Afkham|Der Holländer|Deutsche Oper Berlin|Donald Runnicles|Fabio Luisi|Giuseppe Verdi|Gotz Friedrich|Hartmut Haenchen|James Levine|Metropolitan Opera|Richard Wagner|Robert Carsen|Robert Lepage|Sir John Falstaff|Wotan|’Auditorio Nacional di Madrid
+tag|"Das Rheingold"|13
+tag|Fabio Luisi|13
+tag|Robert Lepage|13
+tag|Metropolitan Opera|13

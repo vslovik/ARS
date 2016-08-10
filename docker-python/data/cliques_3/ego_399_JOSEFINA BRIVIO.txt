@@ -1,0 +1,28 @@
+KENNY HUERTOS|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Gherardino|Giacomo Puccini|Teatro Segura di Lima
+WILSON HIDALGO|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Gherardo|Giacomo Puccini|Teatro Segura di Lima
+MONICA CANALES|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|La Badessa|Teatro Segura di Lima
+PILAR CIRUELOS|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|La Ciesca|La Maestra delle Novizie|Teatro Segura di Lima
+EDDA PAREDES|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|La suora infermiera|Teatro Segura di Lima
+KIRSTEN SOLLEK|"Alcina"|Bradamante|Eduardo Browne|Georg Friedrich Handel|Marcelo Lombardero|Santiago del Cile,  Teatro Municipal
+ARTURO VIGO|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|Mastro Spinelloccio|Teatro Segura di Lima
+MARCELO GUILLEN|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|Pinellino calzolaio|Teatro Segura di Lima
+JIMENA LLANOS|"Cavalleria rusticana" e "Pagliacci"|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Carlos Palacios|Enrique Ricci|Espartaco Lavalle Terrry|Giacomo Puccini|La zia Principessa|Lima, Teatro Segura|Lola|Pietro Mascagni|Teatro Segura di Lima
+ELSA MORINO|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|Suor Dolcina|Teatro Segura di Lima
+OSCAR CUYA|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|Marco|Teatro Segura di Lima
+MAURICIO MIRANDA VILLASOL|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|Rinuccio|Teatro Segura di Lima
+JENNY RIVERO|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|Suore cercatrici XIMENA AGURTO|Teatro Segura di Lima
+GIUSEPPE ALTOMARE|"Assassinio nella cattedrale" di Pizzetti|"Cavalleria rusticana" e "Pagliacci"|"Elegy for Young Lovers"|"La battaglia di Legnano"|"Macbeth"|"Stiffelio"|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Antonino Manuli|Artisti Del Coro Di Parma|Bellini di Catania|Carlos Palacios|Dario Argento|Donato Renzetti|Enrique Ricci|Espartaco Lavalle Terrry|Ezio Donato|Giacomo Puccini|Gianni Schicchi|Giuseppe Sabbatini|Giuseppe Verdi|Gregor Mittenhofer|Hans Werner Henze|Jonathan Webb|Lima, Teatro Segura|Macbeth|Malibran di Venezia|Massimo Gasparon,Pier Luigi Pizzi|Novara|Opera di Roma|Pietro Mascagni|Pinchas Steinberg|Rolando|Ruggero Cappuccio|Scala|Secondo cavaliere|Stankar|Teatro Segura di Lima|Teatro Verdi di Pisa|Tonio / Taddeo|Yannis Kokkos|«Pien di misfatti è calle della potenza». “Macbeth” di Verdi
+KATIA ESCALERA|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|Suor Angelica|Teatro Segura di Lima
+CARLOS MARTÍNEZ|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|Simone|Teatro Segura di Lima
+GISELLA MILLA|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|Teatro Segura di Lima|Una novizia
+ROSARIO VEGA|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Espartaco Lavalle Terrry|Giacomo Puccini|Suor Osmina|Teatro Segura di Lima
+JOSEFINA BRIVIO|"Alcina"|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Eduardo Browne|Espartaco Lavalle Terrry|Georg Friedrich Handel|Giacomo Puccini|Lauretta|Marcelo Lombardero|Ruggiero|Santiago del Cile,  Teatro Municipal|Teatro Segura di Lima
+PATRICIO SABATE'|"Alcina"|Eduardo Browne|Georg Friedrich Handel|Marcelo Lombardero|Melisso|Santiago del Cile,  Teatro Municipal
+PAMELA FLORES|"Alcina"|"Ariadne auf Naxos"|-|Eduardo Browne|Georg Friedrich Handel|Marcelo Lombardero|Morgana|Naiade|Rani Calderón|Richard Strauss|Santiago del Cile,  Teatro Municipal|Santiago del Cile, Teatro Municipal
+MARCELA GONZALES|"Alcina"|Eduardo Browne|Georg Friedrich Handel|Marcelo Lombardero|Oberto|Santiago del Cile,  Teatro Municipal
+ANDREW BIDLACK|"Alcina"|Eduardo Browne|Georg Friedrich Handel|Marcelo Lombardero|Oronte|Santiago del Cile,  Teatro Municipal
+tag|Alejandro Chacon|18
+tag|"Suor Angelica" e "Gianni Schicchi"|18
+tag|Espartaco Lavalle Terrry|18
+tag|Teatro Segura di Lima|18
+tag|Giacomo Puccini|18

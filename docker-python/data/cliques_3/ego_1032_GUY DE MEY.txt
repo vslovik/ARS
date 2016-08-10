@@ -1,0 +1,29 @@
+ANDREAS JÄGGI|"Da una casa di morti"|-|Martin Bárta,Marko Letonja|Robert Carsen|Skuratov|Strasburgo
+PETER LONGAUER|"Da una casa di morti"|-|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo|Tchekunov
+MARTIN BARTA|"L'affare Makropoulos"|-|Friedemann Layer|Jaroslav Prus|Opera National du Rhin|Robert Carsen
+ANGELIQUE NOLDUS|"L'affare Makropoulos"|-|Friedemann Layer|Krista|Opera National du Rhin|Robert Carsen
+NADIA BIEBER|"L'affare Makropoulos"|-|Friedemann Layer|Opera National du Rhin|Robert Carsen|Un’inserviente
+MARIO BRAZITZOV|"Da una casa di morti"|-|Il fabbro|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo
+GUY DE MEY|"Da una casa di morti"|"L'affare Makropoulos"|-|Chapkine|Friedemann Layer|Martin Bárta,Marko Letonja|Opera National du Rhin|Robert Carsen|Strasburgo|Vitek
+JENS KIERTZNER|"Da una casa di morti"|-|Il cuoco|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo
+PASCAL CHARBONNEAU|"Da una casa di morti"|-|Aljeja|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo
+PETER STRAKA|"Da una casa di morti"|-|Filka Morozov (Luka Kuzmich)|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo
+HERVÉ HUYGHUES DESPOINTES|"Da una casa di morti"|-|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo|Un forzato ubriaco
+REMY CORAZZA|"Da una casa di morti"|-|Il forzato vecchissimo|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo
+GIJS VAN DER LINDEN|"Da una casa di morti"|"Daphne"|"Fierrabras"|-|Bruxelles, Théâtre  La Monnaie|Bruxelles, Théâtre La Monnaie|Franz Schubert|Guy Joostens|Kedril|Lothar Koenigs|Martin Bárta,Marko Letonja|Ogier|Richard Strauss|Robert Carsen|Strasburgo|Una voce|Zweiter Schäfer|Ádám Fischer
+ENRIC MARTINEZ CASTIGNANI|"Da una casa di morti"|-|Il detenuto piccolo|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo
+PETER LONGHAUER|"L'affare Makropoulos"|-|Friedemann Layer|Opera National du Rhin|Robert Carsen|Un macchinista
+ENRICO CASARI|"L'affare Makropoulos"|"Věc Makropulos"|-|Friedemann Layer|Gabriele Ferro|Janek|Opera National du Rhin|Robert Carsen|Venezia, Teatro La Fenice
+ANDREAS JAGGI|"L'affare Makropoulos"|-|Friedemann Layer|Hauk-Šendorf|Opera National du Rhin|Robert Carsen
+PATRICK BOLLEIRE|"Da una casa di morti"|-|Il comandante|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo
+CHERYL BARKER|"L'affare Makropoulos"|-|Emilia Marty|Friedemann Layer|Opera National du Rhin|Robert Carsen
+ENRIC MARTINEZ-CASTIGNANI|"L'affare Makropoulos"|-|Dr.Kolenaty|Friedemann Layer|Opera National du Rhin|Robert Carsen
+MARTIN BÁRTA|"Da una casa di morti"|"Věc Makropulos"|-|Chichkov|Gabriele Ferro|Il prete|Jaroslav Prus|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo|Venezia, Teatro La Fenice
+JEAN-GABRIEL SAINT-MARTIN|"Da una casa di morti"|-|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo|Un forzato (Don Giovanni)
+SUNGGOO LEE|"Da una casa di morti"|-|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo|Una guardia
+PHILIP SHEFFIELD|"Da una casa di morti"|-|Martin Bárta,Marko Letonja|Robert Carsen|Strasburgo|Tcherevin
+ADRIAN THOMPSON|"Da una casa di morti"|"Der Rosenkavalier"|"La volpe astuta"|-|David Mcvicar|Edward Gardner|Festival di Glyndebourne|Il Maestro / La Zanzara|Il detenuto grande|Leóš Janáček|Londra, English National Opera|Martin Bárta,Marko Letonja|Melly Still|Richard Strauss|Robert Carsen|Strasburgo|Valzacchi|Vladimir Jurowski
+tag|Robert Carsen|25
+tag|Martin Bárta,Marko Letonja|17
+tag|"Da una casa di morti"|17
+tag|Strasburgo|17

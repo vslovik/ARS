@@ -1,0 +1,29 @@
+LEONARDO SAGLIOCCA|"The Fairy Queen"|Drunken Poet /Winter / Hymen|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Vivien Hewitt
+FLORIANA D'AURIA|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Secrecy|Vivien Hewitt
+RODRIGO OCAMPO|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Phoebus|Robin|Vivien Hewitt
+MATIAS ENOCH ENDREK|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Lysander /Snug / Lion|Vivien Hewitt
+GIAM MARCO NORSE|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Indian boy|Vivien Hewitt
+ERIC NICHOLSON|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Oberon / Duke|Vivien Hewitt
+FRANCESCO GHELARDINI|"Il trionfo dell'onore, ovvero dissoluto pentito"|"The Fairy Queen"|Cornelia Buffacci|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|I|Mario Setti|Mopsa / Chinese Man|Teatro Verdi di Pisa|Vivien Hewitt
+CLAUDIA MUNTEAN|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Fourth Fairy  / Dryade 2 / Juno|Henry Purcell|Vivien Hewitt
+SUZANNE DA SILVA|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Flute / Thisbe|Henry Purcell|Vivien Hewitt
+CAROLINA GAMINI|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Hermia / Prologue|Vivien Hewitt
+MEGAN DONOVAN|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Helena / Starveling / Moonshine|Henry Purcell|Vivien Hewitt
+CHIARA BRUNELLO|"La Sonnambula"|"La rondine"|"The Fairy Queen"|Alessandro Londei|Federico Bardazzi|Ferrara, Teatro Comunale|Firenze, Teatro Goldoni|Francesco Ommassini|Giacomo Puccini|Gino Zampieri|Henry Purcell|Lucca, Teatro del Giglio|Massimiliano Stefanelli|Modena, Teatro Comunale|Seventh Fairy /Mystery / Naiade 2 / Summer|Suzy|Teresa|Vincenzo Bellini|Vivien Hewitt
+SERGIO C. HERNANDEZ|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Sixth Fairy / Attendant to Oberon 2 / Autumn|Vivien Hewitt
+MARTIN NG|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Sleep|Vivien Hewitt
+DARIO SHIKIMIRI|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Third Fairy / Corydon|Vivien Hewitt
+ELIA NICHOLS|"The Fairy Queen"|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Titania /Quince|Vivien Hewitt
+FLORIANO D’AURIA|"Giulio Cesare"|"Il trionfo dell'onore, ovvero dissoluto pentito"|Alessio Pizzech|Georg Friedrich Händel|I|Mario Setti|Modena, Teatro Comunale|Nireno|Ottavio Dantone|Rosina Caruccia|Teatro Verdi di Pisa
+ANDREA BRUNO SAVELLI|"The Fairy Queen"|Bottom / Pyramus|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Vivien Hewitt
+BATRIZ OYRZABAL PINAN, MONIQUE HOUBEN|"The Fairy Queen"|Coro|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Vivien Hewitt
+FRANCESCO RENZONI|"The Fairy Queen"|Demetrius / Snout / Wall|Federico Bardazzi|Firenze, Teatro Goldoni|Henry Purcell|Vivien Hewitt
+KENTARO KITAYA|"Il trionfo dell'onore, ovvero dissoluto pentito"|Erminio Rossetti|I|Mario Setti|Teatro Verdi di Pisa
+MOISES SALAZAR|"Il trionfo dell'onore, ovvero dissoluto pentito"|Flaminio Castravacca|I|Mario Setti|Teatro Verdi di Pisa
+SUSANNE EKBERG|"Il trionfo dell'onore, ovvero dissoluto pentito"|I|Leonora Dorini|Mario Setti|Teatro Verdi di Pisa
+MARIA COSTANZA NOCENTINI|"Il matrimonio segreto" a Novara|"Il trionfo dell'onore, ovvero dissoluto pentito"|Carlo Goldstein|Domenico Cimarosa|Elisetta|I|Marco Castoldi|Mario Setti|Riccardo Albenori|Teatro Verdi di Pisa|«Tutti quanti han da brillar» per Cimarosa al Coccia
+tag|"The Fairy Queen"|19
+tag|Federico Bardazzi|19
+tag|Firenze, Teatro Goldoni|19
+tag|Vivien Hewitt|19
+tag|Henry Purcell|19

@@ -1,0 +1,18 @@
+SIMON KEENLYSIDE|"Don Carlo"|"La Traviata"|Giorgio Germont|Giuseppe Verdi|Londra, Covent Garden|New York, Metropolitan Opera|Nicholas Hytner|Patrick Lange|Richard Eyre|Rodrigo, Marchese di Posa|Yannick Nézet-séguin
+ERIC HALFVARSON|"Don Carlo"|Asher Fisch|Giuseppe Verdi|Il Grande Inquisitore|Il grande Inquisitore|Jürgen Rose|Monaco di Baviera, Bayerische Staatsoper|New York, Metropolitan Opera|Nicholas Hytner|Yannick Nézet-séguin
+ALEXEI TANOTVISKY|"Don Carlo"|Giuseppe Verdi|New York, Metropolitan Opera|Nicholas Hytner|Un frate|Yannick Nézet-séguin
+LAYLA CLAIRE|"Don Carlo"|Giuseppe Verdi|New York, Metropolitan Opera|Nicholas Hytner|Tebaldo|Yannick Nézet-séguin
+DONOVAN SINGLETARY, KEITH HARRIS|"Don Carlo"|Deputati fiamminghi|Giuseppe Verdi|New York, Metropolitan Opera|Nicholas Hytner|Yannick Nézet-séguin
+FERRUCCIO FURLANETTO|"Assassinio nella cattedrale" di Pizzetti|"Boris Godunov"|"Don Carlo"|"Ernani"|-|Beppe De Tomasi|Bologna, Teatro Comunale|Boris Godunov|Daniele Gatti|Don Ruy de Silva|Donato Renzetti|Eimuntas Nekrosius|Eliahu Inbal|Filippo II|George Pehlivanian|Giuseppe Verdi|Hugo De Ana|Milano, Teatro alla Scala|Modest Musorgskij|New York, Metropolitan Opera|Nicholas Hytner|Roberto Polastri|Scala|Stéphane Braunschweig|Teatro Massimo di Palermo|Tommaso Becket|Venezia, Teatro La Fenice|Yannick Nézet-séguin|Yannis Kokkos
+MARINA POPLAVSKAYA|"Don Carlo"|Elisabetta di Valois|Giuseppe Verdi|New York, Metropolitan Opera|Nicholas Hytner|Yannick Nézet-séguin
+ROBERTO ALAGNA|"Don Carlo"|"Les Troyens"|"Turandot"|-|Calaf|Charles Roubaud|Chorégies d'Orange|Don Carlo|Enée|Giacomo Puccini|Giuseppe Verdi|Lawrence Foster|Marsiglia, Opéra Municipal|Michel Plasson|New York, Metropolitan Opera|Nicholas Hytner|Yannick Nézet-séguin
+JENNIFER CHECK|"Don Carlo"|Giuseppe Verdi|New York, Metropolitan Opera|Nicholas Hytner|Voce dal cielo|Yannick Nézet-séguin
+ANNA SMIRNOVA|"Don Carlo"|"Šárka", "Cavalleria Rusticana"|Asher Fisch|Bruno Bartoletti|Ermanno Olmi|Giuseppe Verdi|Jürgen Rose|La principessa Eboli|La principessa d'Eboli|Monaco di Baviera, Bayerische Staatsoper|New York, Metropolitan Opera|Nicholas Hytner|Pietro Mascagni|Santuzza|Venezia, Teatro La Fenice|Yannick Nézet-séguin
+ANJA HARTEROS|"Don Carlo"|"Il Trovatore"|"Lohengrin" alla Scala|-|Andrea Battistoni|Asher Fisch|Claus Guth|Daniel Barenboim|Deutsche Oper Berlin|Elisabetta di Valois|Elsa von Brabant|Giuseppe Verdi|Jürgen Rose|Leonora|Monaco di Baviera, Bayerische Staatsoper|Piume di un cigno scomparso
+FRANCESCO PETROZZI|"Don Carlo"|Asher Fisch|Giuseppe Verdi|Il Conte di Lerma, Un araldo reale|Jürgen Rose|Monaco di Baviera, Bayerische Staatsoper
+STEVEN HUMES|"Don Carlo"|"Fierrabras"|"Rusalka"|-|Antonìn Dvoràk|Asher Fisch|Bruxelles, Théâtre La Monnaie|Denis Krief|Eivind Gullberg Jensen|Franz Schubert|Giuseppe Verdi|Jürgen Rose|König Karl|Monaco di Baviera, Bayerische Staatsoper|Teatro dell'Opera di Roma|Un monaco|Vodnik, lo Spirito dell’acqua|Ádám Fischer
+EVGENIYA SOTNIKOVA|"Don Carlo"|Asher Fisch|Giuseppe Verdi|Jürgen Rose|Monaco di Baviera, Bayerische Staatsoper|Una voce dal cielo
+LAURA TATULESCU|"Don Carlo"|Asher Fisch|Giuseppe Verdi|Jürgen Rose|Monaco di Baviera, Bayerische Staatsoper|Tebaldo
+BOAZ DANIEL|"Don Carlo"|Alvis Hermanis|Asher Fisch|Bernd Alois Zimmermann|Eisenhardt|Giuseppe Verdi|Ingo Metzmacher|Jürgen Rose|Monaco di Baviera, Bayerische Staatsoper|Rodrigo di Posa|“Die Soldaten” al Teatro alla Scala
+tag|Giuseppe Verdi|16
+tag|"Don Carlo"|16

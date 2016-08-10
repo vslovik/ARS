@@ -1,0 +1,32 @@
+CARMELO CARUSO|"La traviata"|Casciana Terme|Giorgio Gérmont|Giuseppe Verdi|Renato Bonajuto|Sartoria Teatrale Bianchi, Milano
+GIAMPAOLO FRANCONI|"Il matrimonio segreto"|"La traviata"|Casciana Terme|Domenico Cimarosa|Emiliana Paoli|Gastone, Visconte di Letorières|Giuseppe Verdi|Paolino|Renato Bonajuto|Roberto Zarpellon|Sartoria Teatrale Bianchi, Milano
+MICHELE PIERLEONI|"Il matrimonio segreto"|"La traviata"|Casciana Terme|Conte Robinson|Domenico Cimarosa|Emiliana Paoli|Giuseppe Verdi|Il Barone Douphol|Renato Bonajuto|Roberto Zarpellon|Sartoria Teatrale Bianchi, Milano
+ALBERTO FONTI|"La traviata"|Casciana Terme|Giuseppe|Giuseppe Verdi|Renato Bonajuto|Sartoria Teatrale Bianchi, Milano
+ROBERTO CRISTIANI|"La traviata"|Casciana Terme|Giuseppe Verdi|Renato Bonajuto|Sartoria Teatrale Bianchi, Milano|Un commissario|Un domestico di Flora
+MASSIMILIANO GALLI|"La traviata"|Casciana Terme|Giuseppe Verdi|Il Dottor Grenvil|Renato Bonajuto|Sartoria Teatrale Bianchi, Milano
+GIANLUCA MONTI|"La forza del destino"|"Rigoletto"|Alessio Pizzech|Busseto, Teatro Verdi|Fabrizio Cassi|Giandomenico Vaccari|Giovanni Di Stefano|Giuseppe Verdi|Jader Bignamini|Marullo|Modena|Stefano Poda|Teatro Regio di Parma|Un chirurgo|Un usciere di corte
+CLAUDIA ITEN|"Tristan und Isolde"|-|Isolde|Marcus Bosch|Monique Wagemakers|Teatro Comunale "Pavarotti" di Modena
+JOCHEN KUPFER|"Tristan und Isolde"|-|Kurwenal|Marcus Bosch|Monique Wagemakers|Teatro Comunale "Pavarotti" di Modena
+ALEXEY BIRKUS|"Tristan und Isolde"|-|König Marke|Marcus Bosch|Monique Wagemakers|Teatro Comunale "Pavarotti" di Modena
+VINCENT WOLFSTEINER|"Tristan und Isolde"|-|Marcus Bosch|Monique Wagemakers|Teatro Comunale "Pavarotti" di Modena|Tristan
+JAVID SAMADOV|"Tristan und Isolde"|-|Marcus Bosch|Melot|Monique Wagemakers|Teatro Comunale "Pavarotti" di Modena
+MARTIN PLATZ|"Tristan und Isolde"|-|Marcus Bosch|Monique Wagemakers|Teatro Comunale "Pavarotti" di Modena|Un pastore / voce di un giovane marinaio
+ROMANO FRANCI|"La traviata"|"Rigoletto"|"Tristan und Isolde"|-|Casciana Terme|Giandomenico Vaccari|Giovanni Di Stefano|Giuseppe Verdi|Il Marchese d’Obigny|Marcus Bosch|Modena|Monique Wagemakers|Renato Bonajuto|Sartoria Teatrale Bianchi, Milano|Teatro Comunale "Pavarotti" di Modena|Un timoniere|Usciere di corte
+MIRELLA DI VITA|"La rondine"|"La traviata"|Casciana Terme|Flora Bervoix|Giacomo Puccini|Gino Zampieri|Giuseppe Verdi|Lucca, Teatro del Giglio|Massimiliano Stefanelli|Modena, Teatro Comunale|Renato Bonajuto|Sartoria Teatrale Bianchi, Milano|Yvette
+PATRIZIA CIGNA|"La traviata"|"La voix humaine" e "Suor Angelica"|-|Andrea De Rosa|Casciana Terme|Ermanno Wolf-ferrari|Giacomo Puccini,Francis Poulenc|Giuseppe Verdi|Gnese|Opera di Firenze|Paolo Trevisi|Renato Bonajuto|Sartoria Teatrale Bianchi, Milano|Stefano Romani|Suor Genovieffa|Violetta Valéry|Xu Zhong
+DANIELE CUSARI|"Don Giovanni Tenorio o sia Il convitato di pietra"|"La Traviata"|"La forza del destino"|"La vedova allegra"|"Macbeth"|"Madama Butterfly"|"Rigoletto"|"Tosca"|"Turandot"|-|Aldo Sisillo|Alessio Pizzech|Andrea Sanguineti|Brescia, Teatro Grande|Elena Barbalich|Federico Bardazzi|Francesco Lanzillotta|Giacomo Puccini|Giampaolo Bisanti|Giancarlo Cobelli|Giandomenico Vaccari|Giovanni Di Stefano|Giulio Ciabatti|Giuseppe Verdi|Il Barone Mirko Zeta|Il Commendatore|Il Conte di Monterone|Il dottor Grenvil|Jader Bignamini|Lo zio Bonzo|Matteo Beltrami|Mercedes Martini|Modena|Modena, Teatro Comunale|Nicola Berloffa|Novara, Teatro Coccia|Parma, Teatro Regio|Piacenza, Teatro Municipale|Pietro Rizzo|Pisa, Teatro Verdi|Rosetta Cucchi|Sciarrone/un carceriere|Sicario/Araldo|Stefano Barandoni|Stefano Poda|Teatro Regio di Parma|Un alcade|Un mandarino
+MARIA GAIA PELLEGRINI|"La traviata"|Annina|Casciana Terme|Giuseppe Verdi|Renato Bonajuto|Sartoria Teatrale Bianchi, Milano
+ALESSANDRA CANTIN|"Rigoletto"|Giandomenico Vaccari|Giovanni Di Stefano|Giuseppe Verdi|Modena|Paggio della Duchessa
+ROBERTO CARLI|"Lucia di Lammermoor"|"Rigoletto"|Gaetano Donizetti|Giandomenico Vaccari|Giovanni Di Stefano|Giuseppe Verdi|Henning Borckhaus|Henning Brockhaus,Valentina Escobar|Matteo Borsa|Modena|Normanno|Normanno, capo degli armigeri di Ravenswood|Parma, Teatro Regio|Piacenza, Teatro Municipale|Stefano Ranzani
+MICHELA NARDELLA|"Rigoletto"|Giandomenico Vaccari|Giovanni Di Stefano|Giuseppe Verdi|Maddalena|Modena
+ANNALISA FERRARINI|"Rigoletto"|Giandomenico Vaccari|Giovanni Di Stefano|Giuseppe Verdi|La Contessa|Modena
+HO-YOON CHUNG|"Rigoletto"|Giandomenico Vaccari|Giovanni Di Stefano|Giuseppe Verdi|Il Duca di Mantova|Modena
+PAOLOA LEVERONI|"Rigoletto"|Giandomenico Vaccari|Giovanna|Giovanni Di Stefano|Giuseppe Verdi|Modena
+STEFANO CESCATTI|"La Traviata"|"Rigoletto"|Domestico di Flora|Giandomenico Vaccari|Giovanni Di Stefano|Giuseppe Verdi|Il Conte di Ceprano|Modena|Modena, Teatro Comunale|Pietro Rizzo|Rosetta Cucchi
+MICHAIL  RYSSOV|"Rigoletto"|Giandomenico Vaccari|Giovanni Di Stefano|Giuseppe Verdi|Modena|Sparafucile
+FABIAN VELOZ|"Rigoletto"|Giandomenico Vaccari|Giovanni Di Stefano|Giuseppe Verdi|Modena|Rigoletto
+tag|Giuseppe Verdi|21
+tag|Modena|12
+tag|Giandomenico Vaccari|12
+tag|Giovanni Di Stefano|12
+tag|"Rigoletto"|12

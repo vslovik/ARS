@@ -1,0 +1,21 @@
+SIMON O'NEILL|"Die Walküre"|-|Daniel Barenboim|Guy Cassiers|Milano, Teatro alla Scala|Siegmund
+DANIELLE HALBWACHS|"Die Walküre"|-|Daniel Barenboim|Gerhilde|Guy Cassiers|Milano, Teatro alla Scala
+IVONNE FUCHS|"Die Walküre"|-|Daniel Barenboim|Guy Cassiers|Milano, Teatro alla Scala|Waltraute
+VITALIJ KOWALJOW|"Die Walküre"|"Nabucco"|-|Ancora “Nabucco”|Daniel Barenboim|Daniele Abbado|Gianfranco De Bosio|Giuseppe Verdi|Guy Cassiers|Julian Kovatchev|Milano, Teatro alla Scala|Nicola Luisotti|Wotan|Zaccaria|’Arena di Verona
+CAROLA HÖHN|"Csarskaja Nevesta" ( sposa per lo Zar)|"Die Walküre"|-|Daniel Barenboim|Dmitri Tcherniakov|Guy Cassiers|Milano, Teatro alla Scala|Nikolaj Rimskij-korsakov|Ortlinde|Petrovna|Teatro alla Scala
+SIMONE SCHRÖEDER|"Die Walküre"|-|Daniel Barenboim|Guy Cassiers|Milano, Teatro alla Scala|Rossweisse
+ANAIK MOREL|"Die Walküre"|"Rigoletto"|-|Daniel Barenboim|Giuseppe Verdi|Guy Cassiers|Jossi Wieler, Sergio Morabito|Maddalena|Milano, Teatro alla Scala|Schwertleite|Staatsoper Stuttgart|Sylvain Cambreling
+LEANN SANDEL-PANTALEO|"Die Walküre"|-|Daniel Barenboim|Guy Cassiers|Milano, Teatro alla Scala|Siegrune
+NICOLE PICCOLOMINI|"Die Walküre"|-|Daniel Barenboim|Deutsche Oper Berlin|Donald Runnicles|Gotz Friedrich|Gringerde|Guy Cassiers|Milano, Teatro alla Scala|Schwertleite
+STEPHAN RÜGAMER|"Csarskaja Nevesta" ( sposa per lo Zar)|Daniel Barenboim|Dmitri Tcherniakov|Elisej Bomelij|Nikolaj Rimskij-korsakov|Teatro alla Scala
+EKATERINA GUBANOVA|"Die Walküre"|-|Daniel Barenboim|Eboli|Fabio Luisi|Firenze, Teatro del Maggio Musicale Fiorentino|Fricka|Giuseppe Verdi|Guy Cassiers|La principessa Eboli|Milano, Teatro alla Scala|Stéphane Braunschweig|Zubin Mehta|“Don Carlo”
+JOHN TOMLINSON|"Der Rosenkavalier"|"Die Walküre"|-|Daniel Barenboim|David Mcvicar|Edward Gardner|Guy Cassiers|Hunding|Il Barone Ochs|Londra, English National Opera|Milano, Teatro alla Scala|Richard Strauss
+SUSAN FOSTER|"Die Walküre"|-|Daniel Barenboim|Guy Cassiers|Helmwige|Milano, Teatro alla Scala
+ANNA TOMOWA-SINTOW|"Csarskaja Nevesta" ( sposa per lo Zar)|Daniel Barenboim|Dmitri Tcherniakov|Domna Ivanovna Saburova|Nikolaj Rimskij-korsakov|Teatro alla Scala
+WALTRAUD MEIER|"Die Walküre"|"Elektra"|"Wozzeck"|-|Daniel Barenboim|Guy Cassiers|James Levine|Klytämnestra|Maestro Del Coro|Marie|Mark Lamos|Metropolitan Opera|Milano, Teatro alla Scala|Patrice Ch|Richard Strauss|Sieglinde|Teatro alla Scala di Milano
+GUILLERMO BUSSOLINI|"Csarskaja Nevesta" ( sposa per lo Zar)|Daniel Barenboim|Dmitri Tcherniakov|Fuochista dello zar|Nikolaj Rimskij-korsakov|Teatro alla Scala
+MASSIMILIANO DI FINO|"Csarskaja Nevesta" ( sposa per lo Zar)|Daniel Barenboim|Dmitri Tcherniakov|Nikolaj Rimskij-korsakov|Teatro alla Scala|Un giovane
+tag|Daniel Barenboim|17
+tag|Guy Cassiers|13
+tag|Milano, Teatro alla Scala|13
+tag|"Die Walküre"|13

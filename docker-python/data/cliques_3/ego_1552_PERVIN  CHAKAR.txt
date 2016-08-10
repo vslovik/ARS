@@ -1,0 +1,16 @@
+MAGDALENA ANNA  HOFFMANN|"Lulu"|-|Daniele Gatti|Peter Stein|Teatro alla Scala|Uno studente/Gromm
+BERTRAM  KLAMP|"Lulu"|-|Daniele Gatti|Peter Stein|Teatro alla Scala|Un domestico
+LAURA  AIKIN|"Lulu"|-|Daniele Gatti|Lulu|Peter Stein|Teatro alla Scala
+CLAUDIA  BANDERA|"Lulu"|-|Daniele Gatti|Peter Stein|Teatro alla Scala|Un’arredatrice
+RUDOLF  ROSEN|"Lulu"|-|Daniele Gatti|Peter Stein|Teatro alla Scala|Un domatore/un atleta
+ROMINA  TOMASONI|"Lulu"|-|Daniele Gatti|Peter Stein|Sua madre|Teatro alla Scala
+PERVIN  CHAKAR|"Lulu"|-|Daniele Gatti|Peter Stein|Teatro alla Scala|Una quindicenne
+STEPHEN  WEST|"Lulu"|-|Daniele Gatti|Dottor Schon/Jack|Peter Stein|Teatro alla Scala
+FRANZ  MAZURA|"Lulu"|-|Daniele Gatti|Peter Stein|Schigolch/un clown|Teatro alla Scala
+GIOVANNI  LUCINI|"Lulu"|-|Commissario di polizia|Daniele Gatti|Peter Stein|Teatro alla Scala
+VALDIS  JANSONS|"Lulu"|-|Daniele Gatti|Peter Stein|Teatro alla Scala|Un giornalista
+NATASCHA  PETRINSKY|"A midsummer night's dream"|"Götterdämmerung"|"Lulu"|-|Contessa Geschwitz/ Una guardarobiera del teatro|Daniele Gatti|Hippolyta|Jeffrey Tate|Peter Stein|Robert Carsen|Sir Andrew Davis|Teatro alla Scala|Venezia, Teatro La Fenice|Waltraute
+tag|Peter Stein|12
+tag|"Lulu"|12
+tag|Daniele Gatti|12
+tag|Teatro alla Scala|12

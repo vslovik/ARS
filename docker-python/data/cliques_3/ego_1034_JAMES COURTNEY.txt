@@ -1,0 +1,25 @@
+KYLE PFORTMILLER|"La Traviata"|-|Gianandrea Noseda|Giuseppe Verdi|Marchese D'Obigny|Met|New York, Metropolitan Opera|Willy Decker|Yannick Nézet-séguin|“La Traviata”
+JASON STEARNS|"La Traviata"|-|Barone Douphol|Gianandrea Noseda|Giuseppe Verdi|Met|New York, Metropolitan Opera|Willy Decker|Yannick Nézet-séguin|“La Traviata”
+MARIA ZIFCHAK|"La Traviata"|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|"Parsifal"|"Rigoletto"|-|Annina|Antony Walker,Marco Armiliato,Fabio Luisi|Asher Fisch|David Mcvicar,Mark Morris,Otto Schenk|François Girard|Gianandrea Noseda|Giovanna|Giuseppe Verdi|Giuseppe Verdi,Christoph Willibald Gluck|Ines|Met|Metropolitan Opera|Michele Mariotti|New York, Metropolitan|New York, Metropolitan Opera|Una voce|Willy Decker|Yannick Nézet-séguin|“La Traviata”
+SCOTT SCULLY|"Carmen"|"La Traviata"|-|Edward Gardner|Gastone|Gastone, Visconte de Letorières|Georges Bizet|Gianandrea Noseda|Giuseppe Verdi|Le Remendado|Met|New York, Metropolitan Opera|Richard Eyre|Willy Decker|Yannick Nézet-séguin|“La Traviata”
+PLÁCIDO DOMINGO|"Cyrano de Bergerac"|"I due Foscari"|-|Cyrano|Francesco Foscari|Franco Alfano|Giorgio Germont|Giuseppe Verdi|Halvis Hermanis|Madrid, Teatro Real|Met|Michele Mariotti|Milano, Teatro alla Scala|Pedro Halffter|Petrika Ionesco|Yannick Nézet-séguin|“La Traviata”
+JAMIE BARTON|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Seconda Dama|Wolfgang Amadeus Mozart
+TAMARA MUMFORD|"Das Rheingold"|"The magic flute"|-|Erik Nielsen|Fabio Luisi|Flosshilde|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|Robert Lepage|Terza Dama|Wolfgang Amadeus Mozart
+ALAN OKE|"Billy Budd"|"The magic flute"|Andrea Battistoni|Benjamin Britten|Davide Livermore|Edward Fairfax Vere|Erik Nielsen|Genova, Teatro Carlo Felice|Julie Taymor|Monostato|NYC, Metropolitan Opera|Wolfgang Amadeus Mozart
+MORRIS ROBINSON|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Sarastro|Wolfgang Amadeus Mozart
+RUSSELL THOMAS|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Tamino|Wolfgang Amadeus Mozart
+NOAH SADIK|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Primo fanciullo|Wolfgang Amadeus Mozart
+JAMES COURTNEY|"The magic flute"|-|Dr. Grenvil|Erik Nielsen|Giuseppe Verdi|Julie Taymor|Met|NYC, Metropolitan Opera|Primo Sacerdote|Wolfgang Amadeus Mozart|Yannick Nézet-séguin|“La Traviata”
+NATHAN GUNN|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Papageno|Wolfgang Amadeus Mozart
+WENDY BRYN HARMER|"Das Rheingold"|"Die Walküre"|"Götterdämmerung"|"The magic flute"|-|Charles Tim Buck,Asher Fisch|Erik Nielsen|Fabio Luisi|Freia|Gerhilde|Gutrune|James Levine|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|NYC, The Metropolitan Opera|Ortlinde|Prima Dama|Robert Lepage|Seattle|Stephen Wadsworth|Wolfgang Amadeus Mozart|un "Ring" che avrebbe reso Wagner orgoglioso
+SUSANNA PHILLIPS|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Pamina|Wolfgang Amadeus Mozart
+ASHLEY EMERSON|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Papagena|Wolfgang Amadeus Mozart
+PATRICIA RISLEY|-|Flora Bervoix|Giuseppe Verdi|Met|Yannick Nézet-séguin|“La Traviata”
+BERNARD FITCH|"Capriccio"|"The magic flute"|Andrew Davis|Erik Nielsen|John Cox|Julie Taymor|Metropolitan Opera|Monsieur Taupe|NYC, Metropolitan Opera|Richard Strauss|Secondo Sacerdote|Wolfgang Amadeus Mozart
+NEEL RAM NAGARAJAN|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Secondo fanciullo|Wolfgang Amadeus Mozart
+DIANA DAMRAU|"Lucia di Lammermoor"|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|"Rigoletto"|-|Antony Walker,Marco Armiliato,Fabio Luisi|Bilbao|Carlo Montanaro|David Mcvicar,Mark Morris,Otto Schenk|Emilio Sagi|Gaetano Donizetti|Gilda|Giuseppe Verdi|Giuseppe Verdi,Christoph Willibald Gluck|Lucia Ashton|Mary Zimmerman|Met|Metropolitan Opera|Michele Mariotti|Miss Lucia|Stefano Ranzani|Teatro alla Scala di Milano|Violetta Valéry|Yannick Nézet-séguin|“La Traviata”
+tag|"The magic flute"|13
+tag|Erik Nielsen|13
+tag|NYC, Metropolitan Opera|13
+tag|Julie Taymor|13
+tag|Wolfgang Amadeus Mozart|13

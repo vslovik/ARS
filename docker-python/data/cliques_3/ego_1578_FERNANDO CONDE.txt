@@ -1,0 +1,19 @@
+ANTONIO TORRES|"Los sobrinos del Capitan Grant"|Jaime|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Paco Mir
+XAVI MIRA|"Los sobrinos del Capitan Grant"|Escolástico|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Paco Mir
+PEPIN TRE|"Los sobrinos del Capitan Grant"|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Mesonero / Soldado / Ciego /Pescador /Alemán|Paco Mir
+ABEL GARCÍA|"Los sobrinos del Capitan Grant"|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Marinero / General / Posadero /Nept Uno / Maorí|Paco Mir
+MILLAN SALCEDO|"Los sobrinos del Capitan Grant"|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Mochila|Paco Mir
+MARIA REY-JOLY|"Los sobrinos del Capitan Grant"|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Miss Ketty|Paco Mir
+MARIBEL LARA|"Los sobrinos del Capitan Grant"|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Paco Mir|Señora Encarna / Pescadora
+ANA SANTAMARINA*|"Los sobrinos del Capitan Grant"|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Paco Mir|Portera
+RICHARD COLLINS-MOORE|"Los sobrinos del Capitan Grant"|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Paco Mir|Sir Clyron
+INMA OCHOA|"Los sobrinos del Capitan Grant"|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Paco Mir|Señora Trinidad / Moza
+XAVIER RIBERA-VALL|"Los sobrinos del Capitan Grant"|Contramaestre / Comandante /Capitán Grant|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Paco Mir
+FERNANDO CONDE|"Los sobrinos del Capitan Grant"|Doctor Mirabel|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Paco Mir
+MAR ABASCAL|"Los sobrinos del Capitan Grant"|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Paco Mir|Soledad
+SARAH QUIST|"Los sobrinos del Capitan Grant"|Jose Miguel Perez-sierra|Madrid, Teatro de la Zarzuela|Manuel Fernández Caballero|Paco Mir|Solista de Jazz (Maorí)
+tag|Manuel Fernández Caballero|14
+tag|Paco Mir|14
+tag|Jose Miguel Perez-sierra|14
+tag|Madrid, Teatro de la Zarzuela|14
+tag|"Los sobrinos del Capitan Grant"|14

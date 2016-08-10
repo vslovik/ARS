@@ -1,0 +1,23 @@
+ANTOINETTE DENNEFELD|"Cléopâtre"|"Il barbiere di Siviglia"|"L'amour des trois oranges"|-|Alessandro D’agostini|Alessandro Talevi|Charles Roubaud|Charmion|Damiano Michieletto|Gioachino Rossini|Jules Massenet|Juraj Valčuha|Lawrence Foster|Marsiglia, Opéra Municipal|Nicolette|Opera di Firenze|Rosina
+BÉATRICE URIA-MONZON|"Cléopâtre"|"La Favorite"|-|Charles Roubaud|Cléopâtre|Jacques Lacombe|Jules Massenet|Lawrence Foster|Léonor de Guzman|Marsiglia, Opéra Municipal|Monaco (Monte-Carlo)
+JEAN-MARIE DELPAS|"Carmen"|"Cléopâtre"|"Otello"|"Roberto Devereux"|-|Alain Guingal|Charles Roubaud|Friedrich Pleyer|Gaetano Donizetti|Georges Bizet|Giuliano Carella|Giuseppe Verdi|Jean-philippe Delavault|Jules Massenet|Lawrence Foster|Lodovico|Marsiglia, Opéra Municipal|Nadine Duffaut|Opéra de Marseille|Opéra di Marsiglia|Opéra di Toulon|Sir Gualtiero Raleigh / un famigliare|Sévérus|Zuniga
+THOMAS MORRIS|"Candide"|"Der Vampyr"|"Evgenij Onegin"|"Les dialogues des Carmélites"|-|Bologna, Teatro Comunale|Bruno Bartoletti|Heinrich August Marschner|Hindemith e Ravel aprono la stagione lirica|Il saggio|James Gadshill|Jean-philippe Clarac|Le premier commissaire|Leonard Bernstein|Lorenzo Mariani|Mariusz Treliński|Maurice Ravel,Paul Hindemith|Opéra di Toulon|Pier Luigi Pizzi|Questo|Roberto Abbado|Roma, Teatro dell'Opera|Serge Baudo|Sultan Achmet, Crook|Teatro Delle Muse di Ancona|Triquet|Wayne Marshall
+THIERRY HANIER|"Les dialogues des Carmélites"|-|Jean-philippe Clarac|Opéra di Toulon|Serge Baudo|Thierry
+STANISLAS DE BARBEYRAC|"Les dialogues des Carmélites"|"Tannhäuser"|-|Jean-philippe Clarac|Le chevalier de la Force|Opéra di Toulon|Parigi, Opéra Bastille|Robert Carsen|Serge Baudo|Sir Mark Elder|Walther von der Vogelweide
+SOPHIE FOURNIER|"Les dialogues des Carmélites"|-|Jean-philippe Clarac|Mère Marie de l'incarnation|Opéra di Toulon|Serge Baudo
+LAURENT ALVARO|"Cyrano de Bergerac"|"La muette de Portici"|"Les dialogues des Carmélites"|-|Daniel-françois-esprit Auber|Emma Dante|Franco Alfano|Jean-philippe Clarac|Le Marquis de la Force|Madrid, Teatro Real|Opéra di Toulon|Parigi, Opéra Comique|Patrick Davin|Pedro Halffter|Petrika Ionesco|Pietro|Ragueneau|Serge Baudo
+LUCA LOMBARDO|"Carmen"|"Cléopâtre"|"I Puritani” di Bellini|-|Charles Roubaud|Don José|Georges Bizet|Jules Massenet|Laurent Pelly|Lawrence Foster|Marsiglia, Opéra Municipal|Michele Mariotti|Nader Abbassi|Nicolas Joël|Opéra di Marsiglia|Sir Bruno Robertson|Spakos|’Opéra Bastille
+KIMY MCLAREN|"Cléopâtre"|Charles Roubaud|Jules Massenet|Lawrence Foster|Marsiglia, Opéra Municipal|Octavie
+NADINE DENIZE|"Les dialogues des Carmélites"|-|Jean-philippe Clarac|Madame de Croissi|Opéra di Toulon|Serge Baudo
+PHILIPPE ERMELIER|"Cléopâtre"|"Les dialogues des Carmélites"|-|Charles Roubaud|Ennius|Jean-philippe Clarac|Jules Massenet|Lawrence Foster|Le second commissaire/Un officier/Le geôlier|Marsiglia, Opéra Municipal|Opéra di Toulon|Serge Baudo
+OLIVIER DUMAIT|"Les dialogues des Carmélites"|-|Jean-philippe Clarac|L'Aumônier|Opéra di Toulon|Serge Baudo
+JEAN-FRANCOIS VERDOUX|"Les dialogues des Carmélites"|-|Docteur Javelinot|Jean-philippe Clarac|Opéra di Toulon|Serge Baudo
+VIRGINIE POCHON|"Les dialogues des Carmélites"|-|Constance de Saint-Denis|Jean-philippe Clarac|Opéra di Toulon|Serge Baudo
+JEAN-FRANÇOIS LAPOINTE|"Cléopâtre"|"Le comte Ory"|Charles Roubaud|Frédéric Bélier-garcia|Gioachino Rossini|Jules Massenet|Lawrence Foster|Marc Antoine|Marsiglia, Opéra Municipal|Opéra di Marsiglia|Rimbaud|Roberto Rizzi Brignoli
+ROSEMUNDE BRUNO LA ROTONDA|"Les dialogues des Carmélites"|-|Jean-philippe Clarac|Opéra di Toulon|Serge Baudo|Soeur Mathilde
+SYLVIA GIGLIOTTI|"Les dialogues des Carmélites"|-|Jean-philippe Clarac|Mère Jeanne|Opéra di Toulon|Serge Baudo
+ANGELES BLANCAS|"Les dialogues des Carmélites"|-|Jean-philippe Clarac|Madame Lidoine|Opéra di Toulon|Serge Baudo
+tag|Opéra di Toulon|14
+tag|"Les dialogues des Carmélites"|13
+tag|Jean-philippe Clarac|13
+tag|Serge Baudo|13

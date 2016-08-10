@@ -1,0 +1,31 @@
+GÜNTHER GROISSBÖCK|"Boris Godunov"|"Tannhäuser"|-|Bayreuther Festspiele|Boris Godunov|Christian Thielemann|Hartmut Haenchen|Johan Simons|Landgraf Hermann|Madrid, Teatro Real
+ARNOLD BEZUYEN|"Das Rheingold"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Fabio Luisi|Heinrich der Schreiber|Loge|Metropolitan Opera|Robert Lepage
+LOTHAR ODINIUS|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Walther von der Vogelweide
+MICHAEL NAGY|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Wolfram von Eschenbach
+KATJA STUBER|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Ein junger Hirt
+CAMILLA NYLUND|"Rusalka"|"Tannhäuser"|-|Andrew Davis|Antonin Dvořák|Barcellona, Gran Teatre del Liceu|Bayreuther Festspiele|Christian Thielemann|Elisabeth, Nichte des Landgrafen|Rusalka|Stefan Herheim
+MARTIN SNELL|"Der Rosenkavalier"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Ein Notar|Herbert Wernicke,Alejandro Stadler|Milano, Teatro alla Scala|Philippe Jordan|Reinmar von Zweter|Richard Strauss
+STEFAN MARGITA|"Boris Godunov"|Hartmut Haenchen|Il principe Sujskij|Johan Simons|Madrid, Teatro Real
+ALINA YAROVAYA|"Boris Godunov"|Hartmut Haenchen|Johan Simons|Ksneija|Madrid, Teatro Real
+RODRIGO ÁLVAREZ|"Boris Godunov"|Chernikovski|Hartmut Haenchen|Johan Simons|Madrid, Teatro Real
+JOHN EASTERLIN|"Boris Godunov"|"Lady Macbeth del distretto di Mzesnk"|Dimitrij Sostakovic|Francesco Cavalli|Gotham Chamber Opera|Hartmut Haenchen|James Marvel|James Marvel,Neal Goren|Johan Simons|Lenia|Madrid, Teatro Real|Martin Kušej|Misaíl|Un balordo|“Eliogabalo”
+MICHAEL KÖNIG|"Boris Godunov"|"Fidelio"|"Lady Macbeth del distretto di Mzesnk"|"Saint-Francois d'Assise"|-|Bert Neumann|Dimitrij Sostakovic|Florestan|Giuseppe Frigeni|Grigorij (il falso Dimitrij)|Hartmut Haenchen|Johan Simons|Jossi Wieler, Sergio Morabito|Le Lépreux|Madrid, Teatro Real|Martin Kušej|Sergej|Staatsoper Stuttgart|Sylvain  Cambreling
+MICHELLE BREEDT|"Rusalka"|"Tannhäuser"|-|Antonìn Dvoràk|Bayreuther Festspiele|Christian Thielemann|Denis Krief|Eivind Gullberg Jensen|La Principessa Straniera|Teatro dell'Opera di Roma|Venus
+TOMEU BIBILONI|"Boris Godunov"|"Pelléas et Mélisande"|-|Claude Debussy|David Mcvicar|Hartmut Haenchen|Il Boiardo Kruschov|Il conte di Ceprano|Johan Simons|Madrid, Teatro Real|Nicola Luisotti,Justin Way|Pastore|Robert Wilson|Sylvain Cambreling|Teatro Real di  Madrid|“Rigoletto”
+ANATOLI KOTSCHERGA|"Boris Godunov"|"Don Giovanni"|Alejo Pérez|Dmitri Tcherniakov|Hartmut Haenchen|Il Commendatore|Johan Simons|Madrid, Teatro Real|Varlaam|Wolfgang Amadeus Mozart
+EVGENY NIKITIN|"Boris Godunov"|"Parsifal"|-|Asher Fisch|Claus Guth,Anja Kampe|François Girard|Hartmut Haenchen|Johan Simons|Klingsor|Madrid, Teatro Real|New York, Metropolitan|Rangoni|Semyon Bychkov|“Parsifal”
+DMITRY ULYANOV|"Boris Godunov"|Hartmut Haenchen|Johan Simons|Madrid, Teatro Real|Pimen
+JORCAM|"Boris Godunov"|-|Hartmut Haenchen|Johan Simons|Laurent Pelly|Madrid, Teatro Real|Paul Daniel|Pequeños Cantores de la|Teatro Real di Madrid|“Hänsel und Gretel”
+KÁROLY SZEMERÉDY|"Boris Godunov"|Hartmut Haenchen|Johan Simons|Madrid, Teatro Real|Nikitich
+FERNANDO RADÓ|"Boris Godunov"|-|David Mcvicar|Giuseppe Verdi|Hartmut Haenchen|Il conte di Monterone|Il dottor Grenvil|Johan Simons|Madrid, Teatro Real|Mitiushka|Nicola Luisotti,Justin Way|Renato Palumbo|Teatro Real di  Madrid|Teatro Real di Madrid|“La Traviata”|“Rigoletto”
+PILAR VÁZQUEZ|"Boris Godunov"|"Der fliegende Holländer”|"Die Walküre"|-|David Afkham|Firenze, Teatro Comunale|Gran Teatre del Liceu di Barcelona|Hartmut Haenchen|Johan Simons|Josep Pons|L'ostessa|La Fura Dels Baus (carlus Padrissa)|Madrid, Teatro Real|Mary|Richard Wagner|Robert Carsen|Seconda Norna|Waltraute|Zubin Mehta|’Auditorio Nacional di Madrid|“Götterdämmerung”
+ANDREY POPOV|"Boris Godunov"|Hartmut Haenchen|Johan Simons|L'innocanete|Madrid, Teatro Real
+MARGARITA NEKRASOVA|"Boris Godunov"|Hartmut Haenchen|Johan Simons|La nutrice di Ksenija|Madrid, Teatro Real
+TORSTEN KERL|"Der fliegende Holländer”|"Die Walküre"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|David Afkham|Deutsche Oper Berlin|Donald Runnicles|Erik|Firenze, Teatro Comunale|Gotz Friedrich|La Fura Dels Baus (carlus Padrissa)|Siegmund|Tannhäuser|Zubin Mehta|’Auditorio Nacional di Madrid
+JULIA GERTSEVA|"Boris Godunov"|"L'amour des trois oranges"|"Un ballo in maschera"|-|Alessandro Talevi|Camille Saint-saëns|Comunale di Bologna|Dalila|Eimuntas Nekrosius|Eliahu Inbal|Giuseppe Verdi|Hartmut Haenchen|Johan Simons|Juraj Valčuha|La Princesse Clarice|Madrid, Teatro Real|Marina Mnisek|Marina Mniszech|Massimo Gasparon|Massimo Zanetti|Michal Znaniecki|Opera di Firenze|Parma, Teatro Regio|Samson et Dalila|Ulrica|Venezia, Teatro La Fenice
+ÁNGEL RODRÍGUEZ|"Ainadamar"|"Boris Godunov"|Alejo Pérez|Hartmut Haenchen|Johan Simons|Lavickij|Madrid, Tearo Real|Madrid, Teatro Real|Osvaldo Golijov|Peter Sellars|Un torero
+ANTONIO LOZANO|"Boris Godunov"|-|Aminta|Da Lorca a Sotelo|Emilio Sagi|Evelino Pidò|Hartmut Haenchen|Hombre tercero / Caballo negro / Pastor bobo|Il Pergolesi Spontini Festival|Jesi ossia "L’Olimpiade" di G. B. Pergolesi|Johan Simons|Lothar Koenigs|Madrid, Teatro Real|Pablo Heras-casado|Robert Castro|Romeo Castellucci|Sir Bruno Robertson|Teatro Real di Madrid|Un Boiardo|Un giovane uomo|prima mondiale di “El Público” a Madrid|“I Puritani”|“Moses und Aron”
+tag|Madrid, Teatro Real|19
+tag|Johan Simons|19
+tag|Hartmut Haenchen|19
+tag|"Boris Godunov"|19

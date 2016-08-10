@@ -1,0 +1,32 @@
+NICOLE PICCOLOMINI|"Die Walküre"|-|Daniel Barenboim|Deutsche Oper Berlin|Donald Runnicles|Gotz Friedrich|Gringerde|Guy Cassiers|Milano, Teatro alla Scala|Schwertleite
+DANIELLE HALBWACHS|"Die Walküre"|-|Daniel Barenboim|Gerhilde|Guy Cassiers|Milano, Teatro alla Scala
+EKATERINA GUBANOVA|"Die Walküre"|-|Daniel Barenboim|Eboli|Fabio Luisi|Firenze, Teatro del Maggio Musicale Fiorentino|Fricka|Giuseppe Verdi|Guy Cassiers|La principessa Eboli|Milano, Teatro alla Scala|Stéphane Braunschweig|Zubin Mehta|“Don Carlo”
+BRYN TERFEL|"Das Rheingold"|"Der fliegende Holländer”|"Die Walküre"|-|Andreas Homoki|Daniel Harding|David Afkham|Der Holländer|Deutsche Oper Berlin|Donald Runnicles|Fabio Luisi|Giuseppe Verdi|Gotz Friedrich|Hartmut Haenchen|James Levine|Metropolitan Opera|Richard Wagner|Robert Carsen|Robert Lepage|Sir John Falstaff|Wotan|’Auditorio Nacional di Madrid
+DANIELA SINDRAM|"Die Walküre"|"Les contes d'Hoffmann"|"The Turn of the Screw"|-|Benjamin Britten|David Mcvicar|Deutsche Oper Berlin|Donald Runnicles|Fricka|Gotz Friedrich|Jacques Offenbach|Josep Pons|La Muse, Nicklausse|Madrid,Teatro Real|Marko Letonja|Milano, Teatro alla Scala|Miss Jessel|Robert Carsen
+JOHN TOMLINSON|"Der Rosenkavalier"|"Die Walküre"|-|Daniel Barenboim|David Mcvicar|Edward Gardner|Guy Cassiers|Hunding|Il Barone Ochs|Londra, English National Opera|Milano, Teatro alla Scala|Richard Strauss
+SUSAN FOSTER|"Die Walküre"|-|Daniel Barenboim|Guy Cassiers|Helmwige|Milano, Teatro alla Scala
+SIMONE SCHRÖEDER|"Die Walküre"|-|Daniel Barenboim|Guy Cassiers|Milano, Teatro alla Scala|Rossweisse
+ULRIKE HELZEL|"Die Walküre"|-|Accademia Nazionale di Santa Cecilia|Deutsche Oper Berlin|Donald Runnicles|Fricka|Gotz Friedrich|Kirill Petrenko|Waltraute|“Das Rheingold”
+ATTILA JUN|" Götterdämmerung"|"Die Walküre"|"Norma"|"Parsifal"|"Siegfried"|"Tristan und Isolde"|-|Calixto Bieito|Deutsche Oper Berlin|Donald Runnicles|Fafner|Giuseppe Verdi|Gotz Friedrich|Gurnemanz|Hagen|Hunding|Ivan Anguélov|Jossi Wieler|Jossi Wieler, Sergio Morabito|Koenig Marke|König Marke|Magia|Marc Soustrot|Markus Dietz|Myung-whun Chung|Oroveso|Paul Curran|Peter Konwitschny|Staatsoper Stuttgart|Sylvain Cambreling|Thomas Søndergård|Vincenzo Bellini|Wurm|filtro, magia di Chung
+SIMON O'NEILL|"Die Walküre"|-|Daniel Barenboim|Guy Cassiers|Milano, Teatro alla Scala|Siegmund
+LEANN SANDEL-PANTALEO|"Die Walküre"|-|Daniel Barenboim|Guy Cassiers|Milano, Teatro alla Scala|Siegrune
+IVONNE FUCHS|"Die Walküre"|-|Daniel Barenboim|Guy Cassiers|Milano, Teatro alla Scala|Waltraute
+VITALIJ KOWALJOW|"Die Walküre"|"Nabucco"|-|Ancora “Nabucco”|Daniel Barenboim|Daniele Abbado|Gianfranco De Bosio|Giuseppe Verdi|Guy Cassiers|Julian Kovatchev|Milano, Teatro alla Scala|Nicola Luisotti|Wotan|Zaccaria|’Arena di Verona
+CAROLA HÖHN|"Csarskaja Nevesta" ( sposa per lo Zar)|"Die Walküre"|-|Daniel Barenboim|Dmitri Tcherniakov|Guy Cassiers|Milano, Teatro alla Scala|Nikolaj Rimskij-korsakov|Ortlinde|Petrovna|Teatro alla Scala
+CLEMENTINE MARGAINE|"Die Walküre"|"Tancredi"|-|Alberto Zedda|Berlino, Deutsche Oper|Deutsche Oper Berlin|Donald Runnicles|Gioachino Rossini|Gotz Friedrich|Gringerde|Isaura|Pier Luigi Pizzi
+ANAIK MOREL|"Die Walküre"|"Rigoletto"|-|Daniel Barenboim|Giuseppe Verdi|Guy Cassiers|Jossi Wieler, Sergio Morabito|Maddalena|Milano, Teatro alla Scala|Schwertleite|Staatsoper Stuttgart|Sylvain Cambreling
+WALTRAUD MEIER|"Die Walküre"|"Elektra"|"Wozzeck"|-|Daniel Barenboim|Guy Cassiers|James Levine|Klytämnestra|Maestro Del Coro|Marie|Mark Lamos|Metropolitan Opera|Milano, Teatro alla Scala|Patrice Ch|Richard Strauss|Sieglinde|Teatro alla Scala di Milano
+REBECCA TEEM|"Die Walküre"|-|Deutsche Oper Berlin|Donald Runnicles|Gerhilde|Gotz Friedrich
+ELAINE MCKRILL|"Die Walküre"|-|Deutsche Oper Berlin|Donald Runnicles|Gotz Friedrich|Helmwige
+MARTINA WELSCHENBACH|"Die Walküre"|-|Deutsche Oper Berlin|Donald Runnicles|Gotz Friedrich|Ortlinde
+JULIA BENZINGER|"Die Walküre"|-|Deutsche Oper Berlin|Donald Runnicles|Gotz Friedrich|Rossweisse
+HEIDI MELTON|"Die Walküre"|-|Deutsche Oper Berlin|Donald Runnicles|Gotz Friedrich|Sieglinde
+TORSTEN KERL|"Der fliegende Holländer”|"Die Walküre"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|David Afkham|Deutsche Oper Berlin|Donald Runnicles|Erik|Firenze, Teatro Comunale|Gotz Friedrich|La Fura Dels Baus (carlus Padrissa)|Siegmund|Tannhäuser|Zubin Mehta|’Auditorio Nacional di Madrid
+ROSWITHA C.MULLER|"Die Walküre"|-|Deutsche Oper Berlin|Donald Runnicles|Gotz Friedrich|Siegrune
+tag|"Die Walküre"|25
+tag|Milano, Teatro alla Scala|14
+tag|Deutsche Oper Berlin|13
+tag|Daniel Barenboim|13
+tag|Donald Runnicles|13
+tag|Gotz Friedrich|13
+tag|Guy Cassiers|13

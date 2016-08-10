@@ -1,0 +1,39 @@
+ITXARO MENTXAKA|"Elektra"|"Roméo et Juliette"|Arnaud Bernard|Bilbao, Palacio Euskalduna|Charles Gounod|Die Vertraute|Gertrude|Josep Caballé-domenech|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov
+MEREDITH HANSEN|"Fidelio"|Boston Opera|Gil Rose|Ludwig Van Beethoven|Marzelline|Thaddeus Strassberger
+ANDREW FUNK|"Fidelio"|Boston Opera|Gil Rose|Ludwig Van Beethoven|Rocco|Thaddeus Strassberger
+JASON FERRANTE|"Fidelio"|Boston Opera|Gil Rose|Jaquino|Ludwig Van Beethoven|Thaddeus Strassberger
+CHRISTINE GOERKE|"Ariadne auf Naxos"|"Elektra"|"Fidelio"|-|Boston Opera|Elektra|Gil Rose|Klaus Michael Grüber|Leonore|Ludwig Van Beethoven|Madrid, Teatro Real|Prima Donna / Ariadne|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Semyon Bychkov|Thaddeus Strassberger
+SCOTT BEARDEN|"Fidelio"|Boston Opera|Don Pizarro|Gil Rose|Ludwig Van Beethoven|Thaddeus Strassberger
+MICHAEL HENDRICK|"Fidelio"|Boston Opera|Florestan|Gil Rose|Ludwig Van Beethoven|Thaddeus Strassberger
+SANDRA FERRÁNDEZ|"Elektra"|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov|Vierte Magd
+SAMUEL YOUN|"Elektra"|"Salome"|Gran Teatre del Liceu di Barcelona|Gunther|Jochanaan|Josep Pons|Klaus Michael Grüber|Madrid, Teatro Real|Manfred Schweigkofler|Modena, Teatro Comunale|Niksa Bareza|Orest|Richard Strauss|Richard Wagner|Robert Carsen|Semyon Bychkov|“Götterdämmerung”
+PABLO OYANEDEL|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Un lacchè
+SILVIA DE LA MUELA|"Elektra"|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov|Zweite Magd
+JASON BRIDGES|"Elektra"|Ein junger diener|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov
+GUSTAVO GIBERT|"Elektra"|Ein alter diener|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov
+JANE HENSCHEL|"Candide"|"Elektra"|"Salome"|Fabio Luisi|Herodias|Klaus Michael Grüber|Klytämnestra|Leonard Bernstein|Lorenzo Mariani|Madrid, Teatro Real|Richard Strauss|Roma, Teatro dell'Opera|Rosetta Cucchi|Semyon Bychkov|Teatro Carlo Felice di Genova|The Old Lady|Wayne Marshall
+ANNETT FRITSCH|"Elektra"|Fünfte Magd|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov
+GUNDULA SCHNEIDER|"Ariadne auf Naxos"|-|Il compositore|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal
+ROMANUS FUHRMANN|"Ariadne auf Naxos"|-|Il maggiordomo|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal
+ANDREA AGUILAR|"Ariadne auf Naxos"|-|Echo|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal
+PATRICIO SABATÉ|"Ariadne auf Naxos"|-|Harlekin|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal
+RICHARD COX|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Tenore / Bacchus
+DAVID GÁEZ|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Truffaldin
+LEONARDO NEIVA|"Ariadne auf Naxos"|"Rienzi"|-|Cecco del Vecchio|Il professore di musica|Jorge Lavelli|Pinchas Steinberg|Rani Calderón|Richard Strauss|Richard Wagner|Santiago del Cile, Teatro Municipal|Toulouse, Théâtre du Capitole
+GONZALO ARAYA|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Scaramuccio
+PAMELA FLORES|"Alcina"|"Ariadne auf Naxos"|-|Eduardo Browne|Georg Friedrich Handel|Marcelo Lombardero|Morgana|Naiade|Rani Calderón|Richard Strauss|Santiago del Cile,  Teatro Municipal|Santiago del Cile, Teatro Municipal
+PABLO JIMÉNEZ|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Un parrucchiere
+EKATERINA LEKHINA|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Zerbinetta
+CLAUDIO FERNÁNDEZ|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Un soldato
+EVELYN RAMÍREZ|"Ariadne auf Naxos"|-|Driade|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal
+LETITIA SINGLETON|"Elektra"|"Iolanta" e "Perséphone"|Dritte Magd|Klaus Michael Grüber|Laura|Madrid, Teatro Real|Madrid, Teatro Réal|Peter Sellars|Pëtr Il’ic Cajkovskij,Igor Stravinskij|Richard Strauss|Semyon Bychkov|Teodor Currentzis
+MANUELA UHL|"Elektra"|"Rienzi"|Chrysothemis|Hugo De Ana|Irene|Klaus Michael Grüber|Madrid, Teatro Real|Opera di Roma|Richard Strauss|Richard Wagner|Semyon Bychkov|Stefan Soltesz
+SVETLA KRASTEVA|"Elektra"|Die Aufseherin|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov
+tag|Richard Strauss|26
+tag|Santiago del Cile, Teatro Municipal|15
+tag|Rani Calderón|15
+tag|"Ariadne auf Naxos"|15
+tag|"Elektra"|12
+tag|Madrid, Teatro Real|12
+tag|Klaus Michael Grüber|12
+tag|Semyon Bychkov|12

@@ -1,0 +1,22 @@
+ELISSA HUBER|"L’heure espagnole" '-- "L’enfant et les sortilèges"|La chouette|Laurent Pelly|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala
+LAURENT NAOURI|"Der Rosenkavalier"|"Les contes d'Hoffmann"|"Médée"|"Pelléas et Mélisande"|Claude Debussy|Créon|Emmanuelle Haïm|Faninal|Golaud|Herbert Wernicke|Jacques Offenbach|Jeffrey Tate|Lindorf, Coppelius, Dapertutto, Miracle|Madrid, Teatro Real|Madrid,Teatro Real|Marc-antoine Charpentier|Marko Letonja|Milano, Teatro alla Scala|Parigi, Théâtre des Champs Elysées|Pierre Audi|Richard Strauss|Robert Carsen|Robert Wilson|Sylvain Cambreling
+FATMA SAID|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Laurent Pelly|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala|Une pastourelle
+ANNA DEVIN|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Laurent Pelly|Maman, la tasse chinoise, la libellule|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala
+ARMELLE KHOURDOÏAN|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Laurent Pelly|Le feu, la princesse, le rossignol|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala
+JERÔME VARNIER|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Laurent Pelly|Le fauteuil, un arbre|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala
+MARIANNE CREBASSA|"Lulu"|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Alban Berg|Die Kunstgewerblerin|Laurent Pelly|L’enfant|Marc Minkowski|Maurice Ravel|Michael Schonwandt|Milano, Teatro alla Scala|Parigi, Opéra Bastille|Willy Decker
+CAMILLA TILLING|"Pelléas et Mélisande"|"Saint-Francois d'Assise"|-|Claude Debussy|Giuseppe Frigeni|L'Ange|Madrid, Teatro Real|Mélisande|Robert Wilson|Sylvain Cambreling|Sylvain  Cambreling
+CHIARA TIROTTA|"La Cenerentola"|"La cena delle beffe"|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Carlo Rizzi|Gioachino Rossini|Laldomine|Laurent Pelly|Marc Minkowski|Mario Martone|Maurice Ravel|Milano, Teatro alla Scala|Paolo Panizza|Sebastiano Rolli|Tisbe|Umberto Giordano|Un pâtre|Verona, Teatro Filarmonico
+YANN BEURON|"La Vestale"|"La clemenza di Tito"|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Bruxelles, Théâtre La Monnaie|Eric Lacascade|Gaspare Spontini|Gonzalve|Laurent Pelly|Licinius|Madrid, Teatro Real|Marc Minkowski|Martino Faggiani,Alessandro De Marchi,Benoît Giaux|Maurice Ravel|Milano, Teatro alla Scala|Thomas Hengelbrock|Tito|Ursel|Wolfgang Amadeus Mozart
+STÉPHANIE D’OUSTRAC|"Le comte Ory"|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Frédéric Bélier-garcia|Gioachino Rossini|Isolier|La chatte, l’écureuil|Laurent Pelly|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala|Opéra di Marsiglia|Roberto Rizzi Brignoli
+TOMEU BIBILONI|"Boris Godunov"|"Pelléas et Mélisande"|-|Claude Debussy|David Mcvicar|Hartmut Haenchen|Il Boiardo Kruschov|Il conte di Ceprano|Johan Simons|Madrid, Teatro Real|Nicola Luisotti,Justin Way|Pastore|Robert Wilson|Sylvain Cambreling|Teatro Real di  Madrid|“Rigoletto”
+HILARY SUMMERS|"Dido and Aeneas"|"Pelléas et Mélisande"|"Semele"|-|Claude Debussy|Deborah Warner|Diego Fasolis|Geneviève|Georg Friedrich Handel|Henry Purcell|Juno|La Maga|Madrid, Teatro Real|Parigi, Opéra Comique|Parigi, Salle Pleyel|Robert Wilson|Sylvain Cambreling|William Christie
+VINCENT LE TEXIER|"L’heure espagnole" '-- "L’enfant et les sortilèges"|"Saint-Francois d'Assise"|-|Don Iñigo Gomez|Giuseppe Frigeni|Laurent Pelly|Madrid, Teatro Real|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala|Saint-Francois|Sylvain  Cambreling
+JEAN-PAUL FOUCHÉRON|"L’heure espagnole" '-- "L’enfant et les sortilèges"|La théière, le petir vieillard, la rainette|Laurent Pelly|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala|Torquemada
+JEAN-LUC BALLESTRA|"L’heure espagnole" '-- "L’enfant et les sortilèges"|"Pelléas et Mélisande"|Claude Debussy|Laurent Pelly|L’orologe comptolse, le chat|Madrid, Teatro Real|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala|Ramiro|Robert Wilson|Sylvain Cambreling|Un medico
+SERAPHIN KELLNER|"Pelléas et Mélisande"|Claude Debussy|Madrid, Teatro Real|Robert Wilson|Sylvain Cambreling|Yniold
+tag|Milano, Teatro alla Scala|13
+tag|Maurice Ravel|12
+tag|Marc Minkowski|12
+tag|"L’heure espagnole" '-- "L’enfant et les sortilèges"|12
+tag|Laurent Pelly|12

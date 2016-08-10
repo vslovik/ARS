@@ -1,0 +1,27 @@
+ANN-BETH SOLVANG|"Les contes d'Hoffmann"|Damiano Michieletto|Giacomo Puccini|Il "Trittico" secondo Michieletto|Jacques Offenbach|La suora zelatrice|Rani Calderon|Riccardo Frizza|Theater an der Wien|Une voix|William Friedkin
+JOHN GRAHAM-HALL|"Candide"|"Die glückliche Hand" e "Osud"|"Jakob Lenz"|"Le nozze di Figaro"|-|Andrea Breth|Basilio|Bruxelles, Théâtre La Monnaie|Festival di Aix-en-Provence|Franck Ollu|Governor,Vanderdendur, Ragotsky|Jossi Wieler, Sergio Morabito|Jérémie Rhorer|Kaufmann|Leonard Bernstein|Leoš Janáček|Lorenzo Mariani|Roma, Teatro dell'Opera|Staatsoper Stuttgart|Sylvain Cambreling|Wayne Marshall|Wolfgang Amadeus Mozart|Wolfgang Rihm|Živný
+ANNA MARIA PANZARELLA|"Le nozze di Figaro"|-|Festival di Aix-en-Provence|Jérémie Rhorer|Marcellina|Wolfgang Amadeus Mozart
+KATE LINDSEY|"Le nozze di Figaro"|-|Cherubino|Festival di Aix-en-Provence|Jérémie Rhorer|Wolfgang Amadeus Mozart
+MARIO LUPERI|"Falstaff"|"Le nozze di Figaro"|"Stiffelio"|-|Antonino Manuli|Bartolo|Bellini di Catania|David Mcvicar|Ezio Donato|Festival di Aix-en-Provence|Giuseppe Verdi|Jorg, altro vecchio ministro|Jérémie Rhorer|La Storia Esecutiva E La Ricezione Dei|Le spectre de Priam|Luca Ronconi|Opera di Firenze|Pistola|Priam|Scala "Les Troyens" di Hector Berlioz|Trionfano|Wolfgang Amadeus Mozart|Zubin Mehta
+MALIN BYSTRÖM|"Le nozze di Figaro"|-|Festival di Aix-en-Provence|Jérémie Rhorer|La Contessa di Almaviva|Wolfgang Amadeus Mozart
+PAULO SZOT|"Le nozze di Figaro"|-|Alexander Raskatov|Festival di Aix-en-Provence|Filipp Filippovič|Il Conte di Almaviva|Jérémie Rhorer|Martyn Brabbins|Simon Mcburney|Wolfgang Amadeus Mozart
+EMANUELE GIANNINO|"La fanciulla del West"|"Le nozze di Figaro"|"Macbeth"|"Norma"|-|Andrea Battistoni|Artisti Del Coro Di Parma|Dario Argento|Don Alvar|Don Curzio|Emmanuel Villaume|Festival di Aix-en-Provence|Flavio, romano amico di Pollione|Gaetano D’espinosa|Giacomo Meyerbeer|Giacomo Puccini|Giorgio Strehler|Harry|Jérémie Rhorer|Kara Walker|La Fenice|Leo Muscato|Malcolm|Milano, Scala|Milano, Teatro alla Scala|Riccardo Chailly|Robert Carsen|Teatro Verdi di Pisa|Venezia, Teatro La Fenice|Vincenzo Bellini|Wolfganag  Amadeus Mozart|Wolfgang Amadeus Mozart|con L'Africaine, tra esotismo e denuncia anticolonialista
+OLIVER RINGELHAHN|"Les contes d'Hoffmann"|Jacques Offenbach|Riccardo Frizza|Spalanzani|Theater an der Wien|William Friedkin
+MARI ERIKSMOEN|"Le nozze di Figaro"|"Les contes d'Hoffmann"|-|Barbarina|Festival di Aix-en-Provence|Jacques Offenbach|Jérémie Rhorer|Olympia|Riccardo Frizza|Theater an der Wien|William Friedkin|Wolfgang Amadeus Mozart
+MGDALENA ANNA HOFMANN|"Les contes d'Hoffmann"|Jacques Offenbach|Riccardo Frizza|Stella|Theater an der Wien|William Friedkin
+ROXANE CONSTANTINESCU|"Les contes d'Hoffmann"|Jacques Offenbach|La Muse, Nicklausse|Riccardo Frizza|Theater an der Wien|William Friedkin
+PATRICIA PETIBON|"Alcina"|"Le nozze di Figaro"|-|Festival di Aix-en-Provence|Georg Friedrich Händel|Giovanni Antonini|Jérémie Rhorer|Morgana|Robert Carsen|Susanna|Teatro alla Scala|Wolfgang Amadeus Mozart
+ANGEL BLUE|"Les contes d'Hoffmann"|Giulietta|Jacques Offenbach|Riccardo Frizza|Theater an der Wien|William Friedkin
+MARTIJIN CORNET|"Les contes d'Hoffmann"|Hermann, Schlemil|Jacques Offenbach|Riccardo Frizza|Theater an der Wien|William Friedkin
+JUANITA LASCARRO|"Les contes d'Hoffmann"|Antonia|Jacques Offenbach|Riccardo Frizza|Theater an der Wien|William Friedkin
+PAVEK KUDINOV|"Les contes d'Hoffmann"|Crespel, Luther|Jacques Offenbach|Riccardo Frizza|Theater an der Wien|William Friedkin
+ARIS ARGIRIS|"L'elisir d'amore"|"Les contes d'Hoffmann"|"Otello" e "Tosca"|Belcore|Bruxelles, Théâtre La Monnaie|Damiano Michieletto|Gaetano Donizetti|Giuseppe Verdi,Giacomo Puccini|Jacques Offenbach|Jago|Lindorf, Coppelius, Dapertutto, Miracle|Mario Pontiggia,Mietta Corli|Opera di Firenze, Opening Gala|Riccardo Frizza|Theater an der Wien|Thomas Roesner|William Friedkin|Zubin Mehta
+JULIEN BEHR|"Les contes d'Hoffmann"|Jacques Offenbach|Nathanael|Riccardo Frizza|Theater an der Wien|William Friedkin
+KURT STREIT|"Fierrabras"|"La clemenza di Tito" inaugura la nuova stagione|"Les contes d'Hoffmann"|-|Bruxelles, Théâtre La Monnaie|Fierrabras|Franz Schubert|Hoffmann|Ivo Van Hove|Jacques Offenbach|La Monnaie di Bruxelles|Lodovic Morlot|Riccardo Frizza|Theater an der Wien|Tito Vespasiano|William Friedkin|Wolfgang Amadeus Mozart|Ádám Fischer
+KYLE KETELSEN|"Don Giovanni"|"Le nozze di Figaro"|-|Alejo Pérez|Dmitri Tcherniakov|Escamillo|Festival di Aix-en-Provence|Figaro|Georges Bizet|Gustavo Dudamel|Gustavo Dudamel dirige "Carmen"|Jérémie Rhorer|Leporello|Los Angeles|Madrid, Teatro Real|Wolfgang Amadeus Mozart
+tag|Riccardo Frizza|12
+tag|Theater an der Wien|12
+tag|William Friedkin|12
+tag|"Les contes d'Hoffmann"|12
+tag|Jacques Offenbach|12
+tag|Wolfgang Amadeus Mozart|11

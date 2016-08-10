@@ -1,0 +1,26 @@
+CARMINE MONACO|"Carmen"|"Crispino e la Comare"|"Falstaff"|"Il signor Bruschino"|"La vedova allegra"|"Le nozze di Figaro"|"Madama Butterfly"|Alessandro Talevi|Andrea Cigni|Arnaud Bernard|Asdrubale|Benjamin Bayl|Cagliari, Teatro Lirico|Don Bartolo|Fabio Sparvoli|Filiberto|Gabriella Medetti|Georges Bizet|Giacomo Puccini|Gioachino Rossini|Giuseppe Verdi|Hubert Soudant|Jader Bignamini|José Miguel Perez Sierra|Lo zio bonzo|Lucca, Teatro del Giglio|Luigi E Federico Ricci|Marco Spada|Marina Bianchi|Martina Franca|Matteo Beltrami|Matteo Beltrami,Luca Sirigu|Mirko Zeta|Nicola Paszkowski|Pistola|Sassari, Teatro Comunale|Stagione lirica sassarese|Teatro Comunale di Sassari|Wolfgang Amadeus Mozart|Zuniga
+CHRISTIAN COLLIA|"La vedova allegra"|Antonio Pirolli|Camille de Petruzzel|Camille de Rossillon|Fabio Sparvoli|Franz Lehár|Jesi, Teatro Pergolesi|Lucca, Teatro del Giglio|Nicola Paszkowski|Vittorio Sgarbi
+MARIO BRANCACCIO|"La vedova allegra"|Fabio Sparvoli|Lucca, Teatro del Giglio|Nicola Paszkowski|Njegus
+DARIO DI VIETRI|"Aida"|"El amor brujo" e "Cavalleria rusticana"|"Macbeth"|"Risorgimento", "Il prigioniero"|-|Bologna, Teatro Comunale|Carmelo Rifici|Dario Argento|Don José|Errico Settebellizze|Francesco Esposito|Francesco Santini|Franco Zeffirelli|Giacomo Sagripanti|Giampaolo Maria Bisanti|Giorgio Gallione|Giuseppe Sabbatini|Giuseppe Verdi|Henning Brockhaus|Jader Bignamini|Jesi, Teatro Pergolesi|Lorenzo Ferrero|Lucca, Teatro del Giglio|Macduff|Malcolm|Matteo Beltrami|Michele Mariotti|Nino Rota|Novara|Pietro Mascagni,Manuel De Falla|Primo sacerdote|Radames|Renato Zanella|Sergio Alapont|Sir Bruno Roberton|Splendida lettura registica e vocale di "Puritani"|Teatro Comunale di Sassari|Teatro Filarmonico di Verona|Teatro Pergolesi di Jesi|Turiddu|Vincenzo Bellini|«Pien di misfatti è calle della potenza». “Macbeth” di Verdi|“Napoli milionaria”
+RALUCA PESCARU|-|Donna Peppenella|Lucca, Teatro del Giglio|Matteo Beltrami|Nino Rota|“Napoli milionaria”
+GIUSEPPE PELLINGRA|-|Gennaro Iovine|Giacomo Puccini|Il comandante di marina|Lucca, Teatro del Giglio|Matteo Beltrami|Nino Rota|Palermo|Roberto Gianola|“Manon Lescaut” per l’Orchestra Sinfonica Siciliana|“Napoli milionaria”
+ANTONIO SAPIO|-|Federico|Lucca, Teatro del Giglio|Matteo Beltrami|Nino Rota|“Napoli milionaria”
+TOMMASO QUANILLI|"La vedova allegra"|Fabio Sparvoli|Kromow|Lucca, Teatro del Giglio|Nicola Paszkowski
+ANDREI BOGATS|-|Lucca, Teatro del Giglio|Matteo Beltrami|Nino Rota|Pascalino ’o pittore|“Napoli milionaria”
+GIUSEPPE RAIMONDO|"La vedova allegra"|Danilo Danilowitsch|Fabio Sparvoli|Lucca, Teatro del Giglio|Nicola Paszkowski
+STEFANO MARCHISIO|"La vedova allegra"|Cascada|Fabio Sparvoli|Lucca, Teatro del Giglio|Nicola Paszkowski
+MARIA RADOEVA|"Eine Florentinische Tragödie" e "Gianni Schicchi" (cast alternativi)|"Eine florentinische tragödie/Gianni Schicchi"|"La Bohème"|"La vedova allegra"|Aldo Sisillo|Alexander Zemlinsky,Giacomo Puccini|Boyko Bogdanov|Fabio Sparvoli|Giacomo Puccini|Hanna Glawari|Lucca, Teatro del Giglio|Modena, Teatro Comunale|Musetta|Nella|Nicola Paszkowski|Saverio Santoliquido,Stefan Anton Reck|Teatro Regio|Torino, Teatro Regio|Vittorio Borrelli
+ALESSANDRA MASINI|"La vedova allegra"|"Norma"|Alberto Fassini|Alessio Pizzech|Clotilde|Coccia di Novara|Fabio Sparvoli|Il dittico "Zanetto/Cavalleria Rusticana"|Le Scene E I Costumi Di William Orlandi.|Livorno|Lucca, Teatro del Giglio|Matteo Beltrami|Nicola Paszkowski|Pietro Mascagni|Prakowia|Valerio Galli|Zanetto
+TERESA GARGANO|"La vedova allegra"|-|Donna Vincenza|Fabio Sparvoli|Lucca, Teatro del Giglio|Matteo Beltrami|Nicola Paszkowski|Nino Rota|Olga|“Napoli milionaria”
+DOMITILLA LAI|"La vedova allegra"|Fabio Sparvoli|Lucca, Teatro del Giglio|Nicola Paszkowski|Sylviane
+VEIO TORCIGLIANI|"Il Trittico"|"La traviata"|"Madama Butterfly"|-|Bruno Nicoli|Carlomoreno Volpini|Giacomo Puccini|Giuseppe Verdi|Il Principe Yamadori|Il dottor Grenvil|Lucca, Teatro del Giglio|Marco|Matteo Beltrami|Nino Rota|Peppe ’o cricco|Pisa, Teatro Verdi|Renato Bonajuto|Roberto Zarpellon|Selene Farinelli|Sessantesimo Festival Puccini, Torre del Lago|Teatro Goldoni di Livorno|Vivien Alexandra Hewitt|“Napoli milionaria”
+MARIKA COLASANTO|"La vedova allegra"|Fabio Sparvoli|Lucca, Teatro del Giglio|Nicola Paszkowski|Valencienne
+ALFONSO FRANCO|"La vedova allegra"|Fabio Sparvoli|Lucca, Teatro del Giglio|Nicola Paszkowski|Pritschitsch
+VASYL SOLODKYY|"La vedova allegra"|Fabio Sparvoli|Lucca, Teatro del Giglio|Nicola Paszkowski|Raoul de St-Brioche
+GIANLUCA TUMINO|-|Lucca, Teatro del Giglio|Matteo Beltrami|Nino Rota|O miezo prevete|“Napoli milionaria”
+GIAMPIERO CICINO|"Rigoletto"|-|Alessandro Talevi|Andrea Battistoni|Daniele Abbado|Fano,Teatro della Fortuna|Francesco Esposito|Francesco Ivan Ciampa|Francesco Santini|Giuseppe Verdi|Il Dancario|Il brigadiere Ciappa|Il conte di Monterone|Il marchese D’Obigny|Lucca, Teatro del Giglio|Matteo Beltrami|Nino Rota|Teatro Coccia di Novara|“La Traviata”|“Napoli milionaria”
+tag|Lucca, Teatro del Giglio|21
+tag|Fabio Sparvoli|13
+tag|"La vedova allegra"|13
+tag|Nicola Paszkowski|13
+tag|Matteo Beltrami|11

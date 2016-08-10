@@ -1,0 +1,17 @@
+FRANCISCO JAVIER MARTINEZ|"La mulata de Córdoba", "La vida breve"|Enamorardo|Horacio Almada|Manuel De Falla|Ramón Tebar|Teatro di Bellas Artes
+ARTURO LOPEZ|"La mulata de Córdoba", "La vida breve"|El tío Salvador|Horacio Almada|Manuel De Falla|Ramón Tebar|Teatro di Bellas Artes
+NIEVES NAVARRO|"La mulata de Córdoba", "La vida breve"|Horacio Almada|La abuela|Manuel De Falla|Ramón Tebar|Teatro di Bellas Artes
+ARTURO LOPEZ CASTILLO|"Carmen"|"La mulata de Córdoba", "La vida breve"|Città del Messico|Georges Bizet|Horacio Almada|Inquisidor|José Areán|Manuel De Falla|Marcelo Lombardero|Morales|Ramón Tebar|Teatro di Bellas Artes
+VIOLETA DAVALOS|"La mulata de Córdoba", "La vida breve"|Horacio Almada|Manuel De Falla|Ramón Tebar|Salud|Teatro di Bellas Artes
+OCTAVIO PEREZ|"La Traviata"|"La mulata de Córdoba", "La vida breve"|Barone Douphol|Bellas Artes|David Attie|Denis Vlasenko|Giuseppe Verdi|Horacio Almada|Manuel|Manuel De Falla|Ramón Tebar|Teatro di Bellas Artes
+LUCIA SALAS, ELIZABETH  MATA,  BELINDA GONZALEZ|"La mulata de Córdoba", "La vida breve"|Horacio Almada|Manuel De Falla|Ramón Tebar|Teatro di Bellas Artes|Tres vendedoras
+GRACE ECHAURI|"La mulata de Córdoba", "La vida breve"|Horacio Almada|Manuel De Falla|Ramón Tebar|Soledad|Teatro di Bellas Artes
+ALEJANDRO CORENO|"La mulata de Córdoba", "La vida breve"|Horacio Almada|Manuel De Falla|Ramón Tebar|Teatro di Bellas Artes|Voz de vendedor-Voz lejana
+EDGAR GUTIERREZ|"La mulata de Córdoba", "La vida breve"|Horacio Almada|Manuel De Falla|Ramón Tebar|Teatro di Bellas Artes|Voz de la Fragua
+ENRIQUE ÁNGELES|"La mulata de Córdoba", "La vida breve"|Aurelio|Horacio Almada|Manuel De Falla|Ramón Tebar|Teatro di Bellas Artes
+BELINDA GONZALEZ|"La mulata de Córdoba", "La vida breve"|Carmela|Horacio Almada|Manuel De Falla|Ramón Tebar|Teatro di Bellas Artes
+tag|Teatro di Bellas Artes|12
+tag|"La mulata de Córdoba", "La vida breve"|12
+tag|Horacio Almada|12
+tag|Manuel De Falla|12
+tag|Ramón Tebar|12

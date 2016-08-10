@@ -1,0 +1,34 @@
+DAMIEN PASS|"Lulu"|Alban Berg|Der Journalist|Michael Schonwandt|Parigi, Opéra Bastille|Willy Decker
+ROBERT WÖRLE|"Lulu"|Alban Berg|Der Marquis|Michael Schonwandt|Parigi, Opéra Bastille|Willy Decker
+MARLIN MILLER|"Death in Venice"|"Don Giovanni"|"Lulu"|"Uno sguardo dal ponte"|-|Alban Berg|Benjamin Britten|Bruno Bartoletti|Damiano Michieletto,Luca Scarzella|David Levi|Der Neger|Don Ottavio|Frank Galati|Gustav von Aschenbach|Michael Schonwandt|Parigi, Opéra Bastille|Pier Luigi Pizzi|Rodolpho|Roma, Teatro dell'Opera|Teatro La Fenice|Venezia, Teatro La Fenice|William Bolcom|Willy Decker|Wolfgang Amadeus Mozart
+VICTOR VON HALEM|"Lulu"|Alban Berg|Der Bankier|Michael Schonwandt|Parigi, Opéra Bastille|Willy Decker
+THOMAS BETTINGER|"La Cerisaie" (Il giardino dei ciliegi)|Georges Lavaudant|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini|Un ospite
+ANNA KRANIKOVA|"La Cerisaie" (Il giardino dei ciliegi)|Georges Lavaudant|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini|Varia
+ELENA KELESSIDI|"La Cerisaie" (Il giardino dei ciliegi)|Georges Lavaudant|Ljouba|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini
+IGOR GOLOVATENKO|"La Cerisaie" (Il giardino dei ciliegi)|"Rigoletto"|"Un ballo in maschera"|-|Bergamo, Teatro Donizetti|Carlo Rizzari|Georges Lavaudant|Giuseppe Verdi|Ivan Stefanutti|Lopakhine|Parigi, Palais Garnier|Philippe Fénelon|Renato|Renato, suo segretario e sposo di|Rigoletto|Rolando Panerai|Rovigo, Teatro Sociale|Savona, Complesso Monumentale del Priamar|Stefano Romani|Tito Ceccherini
+ALEXEY TATARINTSEV|"La Cerisaie" (Il giardino dei ciliegi)|Georges Lavaudant|Iacha|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini
+MARAT GALI|"La Cerisaie" (Il giardino dei ciliegi)|Georges Lavaudant|Lionia|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini
+KSENIA VYZNIKOYA|"La Cerisaie" (Il giardino dei ciliegi)|Firs|Georges Lavaudant|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini
+ALEXANDRA KADURINA|"La Cerisaie" (Il giardino dei ciliegi)|Georges Lavaudant|Gricha|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini
+MISCHA SCHELOMIANSKI|"La Cerisaie" (Il giardino dei ciliegi)|"La volpe astuta"|Carlotta|Festival di Glyndebourne|Georges Lavaudant|Il Curato / Il Tasso|Leóš Janáček|Melly Still|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini|Vladimir Jurowski
+SVETLANA LIFAR|"La Cerisaie" (Il giardino dei ciliegi)|Douniacha|Georges Lavaudant|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini
+JENNIFER LARMORE|"Lulu"|"Macbeth"|"The turn of the screw"|-|Alban Berg|Bologna, Teatro Comunale|Cornelius Meister|Giuseppe Verdi|Gräfin Geschwitz|Lady Macbeth|Michael Schonwandt|Miss Jessel|Parigi, Opéra Bastille|Robert Carsen|Robert Wilson|Roberto Abbado|Theater an der Wien|Willy Decker
+SCOTT WILDE|"Der Rosenkavalier"|"Lady Macbeth del distretto di Mzesnk"|"Lulu"|Alban Berg|Dimitrij Sostakovic|Ein Athlet|Hartmut Haenchen|Herbert Wernicke|Jeffrey Tate|Madrid, Teatro Real|Madrid,Teatro Real|Martin Kušej|Michael Schonwandt|Parigi, Opéra Bastille|Richard Strauss|Un commissario di polizia|Un ufficiale|Willy Decker
+WOLFGANG SCHÖNE|"Lulu"|Alban Berg|Jack|Michael Schonwandt|Parigi, Opéra Bastille|Willy Decker
+MARIE-THÉRÈSE KELLER|"Lulu"|Alban Berg|Andrea Breth|Daniel Barenboim|Doppelgängerin|Ihre Mutter|Michael Schonwandt|Parigi, Opéra Bastille|Staatsoper Berlin|Willy Decker
+FRANZ GRUNDHEBER|"Lulu"|Alban Berg|Michael Schonwandt|Parigi, Opéra Bastille|Schigolch|Willy Decker
+LAURA AIKIN|"Lulu"|Alban Berg|Alvis Hermanis|Bernd Alois Zimmermann|Ingo Metzmacher|Lulu|Marie|Michael Schonwandt|Parigi, Opéra Bastille|Willy Decker|“Die Soldaten” al Teatro alla Scala
+UGO RABEC|"Lulu"|Alban Berg|Ein Diener|Michael Schonwandt|Parigi, Opéra Bastille|Willy Decker
+MARIANNE CREBASSA|"Lulu"|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Alban Berg|Die Kunstgewerblerin|Laurent Pelly|L’enfant|Marc Minkowski|Maurice Ravel|Michael Schonwandt|Milano, Teatro alla Scala|Parigi, Opéra Bastille|Willy Decker
+ANDREA HILL|"Elektra"|"Lulu"|Alban Berg|Ein Groom|Maestro Del Coro|Michael Schonwandt|Parigi, Opéra Bastille|Patrice Ch|Richard Strauss|Teatro alla Scala di Milano|Willy Decker|Zweite Magd / Die Schleppträgerin
+JULIE MATHEVET|"La Cerisaie" (Il giardino dei ciliegi)|"Lulu"|Alban Berg|Eine Fünfzehnjährige|Georges Lavaudant|Michael Schonwandt|Parigi, Opéra Bastille|Parigi, Palais Garnier|Philippe Fénelon|Quattro fanciulle|Tito Ceccherini|Willy Decker
+tag|Michael Schonwandt|14
+tag|Willy Decker|14
+tag|Alban Berg|14
+tag|"Lulu"|14
+tag|Parigi, Opéra Bastille|14
+tag|Georges Lavaudant|11
+tag|"La Cerisaie" (Il giardino dei ciliegi)|11
+tag|Tito Ceccherini|11
+tag|Philippe Fénelon|11
+tag|Parigi, Palais Garnier|11

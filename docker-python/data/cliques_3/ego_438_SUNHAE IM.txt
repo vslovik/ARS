@@ -1,0 +1,31 @@
+ALEX PENDA|"L'Opera Seria"|"Čerevički"|Bruxelles, Théâtre La Monnaie|Cagliari, Teatro Lirico|Donato Renzetti|Florian Leopold Gassmann|Oksana|Patrick Kinmonth|Pëtr Il’ič Čajkovskij|René Jacobs|Stonatrilla|Yuri Alexandrov
+BURCU UYAR|"Die Zauberflote"|"Die Zauberflöte"|"Il trionfo di Clelia"|"Lucia di Lammermoor"|"Roméo et Juliette"|-|Accademia di Santa Cecilia|Andrea Cigni|Bologna, Teatro Comunale|Charles Gounod|Christoph Willibald Gluck|Francesco Rosa|Gaetano Donizetti|Giuseppe Sigismondi De Risio|Jean-paul Scarpitta|Juliette|Kenneth Montgomery|Königin der Nacht|Larissa|Miss Lucia|Nigel Lowery|Opéra de Marseille|Padova, Teatro Verdi|Regina della Notte|René Jacobs|Sassari, Teatro Comunale|Sergio Alapont|Stefano Poda|Wolfgang Amadeus Mozart
+KAI PREUSSKER|"Carmen"|"Les Dialogues des Carmélites"|-|Georges Bizet|Manfred Honeck|Morales|Patrick Fournillier|Sebastian Neubling|Staatsoper Stuttgart|Un ufficiale
+MICHAELA SCHNEIDER|"Carmen"|"Les Dialogues des Carmélites"|-|Georges Bizet|Madame Lidoine|Manfred Honeck|Micaela|Patrick Fournillier|Sebastian Neubling|Staatsoper Stuttgart
+ANDREA MELATH|"Les Dialogues des Carmélites"|-|Manfred Honeck|Mère Marie|Staatsoper Stuttgart
+WOLFGANG SCHOENE|"Les Dialogues des Carmélites"|-|Manfred Honeck|Marquis de la Force|Staatsoper Stuttgart
+THOMAS WALKER|"L'Opera Seria"|"Platée"|Bruxelles, Théâtre La Monnaie|Calixto Bieito|Christian Curnyn|Florian Leopold Gassmann|Jean-philippe Rameau|Patrick Kinmonth|Platée|René Jacobs|Sospiro|Staatsoper Stuttgart
+INGA KALNA, ANNA GREVELIUS, ISABELLE DRUET|"Die Zauberflöte"|-|Accademia di Santa Cecilia|René Jacobs|Tre Dame della Regina|Wolfgang Amadeus Mozart
+JOACHIM BUHRMANN|"Die Zauberflöte"|-|Accademia di Santa Cecilia|René Jacobs|Secondo Sacerdote, Primo Armigero|Wolfgang Amadeus Mozart
+TOPI LEHTIPUU|"Die Zauberflöte"|-|Accademia di Santa Cecilia|René Jacobs|Tamino|Wolfgang Amadeus Mozart
+DANIEL SCHMUTZHARD|"Die Zauberflöte"|-|Accademia di Santa Cecilia|Papageno|René Jacobs|Wolfgang Amadeus Mozart
+MARCOS FINK|"Die Zauberflöte"|"L'Opera Seria"|-|Accademia di Santa Cecilia|Bruxelles, Théâtre La Monnaie|Fallito|Florian Leopold Gassmann|Patrick Kinmonth|René Jacobs|Sarastro|Wolfgang Amadeus Mozart
+ROSALIND PLOWRIGHT|"Die glückliche Hand" e "Osud"|"Les Dialogues des Carmélites"|-|Andreas Homoki|Hartmut Haenchen|Jossi Wieler, Sergio Morabito|La madre di Míla|Leoš Janáček|Madame de Croissy|Manfred Honeck|Mary|Richard Wagner|Staatsoper Stuttgart|Sylvain Cambreling
+ROMAN SHULACKOFF|"Les Dialogues des Carmélites"|-|Le Chevalier|Manfred Honeck|Staatsoper Stuttgart
+HEINZ GOHRIG|"Les Dialogues des Carmélites"|-|Il cappellano|Manfred Honeck|Staatsoper Stuttgart
+JUTTA BOHNERT|"Les Dialogues des Carmélites"|-|Blanche|Manfred Honeck|Staatsoper Stuttgart
+THOMAS E. BAUER|"Der Rosenkavalier"|"Die Zauberflöte"|-|Accademia di Santa Cecilia|Alvis Hermanis|Bernd Alois Zimmermann|Ein Polizeikommissär|Harry Kupfer|Ingo Metzmacher|Oratore, Primo Sacerdote, Secondo Armigero|René Jacobs|Richard Strauss|Stolzius|Teatro alla Scala di Milano|Wolfgang Amadeus Mozart|Zubin Mehta|“Die Soldaten” al Teatro alla Scala
+RUPERT ENTICKNAP|"L'Opera Seria"|Bruxelles, Théâtre La Monnaie|Caverna|Florian Leopold Gassmann|Patrick Kinmonth|René Jacobs
+MAGNUS STAVELAND|"L'Opera Seria"|Bragherona|Bruxelles, Théâtre La Monnaie|Florian Leopold Gassmann|Patrick Kinmonth|René Jacobs
+NIKOLAY BORCHEV|"L'Opera Seria"|Bruxelles, Théâtre La Monnaie|Florian Leopold Gassmann|Passagallo|Patrick Kinmonth|René Jacobs
+PIETRO SPAGNOLI|"L'Opera Seria"|"L'italiana in Algeri"|Bruno Campanella|Bruxelles, Théâtre La Monnaie|Delirio|Florian Leopold Gassmann|Gioachino Rossini|Joan Font|Mustafà|Opera di Firenze|Patrick Kinmonth|René Jacobs
+ROBIN JOHANNSEN|"L'Opera Seria"|Bruxelles, Théâtre La Monnaie|Florian Leopold Gassmann|Patrick Kinmonth|René Jacobs|Smorfiosa
+ADAM KIM|"Carmen"|"Les Dialogues des Carmélites"|"Maria Stuarda"|-|Escamillo|Gaetano Donizetti|Georges Bizet|Il carceriere/Thierry/Dr. Javelinot|Lord Guglielmo Cecil|Manfred Honeck|Marc Soustrot|Patrick Fournillier|Sebastian Neubling|Staatsoper Stuttgart
+MIAH PERSSON|"Die Zauberflöte"|"L'incoronazione di Poppea"|-|Accademia di Santa Cecilia|Claudio Monteverdi|La Fortuna / Poppea|Milano, Teatro alla Scala|Pamina|René Jacobs|Rinaldo Alessandrini|Robert Wilson|Wolfgang Amadeus Mozart
+SUNHAE IM|"Die Zauberflöte"|"L'Opera Seria"|"Les Dialogues des Carmélites"|-|Accademia di Santa Cecilia|Bruxelles, Théâtre La Monnaie|Florian Leopold Gassmann|Manfred Honeck|Papagena|Patrick Kinmonth|Porporina|René Jacobs|Staatsoper Stuttgart|Sœur Constance|Wolfgang Amadeus Mozart
+HUILING ZHU|"Les Dialogues des Carmélites"|-|Manfred Honeck|Staatsoper Stuttgart|Sœur Mathilde
+MARIO ZEFFIRI|"Ginevra di Scozia"|"L'Opera Seria"|"La gazza ladra"|-|Bergamo, Teatro Donizetti|Bruxelles, Théâtre La Monnaie|Damiano Michieletto|Florian Leopold Gassmann|George Petrou|Giannetto|Gioachino Rossini|Giovanni Battista Rigon|Giovanni Simone Mayr|Patrick Kinmonth|Polinesso|René Jacobs|Ritornello|Verona
+tag|René Jacobs|17
+tag|Staatsoper Stuttgart|12
+tag|"Les Dialogues des Carmélites"|11
+tag|Manfred Honeck|11

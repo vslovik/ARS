@@ -1,0 +1,16 @@
+JOSÉ BROS|"Roméo et Juliette"|Arnaud Bernard|Bilbao, Palacio Euskalduna|Charles Gounod|Josep Caballé-domenech|Roméo
+JON PLAZAOLA|"Roméo et Juliette"|Arnaud Bernard|Bilbao, Palacio Euskalduna|Charles Gounod|Josep Caballé-domenech|Tybalt
+FERNANDO LATORRE|"Evgenij Onegin"|"Roméo et Juliette"|Arnaud Bernard|Bilbao, Palacio Euskalduna|Bilbao,Palacio Euskalduna|Charles Gounod|Josep Caballé-domenech|Le Duc de Vérone|Michal Znaniecki|Miguel Ángel Gómez Martínez|Piotr Ilic Caikovskij|Zaretsky
+ANNIE VAVRILLE|"Amica"|"Evgenij Onegin"|"The Rake's Progress"|Baba la turca|Bilbao,Palacio Euskalduna|David Mcvicar|Gianandrea Noseda|Gianluigi Gelmetti|Igor Fëdorovič Stravinskij|Jean-louis Grinda|Madame Larina|Magdelone|Michal Znaniecki|Miguel Ángel Gómez Martínez|Opéra de Monte-Carlo|Pietro Mascagni|Piotr Ilic Caikovskij|Regio di Torino
+ITXARO MENTXAKA|"Elektra"|"Roméo et Juliette"|Arnaud Bernard|Bilbao, Palacio Euskalduna|Charles Gounod|Die Vertraute|Gertrude|Josep Caballé-domenech|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov
+DANIEL BELCHER|"Roméo et Juliette"|Arnaud Bernard|Bilbao, Palacio Euskalduna|Charles Gounod|Josep Caballé-domenech|Mercutio
+AXIER SÁNCHEZ|"Der Schauspieldirektor", "La Canterina"|"Roméo et Juliette"|Arnaud Bernard|Bilbao, Palacio Euskalduna|Bilbao, Teatro Arriaga|Buffo|Charles Gounod|Josep Caballé-domenech|Le Comte Pâris|Marco Carniti|Pablo Mielgo|Wolfgang Amadeus Mozart,Franz Joseph Haydn
+ALEX SANMARTÍ|"Roméo et Juliette"|-|Arnaud Bernard|Bilbao, Palacio Euskalduna|Charles Gounod|David Mcvicar|Grégorio|Josep Caballé-domenech|Marullo|Nicola Luisotti,Justin Way|Teatro Real di  Madrid|“Rigoletto”
+JAMES CRESWELL|"Evgenij Onegin"|"Roméo et Juliette"|Arnaud Bernard|Bilbao, Palacio Euskalduna|Charles Gounod|James Conlon|Josep Caballé-domenech|Le Comte Capulet|Los Angeles Opera|Piotr Ilic Caikovskij|Príncipe Gremin|Steven Pimlott
+IRINA  ZHYTYNSKA|"Evgenij Onegin"|Bilbao,Palacio Euskalduna|Michal Znaniecki|Miguel Ángel Gómez Martínez|Olga|Piotr Ilic Caikovskij
+MARY ANN STEWART|"Roméo et Juliette"|Arnaud Bernard|Bilbao, Palacio Euskalduna|Charles Gounod|Josep Caballé-domenech|Stéphano
+NADINE  WEISSMANN|"Evgenij Onegin"|Bilbao,Palacio Euskalduna|Filipyevna|Michal Znaniecki|Miguel Ángel Gómez Martínez|Piotr Ilic Caikovskij
+MIKELDI  ATXALANDABASO|"Evgenij Onegin"|Bilbao,Palacio Euskalduna|Michal Znaniecki|Miguel Ángel Gómez Martínez|Piotr Ilic Caikovskij|Triquet
+ISMAEL  JORDI|"Evgenij Onegin"|Bilbao,Palacio Euskalduna|Michal Znaniecki|Miguel Ángel Gómez Martínez|Piotr Ilic Caikovskij|Vladimir Lensky
+STANISLAV  SHVETS|"Evgenij Onegin"|Bilbao,Palacio Euskalduna|Michal Znaniecki|Miguel Ángel Gómez Martínez|Piotr Ilic Caikovskij|Príncipe Gremin
+AINHOA  ARTETA|"Evgenij Onegin"|Bilbao,Palacio Euskalduna|Michal Znaniecki|Miguel Ángel Gómez Martínez|Piotr Ilic Caikovskij|Tatiana

@@ -1,0 +1,23 @@
+AINHOA ARTETA|"Cyrano de Bergerac"|"Don Giovanni"|"La Bohème"|"Tosca"|Alejo Pérez|Dmitri Tcherniakov|Donna Elvira|Floria Tosca|Franco Alfano|Franco Zeffirelli|Giacomo Puccini|Gianni Marras|Gustavo Dudamel|Jader Bignamini|Madrid, Teatro Real|Milano, Teatro alla Scala|Musetta|Pedro Halffter|Petrika Ionesco|Roxane|Teatro Valli di Reggio Emilia|Wolfgang Amadeus Mozart
+PLÁCIDO DOMINGO|"Cyrano de Bergerac"|"I due Foscari"|-|Cyrano|Francesco Foscari|Franco Alfano|Giorgio Germont|Giuseppe Verdi|Halvis Hermanis|Madrid, Teatro Real|Met|Michele Mariotti|Milano, Teatro alla Scala|Pedro Halffter|Petrika Ionesco|Yannick Nézet-séguin|“La Traviata”
+ÁNGEL ÓDENA|"Cyrano de Bergerac"|Alessandro Talevi|Andriy Yurkevych|David Mcvicar|De Guiche|Franco Alfano|Gaetano Donizetti|Giorgio Germont|Giuseppe Verdi|Il Duca di Nottingham|Madrid, Teatro Real|Pedro Halffter|Petrika Ionesco|Renato Palumbo|Teatro Real di Madrid|“La Traviata”|“Roberto Devereux”
+CHRISTIAN ELMER|"Cyrano de Bergerac"|Franco Alfano|Le Bret|Madrid, Teatro Real|Pedro Halffter|Petrika Ionesco
+LAURENT ALVARO|"Cyrano de Bergerac"|"La muette de Portici"|"Les dialogues des Carmélites"|-|Daniel-françois-esprit Auber|Emma Dante|Franco Alfano|Jean-philippe Clarac|Le Marquis de la Force|Madrid, Teatro Real|Opéra di Toulon|Parigi, Opéra Comique|Patrick Davin|Pedro Halffter|Petrika Ionesco|Pietro|Ragueneau|Serge Baudo
+CRISTINA TOLEDO|"Cyrano de Bergerac"|Franco Alfano|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|Lise/Una suora|Madrid, Teatro Real|Pedro Halffter|Petrika Ionesco|Richard Wagner|Robert Carsen|Stimme des Waldvogels|“Siegfried”
+VALERIANO LANCHAS|"Cyrano de Bergerac"|Franco Alfano|Lignière/Il moschettiere|Madrid, Teatro Real|Pedro Halffter|Petrika Ionesco
+NAUZET VALERON|"Cyrano de Bergerac"|Franco Alfano|Madrid, Teatro Real|Pedro Halffter|Petrika Ionesco|Prima sentienella
+GÉRARD BOUCARON|"Cyrano de Bergerac"|Franco Alfano|Madrid, Teatro Real|Montfleury|Pedro Halffter|Petrika Ionesco
+ANTONIO MAGNO|"Cyrano de Bergerac"|Franco Alfano|Madrid, Teatro Real|Pedro Halffter|Petrika Ionesco|Seconda sentinella
+FRANCISCO CORUJO|"Lucia di Lammermoor"|"Roméo et Juliette" di Gounod|-|Arena di Verona|Bilbao|Brescia, Teatro Grande|Carlo Montanaro|Charles Gounod|Damiano Michieletto|Edgardo|Emilio Sagi|Fabio Mastrangelo|Francesco Micheli|Gaetano Donizetti|Henning Brockhaus|Lord Arturo Bucklaw|Matteo Beltrami|Novara|Sir Edgardo</em> <em>di Ravenswood|Tybald|Tybalt|«Di ragion la trasse amore …». "Lucia di Lammermoor"
+LUDOVIC TEZIER|"Lucia di Lammermoor"|"Pikovaja Dama" (La dama di picche)|Bilbao|Carlo Montanaro|Dmitri Jurowski|Emilio Sagi|Enrico Asthon|Gaetano Donizetti|Lev Dodin|Parigi, Opéra Bastille|Principe Eletsky|Pëtr Il’ic Cajkovskij
+DORIS LAMPRECHT|"Cyrano de Bergerac"|"Otello"|Emilia|Franco Alfano|Friedrich Pleyer|Giuseppe Verdi|La governante/Soeur Marthe|Madrid, Teatro Real|Nadine Duffaut|Opéra di Marsiglia|Pedro Halffter|Petrika Ionesco
+MICHAEL FABIANO|"Cyrano de Bergerac"|"Lucia di Lammermoor"|Bilbao|Carlo Montanaro|Christian|Edgardo di Ravenswood|Emilio Sagi|Franco Alfano|Gaetano Donizetti|Madrid, Teatro Real|Pedro Halffter|Petrika Ionesco
+DIANA DAMRAU|"Lucia di Lammermoor"|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|"Rigoletto"|-|Antony Walker,Marco Armiliato,Fabio Luisi|Bilbao|Carlo Montanaro|David Mcvicar,Mark Morris,Otto Schenk|Emilio Sagi|Gaetano Donizetti|Gilda|Giuseppe Verdi|Giuseppe Verdi,Christoph Willibald Gluck|Lucia Ashton|Mary Zimmerman|Met|Metropolitan Opera|Michele Mariotti|Miss Lucia|Stefano Ranzani|Teatro alla Scala di Milano|Violetta Valéry|Yannick Nézet-séguin|“La Traviata”
+SIMÓN ORFILA|"Lucia di Lammermoor"|Bilbao|Carlo Montanaro|Emilio Sagi|Gaetano Donizetti|Raimondo Bidebent
+DAVID RUBIERA|"Ainadamar"|"Cyrano de Bergerac"|"Saint-Francois d'Assise"|-|Alejo Pérez|Franco Alfano|Frère Rufin|Giuseppe Frigeni|L'ufficiale spagnolo/Il cuoco|Madrid, Tearo Real|Madrid, Teatro Real|Osvaldo Golijov|Pedro Halffter|Peter Sellars|Petrika Ionesco|Sylvain  Cambreling|Un maestro
+MANUEL DE DIEGO|"Lucia di Lammermoor"|Bilbao|Carlo Montanaro|Emilio Sagi|Gaetano Donizetti|Normano
+tag|Petrika Ionesco|13
+tag|Madrid, Teatro Real|13
+tag|Franco Alfano|13
+tag|Pedro Halffter|13
+tag|"Cyrano de Bergerac"|13

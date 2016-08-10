@@ -1,0 +1,24 @@
+ROBERT  DEAN SMITH|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Tannhäuser|Teatro alla Scala|Zubin Mehta
+PETRI  LINDROSS|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Reimar von Zweiter|Teatro alla Scala|Zubin Mehta
+KIM JOSEPHSON|"Uno sguardo dal ponte"|David Levi|Eddi Carbone|Frank Galati|Roma, Teatro dell'Opera|William Bolcom
+JULIA  GERTSEVA|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Teatro alla Scala|Venus|Zubin Mehta
+AMANDA ROOCROFT|"Der Rosenkavalier"|"Uno sguardo dal ponte"|Beatrice Carbone|David Levi|David Mcvicar|Edward Gardner|Frank Galati|La Marescialla|Londra, English National Opera|Richard Strauss|Roma, Teatro dell'Opera|William Bolcom
+ADRIANA MORELLI|"Uno sguardo dal ponte"|A Woman|David Levi|Frank Galati|Roma, Teatro dell'Opera|William Bolcom
+ENRICO  COSSUTTA|"Tannhäuser"|"Uno sguardo dal ponte"|-|Carlus Padrissa – La Fura Dels Baus|David Levi|Frank Galati|Heinrich der Schreiber|Roma, Teatro dell'Opera|Second Immigration Officer|Teatro alla Scala|William Bolcom|Zubin Mehta
+ANJA  HARTEROS|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Elisabeth|Teatro alla Scala|Zubin Mehta
+MARTIN  HOMRICH|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Teatro alla Scala|Walther der Vogelweide|Zubin Mehta
+GEORG  ZEPPENFELD|"Don Giovanni"|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Hermann, Landgraf von Thuringen|Il Commendatore|Louis Langrée|Peter Mussbach|Teatro alla Scala|Zubin Mehta
+ROMAN  TERKEL|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Teatro alla Scala|Wolfram von Eschennach|Zubin Mehta
+MARIO BELLANOVA|"La Medium", "Gianni Schicchi"|"Uno sguardo dal ponte"|David Levi|First Immigration Officer|Frank Galati|Giacomo Puccini|Giulio Ciabatti|Guccio|Matteo Beltrami|Roma, Teatro dell'Opera|Trieste, Teatro Verdi|William Bolcom
+AMANDA SQUITIERI|"Uno sguardo dal ponte"|Catherine|David Levi|Frank Galati|Roma, Teatro dell'Opera|William Bolcom
+DALE TRAVIS|"Uno sguardo dal ponte"|David Levi|Frank Galati|Luis|Roma, Teatro dell'Opera|William Bolcom
+ELENA  CACCAMO|"A midsummer night's dream"|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Hirt|Peaseblossom|Robert Carsen|Sir Andrew Davis|Teatro alla Scala|Zubin Mehta
+EMANUELA LUCHETTI|"Madama Butterfly"|"Uno sguardo dal ponte"|David Levi|Frank Galati|Giacomo Puccini|Giorgio Ferrara|La zia|Old Woman|Pinchas Steinberg|Roma, Teatro dell'Opera|Roma,Teatro dell'Opera|William Bolcom
+GREGORY BONFATTI|"Candide"|"Carmen"|"I Lombardi alla prima crociata"|"Il Corsaro"|"La Gioconda"|"Madama Butterfly"|"Samson et Dalila"|"Turandot"|"Uno sguardo dal ponte"|"Čerevički"|-|Amilcare Ponchielli|Ancona, Teatro delle Muse|Andrea Cigni|Arnaud Bernard|Benjamin Bayl|Cagliari, Teatro Lirico|Camille Saint-saëns|Carlo Montanaro|Carlus Padrissa/la Fura Dels Baus|Charles Dutoit|Damiano Michieletto|Daniele Callegari|David Levi|Donato Renzetti|Fano, Teatro della Fortuna|Festival Verdi 2008|Francesco Ivan Ciampa|Frank Galati|Georges Bizet|Giacomo Puccini|Giampaolo Bisanti|Giuseppe Verdi|Goro|Il Dancaïre|Inquisitor I,  Charles Edward|Isèpo|Lamberto Pugelli|Leonard Bernstein|Lorenzo Mariani|Marco Guidarini|Matteo Beltrami,Luca Sirigu|Non piangere'... c'è Liù|Opera di Roma|Panas|Pang|Pang,gran cuciniere|Parma, Teatro Regio|Pier Francesco Maestrini|Pier Luigi Pizzi|Pierluigi Pizzi|Pinchas Steinberg|Primo Filisteo|Pëtr Il’ič Čajkovskij|Roberto Abbado|Roberto De Simone|Roma, Teatro dell'Opera|Rustighello|Selimo|Teatro Comunale di Sassari|Teatro Lirico di Cagliari|Tony|Torino, Teatro Regio|Un Priore|Wayne Marshall|William Bolcom|Yuri Alexandrov|una "Lucrezia Borgia" di successo
+PATRIZIO SAUDELLI|"Il Naso"|"Il Viaggio a Reims"|"Uno sguardo dal ponte"|Alejo Perez|David Levi|Davide Fromisano|Dmitrij Šostakovič|Frank Galati|Luca Ronconi|Mike|Opera di Roma|Ottavio Dantone|Peter Stein|Roma, Teatro dell'Opera|Secondo conoscente di Kovalĕv|Teatro alla Scala|William Bolcom|Zefirino
+MARLIN MILLER|"Death in Venice"|"Don Giovanni"|"Lulu"|"Uno sguardo dal ponte"|-|Alban Berg|Benjamin Britten|Bruno Bartoletti|Damiano Michieletto,Luca Scarzella|David Levi|Der Neger|Don Ottavio|Frank Galati|Gustav von Aschenbach|Michael Schonwandt|Parigi, Opéra Bastille|Pier Luigi Pizzi|Rodolpho|Roma, Teatro dell'Opera|Teatro La Fenice|Venezia, Teatro La Fenice|William Bolcom|Willy Decker|Wolfgang Amadeus Mozart
+tag|Frank Galati|11
+tag|William Bolcom|11
+tag|Roma, Teatro dell'Opera|11
+tag|David Levi|11
+tag|"Uno sguardo dal ponte"|11

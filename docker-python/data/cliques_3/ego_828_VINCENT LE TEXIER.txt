@@ -1,0 +1,26 @@
+ARMELLE KHOURDOÏAN|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Laurent Pelly|Le feu, la princesse, le rossignol|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala
+ELISSA HUBER|"L’heure espagnole" '-- "L’enfant et les sortilèges"|La chouette|Laurent Pelly|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala
+GERHARD SIEGEL|"Das Rheingold"|"Saint-Francois d'Assise"|"Wozzeck"|-|Andrea Moses|Fabio Luisi|Frère  Elie|Giuseppe Frigeni|Gran Teatre del Liceu di Barcelona|Il Capitano|Il capitano|James Levine|Josep Pons,Robert Carsen|Madrid, Teatro Real|Mark Lamos|Metropolitan Opera|Michael Schønwandt|Mime|Richard Wagner|Robert Carsen|Robert Lepage|Staatsoper Stuttgart|Sylvain  Cambreling|“Siegfried”
+CHIARA TIROTTA|"La Cenerentola"|"La cena delle beffe"|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Carlo Rizzi|Gioachino Rossini|Laldomine|Laurent Pelly|Marc Minkowski|Mario Martone|Maurice Ravel|Milano, Teatro alla Scala|Paolo Panizza|Sebastiano Rolli|Tisbe|Umberto Giordano|Un pâtre|Verona, Teatro Filarmonico
+FWIARD WITHOLT|"Saint-Francois d'Assise"|-|Frère</em> <em>Léon|Giuseppe Frigeni|Léon|Madrid, Teatro Real|Sylvain  Cambreling
+FATMA SAID|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Laurent Pelly|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala|Une pastourelle
+ANNA DEVIN|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Laurent Pelly|Maman, la tasse chinoise, la libellule|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala
+MARIANNE CREBASSA|"Lulu"|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Alban Berg|Die Kunstgewerblerin|Laurent Pelly|L’enfant|Marc Minkowski|Maurice Ravel|Michael Schonwandt|Milano, Teatro alla Scala|Parigi, Opéra Bastille|Willy Decker
+JERÔME VARNIER|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Laurent Pelly|Le fauteuil, un arbre|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala
+JEAN-PAUL FOUCHÉRON|"L’heure espagnole" '-- "L’enfant et les sortilèges"|La théière, le petir vieillard, la rainette|Laurent Pelly|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala|Torquemada
+CAMILLA TILLING|"Pelléas et Mélisande"|"Saint-Francois d'Assise"|-|Claude Debussy|Giuseppe Frigeni|L'Ange|Madrid, Teatro Real|Mélisande|Robert Wilson|Sylvain Cambreling|Sylvain  Cambreling
+MICHAEL KÖNIG|"Boris Godunov"|"Fidelio"|"Lady Macbeth del distretto di Mzesnk"|"Saint-Francois d'Assise"|-|Bert Neumann|Dimitrij Sostakovic|Florestan|Giuseppe Frigeni|Grigorij (il falso Dimitrij)|Hartmut Haenchen|Johan Simons|Jossi Wieler, Sergio Morabito|Le Lépreux|Madrid, Teatro Real|Martin Kušej|Sergej|Staatsoper Stuttgart|Sylvain  Cambreling
+YANN BEURON|"La Vestale"|"La clemenza di Tito"|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Bruxelles, Théâtre La Monnaie|Eric Lacascade|Gaspare Spontini|Gonzalve|Laurent Pelly|Licinius|Madrid, Teatro Real|Marc Minkowski|Martino Faggiani,Alessandro De Marchi,Benoît Giaux|Maurice Ravel|Milano, Teatro alla Scala|Thomas Hengelbrock|Tito|Ursel|Wolfgang Amadeus Mozart
+STÉPHANIE D’OUSTRAC|"Le comte Ory"|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Frédéric Bélier-garcia|Gioachino Rossini|Isolier|La chatte, l’écureuil|Laurent Pelly|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala|Opéra di Marsiglia|Roberto Rizzi Brignoli
+VINCENT LE TEXIER|"L’heure espagnole" '-- "L’enfant et les sortilèges"|"Saint-Francois d'Assise"|-|Don Iñigo Gomez|Giuseppe Frigeni|Laurent Pelly|Madrid, Teatro Real|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala|Saint-Francois|Sylvain  Cambreling
+JESÚS CARAMÉS|"Saint-Francois d'Assise"|-|Giuseppe Frigeni|L´ombra dal lebbroso|Madrid, Teatro Real|Sylvain  Cambreling
+JEAN-LUC BALLESTRA|"L’heure espagnole" '-- "L’enfant et les sortilèges"|"Pelléas et Mélisande"|Claude Debussy|Laurent Pelly|L’orologe comptolse, le chat|Madrid, Teatro Real|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala|Ramiro|Robert Wilson|Sylvain Cambreling|Un medico
+TOM RANDLE|"Saint-Francois d'Assise"|-|Frère Massée|Giuseppe Frigeni|Madrid, Teatro Real|Sylvain  Cambreling
+DAVID RUBIERA|"Ainadamar"|"Cyrano de Bergerac"|"Saint-Francois d'Assise"|-|Alejo Pérez|Franco Alfano|Frère Rufin|Giuseppe Frigeni|L'ufficiale spagnolo/Il cuoco|Madrid, Tearo Real|Madrid, Teatro Real|Osvaldo Golijov|Pedro Halffter|Peter Sellars|Petrika Ionesco|Sylvain  Cambreling|Un maestro
+VLADIMIR KAPSHUK|"Saint-Francois d'Assise"|-|Frère Sylvestre|Giuseppe Frigeni|Madrid, Teatro Real|Sylvain  Cambreling
+tag|Maurice Ravel|12
+tag|Marc Minkowski|12
+tag|Milano, Teatro alla Scala|12
+tag|"L’heure espagnole" '-- "L’enfant et les sortilèges"|12
+tag|Laurent Pelly|12
+tag|Madrid, Teatro Real|11

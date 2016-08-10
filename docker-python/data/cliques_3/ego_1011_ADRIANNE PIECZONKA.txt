@@ -1,0 +1,21 @@
+VINCENTE OMBUENA|"Der fliegende Holländer"|Gianandrea Noseda|Il timoniere di Daland|Richard Wagner|Stefan Heinrichs|Torino, Teatro Regio
+MARK S. DOSS|"Der fliegende Holländer"|"Eine florentinische tragödie/Gianni Schicchi"|"L'Olandese volante"|"The Bassarids"|-|Alexander Zemlinsky,Giacomo Puccini|Amonasro|Bologna, Teatro Comunale|Cadmus|Calixto Bieito|Der Holländer|Escamillo|Georges Bizet|Gianandrea Noseda|Gianandrea Noseda,Saverio Santoliquido|Hans Werner Henze|La liberté!» Carmen al Regio di Torino|L’Olandese|Mario Martone|Richard Wagner|Saverio Santoliquido,Yutaka Sado|Simone|Stefan Anton Reck|Stefan Heinrichs|Stefan Soltesz|Teatro Regio|Teatro Regio di Torino|Teatro dell'Opera di Roma|Torino, Teatro Regio|Vittorio Borrelli|William Friedkin|Yannis Kokkos,Stephan Grögler|«Et surtout la chose enivrante|“Aida”
+FRANZ MAZURA|"Elektra"|Der Pfleger des Orest|Maestro Del Coro|Patrice Ch|Richard Strauss|Teatro alla Scala di Milano
+STEPHEN GOULD|"Der fliegende Holländer"|Erik|Gianandrea Noseda|Richard Wagner|Stefan Heinrichs|Torino, Teatro Regio
+EVELYN HERLITZIUS|"Elektra"|"Lohengrin" alla Scala|"Parsifal"|-|Berlino, Deutsche Oper|Claus Guth|Daniel Barenboim|Donald Runnicles|Elektra|Giacomo Puccini|Kundry|La Principessa Turandot|Maestro Del Coro|Non piangere'... c'è Liù|Opera di Roma|Ortrud|Patrice Ch|Philipp Stölzl|Pinchas Steinberg|Piume di un cigno scomparso|Richard Strauss|Roberto De Simone|Teatro alla Scala di Milano
+CLAUDIA NICOLE BANDERA|"Der fliegende Holländer"|Gianandrea Noseda|Mary|Richard Wagner|Stefan Heinrichs|Torino, Teatro Regio
+ADRIANNE PIECZONKA|"Der fliegende Holländer"|"Elektra"|Chrysothemis|Gianandrea Noseda|Maestro Del Coro|Patrice Ch|Richard Strauss|Richard Wagner|Senta|Stefan Heinrichs|Teatro alla Scala di Milano|Torino, Teatro Regio
+RENATE BEHLE|"Elektra"|"Jenufa"|-|Calixto Bieito|Die Aufseherin / Die Vertraute|La vecchia Buryjovka|Maestro Del Coro|Patrice Ch|Richard Strauss|Staatsoper Stuttgart|Sylvain Cambreling|Teatro alla Scala di Milano
+SILVIA HABLOWETZ|"Elektra"|Dritte Magd|Maestro Del Coro|Patrice Ch|Richard Strauss|Teatro alla Scala di Milano
+DONALD MCINTYRE|"Elektra"|Ein alter Diener|Maestro Del Coro|Patrice Ch|Richard Strauss|Teatro alla Scala di Milano
+WALTRAUD MEIER|"Die Walküre"|"Elektra"|"Wozzeck"|-|Daniel Barenboim|Guy Cassiers|James Levine|Klytämnestra|Maestro Del Coro|Marie|Mark Lamos|Metropolitan Opera|Milano, Teatro alla Scala|Patrice Ch|Richard Strauss|Sieglinde|Teatro alla Scala di Milano
+BONITA HYMAN|"Elektra"|Erste Magd|Maestro Del Coro|Patrice Ch|Richard Strauss|Teatro alla Scala di Milano
+MARIE-EVE MUNGER|"Elektra"|Maestro Del Coro|Patrice Ch|Richard Strauss|Teatro alla Scala di Milano|Vierte Magd
+ANDREA HILL|"Elektra"|"Lulu"|Alban Berg|Ein Groom|Maestro Del Coro|Michael Schonwandt|Parigi, Opéra Bastille|Patrice Ch|Richard Strauss|Teatro alla Scala di Milano|Willy Decker|Zweite Magd / Die Schleppträgerin
+RENÉ PAPE|"Elektra"|"Lohengrin" alla Scala|"Parsifal"|-|Asher Fisch|Claus Guth|Daniel Barenboim|Fabio Luisi|Filippo II, re di Spagna|François Girard|Giuseppe Verdi|Gurnemanz|Heinrich der Vogler|Maestro Del Coro|Milano, Teatro alla Scala|New York, Metropolitan|Orest|Patrice Ch|Piume di un cigno scomparso|Richard Strauss|Stéphane Braunschweig|Teatro alla Scala di Milano|“Don Carlo”
+MICHAEL PFLUMM|"Elektra"|-|Ein junger Diener|Il giovane nudo|Lothar Koenigs|Maestro Del Coro|Patrice Ch|Philippe Jordan|Richard Strauss|Romeo Castellucci|Teatro Real di Madrid|Teatro alla Scala di Milano|Un giovane nudo/un uomo|“Moses und Aron”
+tag|Patrice Ch|12
+tag|"Elektra"|12
+tag|Richard Strauss|12
+tag|Maestro Del Coro|12
+tag|Teatro alla Scala di Milano|12

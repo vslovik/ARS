@@ -1,0 +1,23 @@
+SARAH PRING|"La volpe astuta"|Festival di Glyndebourne|La moglie dell’oste|Leóš Janáček|Melly Still|Vladimir Jurowski
+COLIN JUDSON|"La volpe astuta"|"The Rake's Progress"|David Mcvicar|Festival di Glyndebourne|Gianandrea Noseda|Igor Fëdorovič Stravinskij|Leóš Janáček|Melly Still|Pásek, oste|Regio di Torino|Sellem|Vladimir Jurowski
+EMMA BELL|"La volpe astuta"|"The Turn of the Screw"|Benjamin Britten|David Mcvicar|Festival di Glyndebourne|Josep Pons|L'istitutrice|La Volpe maschio|Leóš Janáček|Madrid,Teatro Real|Melly Still|Vladimir Jurowski
+SERGEI LEIFERKUS|"La volpe astuta"|Festival di Glyndebourne|Il Guardacaccia|Leóš Janáček|Melly Still|Vladimir Jurowski
+JEAN RIGBY|"La volpe astuta"|Festival di Glyndebourne|La moglie del Guardacaccia / Gufo|Leóš Janáček|Melly Still|Vladimir Jurowski
+ELENA KELESSIDI|"La Cerisaie" (Il giardino dei ciliegi)|Georges Lavaudant|Ljouba|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini
+IGOR GOLOVATENKO|"La Cerisaie" (Il giardino dei ciliegi)|"Rigoletto"|"Un ballo in maschera"|-|Bergamo, Teatro Donizetti|Carlo Rizzari|Georges Lavaudant|Giuseppe Verdi|Ivan Stefanutti|Lopakhine|Parigi, Palais Garnier|Philippe Fénelon|Renato|Renato, suo segretario e sposo di|Rigoletto|Rolando Panerai|Rovigo, Teatro Sociale|Savona, Complesso Monumentale del Priamar|Stefano Romani|Tito Ceccherini
+ALEXEY TATARINTSEV|"La Cerisaie" (Il giardino dei ciliegi)|Georges Lavaudant|Iacha|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini
+MARAT GALI|"La Cerisaie" (Il giardino dei ciliegi)|Georges Lavaudant|Lionia|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini
+KSENIA VYZNIKOYA|"La Cerisaie" (Il giardino dei ciliegi)|Firs|Georges Lavaudant|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini
+ALEXANDRA KADURINA|"La Cerisaie" (Il giardino dei ciliegi)|Georges Lavaudant|Gricha|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini
+MISCHA SCHELOMIANSKI|"La Cerisaie" (Il giardino dei ciliegi)|"La volpe astuta"|Carlotta|Festival di Glyndebourne|Georges Lavaudant|Il Curato / Il Tasso|Leóš Janáček|Melly Still|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini|Vladimir Jurowski
+JULIE MATHEVET|"La Cerisaie" (Il giardino dei ciliegi)|"Lulu"|Alban Berg|Eine Fünfzehnjährige|Georges Lavaudant|Michael Schonwandt|Parigi, Opéra Bastille|Parigi, Palais Garnier|Philippe Fénelon|Quattro fanciulle|Tito Ceccherini|Willy Decker
+ANNA KRANIKOVA|"La Cerisaie" (Il giardino dei ciliegi)|Georges Lavaudant|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini|Varia
+SVETLANA LIFAR|"La Cerisaie" (Il giardino dei ciliegi)|Douniacha|Georges Lavaudant|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini
+ADRIAN THOMPSON|"Da una casa di morti"|"Der Rosenkavalier"|"La volpe astuta"|-|David Mcvicar|Edward Gardner|Festival di Glyndebourne|Il Maestro / La Zanzara|Il detenuto grande|Leóš Janáček|Londra, English National Opera|Martin Bárta,Marko Letonja|Melly Still|Richard Strauss|Robert Carsen|Strasburgo|Valzacchi|Vladimir Jurowski
+THOMAS BETTINGER|"La Cerisaie" (Il giardino dei ciliegi)|Georges Lavaudant|Parigi, Palais Garnier|Philippe Fénelon|Tito Ceccherini|Un ospite
+WILLIAM DAZELEY|"La volpe astuta"|Festival di Glyndebourne|Harašta, venditore ambulante|Leóš Janáček|Melly Still|Vladimir Jurowski
+tag|Georges Lavaudant|11
+tag|"La Cerisaie" (Il giardino dei ciliegi)|11
+tag|Tito Ceccherini|11
+tag|Philippe Fénelon|11
+tag|Parigi, Palais Garnier|11

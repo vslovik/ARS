@@ -1,0 +1,46 @@
+CAROL GARCÍA|"L'Italiana in Algeri"|Gioachino Rossini|Giuliano Carella|Nicola Berloffa|Opéra di Marsiglia|Zulma
+SOPHIE PONDJICLIS|"La Chartreuse de Parme"|Henri Sauguet|Lawrence Foster|Opéra de Marseille|Renée Auphan|Théodolinde
+JEAN-PHILIPPE LAFONT|"La Chartreuse de Parme"|"Manon"|"Werther"|Emmanuel Villaume|Fabio Luisi|Général Fabio Conti|Henri Sauguet|Il borgomastro|Jules Massenet|Laurent Pelly|Lawrence Foster|Le Conte Des Grieux|Madrid, Teatro Real|Milano, Teatro alla Scala|Opéra de Marseille|Renée Auphan|Willy Decker
+ANAÏS CONSTANS|"La Chartreuse de Parme"|Henri Sauguet|Lawrence Foster|Opéra de Marseille|Renée Auphan|Une voix
+NICOLAS CAVALLIER|"Elektra"|"La Chartreuse de Parme"|"La Favorite"|-|Balthazar|Charles Roubaud|Comte Mosca della Rovere|Henri Sauguet|Jacques Lacombe|Lawrence Foster|Monaco (Monte-Carlo)|Opéra de Marseille|Opéra di Marsiglia|Orest|Renée Auphan|Richard Strauss
+SEBASTIEN GUÈZE|"La Chartreuse de Parme"|Fabrice del Dongo|Henri Sauguet|Lawrence Foster|Opéra de Marseille|Renée Auphan
+MARIE-ANGE TODOROVITCH|"Der Fliegende Holländer"|"Elektra"|"L'Italiana in Algeri"|"La Chartreuse de Parme"|"Le comte Ory"|-|Charles Roubaud|Frédéric Bélier-garcia|Gina, duchesse de Sanseverina|Gioachino Rossini|Giuliano Carella|Henri Sauguet|Isabella|Klytämnestra|Lawrence Foster|Les Chorégies d'Orange|Mary, nutrice di Senta|Mikko Franck|Nicola Berloffa|Opéra de Marseille|Opéra di Marsiglia|Ragonde|Renée Auphan|Richard Strauss|Roberto Rizzi Brignoli
+ANTOINE GARCIN|"La Chartreuse de Parme"|"Les Troyens"|-|Henri Sauguet|Lawrence Foster|Le Maréchal des logis / Un gendarme|Marsiglia, Opéra Municipal|Opéra de Marseille|Prètre de Pluton / 2ème sentinelle|Renée Auphan
+ÉRIC HUCHET|"La Chartreuse de Parme"|Henri Sauguet|Lawrence Foster|Ludovic / une voix de ténor|Opéra de Marseille|Renée Auphan
+ANNE-MARGUERITE WERSTER|"Elektra"|Charles Roubaud|Die Aufseherin|Opéra di Marsiglia|Richard Strauss
+FLORENCE LAURENT|"Elektra"|Charles Roubaud|Die Schleppträgerin|Opéra di Marsiglia|Richard Strauss
+BRUNO COMPARETTI|"La Chartreuse de Parme"|Henri Sauguet|Lawrence Foster|Opéra de Marseille|Renée Auphan|Un gendarme / une voix de ténor
+RICARDA MERBERTH|"Elektra"|Charles Roubaud|Chrysothemis|Opéra di Marsiglia|Richard Strauss
+ENDRICK WOTTRICK|"Der Fliegende Holländer"|-|Charles Roubaud|Erik, cacciatore|Les Chorégies d'Orange|Mikko Franck
+FRÉDÉRIC LEROY|"La Chartreuse de Parme"|Henri Sauguet|Lawrence Foster|Opéra de Marseille|Renée Auphan|Un geôlier / une voix
+EGILS SILLINS|"Der Fliegende Holländer"|-|Charles Roubaud|L'Olandese|Les Chorégies d'Orange|Mikko Franck
+MARC BARRARD|"L'Italiana in Algeri"|"La Bohème"|"Les Troyens"|"Pelléas et Mélisande"|"Turandot"|-|Buenos Aires, Teatro Colón|Charles Roubaud|Chorèbe /Le spectre de Chorèbe|Chorégies d'Orange|Claude Debussy|Emmanuel Villaume|Giacomo Puccini|Gioachino Rossini|Giuliano Carella|Golaud|Jean-louis Pichon|Lawrence Foster|Marcello|Mark Shanahan|Marsiglia, Opéra Municipal|Michel Plasson|Nicola Berloffa|Olivia Fuchs|Opéra de Marseille|Opéra di Marsiglia|Ping|Taddeo
+FRÉDÉRIC ANTOUN|"L'Italiana in Algeri"|Gioachino Rossini|Giuliano Carella|Lindoro|Nicola Berloffa|Opéra di Marsiglia
+ANN PETERSEN|"Der Fliegende Holländer"|"Lohengrin"|-|Buenos Aires, Teatro Colón|Charles Roubaud|Elsa von Brabant|Ira Levin|Les Chorégies d'Orange|Mikko Franck|Roberto Oswald|Senta, sua figlia
+JEANNE-MICHÈLE CHARBONNET|"Elektra"|"Lady Macbeth del distretto di Mzesnk"|Charles Roubaud|Dimitrij Sostakovic|Elektra|Firenze, Teatro Comunale|James Conlon|Katerina Izmajlova|Lev Dodin|Opéra di Marsiglia|Richard Strauss
+ANNICK MASSIS|"Il Viaggio a Reims"|"Le comte Ory"|Contessa di Folleville|Davide Fromisano|Frédéric Bélier-garcia|Gioachino Rossini|La Comtesse Adèle|Luca Ronconi|Opéra di Marsiglia|Ottavio Dantone|Roberto Rizzi Brignoli|Teatro alla Scala
+NICOLAS COURJAL|"La Bohème"|"Le comte Ory"|"Un ballo in maschera"|Alain Altinoglu|Colline|Frédéric Bélier-garcia|Giacomo Puccini|Gioachino Rossini|Giuseppe Verdi|Horn|Jean-claude Auvray|Jean-louis Pichon|Le gouverneur|Les Chorégies d'Orange|Mark Shanahan|Opéra de Marseille|Opéra di Marsiglia|Roberto Rizzi Brignoli
+PATRICK DELCOUR|"L'Italiana in Algeri"|Gioachino Rossini|Giuliano Carella|Haly|Nicola Berloffa|Opéra di Marsiglia
+SIMONA CARESSA|"Elektra"|Charles Roubaud|Dritte Magd|Opéra di Marsiglia|Richard Strauss
+MARIANNE POBBIG|"Elektra"|Charles Roubaud|Die Vertraute|Opéra di Marsiglia|Richard Strauss
+SANDRINE  EYGLIER|"Elektra"|Charles Roubaud|Fünfte Magd|Opéra di Marsiglia|Richard Strauss
+AVI KLEMBERG|"Elektra"|Charles Roubaud|Ein junger diener|Opéra di Marsiglia|Richard Strauss
+CHRSTINE TOCCI|"Elektra"|Charles Roubaud|Opéra di Marsiglia|Richard Strauss|Zweite Magd
+BÉNÉDICTE ROUSSENQ|"Elektra"|Charles Roubaud|Opéra di Marsiglia|Richard Strauss|Vierte Magd
+ALEX ESPOSITO|"Anna Bolena"|"Die Zauberflöte"|"Don Giovanni"|"L'Elisir d'amore"|"L'Italiana in Algeri"|"La clemenza di Tito" inaugura la nuova stagione|"La gazza ladra"|"Les contes d'Hoffmann"|"The rake's progress"|-|Alessandro Talevi|Altea|Ancona, Teatro delle Muse|Antonello Manacorda|Bergamo, Teatro Donizetti|Bruno Campanella|Christoph Marthaler|Corrado Rovaris|Damiano Michieletto|Damiano Michieletto,Luca Scarzella|Daniele Abbado|Davide Livermore|Diego Matheuz|Dulcamara|Enrico VIII|Faraone|Fernando|Gaetano Donizetti|Gioachino Rossini|Giuliano Carella|Graham Vick|Igor Stravinskij|Il Duca Alfonso|Ivo Van Hove|Jacques Offenbach|Josè Ramon Encinar|La Monnaie di Bruxelles|Leporello|Lindorf / Coppélius / Docteur Miracle / Dapertutto|Lodovic Morlot|Louis Langrée|Lü Ja|Marco Guidarini|Mustafà|Nick Shadow|Nicola Berloffa|Opera di Roma|Opéra di Marsiglia|Papageno|Pesaro, Rossini Opera Festival 2007|Peter Mussbach|Petruzzelli di Bari|Publio|ROF|Roberto Abbado|Roland B|Ruggero Cappuccio|Staatsoper Stuttgart|Stefano Montanari|Teatro La Fenice|Teatro La Fenice di Venezia|Teatro alla Scala|Venezia, Teatro La Fenice|Wolfgang Amadeus Mozart|una "Lucrezia Borgia" di successo
+STEVE DAVISLIM|"Der Fliegende Holländer"|-|Charles Roubaud|Il timoniere di Daland|Les Chorégies d'Orange|Mikko Franck
+NATHALIE MANFRINO|"La Bohème"|"La Chartreuse de Parme"|"La Traviata"|Clélia Conti|Giacomo Puccini|Giuseppe Verdi|Henri Sauguet|Hugo De Hana|Jean-louis Pichon|Lawrence Foster|Mark Shanahan|Mimì|Opéra de Marseille|Padova, Teatro Verdi|Renée Auphan|Steven Mercurio|Violetta Valéry
+CHRISTOPHE FEL|"Elektra"|"La forza del destino"|Charles Roubaud|Ein alte diener|Giuseppe Verdi|Jean-claude Auvray|Opéra di Marsiglia|Parigi, Opéra|Philippe Jordan|Richard Strauss|Un alcade
+MARC LAHO|"Le comte Ory"|"Les contes d'Hoffmann"|Altea|Christoph Marthaler|Frédéric Bélier-garcia|Gioachino Rossini|Hoffmann|Jacques Offenbach|Le Comte Ory|Opéra di Marsiglia|Roberto Rizzi Brignoli|Staatsoper Stuttgart
+STÉPHANIE D’OUSTRAC|"Le comte Ory"|"L’heure espagnole" '-- "L’enfant et les sortilèges"|Frédéric Bélier-garcia|Gioachino Rossini|Isolier|La chatte, l’écureuil|Laurent Pelly|Marc Minkowski|Maurice Ravel|Milano, Teatro alla Scala|Opéra di Marsiglia|Roberto Rizzi Brignoli
+JEAN-FRANÇOIS LAPOINTE|"Cléopâtre"|"Le comte Ory"|Charles Roubaud|Frédéric Bélier-garcia|Gioachino Rossini|Jules Massenet|Lawrence Foster|Marc Antoine|Marsiglia, Opéra Municipal|Opéra di Marsiglia|Rimbaud|Roberto Rizzi Brignoli
+tag|Opéra di Marsiglia|23
+tag|Charles Roubaud|19
+tag|"Elektra"|13
+tag|Richard Strauss|13
+tag|Lawrence Foster|13
+tag|Opéra de Marseille|13
+tag|Gioachino Rossini|11
+tag|Henri Sauguet|11
+tag|"La Chartreuse de Parme"|11
+tag|Renée Auphan|11

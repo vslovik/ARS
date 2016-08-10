@@ -1,0 +1,22 @@
+SAMUEL YOUN|"Elektra"|"Salome"|Gran Teatre del Liceu di Barcelona|Gunther|Jochanaan|Josep Pons|Klaus Michael Grüber|Madrid, Teatro Real|Manfred Schweigkofler|Modena, Teatro Comunale|Niksa Bareza|Orest|Richard Strauss|Richard Wagner|Robert Carsen|Semyon Bychkov|“Götterdämmerung”
+CATHERINE FOSTER|"Nabucco"|Abigaille|Brünnhilde|Giuliano Carella|Giuseppe Verdi|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|Richard Wagner|Robert Carsen|Rudolf Frey|Staatsoper Stuttgart|“Siegfried”
+GERHARD SIEGEL|"Das Rheingold"|"Saint-Francois d'Assise"|"Wozzeck"|-|Andrea Moses|Fabio Luisi|Frère  Elie|Giuseppe Frigeni|Gran Teatre del Liceu di Barcelona|Il Capitano|Il capitano|James Levine|Josep Pons,Robert Carsen|Madrid, Teatro Real|Mark Lamos|Metropolitan Opera|Michael Schønwandt|Mime|Richard Wagner|Robert Carsen|Robert Lepage|Staatsoper Stuttgart|Sylvain  Cambreling|“Siegfried”
+ANDREAS HÖRL|-|Fafner|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|Lothar Koenigs|Richard Wagner|Robert Carsen|Romeo Castellucci|Teatro Real di Madrid|Un sacerdote|“Moses und Aron”|“Siegfried”
+LANCE RYAN|Gran Teatre del Liceu di Barcelona|Josep Pons|Josep Pons,Robert Carsen|Richard Wagner|Robert Carsen|Siegfried|“Götterdämmerung”|“Siegfried”
+ISABELLA GAUDÍ|-|Da Lorca a Sotelo|Gran Teatre del Liceu di Barcelona|Josep Pons|Julieta / Niño|Pablo Heras-casado|Richard Wagner|Robert Carsen|Robert Castro|Woglinde|prima mondiale di “El Público” a Madrid|“Götterdämmerung”
+HANS-PETER KÖNIG|"Götterdämmerung"|-|Fabio Luisi|Gran Teatre del Liceu di Barcelona|Hagen|Josep Pons|NYC, The Metropolitan Opera|Richard Wagner|Robert Carsen|“Götterdämmerung”
+CRISTINA FAUS|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Gran Teatre del Liceu di Barcelona|Josep Pons|Madrid, Teatro de La Zarzuela|Manuela|Miquel Ortega|Prima Norma|Richard Wagner|Robert Carsen|“Götterdämmerung”
+JACQUELYN WAGNER|"Die Walküre"|-|Firenze, Teatro Comunale|Gran Teatre del Liceu di Barcelona|Gutrune|Josep Pons|La Fura Dels Baus (carlus Padrissa)|Ortlinde|Richard Wagner|Robert Carsen|Terza Norna|Zubin Mehta|“Götterdämmerung”
+MARIA RADNER|"Die Walküre"|-|Anna|David Mcvicar|Erda|Firenze, Teatro Comunale|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|La Fura Dels Baus (carlus Padrissa)|La Storia Esecutiva E La Ricezione Dei|Richard Wagner|Robert Carsen|Scala "Les Troyens" di Hector Berlioz|Schwertleite|Trionfano|Zubin Mehta|“Siegfried”
+IRÉNE THEORIN|"Götterdämmerung"|-|Brünnhilde|Graham Vick|Gran Teatre del Liceu di Barcelona|Josep Pons|Palermo, Teatro Massimo|Richard Wagner|Robert Carsen|Stefan Anton Reck,Graham Vick|“Götterdämmerung”
+ANN ALÀS I JOVÉ|Gran Teatre del Liceu di Barcelona|Josep Pons|Richard Wagner|Robert Carsen|Wellgunde|“Götterdämmerung”
+CRISTINA TOLEDO|"Cyrano de Bergerac"|Franco Alfano|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|Lise/Una suora|Madrid, Teatro Real|Pedro Halffter|Petrika Ionesco|Richard Wagner|Robert Carsen|Stimme des Waldvogels|“Siegfried”
+MARINA PINCHUK|Flosshilde|Gran Teatre del Liceu di Barcelona|Josep Pons|Richard Wagner|Robert Carsen|“Götterdämmerung”
+MICHAELA SCHUSTER|Gran Teatre del Liceu di Barcelona|Josep Pons|Richard Wagner|Robert Carsen|Waltraute|“Götterdämmerung”
+PILAR VÁZQUEZ|"Boris Godunov"|"Der fliegende Holländer”|"Die Walküre"|-|David Afkham|Firenze, Teatro Comunale|Gran Teatre del Liceu di Barcelona|Hartmut Haenchen|Johan Simons|Josep Pons|L'ostessa|La Fura Dels Baus (carlus Padrissa)|Madrid, Teatro Real|Mary|Richard Wagner|Robert Carsen|Seconda Norna|Waltraute|Zubin Mehta|’Auditorio Nacional di Madrid|“Götterdämmerung”
+GREER GRIMSLEY|-|Charles Tim Buck,Asher Fisch|Der Wanderer|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|Richard Wagner|Robert Carsen|Seattle|Stephen Wadsworth|Wotan|un "Ring" che avrebbe reso Wagner orgoglioso|“Siegfried”
+tag|Richard Wagner|17
+tag|Gran Teatre del Liceu di Barcelona|17
+tag|Robert Carsen|17
+tag|“Götterdämmerung”|11
+tag|Josep Pons|11

@@ -1,0 +1,74 @@
+ADAM DIEGEL|"Das Rheingold"|-|Fabio Luisi|Froh|Metropolitan Opera|Robert Lepage
+ARNOLD BEZUYEN|"Das Rheingold"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Fabio Luisi|Heinrich der Schreiber|Loge|Metropolitan Opera|Robert Lepage
+FRANZ-JOSEF SELIG|"Das Rheingold"|-|Claus Guth,Anja Kampe|Fabio Luisi|Fasolt|Gurnemanz|Madrid, Teatro Real|Metropolitan Opera|Robert Lepage|Semyon Bychkov|“Parsifal”
+STEPHANIE BLYTHE|"Das Rheingold"|"Die Walküre"|-|Charles Tim Buck,Asher Fisch|Fabio Luisi|Fricka|James Levine|Metropolitan Opera|Robert Lepage|Seattle|Stephen Wadsworth|Waltraute/ Zweite Norn|un "Ring" che avrebbe reso Wagner orgoglioso
+JENNIFER JOHNSON|"Das Rheingold"|-|Fabio Luisi|Metropolitan Opera|Robert Lepage|Woglinde
+BRYN TERFEL|"Das Rheingold"|"Der fliegende Holländer”|"Die Walküre"|-|Andreas Homoki|Daniel Harding|David Afkham|Der Holländer|Deutsche Oper Berlin|Donald Runnicles|Fabio Luisi|Giuseppe Verdi|Gotz Friedrich|Hartmut Haenchen|James Levine|Metropolitan Opera|Richard Wagner|Robert Carsen|Robert Lepage|Sir John Falstaff|Wotan|’Auditorio Nacional di Madrid
+GERHARD SIEGEL|"Das Rheingold"|"Saint-Francois d'Assise"|"Wozzeck"|-|Andrea Moses|Fabio Luisi|Frère  Elie|Giuseppe Frigeni|Gran Teatre del Liceu di Barcelona|Il Capitano|Il capitano|James Levine|Josep Pons,Robert Carsen|Madrid, Teatro Real|Mark Lamos|Metropolitan Opera|Michael Schønwandt|Mime|Richard Wagner|Robert Carsen|Robert Lepage|Staatsoper Stuttgart|Sylvain  Cambreling|“Siegfried”
+LISETTE OROPESA|"Das Rheingold"|-|Fabio Luisi|Metropolitan Opera|Robert Lepage|Wellgunde
+HANS-PETER KÖNIG|"Götterdämmerung"|-|Fabio Luisi|Gran Teatre del Liceu di Barcelona|Hagen|Josep Pons|NYC, The Metropolitan Opera|Richard Wagner|Robert Carsen|“Götterdämmerung”
+EVA-MARIA WESTBROEK|"Die Walküre"|"Francesca da Rimini"|"La vedova allegra"|"Lady Macbeth del distretto di Mzesnk"|-|Ascher Fisch|David Kneuss|Dimitrij Sostakovic|Francesca|Franz Lehar|Hanna Glawari|Hartmut Haenchen|James Levine|Katerina Ismailova|Madrid, Teatro Real|Marco Armiliato|Martin Kušej|Met|Metropolitan Opera|Milano, Teatro alla Scala|Pier Luigi Pizzi|Riccardo Zandonai|Robert Lepage|Sieglinde
+RENÉE TATUM|"Götterdämmerung"|-|Charles Tim Buck,Asher Fisch|Flosshilde|Graham Vick|Grimgerde|Palermo, Teatro Massimo|Seattle|Stefan Anton Reck,Graham Vick|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+ANDREA SILVESTRELLI|-|Charles Tim Buck,Asher Fisch|Fasolt|Hunding|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+STEFAN VINKE|" Götterdämmerung"|-|Charles Tim Buck,Asher Fisch|Marc Soustrot|Peter Konwitschny|Seattle|Siegfried|Staatsoper Stuttgart|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+LORI PHILLIPS|-|Brünnhilde|Charles Tim Buck,Asher Fisch|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+ALWYN MELLOR|-|Brünnhilde|Charles Tim Buck,Asher Fisch|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+DANIEL SUMEGI|-|Charles Tim Buck,Asher Fisch|Fafner|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+LURETTA BYBEE|-|Charles Tim Buck,Asher Fisch|Erste Norn|Schwertleite|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+LUCILLE BEER|-|Charles Tim Buck,Asher Fisch|Erda|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+MARGARET JANE WRAY|-|Charles Tim Buck,Asher Fisch|Dritte Norn|Seattle|Sieglinde|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+TAMARA MUMFORD|"Das Rheingold"|"The magic flute"|-|Erik Nielsen|Fabio Luisi|Flosshilde|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|Robert Lepage|Terza Dama|Wolfgang Amadeus Mozart
+RUSSELL THOMAS|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Tamino|Wolfgang Amadeus Mozart
+BERNARD FITCH|"Capriccio"|"The magic flute"|Andrew Davis|Erik Nielsen|John Cox|Julie Taymor|Metropolitan Opera|Monsieur Taupe|NYC, Metropolitan Opera|Richard Strauss|Secondo Sacerdote|Wolfgang Amadeus Mozart
+RIC FURMAN|-|Charles Tim Buck,Asher Fisch|Froh|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+TAMARA MANCINI|"Turandot"|-|Bologna, Teatro Comunale|Charles Tim Buck,Asher Fisch|Fabio Mastrangelo|Giacomo Puccini|Ortlinde|Roberto De Simone|Seattle|Stephen Wadsworth|Turandot|un "Ring" che avrebbe reso Wagner orgoglioso
+DEBORAH VOIGT|"Götterdämmerung"|"La fanciulla|"La fanciulla del West"|-|Brünnhilde|Fabio Luisi|Giacomo Puccini|Giancarlo Del Monaco|Giuseppe Finzi|Lorenzo Mariani|Minnie|NYC, Metropolitan Opera|NYC, The Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|West" a San Francisco
+DWYNE CROFT|"Das Rheingold"|-|Donner|Fabio Luisi|Metropolitan Opera|Robert Lepage
+KELLY CAE HOGAN|"Die Walküre"|-|Gerhilde|James Levine|Metropolitan Opera|Robert Lepage
+EVE GIGLIOTTI|"Carmen"|"Die Walküre"|-|Edward Gardner|Georges Bizet|James Levine|Mercédès|Metropolitan Opera|New York, Metropolitan Opera|Richard Eyre|Robert Lepage|Siegrune
+JONAS KAUFMANN|"Aida"|"Die Walküre"|"Lohengrin" alla Scala|"Parsifal"|"Tosca"|-|Antonio Pappano|Asher Fisch|Cavaradossi|Claus Guth|Daniel Barenboim|François Girard|Giacomo Puccini|Giuseppe Verdi|James Levine|Lohengrin|Luc Bondy|Metropolitan Opera|Milano, Teatro alla Scala|New York, Metropolitan|Omer Meir Wellber|Parsifal|Piume di un cigno scomparso|Radamès|Robert Lepage|Roma, Accademia Nazionale di Santa Cecilia|Siegmund
+ALAN OKE|"Billy Budd"|"The magic flute"|Andrea Battistoni|Benjamin Britten|Davide Livermore|Edward Fairfax Vere|Erik Nielsen|Genova, Teatro Carlo Felice|Julie Taymor|Monostato|NYC, Metropolitan Opera|Wolfgang Amadeus Mozart
+HANS-PETER KOENIG|"Das Rheingold"|-|Fabio Luisi|Fafner|Metropolitan Opera|Robert Lepage
+PATRICIA BARDON|"Das Rheingold"|-|Erda|Fabio Luisi|Metropolitan Opera|Robert Lepage
+CECELIA HALL|-|Charles Tim Buck,Asher Fisch|Seattle|Stephen Wadsworth|Wellgunde|un "Ring" che avrebbe reso Wagner orgoglioso
+RENEE TATUM|"Götterdämmerung"|-|Fabio Luisi|Flosshilde|NYC, The Metropolitan Opera
+SARAH HELTZEL|-|Charles Tim Buck,Asher Fisch|Seattle|Siegrune|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+SUZANNE HENDRIX|-|Charles Tim Buck,Asher Fisch|Seattle|Stephen Wadsworth|Waltraute|un "Ring" che avrebbe reso Wagner orgoglioso
+DISELLA LARUSDOTTIR|"Götterdämmerung"|-|Fabio Luisi|NYC, The Metropolitan Opera|Woglinde
+DENNIS PETERSEN|-|Charles Tim Buck,Asher Fisch|Mime|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+JENNIFER JOHNSON CANO|"Götterdämmerung"|-|Alain Altinoglu|David Kneuss|Emilia|Fabio Luisi|Giuseppe Verdi|NYC, The Metropolitan Opera|New York, Metropolitan|Wellgunde|“Otello”
+JESSICA KLEIN|-|Charles Tim Buck,Asher Fisch|Helmwige|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+JAY HUNTER MORRIS|"Götterdämmerung"|-|Fabio Luisi|NYC, The Metropolitan Opera|Siegfried
+GREER GRIMSLEY|-|Charles Tim Buck,Asher Fisch|Der Wanderer|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|Richard Wagner|Robert Carsen|Seattle|Stephen Wadsworth|Wotan|un "Ring" che avrebbe reso Wagner orgoglioso|“Siegfried”
+IAIN PATERSON|"Daphne"|"Götterdämmerung"|-|Bruxelles, Théâtre  La Monnaie|Fabio Luisi|Gunther|Guy Joostens|Lothar Koenigs|NYC, The Metropolitan Opera|Peneios|Richard Strauss
+STUART SKELTON|"Parsifal"|"Wozzeck"|-|Charles Tim Buck,Asher Fisch|Claus Guth|Il Tamburmaggiore|James Levine|Mark Lamos|Metropolitan Opera|Mikko Franck|Parsifal|Seattle|Siegmund|Stephen Wadsworth|Zurigo,Opernhaus|un "Ring" che avrebbe reso Wagner orgoglioso
+JENNIFER ZETLAN|-|Charles Tim Buck,Asher Fisch|Seattle|Stephen Wadsworth|Woglinde|un "Ring" che avrebbe reso Wagner orgoglioso
+MARY PHILLIPS|"Die Walküre"|-|James Levine|Metropolitan Opera|Robert Lepage|Schwertleite
+MORRIS ROBINSON|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Sarastro|Wolfgang Amadeus Mozart
+JAMIE BARTON|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Seconda Dama|Wolfgang Amadeus Mozart
+NOAH SADIK|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Primo fanciullo|Wolfgang Amadeus Mozart
+JAMES COURTNEY|"The magic flute"|-|Dr. Grenvil|Erik Nielsen|Giuseppe Verdi|Julie Taymor|Met|NYC, Metropolitan Opera|Primo Sacerdote|Wolfgang Amadeus Mozart|Yannick Nézet-séguin|“La Traviata”
+NATHAN GUNN|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Papageno|Wolfgang Amadeus Mozart
+WENDY BRYN HARMER|"Das Rheingold"|"Die Walküre"|"Götterdämmerung"|"The magic flute"|-|Charles Tim Buck,Asher Fisch|Erik Nielsen|Fabio Luisi|Freia|Gerhilde|Gutrune|James Levine|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|NYC, The Metropolitan Opera|Ortlinde|Prima Dama|Robert Lepage|Seattle|Stephen Wadsworth|Wolfgang Amadeus Mozart|un "Ring" che avrebbe reso Wagner orgoglioso
+SUSANNA PHILLIPS|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Pamina|Wolfgang Amadeus Mozart
+ASHLEY EMERSON|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Papagena|Wolfgang Amadeus Mozart
+MARK SCHOWALTER|-|Charles Tim Buck,Asher Fisch|Loge|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+MOLLY FILMORE|"Die Walküre"|-|Helmwige|James Levine|Metropolitan Opera|Robert Lepage
+LINDSAY AMMANN|" Götterdämmerung"|"Ariadne auf Naxos"|"Die Walküre"|-|Driade|Flosshilde|James Levine|Jossi Wieler, Sergio Morabito|Marc Soustrot|Metropolitan Opera|Michael Schøwandt|Peter Konwitschny|Richard Strauss|Robert Lepage|Rossweisse|Staatsoper Stuttgart
+MARKUS BRÜCK|-|Charles Tim Buck,Asher Fisch|Donner|Gunther|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+NEEL RAM NAGARAJAN|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Secondo fanciullo|Wolfgang Amadeus Mozart
+KAREN CARGILL|"Götterdämmerung"|-|Fabio Luisi|NYC, The Metropolitan Opera|Waltraute
+tag|Charles Tim Buck,Asher Fisch|23
+tag|Seattle|23
+tag|Stephen Wadsworth|23
+tag|un "Ring" che avrebbe reso Wagner orgoglioso|23
+tag|Metropolitan Opera|22
+tag|Fabio Luisi|21
+tag|Robert Lepage|20
+tag|NYC, Metropolitan Opera|14
+tag|"Das Rheingold"|13
+tag|"The magic flute"|13
+tag|Erik Nielsen|13
+tag|Wolfgang Amadeus Mozart|13
+tag|Julie Taymor|13
+tag|James Levine|12

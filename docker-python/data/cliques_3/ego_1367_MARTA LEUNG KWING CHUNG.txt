@@ -1,0 +1,17 @@
+ERMINIE BLONDEL|Antonia|Guy Condette|Jacques Offenbach|Nicola Zorzi|Teatro Coccia di Novara|“Les Contes d’Hoffmann”
+ANNA DELFINO|Guy Condette|Jacques Offenbach|Nicola Zorzi|Olympia|Teatro Coccia di Novara|“Les Contes d’Hoffmann”
+ANNA CONSOLARO|"Les Contes d'Hoffmann"|Giulietta|Guy Condette|Jacques Offenbach|Nicola Zorzi|Pisa
+MAX JOTA|"Don Giovanni Tenorio o sia Il convitato di pietra"|"Les Contes d'Hoffmann"|Alessio Pizzech|Don Giovanni|Federico Bardazzi|Guy Condette|Hoffmann|Jacques Offenbach|Nicola Zorzi|Pisa|Pisa, Teatro Verdi|Stefano Barandoni
+GIOVANNI COLETTA|Guy Condette|Hoffmann|Jacques Offenbach|Nicola Zorzi|Teatro Coccia di Novara|“Les Contes d’Hoffmann”
+ALICE MOLINARI|"Nabucco"|Aldo Sisillo|Anna|Giulietta|Giuseppe Verdi|Guy Condette|Jacques Offenbach|Jesi, Teatro Pergolesi|Nicola Zorzi|Stefano Monti|Teatro Coccia di Novara|“Les Contes d’Hoffmann”
+JUAN JOSÉ NAVARRO|"Macbeth"|"Otello"|-|Artisti Del Coro Di Parma|Dario Argento|Enrico Stinchelli|Giuseppe Verdi|Guy Condette|Hermann, Schlemil|Jacques Offenbach|Medico|Montano|Nicola Zorzi|Pisa, Teatro Verdi|Teatro Coccia di Novara|Teatro Verdi di Pisa|“Les Contes d’Hoffmann”
+FEDERICO CAVARZAN|"La Traviata"|"Les Contes d'Hoffmann"|Commissionario|Eduardo Strausser|Giuseppe Verdi|Guy Condette|Jacques Offenbach|Lindorf, Coppelius, Dapertutto, Miracle|Lindorf/Coppelius/Dottor Miracle/Dapertutto|Nicola Zorzi|Padova, Teatro Verdi|Paolo Giani Cei|Pisa|Teatro Coccia di Novara|“Les Contes d’Hoffmann”
+MARTA LEUNG KWING CHUNG|"Les Contes d'Hoffmann"|Guy Condette|Jacques Offenbach|Nicklausse|Nicola Zorzi|Niklaussse|Pisa|Teatro Coccia di Novara|“Les Contes d’Hoffmann”
+FABIO MARIO LA MATTINA|"Les Contes d'Hoffmann"|Guy Condette|Jacques Offenbach|Nicola Zorzi|Pisa|Spalanzani/Nathanael
+CLAUDIA SASSO|"Les Contes d'Hoffmann"|Guy Condette|Jacques Offenbach|Nicola Zorzi|Olympia|Pisa
+LUKAS ZEMAN|Guy Condette|Jacques Offenbach|Luther, Crespel|Nicola Zorzi|Teatro Coccia di Novara|“Les Contes d’Hoffmann”
+FABIO MARIA LA MATTINA|Guy Condette|Jacques Offenbach|Nicola Zorzi|Spalanzani, Nathanael|Teatro Coccia di Novara|“Les Contes d’Hoffmann”
+SOFIA JANELIDZE|"Aida"|-|Franco Zeffirelli|Giuseppe Verdi|Guy Condette|Jacques Offenbach|La mère d’Antonia|Nicola Zorzi|Teatro Coccia di Novara|Teatro Verdi di Pisa|Una Sacerdotessa|“Les Contes d’Hoffmann”
+tag|Guy Condette|14
+tag|Jacques Offenbach|14
+tag|Nicola Zorzi|14

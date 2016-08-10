@@ -1,0 +1,24 @@
+SANDRA FERRÁNDEZ|"Elektra"|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov|Vierte Magd
+SAMUEL YOUN|"Elektra"|"Salome"|Gran Teatre del Liceu di Barcelona|Gunther|Jochanaan|Josep Pons|Klaus Michael Grüber|Madrid, Teatro Real|Manfred Schweigkofler|Modena, Teatro Comunale|Niksa Bareza|Orest|Richard Strauss|Richard Wagner|Robert Carsen|Semyon Bychkov|“Götterdämmerung”
+MILCHO BOROVINOV|"Rienzi"|Hugo De Ana|Opera di Roma|Raimondo|Richard Wagner|Stefan Soltesz
+SILVIA DE LA MUELA|"Elektra"|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov|Zweite Magd
+ANDREAS SCHAGER|"Rienzi"|Cola Rienzi|Hugo De Ana|Opera di Roma|Richard Wagner|Stefan Soltesz
+GUSTAVO GIBERT|"Elektra"|Ein alter diener|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov
+JANE HENSCHEL|"Candide"|"Elektra"|"Salome"|Fabio Luisi|Herodias|Klaus Michael Grüber|Klytämnestra|Leonard Bernstein|Lorenzo Mariani|Madrid, Teatro Real|Richard Strauss|Roma, Teatro dell'Opera|Rosetta Cucchi|Semyon Bychkov|Teatro Carlo Felice di Genova|The Old Lady|Wayne Marshall
+ANNETT FRITSCH|"Elektra"|Fünfte Magd|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov
+JEAN LUC BALLESTRA|"Rienzi"|Cecco del Vecchio|Hugo De Ana|Opera di Roma|Richard Wagner|Stefan Soltesz
+CHRISTINE GOERKE|"Ariadne auf Naxos"|"Elektra"|"Fidelio"|-|Boston Opera|Elektra|Gil Rose|Klaus Michael Grüber|Leonore|Ludwig Van Beethoven|Madrid, Teatro Real|Prima Donna / Ariadne|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Semyon Bychkov|Thaddeus Strassberger
+ROMAN ASTAKHOV|"Rienzi"|-|Accademia Nazionale di Santa Cecilia|Fasolt|Hugo De Ana|Kirill Petrenko|Opera di Roma|Richard Wagner|Stefan Soltesz|Stefano Colonna|“Das Rheingold”
+LETITIA SINGLETON|"Elektra"|"Iolanta" e "Perséphone"|Dritte Magd|Klaus Michael Grüber|Laura|Madrid, Teatro Real|Madrid, Teatro Réal|Peter Sellars|Pëtr Il’ic Cajkovskij,Igor Stravinskij|Richard Strauss|Semyon Bychkov|Teodor Currentzis
+ITXARO MENTXAKA|"Elektra"|"Roméo et Juliette"|Arnaud Bernard|Bilbao, Palacio Euskalduna|Charles Gounod|Die Vertraute|Gertrude|Josep Caballé-domenech|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov
+HANNAH BRADBURY|"Rienzi"|Hugo De Ana|Opera di Roma|Richard Wagner|Stefan Soltesz|Un ambasciatore di pace
+MARTIN HOMRICH|"Rienzi"|Baroncelli|Hugo De Ana|Opera di Roma|Richard Wagner|Stefan Soltesz
+JASON BRIDGES|"Elektra"|Ein junger diener|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov
+MANUELA UHL|"Elektra"|"Rienzi"|Chrysothemis|Hugo De Ana|Irene|Klaus Michael Grüber|Madrid, Teatro Real|Opera di Roma|Richard Strauss|Richard Wagner|Semyon Bychkov|Stefan Soltesz
+SVETLA KRASTEVA|"Elektra"|Die Aufseherin|Klaus Michael Grüber|Madrid, Teatro Real|Richard Strauss|Semyon Bychkov
+LJUBOMIR PUSKARIC|"Rienzi"|Hugo De Ana|Opera di Roma|Paolo Orsini|Richard Wagner|Stefan Soltesz
+tag|"Elektra"|12
+tag|Madrid, Teatro Real|12
+tag|Klaus Michael Grüber|12
+tag|Richard Strauss|12
+tag|Semyon Bychkov|12

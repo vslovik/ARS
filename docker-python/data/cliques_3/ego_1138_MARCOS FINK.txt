@@ -1,0 +1,18 @@
+ALEX PENDA|"L'Opera Seria"|"Čerevički"|Bruxelles, Théâtre La Monnaie|Cagliari, Teatro Lirico|Donato Renzetti|Florian Leopold Gassmann|Oksana|Patrick Kinmonth|Pëtr Il’ič Čajkovskij|René Jacobs|Stonatrilla|Yuri Alexandrov
+BURCU UYAR|"Die Zauberflote"|"Die Zauberflöte"|"Il trionfo di Clelia"|"Lucia di Lammermoor"|"Roméo et Juliette"|-|Accademia di Santa Cecilia|Andrea Cigni|Bologna, Teatro Comunale|Charles Gounod|Christoph Willibald Gluck|Francesco Rosa|Gaetano Donizetti|Giuseppe Sigismondi De Risio|Jean-paul Scarpitta|Juliette|Kenneth Montgomery|Königin der Nacht|Larissa|Miss Lucia|Nigel Lowery|Opéra de Marseille|Padova, Teatro Verdi|Regina della Notte|René Jacobs|Sassari, Teatro Comunale|Sergio Alapont|Stefano Poda|Wolfgang Amadeus Mozart
+INGA KALNA, ANNA GREVELIUS, ISABELLE DRUET|"Die Zauberflöte"|-|Accademia di Santa Cecilia|René Jacobs|Tre Dame della Regina|Wolfgang Amadeus Mozart
+JOACHIM BUHRMANN|"Die Zauberflöte"|-|Accademia di Santa Cecilia|René Jacobs|Secondo Sacerdote, Primo Armigero|Wolfgang Amadeus Mozart
+TOPI LEHTIPUU|"Die Zauberflöte"|-|Accademia di Santa Cecilia|René Jacobs|Tamino|Wolfgang Amadeus Mozart
+DANIEL SCHMUTZHARD|"Die Zauberflöte"|-|Accademia di Santa Cecilia|Papageno|René Jacobs|Wolfgang Amadeus Mozart
+MARCOS FINK|"Die Zauberflöte"|"L'Opera Seria"|-|Accademia di Santa Cecilia|Bruxelles, Théâtre La Monnaie|Fallito|Florian Leopold Gassmann|Patrick Kinmonth|René Jacobs|Sarastro|Wolfgang Amadeus Mozart
+THOMAS E. BAUER|"Der Rosenkavalier"|"Die Zauberflöte"|-|Accademia di Santa Cecilia|Alvis Hermanis|Bernd Alois Zimmermann|Ein Polizeikommissär|Harry Kupfer|Ingo Metzmacher|Oratore, Primo Sacerdote, Secondo Armigero|René Jacobs|Richard Strauss|Stolzius|Teatro alla Scala di Milano|Wolfgang Amadeus Mozart|Zubin Mehta|“Die Soldaten” al Teatro alla Scala
+MIAH PERSSON|"Die Zauberflöte"|"L'incoronazione di Poppea"|-|Accademia di Santa Cecilia|Claudio Monteverdi|La Fortuna / Poppea|Milano, Teatro alla Scala|Pamina|René Jacobs|Rinaldo Alessandrini|Robert Wilson|Wolfgang Amadeus Mozart
+THOMAS WALKER|"L'Opera Seria"|"Platée"|Bruxelles, Théâtre La Monnaie|Calixto Bieito|Christian Curnyn|Florian Leopold Gassmann|Jean-philippe Rameau|Patrick Kinmonth|Platée|René Jacobs|Sospiro|Staatsoper Stuttgart
+SUNHAE IM|"Die Zauberflöte"|"L'Opera Seria"|"Les Dialogues des Carmélites"|-|Accademia di Santa Cecilia|Bruxelles, Théâtre La Monnaie|Florian Leopold Gassmann|Manfred Honeck|Papagena|Patrick Kinmonth|Porporina|René Jacobs|Staatsoper Stuttgart|Sœur Constance|Wolfgang Amadeus Mozart
+RUPERT ENTICKNAP|"L'Opera Seria"|Bruxelles, Théâtre La Monnaie|Caverna|Florian Leopold Gassmann|Patrick Kinmonth|René Jacobs
+MAGNUS STAVELAND|"L'Opera Seria"|Bragherona|Bruxelles, Théâtre La Monnaie|Florian Leopold Gassmann|Patrick Kinmonth|René Jacobs
+NIKOLAY BORCHEV|"L'Opera Seria"|Bruxelles, Théâtre La Monnaie|Florian Leopold Gassmann|Passagallo|Patrick Kinmonth|René Jacobs
+PIETRO SPAGNOLI|"L'Opera Seria"|"L'italiana in Algeri"|Bruno Campanella|Bruxelles, Théâtre La Monnaie|Delirio|Florian Leopold Gassmann|Gioachino Rossini|Joan Font|Mustafà|Opera di Firenze|Patrick Kinmonth|René Jacobs
+MARIO ZEFFIRI|"Ginevra di Scozia"|"L'Opera Seria"|"La gazza ladra"|-|Bergamo, Teatro Donizetti|Bruxelles, Théâtre La Monnaie|Damiano Michieletto|Florian Leopold Gassmann|George Petrou|Giannetto|Gioachino Rossini|Giovanni Battista Rigon|Giovanni Simone Mayr|Patrick Kinmonth|Polinesso|René Jacobs|Ritornello|Verona
+ROBIN JOHANNSEN|"L'Opera Seria"|Bruxelles, Théâtre La Monnaie|Florian Leopold Gassmann|Patrick Kinmonth|René Jacobs|Smorfiosa
+tag|René Jacobs|17

@@ -1,0 +1,27 @@
+THOMAS TATZL|"Der ferne klang"|-|Ingo Metzmacher|Jens-daniel Herzog|Polizist|Zurigo
+TERESA SEDLMAIR|"Der ferne klang"|"Don Pasquale"|"La voix humaine" e "The telephone"|-|Gaetano Donizetti|Giampaolo Bisanti|Giancarlo Menotti,Francis Poulenc|Giulio Ciabatti|Ingo Metzmacher|Jens-daniel Herzog|Jonathan Webb|Lucca|Lucy|Mizzi / eine choristen|Norina|Sandro Pasqualetto|Zurigo|giardino di Palazzo Zuckermann di Padova
+SUSANNE GROBHOLZ|"Der ferne klang"|-|Ingo Metzmacher|Jens-daniel Herzog|Milli / eine ender choristen|Zurigo
+CAMILLE BUTCHER|"Der ferne klang"|-|Ingo Metzmacher|Jens-daniel Herzog|Mary|Zurigo
+IGOR BAKAN|"Der ferne klang"|-|Ingo Metzmacher|Jens-daniel Herzog|Zurigo|Zweiter Chorist
+PIOTR BECZALA|"Eugenio Onegin"|"Rigoletto"|-|Daniele Callegari|Duca di Mantova|Giuseppe Verdi|Grischa Asagaroff|Il Duca di Mantova|Jérôme Savary|Lenskij|Met|Michele Mariotti|Opernhaus di Zurigo|Parigi, Opéra Bastille|Vladimir Fedoseyev
+CORNELIA KALLISCH|"Eugenio Onegin"|Alvis Hermanis|Bernd Alois Zimmermann|Filipjewna|Grischa Asagaroff|Ingo Metzmacher|Opernhaus di Zurigo|Vladimir Fedoseyev|Weseners alte Mutter|“Die Soldaten” al Teatro alla Scala
+DAVIDE FERSINI|"Der ferne klang"|"La scala di seta"|-|Bepi Morassi|Der Baron / 2 Gast|Francesco Pasqualetti|Germano|Gioachino Rossini|Ingo Metzmacher|Jens-daniel Herzog|Teatro Comunale di Sassari|Zurigo
+VALERIY MURGA|"Eugenio Onegin"|Grischa Asagaroff|Opernhaus di Zurigo|Saretskij|Vladimir Fedoseyev
+AGNIESZKA ADAMCZAK|"Der ferne klang"|"Luisa Miller"|-|Damiano Michieletto|Giuseppe Verdi|Ingo Metzmacher|Jens-daniel Herzog|Laura|Madchen|Opernhaus di Zurigo|Paolo Fantin|Zurigo
+ANJA SCHLOSSER|"Eugenio Onegin"|Grischa Asagaroff|Olga|Opernhaus di Zurigo|Vladimir Fedoseyev
+MATTI SALMINEN|"Aida"|"Eugenio Onegin"|"Parsifal"|-|Berlino, Deutsche Oper|Donald Runnicles|Giuseppe Verdi|Grischa Asagaroff|Gurnemanz|Milano, Teatro alla Scala|Opernhaus di Zurigo|Peter Stein|Philipp Stölzl|Principe Gremin|Ramfis|Vladimir Fedoseyev|Zubin Mehta
+ROBERTO SACCA'|"Der ferne klang"|-|Fritz|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+PETRA MARIA SCHNITZER|"Eugenio Onegin"|Grischa Asagaroff|Opernhaus di Zurigo|Tatiana|Vladimir Fedoseyev
+BOGUSLAW BIDZINSKI|"Eugenio Onegin"|Grischa Asagaroff|Opernhaus di Zurigo|Triquet|Vladimir Fedoseyev
+OLIVER WIDMER|"Der ferne klang"|-|Der Graf|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+TOMASZ SLAWINSKI|"Der ferne klang"|-|Der Wirt / 1 Gast|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+PETER SONN|"Der ferne klang"|-|Der Chavalier / 6 Gast|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+STEFANIA KALUSA|"Der ferne klang"|"Eugenio Onegin"|-|Der Frau des alten Graumann|Grischa Asagaroff|Ingo Metzmacher|Jens-daniel Herzog|Larina|Opernhaus di Zurigo|Vladimir Fedoseyev|Zurigo
+ANDREA SCHWENDENER|"Der ferne klang"|-|Eine Spanierin|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+ANDREAS WINKLER|"Der ferne klang"|-|Erster Chorist|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+IRENE FRIEDLI|"Der ferne klang"|-|Die Kellnerin|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+VALERIJ MURGA|"Der ferne klang"|-|Dr.Vigilius|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+tag|Ingo Metzmacher|17
+tag|Jens-daniel Herzog|16
+tag|Zurigo|16
+tag|"Der ferne klang"|16

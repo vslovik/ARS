@@ -1,0 +1,36 @@
+JAY HUNTER MORRIS|"Götterdämmerung"|-|Fabio Luisi|NYC, The Metropolitan Opera|Siegfried
+AUSTIN KNESS|"La fanciulla|Giacomo Puccini|Giuseppe Finzi|Lorenzo Mariani|Un cameriere|West" a San Francisco
+MATTHEW  O’NEILL|"La fanciulla|Giacomo Puccini|Giuseppe Finzi|Lorenzo Mariani|Trin|West" a San Francisco
+STEVEN COLE|"La fanciulla|Giacomo Puccini|Giuseppe Finzi|Lorenzo Mariani|Nick|West" a San Francisco
+EDWARD MOUT|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Un postiglione
+HUGO VERA|"Francesca da Rimini"|"La fanciulla del West"|David Kneuss|Giacomo Puccini|Giancarlo Del Monaco|Marco Armiliato|Met|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Riccardo Zandonai|Trin|Un Arciere
+GINGER COSTA-JACKSON|"Francesca da Rimini"|"La fanciulla del West"|"Nixon in China"|David Kneuss|Giacomo Puccini|Giancarlo Del Monaco|John Adams|Marco Armiliato|Met|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Peter Sellars|Riccardo Zandonai|Smaragdi|Tre segretarie|Wowkle
+TREVOR SCHEUNEMANN|"Heart of a Soldier"|"La fanciulla del West"|Christopher Theofanidis|Francesca Zambello|Giacomo Puccini|Giancarlo Del Monaco|Joseph, Joe|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Patrick Summers|San Francisco Opera|Sid
+DWAYNE CROFT|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Sonora
+BRIAN  JADGE|"La fanciulla|Giacomo Puccini|Giuseppe Finzi|Joe|Lorenzo Mariani|West" a San Francisco
+DEBORAH VOIGT|"Götterdämmerung"|"La fanciulla|"La fanciulla del West"|-|Brünnhilde|Fabio Luisi|Giacomo Puccini|Giancarlo Del Monaco|Giuseppe Finzi|Lorenzo Mariani|Minnie|NYC, Metropolitan Opera|NYC, The Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|West" a San Francisco
+RICHARD BERNSTEIN|"La fanciulla del West"|Bello|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+CARL TANNER|"Aida"|"La fanciulla del West"|Alberto Hold-garrido|Dick Johnson|Giacomo Puccini|Giancarlo Del Monaco|Giuseppe Verdi|NYC, Metropolitan Opera|Nicola Luisotti|Opéra di Toulon|Paul Emile Fourny|Radames
+IAIN PATERSON|"Daphne"|"Götterdämmerung"|-|Bruxelles, Théâtre  La Monnaie|Fabio Luisi|Gunther|Guy Joostens|Lothar Koenigs|NYC, The Metropolitan Opera|Peneios|Richard Strauss
+RENEE TATUM|"Götterdämmerung"|-|Fabio Luisi|Flosshilde|NYC, The Metropolitan Opera
+DISELLA LARUSDOTTIR|"Götterdämmerung"|-|Fabio Luisi|NYC, The Metropolitan Opera|Woglinde
+KAREN CARGILL|"Götterdämmerung"|-|Fabio Luisi|NYC, The Metropolitan Opera|Waltraute
+JENNIFER JOHNSON CANO|"Götterdämmerung"|-|Alain Altinoglu|David Kneuss|Emilia|Fabio Luisi|Giuseppe Verdi|NYC, The Metropolitan Opera|New York, Metropolitan|Wellgunde|“Otello”
+HANS-PETER KÖNIG|"Götterdämmerung"|-|Fabio Luisi|Gran Teatre del Liceu di Barcelona|Hagen|Josep Pons|NYC, The Metropolitan Opera|Richard Wagner|Robert Carsen|“Götterdämmerung”
+WENDY BRYN HARMER|"Das Rheingold"|"Die Walküre"|"Götterdämmerung"|"The magic flute"|-|Charles Tim Buck,Asher Fisch|Erik Nielsen|Fabio Luisi|Freia|Gerhilde|Gutrune|James Levine|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|NYC, The Metropolitan Opera|Ortlinde|Prima Dama|Robert Lepage|Seattle|Stephen Wadsworth|Wolfgang Amadeus Mozart|un "Ring" che avrebbe reso Wagner orgoglioso
+TONY STEVENSON|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nick|Nicola Luisotti
+EDWARD PARKS|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Larkens|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+JEFF MATTSEY|"La fanciulla del West"|"Rigoletto"|-|Giacomo Puccini|Giancarlo Del Monaco|Giuseppe Verdi|José Castro|Marullo|Met|Michele Mariotti|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+MICHAEL FOREST|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Joe|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+OREN GRADUS|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Jake Wallace|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+LUCIO  GALLO|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Jack Rance|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+ADAM  LAURENCE  HERSKOWITZ|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Harry|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+DAVID CRAWFORD|"Armida"|"La fanciulla del West"|"Rigoletto"|-|Astarotte|Giacomo Puccini|Giancarlo Del Monaco|Gioachino Rossini|Giuseppe Verdi|Happy|Il Conte Ceprano|Mary Zimmerman|Met|Michele Mariotti|NYC, Metropolitan Opera|New York, Metropolitan|New York, Metropolitan Opera|Nicola Luisotti|Riccardo Frizza
+MARCELLO  GIORDANI|"La fanciulla del West"|Dick Johnson|Giacomo Puccini|Giancarlo Del Monaco|New York, Metropolitan Opera|Nicola Luisotti
+PHILIP COKORINOS|"La fanciulla del West"|Billy Jackrabbit|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+tag|Giacomo Puccini|22
+tag|Nicola Luisotti|18
+tag|NYC, Metropolitan Opera|18
+tag|Giancarlo Del Monaco|18
+tag|"La fanciulla del West"|18
+tag|New York, Metropolitan Opera|17

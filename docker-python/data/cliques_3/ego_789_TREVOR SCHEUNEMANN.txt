@@ -1,0 +1,41 @@
+HUGO VERA|"Francesca da Rimini"|"La fanciulla del West"|David Kneuss|Giacomo Puccini|Giancarlo Del Monaco|Marco Armiliato|Met|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Riccardo Zandonai|Trin|Un Arciere
+EDWARD MOUT|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Un postiglione
+MICHAEL SUMUEL|"Heart of a Soldier"|Christopher Theofanidis|Francesca Zambello|Patrick Summers|San Francisco Opera|Tom, Ted
+WAYNE TIGGES|"Heart of a Soldier"|Christopher Theofanidis|Francesca Zambello|Patrick Summers|Sam, Wesley|San Francisco Opera
+MELODY MOORE|"Heart of a Soldier"|Christopher Theofanidis|Francesca Zambello|Patrick Summers|San Francisco Opera|Susan Rescorla
+TA'U PUPU'A|"Heart of a Soldier"|Christopher Theofanidis|Francesca Zambello|Omaha, Robert|Patrick Summers|San Francisco Opera
+THOMAS HAMPSON|"Heart of a Soldier"|Alain Altinoglu|Christopher Theofanidis|David Kneuss|Francesca Zambello|Giuseppe Verdi|Jago|New York, Metropolitan|Patrick Summers|Rick Rescorla|San Francisco Opera|“Otello”
+GINGER COSTA-JACKSON|"Francesca da Rimini"|"La fanciulla del West"|"Nixon in China"|David Kneuss|Giacomo Puccini|Giancarlo Del Monaco|John Adams|Marco Armiliato|Met|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Peter Sellars|Riccardo Zandonai|Smaragdi|Tre segretarie|Wowkle
+TREVOR SCHEUNEMANN|"Heart of a Soldier"|"La fanciulla del West"|Christopher Theofanidis|Francesca Zambello|Giacomo Puccini|Giancarlo Del Monaco|Joseph, Joe|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Patrick Summers|San Francisco Opera|Sid
+DWAYNE CROFT|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Sonora
+SUSANNAH BILLER|"Heart of a Soldier"|"La serva Padrona", "Trouble in Tahiti|Christopher Theofanidis|Eritea|Francesca Zambello|Francesco Cavalli|Giovanni Battista Pergolesi|Gotham Chamber Opera|James Marvel|James Marvel,Neal Goren|Lawrence Edelson|Lolita, Prima damigella della sposa|Mark Morash|Patrick Summers|San Francisco Opera|Santa Barbara, California|Serpina|“Eliogabalo”
+DEBORAH VOIGT|"Götterdämmerung"|"La fanciulla|"La fanciulla del West"|-|Brünnhilde|Fabio Luisi|Giacomo Puccini|Giancarlo Del Monaco|Giuseppe Finzi|Lorenzo Mariani|Minnie|NYC, Metropolitan Opera|NYC, The Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|West" a San Francisco
+TONY STEVENSON|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nick|Nicola Luisotti
+RICHARD BERNSTEIN|"La fanciulla del West"|Bello|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+DANIEL SNYDER|"Heart of a Soldier"|Christopher Theofanidis|Dexter, Dex|Francesca Zambello|Patrick Summers|San Francisco Opera
+CARL TANNER|"Aida"|"La fanciulla del West"|Alberto Hold-garrido|Dick Johnson|Giacomo Puccini|Giancarlo Del Monaco|Giuseppe Verdi|NYC, Metropolitan Opera|Nicola Luisotti|Opéra di Toulon|Paul Emile Fourny|Radames
+MAYA LAHYANI|"Heart of a Soldier"|Christopher Theofanidis|Francesca Zambello|Kathy, seconda damigella della sposa|Patrick Summers|San Francisco Opera
+NADINE SIERRA|"Die Zauberflöte" (Il Flauto Magico)|"Heart of a Soldier"|Cagliari|Christopher Franklin|Christopher Theofanidis|Francesca Zambello|Juliet, Barbara|Pamina|Patrick Summers|Roberto Andò|San Francisco Opera|Wolfgang Amadeus Mozart
+WILLIAM  BURDEN|"Heart of a Soldier"|Christopher Theofanidis|Daniel J.Hill|Francesca Zambello|Patrick Summers|San Francisco Opera
+SARA GARTLAND|"Heart of a Soldier"|"La serva Padrona", "Trouble in Tahiti|Christopher Theofanidis|Francesca Zambello|Giovanni Battista Pergolesi|Lawrence Edelson|Mark Morash|Pat, Ann|Patrick Summers|San Francisco Opera|Santa Barbara, California|Trio Soprano
+MOHANNAD MCHALLAH|"Heart of a Soldier"|Christopher Theofanidis|Francesca Zambello|Himam|Patrick Summers|San Francisco Opera
+EDWARD PARKS|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Larkens|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+JEFF MATTSEY|"La fanciulla del West"|"Rigoletto"|-|Giacomo Puccini|Giancarlo Del Monaco|Giuseppe Verdi|José Castro|Marullo|Met|Michele Mariotti|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+MICHAEL FOREST|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Joe|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+OREN GRADUS|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Jake Wallace|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+LUCIO  GALLO|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Jack Rance|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+ADAM  LAURENCE  HERSKOWITZ|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Harry|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+DAVID CRAWFORD|"Armida"|"La fanciulla del West"|"Rigoletto"|-|Astarotte|Giacomo Puccini|Giancarlo Del Monaco|Gioachino Rossini|Giuseppe Verdi|Happy|Il Conte Ceprano|Mary Zimmerman|Met|Michele Mariotti|NYC, Metropolitan Opera|New York, Metropolitan|New York, Metropolitan Opera|Nicola Luisotti|Riccardo Frizza
+MARCELLO  GIORDANI|"La fanciulla del West"|Dick Johnson|Giacomo Puccini|Giancarlo Del Monaco|New York, Metropolitan Opera|Nicola Luisotti
+PHILIP COKORINOS|"La fanciulla del West"|Billy Jackrabbit|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+tag|Nicola Luisotti|18
+tag|Giancarlo Del Monaco|18
+tag|Giacomo Puccini|18
+tag|"La fanciulla del West"|18
+tag|NYC, Metropolitan Opera|17
+tag|New York, Metropolitan Opera|17
+tag|Francesca Zambello|13
+tag|Christopher Theofanidis|13
+tag|"Heart of a Soldier"|13
+tag|San Francisco Opera|13
+tag|Patrick Summers|13

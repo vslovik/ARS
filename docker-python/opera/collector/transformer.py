@@ -26,18 +26,11 @@ class Transformer(object):
     SINGER_GRAPH_FILE_W = '/data/singer_singer/weighted/SINGER_SINGER.csv'
     SINGER_DICT = '/data/singer_singer/weighted/SINGER_DICT.csv'
 
-    def __init__(self):
-        self.singer_meta = dict()
-        self.singer_ids = dict()
-        self.role_meta = dict()
-        self.role_ids = dict()
-
     @staticmethod
     def get_data_dir():
         return os.getcwd() + '/../..'
 
-    @staticmethod
-    def events2multi_graphs():
+    def events2multi_graphs(self):
         event_roles = []
         event_names = []
         prev_event = None
@@ -46,8 +39,8 @@ class Transformer(object):
         sfh = open(Transformer.get_data_dir() + Transformer.SINGER_GRAPH_FILE, "w")
         with efh as lines:
             for line in lines:
-                line = line.strip('\n')
-                [_, _, event, theatre, title, composer, conductor, director, role, name] = line.split('|')
+                items = line.strip('\n').split('|')
+                [_, _, event, theatre, title, composer, conductor, director, role, name] = items
                 if prev_event == event:
                     event_roles.append('|'.join([role, title]).replace('\n',''))
                     event_names.append('|'.join([name, theatre, title, composer, conductor, director, role]).replace('\n',''))
@@ -68,6 +61,7 @@ class Transformer(object):
         efh.close()
         rfh.close()
         sfh.close()
+        self.write_stat()
 
     def parse_singer(self, half_line):
         items = half_line.split('|')

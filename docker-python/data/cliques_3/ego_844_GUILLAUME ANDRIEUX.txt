@@ -1,0 +1,13 @@
+PAUL GAY|"Manon"|"Rigoletto"|-|Coline Serreau|Daniele Callegari|Evelino Pidò|Giuseppe Verdi|Golaud|Jules Massenet|Juraj Valčuha|Jérôme Savary|Le Conte Des Grieux|Monterone|Parigi, Opéra Bastille|Torino|“Pelléas et Mélisande”  dell’OSN RAI
+SANDRINE PIAU|"Die Zauberflote"|-|Jean-paul Scarpitta|Juraj Valčuha|Kenneth Montgomery|Mélisande|Opéra de Marseille|Pamina|Torino|Wolfgang Amadeus Mozart|“Pelléas et Mélisande”  dell’OSN RAI
+KARAN ARMSTRONG|-|Geneviève|Juraj Valčuha|Torino|“Pelléas et Mélisande”  dell’OSN RAI
+CHLOÉ BRIOT|-|Juraj Valčuha|Torino|Yniold|“Pelléas et Mélisande”  dell’OSN RAI
+MAURO BORGIONI|-|Il dottore / Il pastore|Juraj Valčuha|Torino|“Pelléas et Mélisande”  dell’OSN RAI
+CHLOE BRIOT|"L'enfant et les sortilèges"|Arnaud Meunier|Didier Puntos|Festival di Aix-en-Provence|L’Enfant|Maurice Ravel
+OSN RAI|-|Foto Più Luce|Juraj Valčuha|Torino|“Pelléas et Mélisande”  dell’OSN RAI
+EVE-MAUD HUBEAUX|"Béatrice et Bénédict"|"L'enfant et les sortilèges"|"Penthesilea"|-|Arnaud Meunier|Bruxelles, Théâtre La Monnaie|Didier Puntos|Festival di Aix-en-Provence|Franck Ollu|Maman, la Tasse Chinoise, la Libellule|Maurice Ravel|Oberpriesterin|Pascal Dusapin|Pierre Audi|Richard Brunel|Samuel Jean|Théâtre La Monnaie|Ursula
+MERCEDES ARCURI|"L'enfant et les sortilèges"|"Viento (es la dicha de Amor)"|-|Alan Curtis|Andrés Lima|Arnaud Meunier|David Mcvicar|Didier Puntos|Festival di Aix-en-Provence|Il paggio della duchessa|José De Nebra|Le Feu, le Rossignol|Madrid, Teatro de la Zarzuela|Maurice Ravel|Nicola Luisotti,Justin Way|Ninfa|Teatro Real di  Madrid|“Rigoletto”
+VALERIO CONTALDO|"L'enfant et les sortilèges"|"La Didone"|Arnaud Meunier|Clément Hervieu-léger|Corebo, Eolo, Cacciatore|Didier Puntos|Festival di Aix-en-Provence|Francesco Cavalli|La Théière, le Petit Vieillard, la Rainette|Maurice Ravel|Parigi, Théâtre des Champs Elysées|William Christie
+JEAN GABRIEL SAINT MARTIN|"L'enfant et les sortilèges"|Arnaud Meunier|Didier Puntos|Festival di Aix-en-Provence|Le Fauteuil, le Chêne|Maurice Ravel
+CLEMENCE TILQUIN|"L'enfant et les sortilèges"|Arnaud Meunier|Didier Puntos|Festival di Aix-en-Provence|La Princesse, la Chauve Souris, la Pastourelle|Maurice Ravel
+GUILLAUME ANDRIEUX|"L'enfant et les sortilèges"|-|Arnaud Meunier|Didier Puntos|Festival di Aix-en-Provence|Juraj Valčuha|L’Horloge, le Chat|Maurice Ravel|Pelléas|Torino|“Pelléas et Mélisande”  dell’OSN RAI

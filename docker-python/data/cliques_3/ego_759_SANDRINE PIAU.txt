@@ -1,0 +1,24 @@
+NUNO ROQUE|"Die Zauberflote"|Il pavone, il liocorno|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Wolfgang Amadeus Mozart
+OLIVIER HAGENLOCH|"Die Zauberflote"|Jean-paul Scarpitta|Kenneth Montgomery|Marionettista|Opéra de Marseille|Wolfgang Amadeus Mozart
+EDUARDA MELO|"Die Zauberflote"|Erste Dame|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Wolfgang Amadeus Mozart
+ALAIN GABRIEL|"Die Zauberflote"|"La Favorite"|"Otello"|-|Don Gaspar|Erster Geharnischter Mann|Friedrich Pleyer|Giuseppe Verdi|Jacques Lacombe|Jean-paul Scarpitta|Kenneth Montgomery|Monaco (Monte-Carlo)|Nadine Duffaut|Opéra de Marseille|Opéra di Marsiglia|Roderigo|Wolfgang Amadeus Mozart
+YÉTÉ QUEIROZ|"Die Zauberflote"|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Papagena|Wolfgang Amadeus Mozart
+HENK NEVEN|"Die Zauberflote"|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Papageno|Wolfgang Amadeus Mozart
+RAPHAËL BRÉMARD|"Die Zauberflote"|Jean-paul Scarpitta|Kenneth Montgomery|Monostatos|Opéra de Marseille|Wolfgang Amadeus Mozart
+SANDRINE PIAU|"Die Zauberflote"|-|Jean-paul Scarpitta|Juraj Valčuha|Kenneth Montgomery|Mélisande|Opéra de Marseille|Pamina|Torino|Wolfgang Amadeus Mozart|“Pelléas et Mélisande”  dell’OSN RAI
+SÉBASTIEN DROY|"Die Zauberflote"|"Otello"|Cassio|Friedrich Pleyer|Giuseppe Verdi|Jean-paul Scarpitta|Kenneth Montgomery|Nadine Duffaut|Opéra de Marseille|Opéra di Marsiglia|Tamino|Wolfgang Amadeus Mozart
+BLANDINE STASKIEWICZ|"Die Zauberflote"|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Wolfgang Amadeus Mozart|Zweite Dame
+KARAN ARMSTRONG|-|Geneviève|Juraj Valčuha|Torino|“Pelléas et Mélisande”  dell’OSN RAI
+OSN RAI|-|Foto Più Luce|Juraj Valčuha|Torino|“Pelléas et Mélisande”  dell’OSN RAI
+LUCIE ROCHE|"Die Zauberflote"|Dritte Dame|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Wolfgang Amadeus Mozart
+GUILLAUME ANDRIEUX|"L'enfant et les sortilèges"|-|Arnaud Meunier|Didier Puntos|Festival di Aix-en-Provence|Juraj Valčuha|L’Horloge, le Chat|Maurice Ravel|Pelléas|Torino|“Pelléas et Mélisande”  dell’OSN RAI
+MAURO BORGIONI|-|Il dottore / Il pastore|Juraj Valčuha|Torino|“Pelléas et Mélisande”  dell’OSN RAI
+PAUL GAY|"Manon"|"Rigoletto"|-|Coline Serreau|Daniele Callegari|Evelino Pidò|Giuseppe Verdi|Golaud|Jules Massenet|Juraj Valčuha|Jérôme Savary|Le Conte Des Grieux|Monterone|Parigi, Opéra Bastille|Torino|“Pelléas et Mélisande”  dell’OSN RAI
+MAÎTRISE DES BOUCHES-DU-RHÔNE|"Die Zauberflote"|Drei Knaben|Jean-paul Scarpitta|Kenneth Montgomery|Opéra de Marseille|Wolfgang Amadeus Mozart
+BURCU UYAR|"Die Zauberflote"|"Die Zauberflöte"|"Il trionfo di Clelia"|"Lucia di Lammermoor"|"Roméo et Juliette"|-|Accademia di Santa Cecilia|Andrea Cigni|Bologna, Teatro Comunale|Charles Gounod|Christoph Willibald Gluck|Francesco Rosa|Gaetano Donizetti|Giuseppe Sigismondi De Risio|Jean-paul Scarpitta|Juliette|Kenneth Montgomery|Königin der Nacht|Larissa|Miss Lucia|Nigel Lowery|Opéra de Marseille|Padova, Teatro Verdi|Regina della Notte|René Jacobs|Sassari, Teatro Comunale|Sergio Alapont|Stefano Poda|Wolfgang Amadeus Mozart
+CHLOÉ BRIOT|-|Juraj Valčuha|Torino|Yniold|“Pelléas et Mélisande”  dell’OSN RAI
+tag|Kenneth Montgomery|13
+tag|Jean-paul Scarpitta|13
+tag|Wolfgang Amadeus Mozart|13
+tag|Opéra de Marseille|13
+tag|"Die Zauberflote"|13

@@ -1,0 +1,47 @@
+FRANZ  MAZURA|"Lulu"|-|Daniele Gatti|Peter Stein|Schigolch/un clown|Teatro alla Scala
+LAURA  AIKIN|"Lulu"|-|Daniele Gatti|Lulu|Peter Stein|Teatro alla Scala
+STEPHEN  WEST|"Lulu"|-|Daniele Gatti|Dottor Schon/Jack|Peter Stein|Teatro alla Scala
+ERIN  WALL|"A midsummer night's dream"|Helena|Robert Carsen|Sir Andrew Davis|Teatro alla Scala
+ROSEMARY  JOSHUA|"A midsummer night's dream"|Robert Carsen|Sir Andrew Davis|Teatro alla Scala|Tytania
+CHRISTOPHER  GILLETT|"A midsummer night's dream"|Francis Flute|Robert Carsen|Sir Andrew Davis|Teatro alla Scala
+GORDON  GIETZ|"A midsummer night's dream"|Lysander|Robert Carsen|Sir Andrew Davis|Teatro alla Scala
+JULIE  MELLOR|"Götterdämmerung"|-|Jeffrey Tate|Robert Carsen|Seconda Norna|Venezia, Teatro La Fenice
+STEFAN  VINKE|"Götterdämmerung"|-|Jeffrey Tate|Robert Carsen|Siegfried|Venezia, Teatro La Fenice
+NICOLO' DE MAESTRI|"A midsummer night's dream"|Moth|Robert Carsen|Sir Andrew Davis|Teatro alla Scala
+DEANNE  MEEK|"A midsummer night's dream"|Hermia|Robert Carsen|Sir Andrew Davis|Teatro alla Scala
+NATASCHA  PETRINSKY|"A midsummer night's dream"|"Götterdämmerung"|"Lulu"|-|Contessa Geschwitz/ Una guardarobiera del teatro|Daniele Gatti|Hippolyta|Jeffrey Tate|Peter Stein|Robert Carsen|Sir Andrew Davis|Teatro alla Scala|Venezia, Teatro La Fenice|Waltraute
+DAVID  DANIELS|"A midsummer night's dream"|Oberon|Robert Carsen|Sir Andrew Davis|Teatro alla Scala
+ELENA  CACCAMO|"A midsummer night's dream"|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Hirt|Peaseblossom|Robert Carsen|Sir Andrew Davis|Teatro alla Scala|Zubin Mehta
+BARBARA  MASSARO|"A midsummer night's dream"|Mustardseed|Robert Carsen|Sir Andrew Davis|Teatro alla Scala
+MATTHEW  ROSE|"A midsummer night's dream"|Nick Bottom|Robert Carsen|Sir Andrew Davis|Teatro alla Scala
+SIMON  BUTTERISS|"A midsummer night's dream"|Robert Carsen|Robin Starveling|Sir Andrew Davis|Teatro alla Scala
+GREAME  DANBY|"A midsummer night's dream"|Robert Carsen|Sir Andrew Davis|Snug|Teatro alla Scala
+NICOLA  BELLER CARBONE|"Götterdämmerung"|-|Gutrune|Jeffrey Tate|Robert Carsen|Venezia, Teatro La Fenice
+GABRIEL  SUOVANEN|"Götterdämmerung"|-|Gunther|Jeffrey Tate|Robert Carsen|Venezia, Teatro La Fenice
+CERI  WILLIAMS|"Götterdämmerung"|-|Jeffrey Tate|Prima Norna|Robert Carsen|Venezia, Teatro La Fenice
+GIDON  SAKS|"Götterdämmerung"|-|Hagen|Jeffrey Tate|Robert Carsen|Venezia, Teatro La Fenice
+MAGDALENA ANNA  HOFFMANN|"Lulu"|-|Daniele Gatti|Peter Stein|Teatro alla Scala|Uno studente/Gromm
+BERTRAM  KLAMP|"Lulu"|-|Daniele Gatti|Peter Stein|Teatro alla Scala|Un domestico
+VALDIS  JANSONS|"Lulu"|-|Daniele Gatti|Peter Stein|Teatro alla Scala|Un giornalista
+CLAUDIA  BANDERA|"Lulu"|-|Daniele Gatti|Peter Stein|Teatro alla Scala|Un’arredatrice
+RUDOLF  ROSEN|"Lulu"|-|Daniele Gatti|Peter Stein|Teatro alla Scala|Un domatore/un atleta
+ROMINA  TOMASONI|"Lulu"|-|Daniele Gatti|Peter Stein|Sua madre|Teatro alla Scala
+PERVIN  CHAKAR|"Lulu"|-|Daniele Gatti|Peter Stein|Teatro alla Scala|Una quindicenne
+ADRIAN  THOMPSON|"A midsummer night's dream"|Robert Carsen|Sir Andrew Davis|Teatro alla Scala|Tom Snout
+DANIEL  OKULITCH|"A midsummer night's dream"|Robert Carsen|Sir Andrew Davis|Teatro alla Scala|Theseus
+ANNETTE  JAHNS|"Götterdämmerung"|-|Flosshilde|Jeffrey Tate|Robert Carsen|Venezia, Teatro La Fenice
+JAYNE  CASSELMAN|"Götterdämmerung"|-|Brunnhilde|Jeffrey Tate|Robert Carsen|Venezia, Teatro La Fenice
+GIOVANNI  LUCINI|"Lulu"|-|Commissario di polizia|Daniele Gatti|Peter Stein|Teatro alla Scala
+EVA  OLTIVANYI|"Götterdämmerung"|-|Jeffrey Tate|Robert Carsen|Venezia, Teatro La Fenice|Woglinde
+ALEXANDRA  WILSON|"Götterdämmerung"|-|Jeffrey Tate|Robert Carsen|Terza Norna|Venezia, Teatro La Fenice
+STEFANIE  IRANYI|"Götterdämmerung"|-|Jeffrey Tate|Robert Carsen|Venezia, Teatro La Fenice|Wellgunde
+tag|Teatro alla Scala|26
+tag|Robert Carsen|26
+tag|"A midsummer night's dream"|15
+tag|Sir Andrew Davis|15
+tag|Jeffrey Tate|12
+tag|Peter Stein|12
+tag|Venezia, Teatro La Fenice|12
+tag|"Götterdämmerung"|12
+tag|"Lulu"|12
+tag|Daniele Gatti|12

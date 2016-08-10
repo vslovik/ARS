@@ -1,0 +1,26 @@
+JOLANA FOGAS|"Rusalka" al San Carlo di Napoli|Antonin Dvořák|John Fiore|La Principessa Straniera|Manfred Schweigkofler|Tra attrazione e sventura
+DINA KUZNETSOVA|"Francesca da Rimini"|"Rusalka" al San Carlo di Napoli|Antonin Dvořák|David Kneuss|John Fiore|Manfred Schweigkofler|Marco Armiliato|Met|Riccardo Zandonai|Rusalka|Samaritana|Tra attrazione e sventura
+MARCELLO GIORDANI|"Aida"|"Francesca da Rimini"|"Il Trovatore"|-|Daniel Oren|David Kneuss|Giuseppe Verdi|Jo Davies|Manrico|Marco Armiliato|Met|Nicola Luisotti|Palermo, Teatro Massimo|Paolo|Paul Curran|Radames|Renato Palumbo|Renzo Giacchieri|Riccardo Zandonai|San Francisco Opera
+RICHARD PAUL FINK|"Nixon in China"|"Rusalka" al San Carlo di Napoli|-|Antonin Dvořák|Henry Kissinger|John Adams|John Fiore|Kurwenal|Magia|Manfred Schweigkofler|Met|Myung-whun Chung|Paul Curran|Peter Sellars|Tra attrazione e sventura|Vodnik, lo Spirito delle Acque|filtro, magia di Chung
+STEPHEN GAERTNER|"Francesca da Rimini"|Alain Altinoglu|Berlingerio|David Kneuss|Giuseppe Verdi|Marco Armiliato|Met|Montano|New York, Metropolitan|Riccardo Zandonai|“Otello”
+DISELLA LÀRUSDÓTTIR|"Francesca da Rimini"|Biancofiore|David Kneuss|Marco Armiliato|Met|Riccardo Zandonai
+CAITLIN LYNCH|"Francesca da Rimini"|David Kneuss|Garsenda|Marco Armiliato|Met|Riccardo Zandonai
+MARK DELAVAN|"Francesca da Rimini"|"Salome"|David Kneuss|Fabio Luisi|Giovanni, detto Gianciotto|Jochanaan|Marco Armiliato|Met|Riccardo Zandonai|Richard Strauss|Rosetta Cucchi|Teatro Carlo Felice di Genova
+PHILIP HORST|"Francesca da Rimini"|David Kneuss|Marco Armiliato|Met|Ostasio|Riccardo Zandonai
+IRINA MISHURA|"Rusalka" al San Carlo di Napoli|Antonin Dvořák|Ježibaba|John Fiore|Manfred Schweigkofler|Tra attrazione e sventura
+DUSTIN LUCAS|"Francesca da Rimini"|David Kneuss|Marco Armiliato|Met|Riccardo Zandonai|Un Prigioniero
+PAVEL ČERNOCH|"Rusalka" al San Carlo di Napoli|Antonin Dvořák|Il Principe|John Fiore|Manfred Schweigkofler|Tra attrazione e sventura
+EVA-MARIA WESTBROEK|"Die Walküre"|"Francesca da Rimini"|"La vedova allegra"|"Lady Macbeth del distretto di Mzesnk"|-|Ascher Fisch|David Kneuss|Dimitrij Sostakovic|Francesca|Franz Lehar|Hanna Glawari|Hartmut Haenchen|James Levine|Katerina Ismailova|Madrid, Teatro Real|Marco Armiliato|Martin Kušej|Met|Metropolitan Opera|Milano, Teatro alla Scala|Pier Luigi Pizzi|Riccardo Zandonai|Robert Lepage|Sieglinde
+ANTONIO DI MATTEO|"Rusalka" al San Carlo di Napoli|Antonin Dvořák|Il cacciatore|John Fiore|Manfred Schweigkofler|Tra attrazione e sventura
+FRANCESCA RUSSO ERMOLLI|"Fedora"|"Rusalka" al San Carlo di Napoli|Antonin Dvořák|Dimitri, groom – un piccolo Savoiardo|John Fiore|Lamberto Puggelli|Manfred Schweigkofler|Maurizio Agostini,Elena Rossi|Napoli, Teatro di San Carlo|Sguattero|Tra attrazione e sventura|Umberto Giordano
+GINGER COSTA-JACKSON|"Francesca da Rimini"|"La fanciulla del West"|"Nixon in China"|David Kneuss|Giacomo Puccini|Giancarlo Del Monaco|John Adams|Marco Armiliato|Met|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Peter Sellars|Riccardo Zandonai|Smaragdi|Tre segretarie|Wowkle
+KEITH JAMESON|"Evgenij Onegin"|"Francesca da Rimini"|David Kneuss|James Conlon|Los Angeles Opera|Marco Armiliato|Met|Piotr Ilic Caikovskij|Riccardo Zandonai|Ser Toldo|Steven Pimlott|Triquet
+ROBERT BRUBAKER|"Das Rheingold"|"Francesca da Rimini"|"Nixon in China"|-|David Kneuss|Graham Vick|Guy Joosten|Herodes|John Adams|Mal Tse-tung|Malatestino|Marco Armiliato|Met|Michael  Boder|Mime|Palermo|Peter Sellars|Pietari Inkinen|Riccardo Zandonai
+JERRY GROSSMAN|"Francesca da Rimini"|David Kneuss|Marco Armiliato|Met|Riccardo Zandonai|Violoncello</em> <em>solista
+JOHN MOORE|"Francesca da Rimini"|David Kneuss|Marco Armiliato|Met|Riccardo Zandonai|Simonetto
+HUGO VERA|"Francesca da Rimini"|"La fanciulla del West"|David Kneuss|Giacomo Puccini|Giancarlo Del Monaco|Marco Armiliato|Met|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Riccardo Zandonai|Trin|Un Arciere
+tag|Met|16
+tag|Riccardo Zandonai|15
+tag|"Francesca da Rimini"|15
+tag|David Kneuss|15
+tag|Marco Armiliato|15

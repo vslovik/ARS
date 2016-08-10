@@ -1,0 +1,49 @@
+KENI ROLDAN|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Guardia 1º|Madrid, Teatro de La Zarzuela|Miquel Ortega
+ABEL GARCIA|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Guardia 2º|Madrid, Teatro de La Zarzuela|Miquel Ortega
+JOSE'  MARIA MOLERO|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Guitarrista|Madrid, Teatro de La Zarzuela|Miquel Ortega
+PEDRO AZPIRI|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Hojalatero|Madrid, Teatro de La Zarzuela|Miquel Ortega
+JESUS LANDIN|"La Chulapona"|Durmiente|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+RAQUEL TORRES|"La Chulapona"|Emilia|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+SATURNINO GARCIA|"La Chulapona"|Federico Moreno Torroba|Ganadero|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+CALOS DURAN|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|Zapatero
+LANCE RYAN|Gran Teatre del Liceu di Barcelona|Josep Pons|Josep Pons,Robert Carsen|Richard Wagner|Robert Carsen|Siegfried|“Götterdämmerung”|“Siegfried”
+ISABELLA GAUDÍ|-|Da Lorca a Sotelo|Gran Teatre del Liceu di Barcelona|Josep Pons|Julieta / Niño|Pablo Heras-casado|Richard Wagner|Robert Carsen|Robert Castro|Woglinde|prima mondiale di “El Público” a Madrid|“Götterdämmerung”
+IGNACIO DEL CASTILLO|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Invitado|Madrid, Teatro de La Zarzuela|Miquel Ortega
+ANTONIO GANDIA|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|José</em> <em>María|Madrid, Teatro de La Zarzuela|María|Miquel Ortega
+EVA DURAN|"La Chulapona"|Cantaora|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+IRÉNE THEORIN|"Götterdämmerung"|-|Brünnhilde|Graham Vick|Gran Teatre del Liceu di Barcelona|Josep Pons|Palermo, Teatro Massimo|Richard Wagner|Robert Carsen|Stefan Anton Reck,Graham Vick|“Götterdämmerung”
+JUAN  RUEDA|"La Chulapona"|Cansino|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Maestro</em> <em>Cansino|Miquel Ortega
+PALOMA CURROS|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|ROSA Mª GUTIERREZ,  CARMEN GAVIRIA
+ISABEL GONZALES|"La Chulapona"|Ascensión|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+SAMUEL YOUN|"Elektra"|"Salome"|Gran Teatre del Liceu di Barcelona|Gunther|Jochanaan|Josep Pons|Klaus Michael Grüber|Madrid, Teatro Real|Manfred Schweigkofler|Modena, Teatro Comunale|Niksa Bareza|Orest|Richard Strauss|Richard Wagner|Robert Carsen|Semyon Bychkov|“Götterdämmerung”
+: SAGRARIO MIELGO|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Guadalupe|Madrid, Teatro de La Zarzuela|Miquel Ortega
+ANA RODRIGUEZ|"La Chulapona"|Concha|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+GUSTAVO BERUETE|"La Chulapona"|Cliente|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+SUSANA CORDON|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|Rosario
+LUIS ÁLVAREZ|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|Señor</em> <em>Antonio
+ANA SANTAMARINA|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Lolita|Madrid, Teatro de La Zarzuela|Miquel Ortega
+NERIC FORCADA, RAUL RUIZ, PEDRO DE LA TORRE|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Manolito|Miquel Ortega
+CRISTINA FAUS|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Gran Teatre del Liceu di Barcelona|Josep Pons|Madrid, Teatro de La Zarzuela|Manuela|Miquel Ortega|Prima Norma|Richard Wagner|Robert Carsen|“Götterdämmerung”
+MARIA BRIONES|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Maravilla|Miquel Ortega
+CHARO REINA|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|Venustiana
+PALOMA SUAREZ|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|Voz</em> <em>interna
+GERARDO MALLA|"La Chulapona"|Don</em> <em>Epifanio|Epifanio|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+CARLOS CROOKE|"La Chulapona"|Dios|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+HANS-PETER KÖNIG|"Götterdämmerung"|-|Fabio Luisi|Gran Teatre del Liceu di Barcelona|Hagen|Josep Pons|NYC, The Metropolitan Opera|Richard Wagner|Robert Carsen|“Götterdämmerung”
+ANN ALÀS I JOVÉ|Gran Teatre del Liceu di Barcelona|Josep Pons|Richard Wagner|Robert Carsen|Wellgunde|“Götterdämmerung”
+MARINA PINCHUK|Flosshilde|Gran Teatre del Liceu di Barcelona|Josep Pons|Richard Wagner|Robert Carsen|“Götterdämmerung”
+MICHAELA SCHUSTER|Gran Teatre del Liceu di Barcelona|Josep Pons|Richard Wagner|Robert Carsen|Waltraute|“Götterdämmerung”
+PILAR VÁZQUEZ|"Boris Godunov"|"Der fliegende Holländer”|"Die Walküre"|-|David Afkham|Firenze, Teatro Comunale|Gran Teatre del Liceu di Barcelona|Hartmut Haenchen|Johan Simons|Josep Pons|L'ostessa|La Fura Dels Baus (carlus Padrissa)|Madrid, Teatro Real|Mary|Richard Wagner|Robert Carsen|Seconda Norna|Waltraute|Zubin Mehta|’Auditorio Nacional di Madrid|“Götterdämmerung”
+JESUS CASTEJON|"La Chulapona"|Chalina|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega
+JACQUELYN WAGNER|"Die Walküre"|-|Firenze, Teatro Comunale|Gran Teatre del Liceu di Barcelona|Gutrune|Josep Pons|La Fura Dels Baus (carlus Padrissa)|Ortlinde|Richard Wagner|Robert Carsen|Terza Norna|Zubin Mehta|“Götterdämmerung”
+JESUS ALCAIDE|"La Chulapona"|Federico Moreno Torroba|Gerardo Malla|Madrid, Teatro de La Zarzuela|Miquel Ortega|Organillero/Borracho
+tag|"La Chulapona"|29
+tag|Miquel Ortega|29
+tag|Gerardo Malla|29
+tag|Federico Moreno Torroba|29
+tag|Madrid, Teatro de La Zarzuela|29
+tag|Richard Wagner|11
+tag|Gran Teatre del Liceu di Barcelona|11
+tag|“Götterdämmerung”|11
+tag|Robert Carsen|11
+tag|Josep Pons|11

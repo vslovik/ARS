@@ -1,0 +1,26 @@
+THOMAS TATZL|"Der ferne klang"|-|Ingo Metzmacher|Jens-daniel Herzog|Polizist|Zurigo
+TERESA SEDLMAIR|"Der ferne klang"|"Don Pasquale"|"La voix humaine" e "The telephone"|-|Gaetano Donizetti|Giampaolo Bisanti|Giancarlo Menotti,Francis Poulenc|Giulio Ciabatti|Ingo Metzmacher|Jens-daniel Herzog|Jonathan Webb|Lucca|Lucy|Mizzi / eine choristen|Norina|Sandro Pasqualetto|Zurigo|giardino di Palazzo Zuckermann di Padova
+SUSANNE GROBHOLZ|"Der ferne klang"|-|Ingo Metzmacher|Jens-daniel Herzog|Milli / eine ender choristen|Zurigo
+CAMILLE BUTCHER|"Der ferne klang"|-|Ingo Metzmacher|Jens-daniel Herzog|Mary|Zurigo
+IGOR BAKAN|"Der ferne klang"|-|Ingo Metzmacher|Jens-daniel Herzog|Zurigo|Zweiter Chorist
+DAVIDE FERSINI|"Der ferne klang"|"La scala di seta"|-|Bepi Morassi|Der Baron / 2 Gast|Francesco Pasqualetti|Germano|Gioachino Rossini|Ingo Metzmacher|Jens-daniel Herzog|Teatro Comunale di Sassari|Zurigo
+OLIVER WIDMER|"Der ferne klang"|-|Der Graf|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+TOMASZ SLAWINSKI|"Der ferne klang"|-|Der Wirt / 1 Gast|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+ROBERTO SACCA'|"Der ferne klang"|-|Fritz|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+AGNIESZKA ADAMCZAK|"Der ferne klang"|"Luisa Miller"|-|Damiano Michieletto|Giuseppe Verdi|Ingo Metzmacher|Jens-daniel Herzog|Laura|Madchen|Opernhaus di Zurigo|Paolo Fantin|Zurigo
+LASZLO POLGAR|"Luisa Miller"|Damiano Michieletto|Giuseppe Verdi|Il Conte di Walter|Opernhaus di Zurigo|Paolo Fantin
+BARBARA FRITTOLI|"La Bohème"|"Luisa Miller"|Andrea Battistoni|Damiano Michieletto|Elisabetta di Valois|Giacomo Puccini|Gianandrea Noseda|Giuseppe Verdi|Hugo De Ana|Luisa Miller|Mimì|Opernhaus di Zurigo|Paolo Fantin|Regio|Torino, Teatro Regio|Un "Don Carlo" in gran spolvero per “compleanno”|Vittorio Borrelli
+FABIO ARMILIATO|"La Bohème"|"Luisa Miller"|Damiano Michieletto|Ettore Scola|Giacomo Puccini|Giuseppe Verdi|Opernhaus di Zurigo|Paolo Fantin|Rodolfo|Rodolfo, suo figlio|Sessantesimo Festival Puccini, Torre del Lago|Valerio Galli
+ALEJANDRO LARRAGA|"Luisa Miller"|Damiano Michieletto|Giuseppe Verdi|Opernhaus di Zurigo|Paolo Fantin|Un contadino
+RUBEN DROLE|"Luisa Miller"|Damiano Michieletto|Giuseppe Verdi|Opernhaus di Zurigo|Paolo Fantin|Wurm, castellano di Walter
+PETER SONN|"Der ferne klang"|-|Der Chavalier / 6 Gast|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+STEFANIA KALUSA|"Der ferne klang"|"Eugenio Onegin"|-|Der Frau des alten Graumann|Grischa Asagaroff|Ingo Metzmacher|Jens-daniel Herzog|Larina|Opernhaus di Zurigo|Vladimir Fedoseyev|Zurigo
+ANDREA SCHWENDENER|"Der ferne klang"|-|Eine Spanierin|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+ANDREAS WINKLER|"Der ferne klang"|-|Erster Chorist|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+IRENE FRIEDLI|"Der ferne klang"|-|Die Kellnerin|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+VALERIJ MURGA|"Der ferne klang"|-|Dr.Vigilius|Ingo Metzmacher|Jens-daniel Herzog|Zurigo
+LEO NUCCI|"Attila"|"I Due Foscari"|"I due Foscari"|"Il Barbiere di Siviglia"|"Luisa Miller"|"Nabucco"|"Nabucodonosor"|"Ola" per Rigoletto|"Rigoletto"|"Simon Boccanegra"|-|Andrea Battistoni|Arena di Verona|Arena di Verona 2008|Cesare Lievi|Damiano Michieletto|Daniel Oren|Daniele Abbado|Deutsche Oper Berlin|Ezio|Federico Tiezzi|Festival Verdi 2008|Figaro|Francesco Foscari|Francesco Ivan Ciampa|Gabriele Lavia|Genova, Teatro Carlo Felice|Gianandrea Noseda|Gioacchino Rossini|Giuseppe Verdi|Ivo Guerra|James Conlon|Jean-paul Scarpitta|Jean-pierre Ponnelle|Leo Nucci|Leo Nucci è Simon Boccanegra|Lorenzo Amato|Madrid, Teatro Real|Mario Martone|Massimo Zanetti|Milano, Teatro alla Scala|Miller|Miller, vecchio soldato in ritiro|Nabucco|Nicola Luisotti|Opernhaus di Zurigo|Paolo Fantin|Renato Palumbo|Riccardo Canessa|Riccardo Frizza|Riccardo Muti|Rigoletto|Roberto Rizzi Brignoli|Roma, Teatro dell'Opera|Salerno, Teatro Verdi|Simon Boccanegra|Stefano Ranzani|Stefano Vizioli|Teatro Municipale di Piacenza|Teatro alla Scala|“Luisa Miller”
+tag|Ingo Metzmacher|16
+tag|Jens-daniel Herzog|16
+tag|"Der ferne klang"|16
+tag|Zurigo|16

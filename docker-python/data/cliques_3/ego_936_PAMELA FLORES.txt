@@ -1,0 +1,24 @@
+PABLO OYANEDEL|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Un lacchè
+PABLO JIMÉNEZ|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Un parrucchiere
+KIRSTEN SOLLEK|"Alcina"|Bradamante|Eduardo Browne|Georg Friedrich Handel|Marcelo Lombardero|Santiago del Cile,  Teatro Municipal
+JOSEFINA BRIVIO|"Alcina"|"Suor Angelica" e "Gianni Schicchi"|Alejandro Chacon|Eduardo Browne|Espartaco Lavalle Terrry|Georg Friedrich Handel|Giacomo Puccini|Lauretta|Marcelo Lombardero|Ruggiero|Santiago del Cile,  Teatro Municipal|Teatro Segura di Lima
+ROMANUS FUHRMANN|"Ariadne auf Naxos"|-|Il maggiordomo|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal
+ANDREA AGUILAR|"Ariadne auf Naxos"|-|Echo|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal
+PATRICIO SABATÉ|"Ariadne auf Naxos"|-|Harlekin|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal
+PATRICIO SABATE'|"Alcina"|Eduardo Browne|Georg Friedrich Handel|Marcelo Lombardero|Melisso|Santiago del Cile,  Teatro Municipal
+PAMELA FLORES|"Alcina"|"Ariadne auf Naxos"|-|Eduardo Browne|Georg Friedrich Handel|Marcelo Lombardero|Morgana|Naiade|Rani Calderón|Richard Strauss|Santiago del Cile,  Teatro Municipal|Santiago del Cile, Teatro Municipal
+MARCELA GONZALES|"Alcina"|Eduardo Browne|Georg Friedrich Handel|Marcelo Lombardero|Oberto|Santiago del Cile,  Teatro Municipal
+GONZALO ARAYA|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Scaramuccio
+GUNDULA SCHNEIDER|"Ariadne auf Naxos"|-|Il compositore|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal
+EVELYN RAMÍREZ|"Ariadne auf Naxos"|-|Driade|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal
+EKATERINA LEKHINA|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Zerbinetta
+LEONARDO NEIVA|"Ariadne auf Naxos"|"Rienzi"|-|Cecco del Vecchio|Il professore di musica|Jorge Lavelli|Pinchas Steinberg|Rani Calderón|Richard Strauss|Richard Wagner|Santiago del Cile, Teatro Municipal|Toulouse, Théâtre du Capitole
+RICHARD COX|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Tenore / Bacchus
+DAVID GÁEZ|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Truffaldin
+ANDREW BIDLACK|"Alcina"|Eduardo Browne|Georg Friedrich Handel|Marcelo Lombardero|Oronte|Santiago del Cile,  Teatro Municipal
+CHRISTINE GOERKE|"Ariadne auf Naxos"|"Elektra"|"Fidelio"|-|Boston Opera|Elektra|Gil Rose|Klaus Michael Grüber|Leonore|Ludwig Van Beethoven|Madrid, Teatro Real|Prima Donna / Ariadne|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Semyon Bychkov|Thaddeus Strassberger
+CLAUDIO FERNÁNDEZ|"Ariadne auf Naxos"|-|Rani Calderón|Richard Strauss|Santiago del Cile, Teatro Municipal|Un soldato
+tag|Santiago del Cile, Teatro Municipal|15
+tag|Rani Calderón|15
+tag|"Ariadne auf Naxos"|15
+tag|Richard Strauss|15

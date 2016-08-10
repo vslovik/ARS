@@ -1,0 +1,27 @@
+ALEXANDER TSYMBALYUK|"Lucia di Lammermoor"|"Rigoletto"|"Simon Boccanegra"|-|Alain Altinoglu|David Kneuss|Federico Tiezzi|Firenze, Teatro del Maggio Musicale Fiorentino|Franco Zeffirelli,Marco Gandini|Gaetano Donizetti|Gianandrea Noseda|Gilbert Deflo|Giuseppe Verdi|Gustavo Dudamel|Il Re|Jacopo Fiesco|Lodovico|Mary Zimmerman|Milano, Teatro alla Scala|New York, Metropolitan|Perché re|Raimondo Bidebent|Sparafucile|Stefano Ranzani|Teatro alla Scala di Milano|Un frate|Zubin Mehta|’“Aida” scaligera?|“Don Carlo”|“Otello”
+ALEXEY LAVROV|Alain Altinoglu|David Kneuss|Giuseppe Verdi|New York, Metropolitan|Un araldo|“Otello”
+EDUARDO VALDES|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|Alain Altinoglu|Antony Walker,Marco Armiliato,Fabio Luisi|David Kneuss|David Mcvicar,Mark Morris,Otto Schenk|Giuseppe Verdi|Giuseppe Verdi,Christoph Willibald Gluck|Metropolitan Opera|New York, Metropolitan|Roderigo|Ruiz|“Otello”
+DINA KUZNETSOVA|"Francesca da Rimini"|"Rusalka" al San Carlo di Napoli|Antonin Dvořák|David Kneuss|John Fiore|Manfred Schweigkofler|Marco Armiliato|Met|Riccardo Zandonai|Rusalka|Samaritana|Tra attrazione e sventura
+STEPHEN GAERTNER|"Francesca da Rimini"|Alain Altinoglu|Berlingerio|David Kneuss|Giuseppe Verdi|Marco Armiliato|Met|Montano|New York, Metropolitan|Riccardo Zandonai|“Otello”
+DISELLA LÀRUSDÓTTIR|"Francesca da Rimini"|Biancofiore|David Kneuss|Marco Armiliato|Met|Riccardo Zandonai
+CAITLIN LYNCH|"Francesca da Rimini"|David Kneuss|Garsenda|Marco Armiliato|Met|Riccardo Zandonai
+MARK DELAVAN|"Francesca da Rimini"|"Salome"|David Kneuss|Fabio Luisi|Giovanni, detto Gianciotto|Jochanaan|Marco Armiliato|Met|Riccardo Zandonai|Richard Strauss|Rosetta Cucchi|Teatro Carlo Felice di Genova
+PHILIP HORST|"Francesca da Rimini"|David Kneuss|Marco Armiliato|Met|Ostasio|Riccardo Zandonai
+JOHN MOORE|"Francesca da Rimini"|David Kneuss|Marco Armiliato|Met|Riccardo Zandonai|Simonetto
+DUSTIN LUCAS|"Francesca da Rimini"|David Kneuss|Marco Armiliato|Met|Riccardo Zandonai|Un Prigioniero
+JERRY GROSSMAN|"Francesca da Rimini"|David Kneuss|Marco Armiliato|Met|Riccardo Zandonai|Violoncello</em> <em>solista
+EVA-MARIA WESTBROEK|"Die Walküre"|"Francesca da Rimini"|"La vedova allegra"|"Lady Macbeth del distretto di Mzesnk"|-|Ascher Fisch|David Kneuss|Dimitrij Sostakovic|Francesca|Franz Lehar|Hanna Glawari|Hartmut Haenchen|James Levine|Katerina Ismailova|Madrid, Teatro Real|Marco Armiliato|Martin Kušej|Met|Metropolitan Opera|Milano, Teatro alla Scala|Pier Luigi Pizzi|Riccardo Zandonai|Robert Lepage|Sieglinde
+THOMAS HAMPSON|"Heart of a Soldier"|Alain Altinoglu|Christopher Theofanidis|David Kneuss|Francesca Zambello|Giuseppe Verdi|Jago|New York, Metropolitan|Patrick Summers|Rick Rescorla|San Francisco Opera|“Otello”
+GINGER COSTA-JACKSON|"Francesca da Rimini"|"La fanciulla del West"|"Nixon in China"|David Kneuss|Giacomo Puccini|Giancarlo Del Monaco|John Adams|Marco Armiliato|Met|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Peter Sellars|Riccardo Zandonai|Smaragdi|Tre segretarie|Wowkle
+KEITH JAMESON|"Evgenij Onegin"|"Francesca da Rimini"|David Kneuss|James Conlon|Los Angeles Opera|Marco Armiliato|Met|Piotr Ilic Caikovskij|Riccardo Zandonai|Ser Toldo|Steven Pimlott|Triquet
+ROBERT BRUBAKER|"Das Rheingold"|"Francesca da Rimini"|"Nixon in China"|-|David Kneuss|Graham Vick|Guy Joosten|Herodes|John Adams|Mal Tse-tung|Malatestino|Marco Armiliato|Met|Michael  Boder|Mime|Palermo|Peter Sellars|Pietari Inkinen|Riccardo Zandonai
+HUGO VERA|"Francesca da Rimini"|"La fanciulla del West"|David Kneuss|Giacomo Puccini|Giancarlo Del Monaco|Marco Armiliato|Met|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Riccardo Zandonai|Trin|Un Arciere
+MARCELLO GIORDANI|"Aida"|"Francesca da Rimini"|"Il Trovatore"|-|Daniel Oren|David Kneuss|Giuseppe Verdi|Jo Davies|Manrico|Marco Armiliato|Met|Nicola Luisotti|Palermo, Teatro Massimo|Paolo|Paul Curran|Radames|Renato Palumbo|Renzo Giacchieri|Riccardo Zandonai|San Francisco Opera
+JENNIFER JOHNSON CANO|"Götterdämmerung"|-|Alain Altinoglu|David Kneuss|Emilia|Fabio Luisi|Giuseppe Verdi|NYC, The Metropolitan Opera|New York, Metropolitan|Wellgunde|“Otello”
+KRASSIMIRA STOYANOVA|"Der Rosenkavalier"|Alain Altinoglu|David Kneuss|Desdemona|Die Feldmarschallin|Giuseppe Verdi|Harry Kupfer|New York, Metropolitan|Richard Strauss|Teatro alla Scala di Milano|Zubin Mehta|“Otello”
+JOSÉ CURA|Alain Altinoglu|Camille Saint-saëns|Comunale di Bologna|David Kneuss|Eliahu Inbal|Giuseppe Verdi|Michal Znaniecki|New York, Metropolitan|Otello|Samson|Samson et Dalila|“Otello”
+tag|David Kneuss|22
+tag|"Francesca da Rimini"|15
+tag|Riccardo Zandonai|15
+tag|Met|15
+tag|Marco Armiliato|15

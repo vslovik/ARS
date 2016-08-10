@@ -1,0 +1,48 @@
+PAOLA DEL CARPIO|-|Beso"|Emilio Montero|Espartaco Lavalle Terrry|Lima,"La Leyenda|Margot
+MARIELA TREJOS|-|Beso"|Emilio Montero|Espartaco Lavalle Terrry|Lima,"La Leyenda|Madre Ulita
+PEDRO BERDEJO|-|Beso"|Emilio Montero|Espartaco Lavalle Terrry|Juan|Lima,"La Leyenda
+RICARDO MUÑIZ|-|Beso"|Emilio Montero|Espartaco Lavalle Terrry|Ivan|Lima,"La Leyenda
+NOE VALDIVIEZO|-|Beso"|Emilio Montero|Espartaco Lavalle Terrry|Lima,"La Leyenda|Urko
+ROSA PARODI|-|Beso"|Emilio Montero|Espartaco Lavalle Terrry|Lima,"La Leyenda|Simeona
+DAVID LAGARES|"Rigoletto"|Carlos Aragón|Francisco López|Giuseppe Verdi|Jerez, Teatro Villamarta|Marullo
+CONCETTO RAMETTA|"Madama Butterfly"|"Rigoletto"|Carlos Aragón|Catania, Teatro Massimo Bellini|Fabrizio Maria Carminati|Francisco López|Giacomo Puccini|Giuseppe Verdi|Jerez, Teatro Villamarta|Roberto Laganà Manoli|Roberto Paternostro|Usciere|Zio Bonzo
+GIANNINA SALGADO|-|Beso"|Emilio Montero|Espartaco Lavalle Terrry|Estrella|Lima,"La Leyenda
+ARTUR VIGO|-|Beso"|Emilio Montero|Espartaco Lavalle Terrry|Goron|Lima,"La Leyenda
+ALEXANDER PACHECO|-|Beso"|Cristobal|Emilio Montero|Espartaco Lavalle Terrry|Lima,"La Leyenda
+JOSE LUIS COSTA|-|Beso"|Emilio Montero|Ernesto|Espartaco Lavalle Terrry|Lima,"La Leyenda
+LUIS CANSINO|"L'elisir d'amore"|"Marina"|"Nabucco"|"Rigoletto"|-|Alicante, Teatro Principal|Beso"|Carlos Aragón|Conde Mario|Cristbal Soler|Daniel Slater|Dulcamara|Emilio Arrieta|Emilio Montero|Espartaco Lavalle Terrry|Francisco López|Gaetano Donizetti|Giuseppe Verdi|Igor Ivanov|Jerez, Teatro Villamarta|José Miguel Pérez Sierra|Lima,"La Leyenda|Madrid, Teatro de la Zarzuela|Nabucco|Opera di Oviedo|Rigoletto|Roque|Vladimir Vrublvskiy
+LORENA ARANDA|-|Beso"|Coral|Emilio Montero|Espartaco Lavalle Terrry|Lima,"La Leyenda
+GISELLA MILLA, ELSA MORINO|-|Amici di Mario|Beso"|Emilio Montero|Espartaco Lavalle Terrry|Lima,"La Leyenda
+GINETTE URBINA|-|Beso"|Charito|Emilio Montero|Espartaco Lavalle Terrry|Lima,"La Leyenda
+LUIS ASMAT|-|Alfonso|Beso"|Emilio Montero|Espartaco Lavalle Terrry|Lima,"La Leyenda
+MILAGROS MARTIN|"El amor brujo" e "La vida breve"|-|Amapola|Beso"|Emilio Montero|Espartaco Lavalle Terrry|Guillermo García Calvo|Herbert Wernicke|La abuela|Lima,"La Leyenda|Madrid, Teatro de la Zarzuela|Manuel De Falla
+CARMEN ROMEU|"Ciro in Babilonia"|"El Trust de los tenorios", "El Puñao de rosas"|"Marina"|-|Alberto Zedda|Argene|Cristbal Soler|Cristóbal Soler|Davide Livermore|Elena|Emilio Arrieta|Gioachino Rossini|José Serrano,Ruperto Chapí|Luis Olmos|Madrid, Teatro de la Zarzuela|Marina|Rosario|Rossini Opera Festival|Veneciana 1ª|Will Crutchfield|lago” chiude ROF|«Come resistere / a tanti affetti!» “La Donna
+MARC CANTURRI|"L'elisir d'amore"|Belcore|Daniel Slater|Gaetano Donizetti|José Miguel Pérez Sierra|Opera di Oviedo
+MARTA UBIETA|"L'elisir d'amore"|Annina|Daniel Slater|David Mcvicar|Gaetano Donizetti|Giannetta|Giuseppe Verdi|José Miguel Pérez Sierra|Opera di Oviedo|Renato Palumbo|Teatro Real di Madrid|“La Traviata”
+MIKELDI ATXALANDABASO|"L'elisir d'amore"|"Marina"|-|Cristbal Soler|Daniel Slater|Emilio Arrieta|Gaetano Donizetti|Jorge|José Miguel Pérez Sierra|Madrid, Teatro de la Zarzuela|Nemorino|Opera di Oviedo
+ISMAEL JORDI|"Linda di Chamounix"|"Lucia di Lammermoor"|"Rigoletto"|Alessandro Talevi|Andrea Battistoni|Andriy Yurkevych|Arnaud Bernard|Carlo, Visconte di Sirval|Carlos Aragón|Emilio Sagi|Francesco Rosa|Francisco López|Gaetano Donizetti|Giuseppe Verdi|Il Duca di Mantova|Il duca di Mantova|Jerez, Teatro Villamarta|Macerata Opera Festival|Massimo Gasparon|Padova, Teatro Verdi|Riccardo Frizza|Roberto Devereux|Sir Edgardo di Ravenswood|Stefano Poda|Teatro Real di Madrid|Teatro dell'Opera di Roma|Verona, Teatro Filarmonico|“Roberto Devereux”
+MARIO VILLORIA*|"Marina"|-|Cristbal Soler|Emilio Arrieta|Madrid, Teatro de la Zarzuela|Un marinero
+ARNZAZU URRUZOLA*|"Marina"|-|Cristbal Soler|Emilio Arrieta|Madrid, Teatro de la Zarzuela|Teresa
+MARCO MONCLOA|"Marina"|-|Cristbal Soler|Emilio Arrieta|Madrid, Teatro de la Zarzuela|Pascual
+RUBÉN AMORETTI|"Fidelio" riapre Palacio de Bellas Artes|"Il Trovatore"|"Mefistofele"|"Rigoletto"|Arrigo Boito|Carlos Aragón|Città del Messico|Don Pizarro|Enrico Stinchelli|Federico Santi|Ferrando|Francesco Pasqualetti|Francisco López|Giuseppe Verdi|Jerez, Teatro Villamarta|Lucca, Teatro del Giglio|Ludwig Van Beethoven|Mario Espinosa|Mauricio Garcia  Lozano|Mefistofele|Niksa Bareza|Sparafucile
+YURY ALEXEICHUK|"Nabucco"|Alicante, Teatro Principal|Giuseppe Verdi|Igor Ivanov|Vladimir Vrublvskiy|Zaccaria
+ANA MAKSUDOVA|"Nabucco"|Alicante, Teatro Principal|Fenena|Giuseppe Verdi|Igor Ivanov|Vladimir Vrublvskiy
+PAVEL NAUMENKO|"Nabucco"|Alicante, Teatro Principal|Giuseppe Verdi|Igor Ivanov|Ismaele|Vladimir Vrublvskiy
+LUCRECIA GARCÍA-TELLERÍA|"Nabucco"|Abigaille|Alicante, Teatro Principal|Giuseppe Verdi|Igor Ivanov|Vladimir Vrublvskiy
+JUAN MANUEL PÉREZ MADUEÑO|"Rigoletto"|Carlos Aragón|Francisco López|Giuseppe Verdi|Jerez, Teatro Villamarta|Matteo Borsa
+MAKSIM IVASCHUK|"Nabucco"|Alicante, Teatro Principal|Giuseppe Verdi|Igor Ivanov|Sommo Sacerdote di Belo|Vladimir Vrublvskiy
+MARINA PARDO|"Rigoletto"|Carlos Aragón|Francisco López|Giuseppe Verdi|Jerez, Teatro Villamarta|Maddalena
+INMACULADA SALMORAL|"Rigoletto"|Carlos Aragón|Francisco López|Giuseppe Verdi|Jerez, Teatro Villamarta|La contessa di Ceprano
+FEDERICO GALLAR|"Rigoletto"|Carlos Aragón|Francisco López|Giuseppe Verdi|Il conte di Monterone|Jerez, Teatro Villamarta
+ESPERANZA MELGUIZO|"Rigoletto"|Carlos Aragón|Francisco López|Giovanna|Giuseppe Verdi|Jerez, Teatro Villamarta
+SABINA PUÉRTOLAS|"Rigoletto"|Carlos Aragón|Francisco López|Gilda|Giuseppe Verdi|Jerez, Teatro Villamarta
+ERREGIÑE ARROTZA|"Rigoletto"|Carlos Aragón|Francisco López|Giuseppe Verdi|Jerez, Teatro Villamarta|Un paggio
+tag|Giuseppe Verdi|18
+tag|Lima,"La Leyenda|16
+tag|Emilio Montero|16
+tag|Beso"|16
+tag|Espartaco Lavalle Terrry|16
+tag|Carlos Aragón|12
+tag|Jerez, Teatro Villamarta|12
+tag|Francisco López|12
+tag|"Rigoletto"|12

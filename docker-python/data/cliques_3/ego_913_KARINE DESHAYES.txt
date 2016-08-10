@@ -1,0 +1,6 @@
+MARC LARCHER|"La Straniera"|-|Opéra di Marsiglia|Osburgo, confidente di Arturo|Paolo Arrivabene|Vincenzo Bellini
+JEANNETTE FISCHER|"La Cenerentola"|Bruno Campanella|Clorinda|Gioachino Rossini|Jean-pierre Ponnelle|Parigi, Palais Garnier
+RICCARDO NOVARO|"La Cenerentola"|"Le nozze di Figaro"|"Rinaldo"|-|Ancona, Teatro delle Muse|Argante|Bruno Campanella|Dandini|Figaro|Gabriele Ferro|Georg Friedrich Handel|Gioachino Rossini|Giorgio Barberio Corsetti|Guillaume Tourniaire|Il "Rinaldo" di Haendel-Dantone-Pizzi|Jean-pierre Ponnelle|Ottavio Dantone|Parigi, Palais Garnier|Pier Luigi Pizzi|Ravenna|Reggio Emilia, Teatro Valli|Teatro Massimo di Palermo|Wolfganag  Amadeus Mozart
+KARINE DESHAYES|"La Cenerentola"|"La Straniera"|-|Angelina, detta Cenerentola|Bruno Campanella|Gioachino Rossini|Isoletta, sua figlia|Jean-pierre Ponnelle|Opéra di Marsiglia|Paolo Arrivabene|Parigi, Palais Garnier|Vincenzo Bellini
+CARLOS CHAUSSON|"La Cenerentola"|Bruno Campanella|Don Magnifico|Gioachino Rossini|Jean-pierre Ponnelle|Parigi, Palais Garnier
+ANNA WELL|"La Cenerentola"|Bruno Campanella|Gioachino Rossini|Jean-pierre Ponnelle|Parigi, Palais Garnier|Tisbe

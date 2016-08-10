@@ -1,0 +1,18 @@
+ALEJANDRO LOPEZ|"La Traviata"|Bellas Artes|David Attie|Denis Vlasenko|Dr.Grenvil|Giuseppe Verdi
+MARGARITA BOTELLO|"La Traviata"|Bellas Artes|David Attie|Denis Vlasenko|Flora Bervoix|Giuseppe Verdi
+CAROLINA RAMIREZ|"Carmen"|Città del Messico|Frasquita|Georges Bizet|José Areán|Marcelo Lombardero
+DANTE ALCALA'|"Carmen"|Città del Messico|Don José|Georges Bizet|José Areán|Marcelo Lombardero
+ROBERTO AZNAR|"Carmen"|"Il Trovatore"|"La Traviata"|Bellas Artes|Città del Messico|David Attie|Denis Vlasenko|Federico Santi|Georges Bizet|Giuseppe Verdi|José Areán|Marcelo Lombardero|Marchese d'Obigny|Mario Espinosa|Un vecchio zingaro|Zuniga
+JORGE ALEJANDRO LOPEZ|"La Traviata"|Bellas Artes|David Attie|Denis Vlasenko|Giuseppe|Giuseppe Verdi
+LUIS LEDESMA|"Carmen"|"La Traviata"|Bellas Artes|Città del Messico|David Attie|Denis Vlasenko|Escamillo|Georges Bizet|Giorgio Germont|Giuseppe Verdi|José Areán|Marcelo Lombardero
+RAMON YAMIL|"La Traviata"|Bellas Artes|David Attie|Denis Vlasenko|Gastone de Letorieres|Giuseppe Verdi
+EDURNE GOYARZU|"Carmen"|Città del Messico|Georges Bizet|José Areán|Marcelo Lombardero|Mercedes
+GABRIEL LOPEZ|"Carmen"|Città del Messico|Georges Bizet|José Areán|Lilas Pastia|Marcelo Lombardero
+ELIZABETH MATA|"La Traviata"|Annina|Bellas Artes|David Attie|Denis Vlasenko|Giuseppe Verdi
+JORGE OVANDO|"La Traviata"|Bellas Artes|David Attie|Denis Vlasenko|Domestico di Flora|Giuseppe Verdi
+ARTURO LOPEZ CASTILLO|"Carmen"|"La mulata de Córdoba", "La vida breve"|Città del Messico|Georges Bizet|Horacio Almada|Inquisidor|José Areán|Manuel De Falla|Marcelo Lombardero|Morales|Ramón Tebar|Teatro di Bellas Artes
+OCTAVIO PEREZ|"La Traviata"|"La mulata de Córdoba", "La vida breve"|Barone Douphol|Bellas Artes|David Attie|Denis Vlasenko|Giuseppe Verdi|Horacio Almada|Manuel|Manuel De Falla|Ramón Tebar|Teatro di Bellas Artes
+MARTIN LUNA|"Carmen"|Città del Messico|Dancairo|Georges Bizet|José Areán|Marcelo Lombardero
+HUGO COLIN|"Carmen"|Città del Messico|Georges Bizet|José Areán|Marcelo Lombardero|Remendado
+MARIBEL SALAZAR|"Carmen"|Città del Messico|Georges Bizet|José Areán|Marcelo Lombardero|Micaela
+LETICIA DE ALTAMIRANO|"La Traviata"|Bellas Artes|David Attie|Denis Vlasenko|Giuseppe Verdi|Violetta Valéry

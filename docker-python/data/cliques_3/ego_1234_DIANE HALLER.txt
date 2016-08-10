@@ -1,0 +1,14 @@
+ATALLA AYAN|"Falstaff"|"La Bohème"|"Nabucco"|"Rigoletto"|Andrea Moses|Andreas Moses|Fenton|Giacomo Puccini|Giuliano Carella|Giuseppe Verdi|Il Duca di Mantova|Ismaele|Jossi Wieler, Sergio Morabito|Rodolfo|Rudolf Frey|Simon Hewett|Staatsoper Stuttgart|Sylvain Cambreling
+SEBASTIANA CATANA|"Nabucco"|Giuliano Carella|Giuseppe Verdi|Nabucco|Rudolf Frey|Staatsoper Stuttgart
+RONAN COLLET|"Nabucco"|Giuliano Carella|Giuseppe Verdi|Il Gran Sacerdote|Rudolf Frey|Staatsoper Stuttgart
+CATHERINE FOSTER|"Nabucco"|Abigaille|Brünnhilde|Giuliano Carella|Giuseppe Verdi|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|Richard Wagner|Robert Carsen|Rudolf Frey|Staatsoper Stuttgart|“Siegfried”
+MARIA KORYAGOVA|"Ariadne auf Naxos"|"Die Zauberflöte"|"Nabucco"|Anna|Echo|Giuliano Carella|Giuseppe Verdi|Jossi Wieler, Sergio Morabito|Junge Papagena|Michael Schøwandt|Peter Konwitschny|Richard Strauss|Rudolf Frey|Staatsoper Stuttgart|Uwe Sandner|Wolfgang Amadeus Mozart
+JENICE GOLBOURNE|-|Federica d'Ostheim|Giuseppe Verdi|Markus Dietz|Thomas Søndergård
+ANNEMARIE KREMER|"Salome"|-|Giuseppe Verdi|I|Luisa|Manfred Schweigkofler|Markus Dietz|Salome|Teatro San Carlo di Napoli|Thomas Søndergård
+DIANE HALLER|"Nabucco"|-|Fenena|Giuliano Carella|Giuseppe Verdi|Laura|Markus Dietz|Rudolf Frey|Staatsoper Stuttgart|Thomas Søndergård
+DMYTRO POPOV|-|Giuseppe Verdi|Markus Dietz|Rodolfo|Thomas Søndergård
+ANDREY BREUS|-|Giuseppe Verdi|Markus Dietz|Miller|Thomas Søndergård
+ATTILA JUN|" Götterdämmerung"|"Die Walküre"|"Norma"|"Parsifal"|"Siegfried"|"Tristan und Isolde"|-|Calixto Bieito|Deutsche Oper Berlin|Donald Runnicles|Fafner|Giuseppe Verdi|Gotz Friedrich|Gurnemanz|Hagen|Hunding|Ivan Anguélov|Jossi Wieler|Jossi Wieler, Sergio Morabito|Koenig Marke|König Marke|Magia|Marc Soustrot|Markus Dietz|Myung-whun Chung|Oroveso|Paul Curran|Peter Konwitschny|Staatsoper Stuttgart|Sylvain Cambreling|Thomas Søndergård|Vincenzo Bellini|Wurm|filtro, magia di Chung
+BO YONG KIM|-|Giuseppe Verdi|Markus Dietz|Thomas Søndergård|Un contadino
+LIANG LI|"Die Zauberflöte"|"La Juive"|"La Sonnambula"|"Nabucco"|"Rigoletto"|Alain Altinoglu|Gabriele Ferro|Giuliano Carella|Giuseppe Verdi|Il Cardinale Brogni|Il Commendatore|Il conte Rodolfo|Jacques Fromental Halévy|Jossi Wieler, Sergio Morabito|Jussi Wieler, Sergio Morabito|Michael Haneke|Parigi, Opéra Bastille|Peter Konwitschny|Rudolf Frey|Sarastro|Sparafucile|Staatsoper Stuttgart|Sylvain Cambreling|Sébastien Rouland|Uwe Sandner|Vincenzo Bellini|Wolfgang Amadeus Mozart|Zaccaria|“Don Giovanni”
+tag|Giuseppe Verdi|13

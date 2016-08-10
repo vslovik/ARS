@@ -19,13 +19,14 @@ __package__ = "collector"
 class Parser(object):
 
     PAGES_DIR = '/data/pages'
+    STAT_DIR = '/data/stat'
 
     TITLE_PATTERN = '<title>([^<]+?):([^<]+?) | GBOPERA</title>'
 
     MUSIC_PATTERNS = [
-        'Musica di.*?<strong[^>]*?>([^<,&#0-9;]+?)<',
-        'Musica di.*?<b[^>]*?>([^<,&#0-9z;]+?)<',
-        'Musica di<strong> </strong><strong>([^<]+?)</strong>'
+        'Musica di[^<]*?<strong[^>]*?>([^<,&#0-9;]+?)<',
+        'Musica di[^<]*?<b[^>]*?>([^<,&#0-9z;]+?)<',
+        'Musica di<strong> </strong><strong>([^<]+?)</strong>',
     ]
 
     CONDUCTOR_PATTERNS = [
@@ -35,8 +36,8 @@ class Parser(object):
         'Direttore</em><strong> </strong><strong>([^<]+?)</strong>',
         'Direttore\W*?<strong> <strong>([^<]+?)</strong>',
         'Direttore<strong> <strong><strong>([^<]+?)</strong>',
-        'Direttore.*?<strong[^>]*?>([^<]+?)<',
-        'Direttore.*?<b[^>]*?>([^<]+?)<',
+        'Direttore[^<]*?<strong[^>]*?>([^<]+?)<',
+        'Direttore[^<]*?<b[^>]*?>([^<]+?)<',
     ]
 
     DIRECTION_PATTERNS = [
@@ -113,30 +114,69 @@ class Parser(object):
         '>\s*?([^<,&#0-9;]+?[a-z]+)\s+?([A-Z\s]{3,50}?[A-Z]{3,50}?)<',
     ]
 
+    def __init__(self):
+        self.singer_meta = dict()
+        self.singer_ids = dict()
+        self.role_meta = dict()
+        self.role_ids = dict()
+        self.stat = Parser.init_stat_dict()
+
+    @staticmethod
+    def init_stat_dict():
+        x = dict()
+        for k in ['place', 'title', 'composer', 'conductor', 'director', 'singer']:
+            x[k] = dict()
+            for i in xrange(2007, 2017):
+                x[k][str(i)] = dict()
+                x[k]['total'] = dict()
+        return x
+
+    def collect_stat_item(self, topic, year, value):
+            if value in self.stat[topic][year]:
+                self.stat[topic][year][value] += 1
+            else:
+                self.stat[topic][year][value] = 1
+            if value in self.stat[topic]['total']:
+                self.stat[topic]['total'][value] += 1
+            else:
+                self.stat[topic]['total'][value] = 1
+
+    def write_stat(self):
+        for topic in ['place', 'title', 'composer', 'conductor', 'director', 'singer']:
+            for period in self.stat[topic]:
+                self.write_stat_item(topic, period)
+
+    def write_stat_item(self, topic, period):
+        fh = codecs.open('{}/{}_{}.txt'.format(Parser.get_data_dir() + Parser.STAT_DIR, topic, period), "w+", 'utf-8')
+        data = self.stat[topic][period]
+        for k in sorted(data, key=data.get, reverse=True):
+            fh.write(str(data[k]) + '|' + k + '\n')
+        fh.close()
+
     @staticmethod
     def get_data_dir():
         return os.getcwd() + '/../../'
 
-    @staticmethod
-    def parse():
+    def parse(self):
         dir_name = Parser.get_data_dir() + Parser.PAGES_DIR
         count = 0
         for fn in os.listdir(dir_name):
             file_path = dir_name + '/' + fn
             if os.path.isfile(file_path):
-                # if fn != '2010_10_teatro-grande-di-brescia-medea_':
+                # if fn != '2014_11_salome-al-teatro-san-carlo-di-napoli_':
                 #     continue
                 [year, month, _, _] = fn.split('_')
                 count += 1
                 print(fn)
                 fh = codecs.open(file_path, 'r', 'utf-8')
                 content = fh.read()
-                credit_lines = Parser.parse_credits(content, year, month)
+                credit_lines = self.parse_credits(content, year, month)
                 if len(credit_lines):
                     Parser.write_entry(credit_lines)
                 fh.close()
 
         Parser.write_sorted()
+        self.write_stat()
         print(count)
 
     @staticmethod
@@ -311,7 +351,7 @@ class Parser(object):
 
     @staticmethod
     def clean_name(name):
-        return (' '.join(re.split(r"\s+", name))). \
+        name = (' '.join(re.split(r"\s+", name))). \
             replace('(13)', ''). \
             replace('(19)', ''). \
             replace('&#8220;', '"'). \
@@ -323,10 +363,13 @@ class Parser(object):
             replace('&#038;', "'"). \
             strip(). \
             replace('</em><em>', '').\
-            replace(';', ',')
+            replace(';', ',').\
+            replace('FLOREZ', u'FLÓREZ'). \
+            replace('PLACIDO', u'PLÁCIDO'). \
+            replace(u'  ', ' ')
+        return re.sub(r"\s+", ' ', name)
 
-    @staticmethod
-    def parse_roles(content, year, month, metadata):
+    def parse_roles(self, content, year, month, metadata):
         lines = []
         for pattern in Parser.ROLE_LINE_PATTERNS:
             pattern = re.compile(pattern)
@@ -334,16 +377,26 @@ class Parser(object):
             if len(match):
                 for (role, name) in match:
                     if not role.isupper() and role[0].isupper() and name.isupper():
-                        print(role + '|' + name)
-                        line = '|'.join([year, month, metadata, role, name])
-                        if line not in lines:
-                            lines.append(line)
+                        if '/' in name:
+                            singers = name.split('/')
+                        elif ',' in name:
+                            singers = name.split(',')
+                        else:
+                            singers = [name]
+                        for name in singers:
+                            print(role + '|' + name)
+                            line = '|'.join([year, month, metadata, role, name])
+                            if line not in lines:
+                                lines.append(line)
+                                self.collect_stat_item('singer', year, name)
 
         return lines
 
-    @staticmethod
-    def parse_credits(content, year, month):
-        metadata = Parser.parse_title(content)
+    def parse_credits(self, content, year, month):
+        title = Parser.parse_title(content)
+        _, place, opera = title.split('|')
+        self.collect_stat_item('place', year, place)
+        self.collect_stat_item('title', year, opera)
 
         left_selector, right_selector = '<div class="entry-content" itemprop="articleBody" style="color: #363636">',\
                                         '</div><div class="clear"></div>'
@@ -352,12 +405,17 @@ class Parser(object):
         pos = content.index(right_selector)
         entry = content[:pos]
 
-        metadata += '|' + Parser.parse_music(entry)
-        metadata += '|' + Parser.parse_conductor(entry)
-        metadata += '|' + Parser.parse_direction(entry)
+        composer = Parser.parse_music(entry)
+        self.collect_stat_item('composer', year, composer)
+        conductor = Parser.parse_conductor(entry)
+        self.collect_stat_item('conductor', year, conductor)
+        director = Parser.parse_direction(entry)
+        self.collect_stat_item('director', year, director)
+
+        metadata = '|'.join([title, composer, conductor, director])
 
         if 'Interpreti:' not in content:
-            credit_lines = Parser.parse_roles(entry, year, month, metadata)
+            credit_lines = self.parse_roles(entry, year, month, metadata)
             if len(credit_lines):
                 return '\n'.join(credit_lines)
             else:

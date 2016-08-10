@@ -1,0 +1,17 @@
+GIULIA FERI|"Pollicino"|Claudio Fenoglio,Dieter Kaegi|Dieter Kaegi|Hans Werner Henze|Mister Riccio|Torino, Teatro Regio
+MANUELA ESCOBAR|"Pollicino"|Claudio Fenoglio,Dieter Kaegi|Dieter Kaegi|Hans Werner Henze|Monsieur Cinghiale|Torino, Teatro Regio
+FIAMMETTA PIOVANO|"Pollicino"|Claudio Fenoglio,Dieter Kaegi|Dieter Kaegi|Hans Werner Henze|L’orchessina Clotilde|Torino, Teatro Regio
+CARLOTTA PETRUCCIOLI|"Pollicino"|Claudio Fenoglio,Dieter Kaegi|Dieter Kaegi|Hans Werner Henze|Madama Volpe|Torino, Teatro Regio
+NICCOLÒ COZZULA|"Pollicino"|Claudio Fenoglio,Dieter Kaegi|Dieter Kaegi|Hans Werner Henze|La signora Civetta|Torino, Teatro Regio
+CELESTE MOSTERT|"Pollicino"|Claudio Fenoglio,Dieter Kaegi|Dieter Kaegi|Hans Werner Henze|La signorina Lepre|Torino, Teatro Regio
+ALESSANDRO FERRARIS|"Pollicino"|Claudio Fenoglio,Dieter Kaegi|Dieter Kaegi|Hans Werner Henze|Il signor Gufo|Torino, Teatro Regio
+TOMMASO PARONUZZI|"Pollicino"|Claudio Fenoglio,Dieter Kaegi|Dieter Kaegi|Hans Werner Henze|Il signor Lupo|Torino, Teatro Regio
+EMILIO MARCUCCI|"La donna serpente" di Alfredo Casella|"Otello"|"Pollicino"|Alfredo Casella|Arturo Cirillo|Claudio Fenoglio,Dieter Kaegi|Dieter Kaegi|Gianandrea Noseda|Giuseppe Verdi|Hans Werner Henze|L’Orco Terribile|Montano|Primo messo e La voce del mago Geònca|Teatro Regio|Teatro Regio di Torino|Torino, Teatro Regio|Walter Sutcliffe
+GIORGIO FIDELIO|"Pollicino"|Claudio Fenoglio,Dieter Kaegi|Dieter Kaegi|Hans Werner Henze|Pollicino|Torino, Teatro Regio
+SILVIA BELTRAMI|"Aida"|"Don Giovanni"|"Eine Florentinische Tragödie" e "Gianni Schicchi" (cast alternativi)|"Eine florentinische tragödie/Gianni Schicchi"|"Il Barbiere di Siviglia"|"La Traviata"|"La voix humaine" e "Suor Angelica"|"Madama Butterfly"|"Pagliacci", "Gianni Schicchi"|"Pollicino"|-|Alexander Zemlinsky,Giacomo Puccini|Amneris|Andrea De Rosa|Claudio Fenoglio,Dieter Kaegi|Claudio Fenoglio,Saverio Santoliquido|Corrado Rovaris|Dieter Kaegi|Dittico al femminile|Donato Renzetti|Donna Elvira|Fabio Banfo|Federico Grazzini|Flora Bervoix|Francesco Ivan Ciampa|Francesco Lanzillotta|Franco Zeffirelli|Giacomo Puccini|Giacomo Puccini,Francis Poulenc|Gioachino Rossini|Giovanni Battista Rigon|Giulio Ciabatti|Giuseppe Verdi|Hans Werner Henze|La Suora Zelatrice|La suora zelatrice|Laurent Pelly|Laurent Pelly,Anna Maria Bruzzese|Maddalena|Opera di Firenze|Parma, Teatro Regio|Pier Francesco Maestrini|Regio di Torino|Rosina|Saverio Santoliquido,Stefan Anton Reck|Sergio Alapont|Stefano Montanari|Sua moglie|Suzuki|Teatro Comunale di Sassari|Teatro Regio|Teatro Regio di Torino|Torino, Teatro Regio|Verona, Teatro Filarmonico|Vicenza, Teatro Olimpico|Vittorio Borrelli|Wolfgang Amadeus Mozart|Xu Zhong|Zita|«Le rose del volto già sono pallenti». La Traviata|“Goyescas” e “Suor Angelica” al Teatro Regio di Torino|“Rigoletto”
+KATE FRUCHTERMAN|"Aida"|"Dido and Aeneas"|"La donna serpente" di Alfredo Casella|"Pollicino"|"Příhody lišky Bystroušky" (La piccola volpe astuta)|-|Alfredo Casella|Arturo Cirillo|Chocholka, una gallina e il picchio|Claudio Fenoglio,Dieter Kaegi|Cécile Roussat|Dieter Kaegi|Federico Maria Sardelli|Gianandrea Noseda|Gianandrea Noseda,Saverio Santoliquido|Giuseppe Verdi|Hans Werner Henze|Henry Purcell|Jan Latham-koening|La fata Smeraldina e Una voce nel deserto|La madre di Pollicino|Robert Carsen|Sacerdotessa|Seconda donna|Teatro Regio di Torino|Torino, Teatro Regio|Una sacerdotessa|William Friedkin|“Aida”
+tag|Torino, Teatro Regio|12
+tag|Dieter Kaegi|12
+tag|Hans Werner Henze|12
+tag|Claudio Fenoglio,Dieter Kaegi|12
+tag|"Pollicino"|12

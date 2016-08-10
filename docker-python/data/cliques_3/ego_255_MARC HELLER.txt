@@ -1,0 +1,15 @@
+JONATHAN STOUGHTON|"Aida"|Andrew Greenwood|Giuseppe Verdi|Londra, Royal Albert Hall|Stephen Medcalf|Un messaggero
+TORSTERN KERL|"Rienzi"|Cola di Rienzi|Jorge Lavelli|Pinchas Steinberg|Richard Wagner|Toulouse, Théâtre du Capitole
+RICHARD BORK|"Rienzi"|Il cardinale Orvieto|Jorge Lavelli|Pinchas Steinberg|Richard Wagner|Toulouse, Théâtre du Capitole
+RICHARD WIEGOLD|"Rienzi"|Jorge Lavelli|Pinchas Steinberg|Richard Wagner|Stefano Colonna|Toulouse, Théâtre du Capitole
+MARIKA SCHONBERG|"Rienzi"|Irene|Jorge Lavelli|Pinchas Steinberg|Richard Wagner|Toulouse, Théâtre du Capitole
+LAURENT LABARBE|"Rienzi"|Jorge Lavelli|L'ambasciatore di Milano|Pinchas Steinberg|Richard Wagner|Toulouse, Théâtre du Capitole
+MARC HELLER|"Aida"|"Rienzi"|Andrew Greenwood|Baroncelli|Giuseppe Verdi|Jorge Lavelli|Londra, Royal Albert Hall|Pinchas Steinberg|Radamès|Richard Wagner|Stephen Medcalf|Toulouse, Théâtre du Capitole
+DANIEL L.WILLIAMS|"Aida"|Andrew Greenwood|Giuseppe Verdi|Il re d’Egitto|Londra, Royal Albert Hall|Stephen Medcalf
+CATRIN AUR|"Aida"|Andrew Greenwood|Giuseppe Verdi|Londra, Royal Albert Hall|Stephen Medcalf|Una sacerdotessa
+STANISLAV SVHETS|"Aida"|Andrew Greenwood|Giuseppe Verdi|Londra, Royal Albert Hall|Ramfis|Stephen Medcalf
+TIZIANA CARRARO|"Aida"|"Nabucco"|"Rigoletto"|-|Alberto Veronesi|Amneris|Andrea Battistoni|Andrew Greenwood|Arena di Verona 2008|Donato Renzetti|Fenena|Giuseppe Verdi|Ivo Guerra|La Contessa di Ceprano, Maddalena|Leo Muscato|Londra, Royal Albert Hall|Macerata Opera Festival|Maddalena|Massimo Gasparon|Massimo Pezzuti|Renato Palumbo|Stephen Medcalf|Teatro Lirico di Cagliari
+LEONARDO NEIVA|"Ariadne auf Naxos"|"Rienzi"|-|Cecco del Vecchio|Il professore di musica|Jorge Lavelli|Pinchas Steinberg|Rani Calderón|Richard Strauss|Richard Wagner|Santiago del Cile, Teatro Municipal|Toulouse, Théâtre du Capitole
+STEFAN HEIDEMANN|"Rienzi"|Jorge Lavelli|Paolo Orsini|Pinchas Steinberg|Richard Wagner|Toulouse, Théâtre du Capitole
+JENNIFER O'LOUGHLIN|"Rienzi"|Jorge Lavelli|Pinchas Steinberg|Richard Wagner|Toulouse, Théâtre du Capitole|Un messo di pace
+DAVID KEMPSTER|"Aida"|Amonasro|Andrew Greenwood|Giuseppe Verdi|Londra, Royal Albert Hall|Stephen Medcalf
