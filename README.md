@@ -1,9 +1,9 @@
 OPERA NETWORK ANALYSIS
 ----------------------
 
-Social network analytics course. Final project
+### Social network analytics course. Final project
 
-Data source: GBOPERA MAGAZINE www.gbopera.it
+**Data source: GBOPERA MAGAZINE www.gbopera.it**
 
 grabber.py 
 - crawls GBOPERA site
@@ -17,8 +17,7 @@ transformer.py
 analyzer.py
 - calculates general network metrics, those of it's giant component
 - plots network degree histogram, outputs list of nodes of highest degree
-- compares metrics with those of Barbasi-Albert and Erdős–Rényi graphs
-
+- compares metrics with those of Barbasi-Albert and Erdős–Rényi graphs<br /> 
 NetworkX library is used
 
 cliques_spy.py 
