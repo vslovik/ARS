@@ -1,0 +1,81 @@
+11|Opera di Firenze
+9|Torino, Teatro Regio
+7|Staatsoper Stuttgart
+7|Bruxelles, Théâtre La Monnaie
+7|Genova, Teatro Carlo Felice
+6|Venezia, Teatro La Fenice
+5|Bologna, Teatro Comunale
+5|Teatro Regio di Torino
+4|Milano, Teatro alla Scala
+4|Teatro Massimo di Palermo
+4|Teatro Real di Madrid
+4|Verona, Teatro Filarmonico
+3|Teatro Carlo Felice di Genova
+3|Teatro Verdi di Pisa
+3|Palermo, Teatro Massimo
+2|Teatro dell'Opera di Roma
+2|Napoli, Teatro di San Carlo
+2|Teatro Goldoni di Livorno
+2|Novara, Teatro Coccia
+2|Pisa, Teatro Verdi
+2|Teatro dell'Opera di Firenze
+2|Teatro alla Scala di Milano
+2|Padova, Teatro Verdi
+2|Casciana Terme
+2|Sassari, Teatro Comunale
+2|Teatro alla Scala
+2|Jesi, Teatro Pergolesi
+1|OperaLombardia, Teatro Donizetti di Bergamo
+1|Settimane Musicali al Teatro Olimpico di Vicenza
+1|Teatro Comunale di Modena
+1|Cronache del MiTo
+1|Gran Teatre del Liceu di Barcelona
+1|-
+1|Torino
+1|Catania, Teatro Massimo Bellini
+1|Teatro Fraschini di Pavia
+1|Rovereto, Teatro Zandonai
+1|Teatro Comunale di Bologna
+1|OperaLombardia, Teatro Ponchielli di Cremona
+1|Orizzonti Festival di Chiusi
+1|Firenze, Teatro Goldoni
+1|Scienza e Belcanto all'Opera di Firenze
+1|OperaLombardia,  Teatro Sociale di Como
+1|Scala
+1|Modena, Cortile di Palazzo Ducale
+1|Teatro Filarmonico di Verona
+1|Parma, Teatro Regio
+1|OperaLombardia, Teatro Fraschini di Pavia
+1|Lucca, Teatro del Giglio
+1|Teatro Comunale "Pavarotti" di Modena
+1|Livorno
+1|Teatro Comunale di Sassari
+1|Teatro Real di  Madrid
+1|Fano, Teatro della Fortuna
+1|Bergamo, Teatro Donizetti
+1|Bernd Alois Zimmermann
+1|Cagliari, Teatro Lirico
+1|Opera di Roma
+1|Da Lorca a Sotelo
+1|Teatro Comunale di Ferrara
+1|Parigi, Opéra Bastille
+1|Teatro Petruzzelli di Bari
+1|Venezia, Festival lo Spirito di Venezia, Palazzo Ducale
+1|Ferrara, Teatro Comunale
+1|’Auditorium RAI di Torino
+1|Liegi, Opéra Royale de Wallonie
+1|OperaLombardia, Teatro Grande di Brescia
+1|Madrid
+1|Roma, Accademia Nazionale di Santa Cecilia
+1|Vicenza, Teatro Olimpico
+1|Teatro Litta di Milano
+1|Venezia, Teatro Malibran
+1|Reggio Emilia, Teatro Valli
+1|Teatro La Fenice di Venezia
+1|Teatro delle Muse di Ancona
+1|Teatro Regio di Parma
+1|Napoli, Teatro San Carlo
+1|Théâtre La Monnaie
+1|Ancona, Teatro delle Muse “Franco Corelli”
+1|Dittico al femminile
+1|Teatro della Fortuna di Fano

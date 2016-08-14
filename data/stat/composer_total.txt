@@ -1,0 +1,170 @@
+247|Giuseppe Verdi
+214|-
+119|Giacomo Puccini
+82|Gaetano Donizetti
+79|Gioachino Rossini
+65|Wolfgang Amadeus Mozart
+31|Vincenzo Bellini
+25|Georges Bizet
+22|Richard Strauss
+17|Pietro Mascagni
+13|Benjamin Britten
+12|Charles Gounod
+10|Henry Purcell
+8|Jacques Offenbach
+7|Georg Friedrich Händel
+7|Jules Massenet
+6|Ludwig Van Beethoven
+6|Richard Wagner
+6|Umberto Giordano
+5|Giovanni Battista Pergolesi
+5|Nino Rota
+5|Domenico Cimarosa
+5|Claudio Monteverdi
+4|Georg Friedrich Handel
+4|Gioacchino Rossini
+4|Christoph Willibald Gluck
+4|Hans Werner Henze
+4|Franz Lehár
+4|Pëtr Il’ič Čajkovskij
+3|Antonin Dvořák
+3|Ermanno Wolf-ferrari
+3|Maurice Ravel
+3|Hector Berlioz
+3|Amilcare Ponchielli
+3|Antonio Vivaldi
+3|Claude Debussy
+3|Wolfgang Rihm
+2|Gaspare Spontini
+2|Francesco Cavalli
+2|Piotr Ilic Caikovskij
+2|Igor Stravinskij
+2|Engelbert Humperdinck
+2|Guo Wenjing
+2|Dimitrij Sostakovic
+2|Pietro Mascagni,Manuel De Falla
+2|John Adams
+2|Franz Lehar
+2|Camille Saint-saëns
+2|Manuel De Falla
+2|Kurt Weill
+2|Francesco Cilea
+2|Leoš Janáček
+2|Saverio Mercadante
+2|Arrigo Boito
+2|Wolfganag  Amadeus Mozart
+2|Alban Berg
+2|Francis Poulenc
+2|Béla Bartók
+2|Salvatore Sciarrino
+2|Alexander Zemlinsky,Giacomo Puccini
+1|Maurice Ravel,Paul Hindemith
+1|Vittorio Gnecchi
+1|Daniel-francois-esprit Auber
+1|Hervé
+1|Pëtr Il’ic Cajkovskij
+1|Philippe Boesmans
+1|Pëtr Il’ic Cajkovskij,Igor Stravinskij
+1|Pietro Mascagni,Adolphe Adam
+1|Nikolaj Rimskij-korsakov
+1|Alfredo Casella
+1|Carl Maria Von Weber
+1|Kevin Puts
+1|Viktor Ullmann
+1|Carlo Lombardo
+1|Johann Adolf Hasse
+1|Carl Heinrich Graun
+1|José Serrano,Ruperto Chapí
+1|Lorenzo Ferrero
+1|Marc-antoine Charpentier
+1|Giuseppe Sinopoli
+1|Emilio Arrieta
+1|Luca Mosca
+1|Antonin Dvorak
+1|Georges
+1|Henri Sauguet
+1|Pascal Dusapin
+1|Florian Leopold Gassmann
+1|Christopher Theofanidis
+1|Luigi E Federico Ricci
+1|Giovanni Paisiello
+1|Michele Varriale
+1|Antonio Caldara
+1|Alexander Raskatov
+1|Wolfang Amadeus Mozart
+1|Tomaso Albinoni
+1|Georg Friederich
+1|Bruno Maderna,Henry Purcell
+1|Daniel-françois-esprit Auber
+1|Giuseppe Verdi,Giacomo Puccini
+1|Leóš Janáček
+1|Pietro Mascagni,Franz Joseph Haydn
+1|Dmitrij Dmitrievi
+1|Cristoph Willibald Gluck
+1|William Bolcom
+1|Franz Schubert
+1|Georg Frideric Handel
+1|Giancarlo Menotti,Francis Poulenc
+1|Mark Andre
+1|Niccolò Piccinni
+1|Luigi Cherubini
+1|Alessandro Scarlatti
+1|Franco Alfano
+1|Dmitrij Sŏstakovič
+1|Gaetano Donizetti,Christoph Willibald Gluck
+1|Alessandro Melchiorre
+1|Antonìn Dvoràk
+1|Pietro Generali
+1|Bernd Alois Zimmermann
+1|Jaromír Weinberger
+1|Riccardo Cocciante
+1|Félicien David
+1|Andrew Lloyd Webber
+1|Leonardo Leo
+1|Antonio Saliero
+1|Antony Hegarty
+1|Edvard Grieg
+1|Sylvester Levay
+1|Wolfgang Amadeus Mozart,Franz Joseph Haydn
+1|Nicholas Lens
+1|Jacques Fromental Halévy
+1|Baldassarre Galuppi
+1|Giovanni Simone Mayr
+1|Heinrich August Marschner
+1|Georg Friedrich händel
+1|Jean-philippe Rameau
+1|Giudeppe Verdi
+1|Thomas Adès
+1|Giuseppe Verdi,Christoph Willibald Gluck
+1|Niccolò Jommelli
+1|Philippe Fénelon
+1|Osvaldo Golijov
+1|Arnold Schönberg
+1|Felix Mendelssohn-bartholdy
+1|Dmitrij Šostakovič
+1|José De Nebra
+1|Vittorio Montalti,Raffaele Grimaldi
+1|Federico Moreno Torroba
+1|Alexander Zemlinsky
+1|Leoš Janáček,Francis Poulenc
+1|Modest Musorgskij
+1|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov
+1|Alessandro Solbiati
+1|George Benjamin
+1|Sergej Prokof’ev
+1|Silvia Colasanti
+1|Pietro Mascagni,Claude Debussy
+1|Josef Mysliveček
+1|Giacomo Meyerbeer
+1|Manuel Fernández Caballero
+1|Giacomo Puccini,Gaetano Donizetti
+1|Riccardo Zandonai
+1|Carl Orff
+1|Aldo Finzi
+1|Manuel De Falla,Enric Granados
+1|Frederik Loewe
+1|Vincenzo Bellini.
+1|Leonard Bernstein
+1|Thomas Ades
+1|Igor Fëdorovič Stravinskij
+1|Giacomo Puccini,Francis Poulenc

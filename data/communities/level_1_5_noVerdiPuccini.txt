@@ -1,0 +1,178 @@
+NADIA BIEBER|"L'affare Makropoulos"|-|Friedemann Layer|Opera National du Rhin|Robert Carsen|Un’inserviente
+ALLAN ADAMS|"Der Rosenkavalier"|David Mcvicar|Edward Gardner|Londra, English National Opera|Richard Strauss|Un parrucchiere
+CKAIRE MITCHER|"Der Rosenkavalier"|David Mcvicar|Edward Gardner|Londra, English National Opera|Richard Strauss|Tre nobili orfane
+GERAINT HYLTON|"Der Rosenkavalier"|David Mcvicar|Due maggiordomi|Edward Gardner|Londra, English National Opera|Richard Strauss
+GRAEME LAUREN|"Der Rosenkavalier"|David Mcvicar|Edward Gardner|Londra, English National Opera|Richard Strauss|Un venditore di animali
+JAEWOO KIM|"Der Rosenkavalier"|David Mcvicar|Edward Gardner|Londra, English National Opera|Richard Strauss|Un tenore italiano
+JENNIFER RHYS-DAVIES|"Der Rosenkavalier"|David Mcvicar|Edward Gardner|Londra, English National Opera|Marianne Leitmetzerin|Richard Strauss
+LYDIA MARCHIONE|"Der Rosenkavalier"|David Mcvicar|Edward Gardner|Londra, English National Opera|Richard Strauss|Tre nobili orfane
+AVI KLEMBERG|"Elektra"|"Iphigénie en Aulide" di Gluck|-|Achille|Andrea Moses|Charles Roubaud|Christoph Willibald Gluck|Cristoph Poppen|Ein junger diener|Opéra di Marsiglia|Richard Strauss|Statsoper Stuttgart
+JOHN TOMLINSON|"Der Rosenkavalier"|"Die Walküre"|-|Daniel Barenboim|David Mcvicar|Edward Gardner|Guy Cassiers|Hunding|Il Barone Ochs|Londra, English National Opera|Milano, Teatro alla Scala|Richard Strauss
+KATE LINDSEY|"Le nozze di Figaro"|-|Cherubino|Festival di Aix-en-Provence|Jérémie Rhorer|Wolfgang Amadeus Mozart
+SARAH CONNOLLY|"Capriccio"|"Der Rosenkavalier"|"Tristan und Isolde"|-|Andrew Davis|Brangäne|Clairon|David Mcvicar|Edward Gardner|John Cox|Londra, English National Opera|Metropolitan Opera|Mikko Franck|Octavian|Parigi, Salle Pleyel|Richard Strauss
+CHRISTOPHE FEL|"Elektra"|"La forza del destino"|-|Charles Roubaud|Ein alte diener|Giuseppe Verdi|Jean-claude Auvray|Opéra di Marsiglia|Parigi, Opéra|Richard Strauss|Un alcade
+ZACHARY WILDER|"Acis and Galatea"|-|Coridon|Leonardo García Alarcón|Saburo Teshigawara|Venezia,Teatro Malibran
+JEAN-PHILIPPE LAFONT|"La Chartreuse de Parme"|"Manon"|"Werther"|Emmanuel Villaume|Fabio Luisi|Général Fabio Conti|Henri Sauguet|Il borgomastro|Jules Massenet|Laurent Pelly|Lawrence Foster|Le Conte Des Grieux|Madrid, Teatro Real|Milano, Teatro alla Scala|Opéra de Marseille|Renée Auphan|Willy Decker
+ANDREAS JÄGGI|"Da una casa di morti"|"Věc Makropulos"|-|Gabriele Ferro|Hauk-Šendorf|Marko Letonja|Robert Carsen|Skuratov|Strasburgo|Venezia, Teatro La Fenice
+ADRIAN THOMPSON|"A midsummer night's dream"|"Da una casa di morti"|"Der Rosenkavalier"|"La volpe astuta"|-|David Mcvicar|Edward Gardner|Festival di Glyndebourne|Il Maestro / La Zanzara|Il detenuto grande|Leóš Janáček|Londra, English National Opera|Marko Letonja|Melly Still|Richard Strauss|Robert Carsen|Sir Andrew Davis|Strasburgo|Teatro alla Scala|Tom Snout|Valzacchi|Vladimir Jurowski
+ENRIC MART|"Věc Makropulos"|-|Gabriele Ferro|L’avvocato dr. Kolenatý|Robert Carsen|Venezia, Teatro La Fenice
+MARTIN BÁRTA|"Da una casa di morti"|"Věc Makropulos"|-|Chichkov|Gabriele Ferro|Il prete|Jaroslav Prus|Marko Letonja|Robert Carsen|Strasburgo|Venezia, Teatro La Fenice
+DIETRICH HENSCHEL|"Fierrabras"|-|Bruxelles, Théâtre La Monnaie|Franz Schubert|Roland|Ádám Fischer
+ELISABETH MEISTER|"Fierrabras"|-|Bruxelles, Théâtre La Monnaie|Florinda|Franz Schubert|Ádám Fischer
+ELISABETH ORTH|"Fierrabras"|-|Attrice|Bruxelles, Théâtre La Monnaie|Franz Schubert|Ádám Fischer
+JULIANE BANSE|"Fierrabras"|-|Bruxelles, Théâtre La Monnaie|Emma|Franz Schubert|Ádám Fischer
+KAROLY SZEMEREDY|"Fierrabras"|-|Brutamonte|Bruxelles, Théâtre La Monnaie|Franz Schubert|Ádám Fischer
+MARGRIET VAN REISEN|"Fierrabras"|-|Bruxelles, Théâtre La Monnaie|Franz Schubert|Maragond|Ádám Fischer
+NICOLAS CAVALLIER|"Da una casa di morti"|"Elektra"|"La Chartreuse de Parme"|"La Favorite"|-|Alexandr Petrovitch Gorjantchikov|Balthazar|Charles Roubaud|Comte Mosca della Rovere|Henri Sauguet|Jacques Lacombe|Lawrence Foster|Marko Letonja|Monaco (Monte-Carlo)|Opéra de Marseille|Opéra di Marsiglia|Orest|Renée Auphan|Richard Strauss|Robert Carsen|Strasburgo
+SEBASTIEN GUÈZE|"La Chartreuse de Parme"|Fabrice del Dongo|Henri Sauguet|Lawrence Foster|Opéra de Marseille|Renée Auphan
+SOPHIE PONDJICLIS|"La Chartreuse de Parme"|Henri Sauguet|Lawrence Foster|Opéra de Marseille|Renée Auphan|Théodolinde
+ÉRIC HUCHET|"La Chartreuse de Parme"|Henri Sauguet|Lawrence Foster|Ludovic / une voix de ténor|Opéra de Marseille|Renée Auphan
+S|"Fierrabras"|-|Bruxelles, Théâtre La Monnaie|Franz Schubert|Théâtre La Monnaie|Ádám Fischer
+ROSA BRANDAO|"Fierrabras"|-|Bruxelles, Théâtre La Monnaie|Franz Schubert|Solista dei cori|Ádám Fischer
+CHERYL BARKER|"L'affare Makropoulos"|-|Emilia Marty|Friedemann Layer|Opera National du Rhin|Robert Carsen
+CHARLES WORKMAN|"Fierrabras"|"Il Trionfo del Tempo e del Disinganno"|"L'affare Makropoulos"|"Semele"|-|Albert Gregor|Bruxelles, Théâtre La Monnaie|Calixto Bieito|Eginhard|Franz Schubert|Friedemann Layer|Georg Frideric Handel|Georg Friedrich Handel|Jupiter|Opera National du Rhin|Parigi, Salle Pleyel|Robert Carsen|Staatsoper Stuttgart|Sébastien Rouland|Tempo|Ádám Fischer
+ANGELIQUE NOLDUS|"L'affare Makropoulos"|-|Friedemann Layer|Krista|Opera National du Rhin|Robert Carsen
+ANDREAS JAGGI|"L'affare Makropoulos"|-|Friedemann Layer|Hauk-Šendorf|Opera National du Rhin|Robert Carsen
+ANDREW SHORE|"Der Rosenkavalier"|David Mcvicar|Edward Gardner|Faninal|Londra, English National Opera|Richard Strauss
+DEBORAH DAVISON|"Der Rosenkavalier"|David Mcvicar|Edward Gardner|Londra, English National Opera|Richard Strauss|Tre nobili orfane
+MARK RICHARDSON|"Der Rosenkavalier"|David Mcvicar|Edward Gardner|Londra, English National Opera|Richard Strauss|Un commissario di polizia
+MALIN BYSTRÖM|"Le nozze di Figaro"|-|Festival di Aix-en-Provence|Jérémie Rhorer|La Contessa di Almaviva|Wolfgang Amadeus Mozart
+MARTIN BARTA|"L'affare Makropoulos"|-|Friedemann Layer|Jaroslav Prus|Opera National du Rhin|Robert Carsen
+GUY DE MEY|"Da una casa di morti"|"L'affare Makropoulos"|-|Chapkine|Friedemann Layer|Marko Letonja|Opera National du Rhin|Robert Carsen|Strasburgo|Vitek
+PATRICIA PETIBON|"Alcina"|"Le nozze di Figaro"|-|Festival di Aix-en-Provence|Georg Friedrich Händel|Giovanni Antonini|Jérémie Rhorer|Morgana|Robert Carsen|Susanna|Teatro alla Scala|Wolfgang Amadeus Mozart
+KRISTINA HAMMERSTROM|"Alcina"|Bradamante|Georg Friedrich Händel|Giovanni Antonini|Robert Carsen|Teatro alla Scala
+PETER LONGHAUER|"L'affare Makropoulos"|-|Friedemann Layer|Opera National du Rhin|Robert Carsen|Un macchinista
+JUDITA NAGYOVÁ|"Věc Makropulos"|-|Gabriele Ferro|Krista|Robert Carsen|Venezia, Teatro La Fenice
+LEONA PELE|"Věc Makropulos"|-|Gabriele Ferro|Robert Carsen|Una cameriera, Una donna delle pulizie|Venezia, Teatro La Fenice
+ÁNGELS BLANCAS GUL|"Věc Makropulos"|-|Emilia Marty|Gabriele Ferro|Robert Carsen|Venezia, Teatro La Fenice
+WILLIAM CORR|"Věc Makropulos"|-|Gabriele Ferro|Robert Carsen|Un macchinista|Venezia, Teatro La Fenice
+WILLARD WHITE|"Da una casa di morti"|"Iolanta" e "Perséphone"|-|Aleksandr Petrovic Gojancikov|Esa-pekka Salonen|Ibn-Hakia|Madrid, Teatro Réal|Patrice Chérau|Peter Sellars|Pëtr Il’ic Cajkovskij,Igor Stravinskij|Teatro alla Scala|Teodor Currentzis
+SUSANNAH HABERFELD|"Da una casa di morti"|-|Esa-pekka Salonen|La prostituta|Patrice Chérau|Teatro alla Scala
+VLADIMIR CHMELO|"Da una casa di morti"|-|Esa-pekka Salonen|Il prigioniero piccolo|Patrice Chérau|Teatro alla Scala
+THOMAS KREJCIRIK|"Da una casa di morti"|-|Esa-pekka Salonen|Il prigioniero ubriaco|Patrice Chérau|Teatro alla Scala
+AMANDA ROOCROFT|"Der Rosenkavalier"|"Uno sguardo dal ponte"|Beatrice Carbone|David Levi|David Mcvicar|Edward Gardner|Frank Galati|La Marescialla|Londra, English National Opera|Richard Strauss|Roma, Teatro dell'Opera|William Bolcom
+ANNETT ANDRIESEN|-|Alexander Raskatov|La seconda paziente|Martyn Brabbins|Simon Mcburney
+BRIAN GALLIFORD|-|Alexander Raskatov|Il primo paziente / Un provocatore|Martyn Brabbins|Simon Mcburney
+ALLEN LUNDY|-|Alexander Raskatov|Martyn Brabbins|Nancy|Simon Mcburney
+ANDREW WATTS|-|Alexander Raskatov|Martyn Brabbins|Simon Mcburney|Vjazemskaja / Voce gradevole di Šarik
+JOSEPH BARRON|"Acis and Galatea"|-|Leonardo García Alarcón|Polypheme|Saburo Teshigawara|Venezia,Teatro Malibran
+JULIE FUCHS|"Acis and Galatea"|-|Galatea|Leonardo García Alarcón|Saburo Teshigawara|Venezia,Teatro Malibran
+JULIEN BEHR|"Acis and Galatea"|"Les contes d'Hoffmann"|-|Acis|Jacques Offenbach|Leonardo García Alarcón|Nathanael|Saburo Teshigawara|Theater an der Wien|Venezia,Teatro Malibran|William Friedkin
+VILLE RUSANEN|-|Alexander Raskatov|Bormental’|Martyn Brabbins|Simon Mcburney
+GRAEME DANBY|-|Alexander Raskatov|Il grande capo / Fëdor / Un venditore di giornali|Martyn Brabbins|Simon Mcburney
+ELENA VASSILEVA|-|Alexander Raskatov|Dar‘ja / Voce sgradevole di Šarik|Martyn Brabbins|Simon Mcburney
+SOPHIE DESMARS|-|Alexander Raskatov|La fidanzata di Šarikov|Martyn Brabbins|Simon Mcburney
+MATTHEW HARGREAVES|-|Alexander Raskatov|L’investigatore|Martyn Brabbins|Simon Mcburney
+HEINZ ZEDNIK|"Da una casa di morti"|-|Esa-pekka Salonen|Il vecchio prigioniero|Patrice Chérau|Teatro alla Scala
+JAN GALLA|"Da una casa di morti"|-|Cekunov|Esa-pekka Salonen|Patrice Chérau|Teatro alla Scala
+ANDREAS CONRAD|"Da una casa di morti"|"Les contes d'Hoffmann"|-|Andres, Cochenille, Frantz, Pitichinaccio|Cerevin/seconda guardia|Esa-pekka Salonen|Jacques Offenbach|Patrice Chérau|Teatro alla Scala|Theater an der Wien|William Friedkin
+ERIC STOKLOSSA|"Da una casa di morti"|-|Aljeja|Esa-pekka Salonen|Patrice Chérau|Teatro alla Scala
+MARINA PAVLOVIC|"Da una casa di morti"|-|Esa-pekka Salonen|Kedril|Patrice Chérau|Teatro alla Scala
+PETER HOARE|"Da una casa di morti"|-|Alexander Raskatov|Esa-pekka Salonen|Martyn Brabbins|Patrice Chérau|Sapkin|Simon Mcburney|Teatro alla Scala|Šarikov
+JIRI SULZENKO|"Da una casa di morti"|-|Esa-pekka Salonen|Il comandante|Patrice Chérau|Teatro alla Scala
+JOHN MARK AINSLEY|"Da una casa di morti"|-|Emilio|Esa-pekka Salonen|Maxim Emelyanychev|Patrice Chérau|Skuratov|Teatro alla Scala|’Auditorio Nacional di Madrid|“Partenope” di Händel
+PETER MATTEI|"Da una casa di morti"|"Fidelio"|"Parsifal"|-|Amfortas|Asher Fisch|Daniel Barenboim|Deborah Warner|Don Fernando|Esa-pekka Salonen|François Girard|Ludwig Van Beethoven|Milano, Teatro alla Scala|New York, Metropolitan|Patrice Chérau|Siskov/Prima guardia|Teatro alla Scala
+PETER STRAKA|"Da una casa di morti"|-|Esa-pekka Salonen|Filka Morozov (Luka Kuzmich)|Il prigioniero alto|Marko Letonja|Patrice Chérau|Robert Carsen|Strasburgo|Teatro alla Scala
+PAUL NAPIER- BURROWS|"Der Rosenkavalier"|David Mcvicar|Edward Gardner|Londra, English National Opera|Richard Strauss|Un notaio
+PHILIP DAGGETT|"Der Rosenkavalier"|David Mcvicar|Due maggiordomi|Edward Gardner|Londra, English National Opera|Richard Strauss
+SOPHIE BEVAN|"Der Rosenkavalier"|David Mcvicar|Edward Gardner|Londra, English National Opera|Richard Strauss|Sophie
+DMITRY ULIANOV|"Iolanta" e "Perséphone"|Il re René|Madrid, Teatro Réal|Peter Sellars|Pëtr Il’ic Cajkovskij,Igor Stravinskij|Teodor Currentzis
+DOMINIQUE BLANC|"Iolanta" e "Perséphone"|Madrid, Teatro Réal|Perséphone|Peter Sellars|Pëtr Il’ic Cajkovskij,Igor Stravinskij|Teodor Currentzis
+IRINA CHURILOVA|"Iolanta" e "Perséphone"|Brigitta|Madrid, Teatro Réal|Peter Sellars|Pëtr Il’ic Cajkovskij,Igor Stravinskij|Teodor Currentzis
+MAXIM ANISKIN|"Iolanta" e "Perséphone"|Madrid, Teatro Réal|Peter Sellars|Pëtr Il’ic Cajkovskij,Igor Stravinskij|Robert|Teodor Currentzis
+VASILY EFIMOV|"Iolanta" e "Perséphone"|-|Alexander Raskatov|Alméric|Madrid, Teatro Réal|Martyn Brabbins|Peter Sellars|Pëtr Il’ic Cajkovskij,Igor Stravinskij|Simon Mcburney|Teodor Currentzis|Švonder
+ALEKSANDAR STEFANOSKI|"Da una casa di morti"|"Maria di Rohan"|"Rigoletto"|-|Bergamo, Teatro Donizetti|Catania, Teatro Massimo Bellini|De Fiesque|Esa-pekka Salonen|Gaetano Donizetti|Giuseppe Verdi|Gregory Kunde|Il conte di Monterone|Il pope|Patrice Chérau|Roberto Laganà Manoli|Roberto Recchia|Teatro alla Scala
+SIMONA CARESSA|"Elektra"|-|Charles Roubaud|Dritte Magd|Opéra di Marsiglia|Richard Strauss
+IESTYN DAVIES|"Death in Venice" (Morte a Venezia)|Benjamin Britten|Deborah Warner|Edward Gardner|Milano, Teatro alla Scala|The Voice of Apollo
+JONATHAN GUNTHORPE|"Death in Venice" (Morte a Venezia)|Benjamin Britten|Deborah Warner|Edward Gardner|English clerk|Milano, Teatro alla Scala
+MADELEINE SHAW|"Death in Venice" (Morte a Venezia)|"Der Rosenkavalier"|Annina|Beggar woman|Benjamin Britten|David Mcvicar|Deborah Warner|Edward Gardner|Londra, English National Opera|Milano, Teatro alla Scala|Richard Strauss
+MARINELLA CRESPI|"Death in Venice" (Morte a Venezia)|Benjamin Britten|Deborah Warner|Edward Gardner|Milano, Teatro alla Scala|Their governess
+BENOIT DE LEERSNYDER|"Death in Venice" (Morte a Venezia)|Benjamin Britten|Deborah Warner|Edward Gardner|Milano, Teatro alla Scala|Restaurant waiter
+CHARLES JOHNSTON|"Death in Venice" (Morte a Venezia)|Benjamin Britten|Deborah Warner|Edward Gardner|Guide|Milano, Teatro alla Scala
+CONSTANCE NOVIS|"Death in Venice" (Morte a Venezia)|Benjamin Britten|Deborah Warner|Edward Gardner|Lace seller|Milano, Teatro alla Scala
+DONAL BYRNE|"Death in Venice" (Morte a Venezia)|Benjamin Britten|Deborah Warner|Edward Gardner|Milano, Teatro alla Scala|Strolling players ANNA DENNIS
+PETER VAN HULLE|"Death in Venice" (Morte a Venezia)|Benjamin Britten|Deborah Warner|Edward Gardner|Hotel porter|Milano, Teatro alla Scala
+RUPERT CHARLESWORTH|"Acis and Galatea"|-|Damon|Leonardo García Alarcón|Saburo Teshigawara|Venezia,Teatro Malibran
+PATRICK RAFTERY|"Elektra"|-|Aegisth|Charles Roubaud|Opéra di Marsiglia|Richard Strauss
+MARIANNE POBBIG|"Elektra"|-|Charles Roubaud|Die Vertraute|Opéra di Marsiglia|Richard Strauss
+FLORENCE LAURENT|"Elektra"|-|Charles Roubaud|Die Schleppträgerin|Opéra di Marsiglia|Richard Strauss
+CHRSTINE TOCCI|"Elektra"|-|Charles Roubaud|Opéra di Marsiglia|Richard Strauss|Zweite Magd
+BÉNÉDICTE ROUSSENQ|"Elektra"|-|Charles Roubaud|Opéra di Marsiglia|Richard Strauss|Vierte Magd
+ANJA GRUBIC|"Death in Venice" (Morte a Venezia)|Benjamin Britten|Deborah Warner|Edward Gardner|Milano, Teatro alla Scala|The Polish Mother
+ARIANNA SPAGNUOLO|"Death in Venice" (Morte a Venezia)|Benjamin Britten|Deborah Warner|Edward Gardner|Her two daughters CAMILLA ESPOSITO|Milano, Teatro alla Scala
+ANNA DENNIS|"Death in Venice" (Morte a Venezia)|Benjamin Britten|Deborah Warner|Edward Gardner|Milano, Teatro alla Scala|Strawberry-seller
+MARIE-ANGE TODOROVITCH|"Der Fliegende Holländer"|"Elektra"|"L'Italiana in Algeri"|"La Chartreuse de Parme"|"Le comte Ory"|-|Charles Roubaud|Frédéric Bélier-garcia|Gina, duchesse de Sanseverina|Gioachino Rossini|Giuliano Carella|Henri Sauguet|Isabella|Klytämnestra|Lawrence Foster|Les Chorégies d'Orange|Mary, nutrice di Senta|Mikko Franck|Nicola Berloffa|Opéra de Marseille|Opéra di Marsiglia|Ragonde|Renée Auphan|Richard Strauss|Roberto Rizzi Brignoli
+JACQUES CALATAYUD|"La Chartreuse de Parme"|Barbone|Henri Sauguet|Lawrence Foster|Opéra de Marseille|Renée Auphan
+ANTOINE GARCIN|"La Chartreuse de Parme"|"Les Troyens"|-|Henri Sauguet|Lawrence Foster|Le Maréchal des logis / Un gendarme|Marsiglia, Opéra Municipal|Opéra de Marseille|Prètre de Pluton / 2ème sentinelle|Renée Auphan
+ANAÏS CONSTANS|"La Chartreuse de Parme"|Henri Sauguet|Lawrence Foster|Opéra de Marseille|Renée Auphan|Une voix
+FRÉDÉRIC LEROY|"La Chartreuse de Parme"|"Otello"|Araldo|Friedrich Pleyer|Giuseppe Verdi|Henri Sauguet|Lawrence Foster|Nadine Duffaut|Opéra de Marseille|Opéra di Marsiglia|Renée Auphan|Un geôlier / une voix
+BRUNO COMPARETTI|"La Chartreuse de Parme"|Henri Sauguet|Lawrence Foster|Opéra de Marseille|Renée Auphan|Un gendarme / une voix de ténor
+KURT STREIT|"Fierrabras"|"La clemenza di Tito" inaugura la nuova stagione|"Les contes d'Hoffmann"|"Lulu"|-|Alban Berg|Alwa|Bruxelles, Théâtre La Monnaie|Fierrabras|Franz Schubert|Hoffmann|Ivo Van Hove|Jacques Offenbach|La Monnaie di Bruxelles|Lodovic Morlot|Michael Schonwandt|Parigi, Opéra Bastille|Theater an der Wien|Tito Vespasiano|William Friedkin|Willy Decker|Wolfgang Amadeus Mozart|Ádám Fischer
+MARTIJIN CORNET|"Les contes d'Hoffmann"|-|Hermann, Schlemil|Jacques Offenbach|Theater an der Wien|William Friedkin
+MGDALENA ANNA HOFMANN|"Les contes d'Hoffmann"|-|Jacques Offenbach|Stella|Theater an der Wien|William Friedkin
+OLIVER RINGELHAHN|"Les contes d'Hoffmann"|-|Jacques Offenbach|Spalanzani|Theater an der Wien|William Friedkin
+PAVEK KUDINOV|"Les contes d'Hoffmann"|-|Crespel, Luther|Jacques Offenbach|Theater an der Wien|William Friedkin
+ARIS ARGIRIS|"L'elisir d'amore"|"Les contes d'Hoffmann"|"Otello" e "Tosca"|-|Belcore|Bruxelles, Théâtre La Monnaie|Damiano Michieletto|Gaetano Donizetti|Giuseppe Verdi,Giacomo Puccini|Jacques Offenbach|Jago|Lindorf, Coppelius, Dapertutto, Miracle|Mario Pontiggia,Mietta Corli|Opera di Firenze, Opening Gala|Theater an der Wien|Thomas Roesner|William Friedkin|Zubin Mehta
+JUANITA LASCARRO|"Les contes d'Hoffmann"|-|Antonia|Jacques Offenbach|Theater an der Wien|William Friedkin
+MARI ERIKSMOEN|"Le nozze di Figaro"|"Les contes d'Hoffmann"|-|Barbarina|Festival di Aix-en-Provence|Jacques Offenbach|Jérémie Rhorer|Olympia|Theater an der Wien|William Friedkin|Wolfgang Amadeus Mozart
+ROXANE CONSTANTINESCU|"Les contes d'Hoffmann"|-|Jacques Offenbach|La Muse, Nicklausse|Theater an der Wien|William Friedkin
+VINCENTE OMBUENA|"Der fliegende Holländer"|Gianandrea Noseda|Il timoniere di Daland|Richard Wagner|Stefan Heinrichs|Torino, Teatro Regio
+STEPHEN GOULD|"Der fliegende Holländer"|Erik|Gianandrea Noseda|Richard Wagner|Stefan Heinrichs|Torino, Teatro Regio
+ROBERT BORK|"Fierrabras"|-|Boland|Bruxelles, Théâtre La Monnaie|Franz Schubert|Ádám Fischer
+RICARDA MERBERTH|"Elektra"|-|Charles Roubaud|Chrysothemis|Opéra di Marsiglia|Richard Strauss
+SANDRINE EYGLIER|"Elektra"|-|Charles Roubaud|Fünfte Magd|Opéra di Marsiglia|Richard Strauss
+ANGEL BLUE|"Les contes d'Hoffmann"|-|Giulietta|Jacques Offenbach|Theater an der Wien|William Friedkin
+STEVEN HUMES|"Der fliegende Holländer"|"Don Carlo"|"Fierrabras"|"Rusalka"|-|Antonìn Dvoràk|Asher Fisch|Bruxelles, Théâtre La Monnaie|Daland|Denis Krief|Eivind Gullberg Jensen|Franz Schubert|Gianandrea Noseda|Giuseppe Verdi|Jürgen Rose|König Karl|Monaco di Baviera, Bayerische Staatsoper|Richard Wagner|Stefan Heinrichs|Teatro dell'Opera di Roma|Torino, Teatro Regio|Un monaco|Vodnik, lo Spirito dell’acqua|Ádám Fischer
+NATHALIE MANFRINO|"La Bohème"|"La Chartreuse de Parme"|"La Traviata"|Clélia Conti|Giacomo Puccini|Giuseppe Verdi|Henri Sauguet|Hugo De Hana|Jean-louis Pichon|Lawrence Foster|Mark Shanahan|Mimì|Opéra de Marseille|Padova, Teatro Verdi|Renée Auphan|Steven Mercurio|Violetta Valéry
+PAULO SZOT|"Le nozze di Figaro"|-|Alexander Raskatov|Festival di Aix-en-Provence|Filipp Filippovič|Il Conte di Almaviva|Jérémie Rhorer|Martyn Brabbins|Simon Mcburney|Wolfgang Amadeus Mozart
+RENÉ SCHIRRER|"Le nozze di Figaro"|-|Antonio|Festival di Aix-en-Provence|Jérémie Rhorer|Wolfgang Amadeus Mozart
+ENRIC MARTINEZ-CASTIGNANI|"L'affare Makropoulos"|"Tosca"|-|Daniele Callegari|Dr.Kolenaty|Friedemann Layer|Giacomo Puccini|Il sagrestano|Opera National du Rhin|Robert Carsen|Serena Sinigaglia|Teatro La Fenice|“Tosca”
+ENRIC MARTINEZ CASTIGNANI|"Da una casa di morti"|-|Il detenuto piccolo|Marko Letonja|Robert Carsen|Strasburgo
+GIJS VAN DER LINDEN|"Da una casa di morti"|"Daphne"|"Fierrabras"|-|Bruxelles, Théâtre  La Monnaie|Bruxelles, Théâtre La Monnaie|Franz Schubert|Guy Joostens|Kedril|Lothar Koenigs|Marko Letonja|Ogier|Richard Strauss|Robert Carsen|Strasburgo|Una voce|Zweiter Schäfer|Ádám Fischer
+PATRICK BOLLEIRE|"Da una casa di morti"|-|Il comandante|Marko Letonja|Robert Carsen|Strasburgo
+PASCAL CHARBONNEAU|"Da una casa di morti"|-|Aljeja|Marko Letonja|Robert Carsen|Strasburgo
+PHILIP SHEFFIELD|"Da una casa di morti"|-|Marko Letonja|Robert Carsen|Strasburgo|Tcherevin
+PETER LONGAUER|"Da una casa di morti"|-|Marko Letonja|Robert Carsen|Strasburgo|Tchekunov
+JEAN-GABRIEL SAINT-MARTIN|"Da una casa di morti"|-|Marko Letonja|Robert Carsen|Strasburgo|Un forzato (Don Giovanni)
+HERVÉ HUYGHUES DESPOINTES|"Da una casa di morti"|-|Marko Letonja|Robert Carsen|Strasburgo|Un forzato ubriaco
+MARIO BRAZITZOV|"Da una casa di morti"|-|Il fabbro|Marko Letonja|Robert Carsen|Strasburgo
+JENS KIERTZNER|"Da una casa di morti"|-|Il cuoco|Marko Letonja|Robert Carsen|Strasburgo
+SUNGGOO LEE|"Da una casa di morti"|-|Marko Letonja|Robert Carsen|Strasburgo|Una guardia
+REMY CORAZZA|"Da una casa di morti"|-|Il forzato vecchissimo|Marko Letonja|Robert Carsen|Strasburgo
+ANNE-MARGUERITE WERSTER|"Elektra"|-|Charles Roubaud|Die Aufseherin|Opéra di Marsiglia|Richard Strauss
+ENRICO CASARI|"L'affare Makropoulos"|"Věc Makropulos"|-|Friedemann Layer|Gabriele Ferro|Janek|Opera National du Rhin|Robert Carsen|Venezia, Teatro La Fenice
+tag|Robert Carsen|34
+tag|Richard Strauss|32
+tag|"Da una casa di morti"|32
+tag|Edward Gardner|29
+tag|"Der Rosenkavalier"|18
+tag|Londra, English National Opera|18
+tag|Strasburgo|18
+tag|Marko Letonja|18
+tag|David Mcvicar|18
+tag|Teatro alla Scala|18
+tag|Patrice Chérau|15
+tag|Esa-pekka Salonen|15
+tag|Milano, Teatro alla Scala|15
+tag|Bruxelles, Théâtre La Monnaie|14
+tag|Opéra di Marsiglia|14
+tag|Ádám Fischer|13
+tag|Deborah Warner|13
+tag|"Fierrabras"|13
+tag|Franz Schubert|13
+tag|Charles Roubaud|13
+tag|"Elektra"|13
+tag|Lawrence Foster|12
+tag|"La Chartreuse de Parme"|12
+tag|Martyn Brabbins|12
+tag|Henri Sauguet|12
+tag|Simon Mcburney|12
+tag|Benjamin Britten|12
+tag|Theater an der Wien|12
+tag|"Death in Venice" (Morte a Venezia)|12
+tag|William Friedkin|12
+tag|"Les contes d'Hoffmann"|12
+tag|Jacques Offenbach|12
+tag|Alexander Raskatov|12
+tag|Renée Auphan|12
+tag|Opéra de Marseille|12

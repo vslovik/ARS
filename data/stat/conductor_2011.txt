@@ -1,0 +1,118 @@
+35|-
+4|Matteo Beltrami
+4|Gianandrea Noseda
+4|Bruno Campanella
+3|Riccardo Frizza
+3|Andrea Battistoni
+2|Stefan Anton Reck
+2|Patrick Fournillier
+2|Antonio Pirolli
+2|Daniel Oren
+2|Ivan Anguélov
+2|Nicola Luisotti
+2|Zubin Mehta
+2|Roberto Abbado
+2|Roberto Polastri
+2|Sébastien Rouland
+2|Riccardo Muti
+2|Emmanuel Villaume
+2|Carlo Montanaro
+2|Antonello Manacorda
+2|Ottavio Dantone
+2|Omer Meir Wellber
+2|Renato Palumbo
+2|James Levine
+1|Massimo Zanetti
+1|Marco Mencoboni
+1|Vladimir Vrublvskiy
+1|Roberto Zarpellon
+1|Ira Levin
+1|Peter Tiboris
+1|Antonio Greco
+1|Giovanni Battista Rigon
+1|Daniel Barenboim
+1|Leonardo García Alarcón
+1|Philippe Jordan
+1|Jonathan Webb
+1|Fabio Luisi
+1|Marcello Mottadelli
+1|Pinchas Steinberg
+1|Jeffrey Tate
+1|Michael Schonwandt
+1|Daniel Harding
+1|Pierluigi Pizzi,Daniel Kawka
+1|Friedemann Layer
+1|Alain Guingal
+1|Alan Curtis
+1|Elio Boncompagni
+1|Greg Arrowsmith
+1|Giuliano Carella
+1|Rodolfo Fischer
+1|Marcello Bufalini
+1|Stefano Ranzani
+1|James Conlon
+1|Yishai Steckler
+1|Diego Matheuz
+1|Mark Morash
+1|James Levine,Patrick Summers
+1|Tamás Pál
+1|Manfred Honeck
+1|Giampaolo Maria Bisanti
+1|Yannick Nézet-séguin
+1|Alessandro De Marchi
+1|Marco Guidarini
+1|Erik Nielsen
+1|John Adams
+1|Mauro Roveri
+1|Gianluigi Gelmetti
+1|Fabio Biondi
+1|Yves Abel
+1|Dmitri Jurowski
+1|David Levi
+1|Johannes Wildner
+1|Gabriele Ferro
+1|Valerio Galli
+1|Francesco Lanzillotta
+1|Kwamé Ryan
+1|Josep Caballé-domenech
+1|Vladimir Agronskij
+1|Tulio Gagliardo
+1|José Luis Domínguez
+1|Jan Latham-koenig
+1|Juraj Valcuha
+1|Semyon Bychkov
+1|Michele Mariotti
+1|Antonino Fogliani
+1|Sergio Alapont
+1|Antonello Allemandi
+1|Sylvain Cambreling
+1|Niksa Bareza
+1|Vincenzo Latorre
+1|Alberto Veronesi
+1|Michael Balke
+1|Hartmut Haenchen
+1|Roberto Rizzi Brignoli
+1|Julian Kovatchev
+1|Gregory Kunde
+1|Sylvain  Cambreling
+1|Daniele Callegari
+1|José Miguel Pérez-sierra
+1|Rinaldo Alessandrini
+1|Patrick Lange
+1|Carlos García Ruiz
+1|Fabrizio Cassi,Emiliano Esposito
+1|Srboljub Dinic
+1|Sir Mark Elder
+1|Cristóbal Soler
+1|Stefan Soltesz
+1|Andrew Davis
+1|Donato Renzetti, Antonino Manuli
+1|Edward Gardner
+1|Miguel Ángel Gómez Martínez
+1|Dean Austin
+1|Stefano Montanari
+1|Rani Calderón
+1|Asher Fisch
+1|Francesco Rosa
+1|Valery Gergiev
+1|Antony Walker,Marco Armiliato,Fabio Luisi

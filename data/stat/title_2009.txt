@@ -1,0 +1,37 @@
+5|-
+2|"Carmen"
+1|"Norma"
+1|"Tosca"
+1|"Don Pasquale"
+1|"La Traviata"
+1|"Idomeneo"
+1|"Von heute auf morgen", "Pagliacci"
+1|"Maria Stuarda"
+1|Il Bolshoi
+1|"Šárka", "Cavalleria Rusticana"
+1|"Turandot"
+1|"La scala di seta"
+1|"L'Affare Makropulos"
+1|"I due Foscari"
+1|"Il Viaggio a Reims"
+1|"Assassinio nella cattedrale" di Pizzetti
+1|"Alcina"
+1|"Götterdämmerung"
+1|"Agrippina"
+1|"L'Orfeo" di Monteverdi
+1|"Zelmira"
+1|"I Due Foscari"
+1|"Tosca" ultimo titolo
+1|"Il mondo alla rovescia"
+1|"The rake's progress"
+1|"Linda di Chamounix"
+1|"Gotterdammerung"
+1|"I Puritani"
+1|Ritorniamo
+1|"A midsummer night's dream"
+1|"L'elisir d'amore"
+1|"Aida"
+1|"La figlia del reggimento"
+1|"I Lombardi alla prima crociata"
+1|"Salome"
+1|"Lucia di Lammermoor"

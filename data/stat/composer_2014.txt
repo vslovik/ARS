@@ -1,0 +1,38 @@
+36|Giacomo Puccini
+27|-
+25|Giuseppe Verdi
+10|Gioachino Rossini
+8|Wolfgang Amadeus Mozart
+7|Gaetano Donizetti
+3|Jacques Offenbach
+3|Ermanno Wolf-ferrari
+3|Georges Bizet
+3|Richard Strauss
+2|Pëtr Il’ič Čajkovskij
+2|Francesco Cilea
+2|Alexander Zemlinsky,Giacomo Puccini
+1|Nicholas Lens
+1|Giuseppe Verdi,Giacomo Puccini
+1|Pietro Mascagni,Franz Joseph Haydn
+1|Dmitrij Dmitrievi
+1|Silvia Colasanti
+1|Wolfang Amadeus Mozart
+1|Giancarlo Menotti,Francis Poulenc
+1|Mark Andre
+1|Félicien David
+1|Charles Gounod
+1|Igor Stravinskij
+1|Jaromír Weinberger
+1|Ludwig Van Beethoven
+1|Antonìn Dvoràk
+1|Francis Poulenc
+1|Domenico Cimarosa
+1|Pietro Mascagni
+1|Georg Friedrich händel
+1|Henry Purcell
+1|Nikolaj Rimskij-korsakov
+1|Hans Werner Henze
+1|Vincenzo Bellini
+1|Cristoph Willibald Gluck
+1|Igor Fëdorovič Stravinskij
+1|Franz Lehár

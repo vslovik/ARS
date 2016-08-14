@@ -1,0 +1,32 @@
+17|-
+12|Giuseppe Verdi
+9|Gioachino Rossini
+7|Gaetano Donizetti
+5|Giacomo Puccini
+3|Umberto Giordano
+3|Wolfgang Amadeus Mozart
+2|Arrigo Boito
+2|Pietro Mascagni
+2|Georges Bizet
+2|Richard Strauss
+1|Hervé
+1|Philippe Boesmans
+1|Vincenzo Bellini
+1|Maurice Ravel
+1|Hector Berlioz
+1|Jacques Offenbach
+1|Giacomo Puccini,Francis Poulenc
+1|Gioacchino Rossini
+1|Richard Wagner
+1|Manuel De Falla,Enric Granados
+1|Florian Leopold Gassmann
+1|Salvatore Sciarrino
+1|Benjamin Britten
+1|Giovanni Paisiello
+1|Henry Purcell
+1|Hans Werner Henze
+1|Engelbert Humperdinck
+1|Viktor Ullmann
+1|Georg Friedrich Händel
+1|Franz Lehár
+1|Alfredo Casella

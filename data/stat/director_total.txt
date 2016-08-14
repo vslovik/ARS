@@ -1,0 +1,459 @@
+96|-
+27|Pier Luigi Pizzi
+24|Damiano Michieletto
+18|Henning Brockhaus
+18|Franco Zeffirelli
+17|Robert Carsen
+15|Graham Vick
+15|Hugo De Ana
+15|Andrea Cigni
+14|Davide Livermore
+13|Daniele Abbado
+11|Arnaud Bernard
+11|Riccardo Canessa
+10|Vittorio Borrelli
+10|Ivan Stefanutti
+10|Mario Martone
+10|Alessio Pizzech
+10|Rosetta Cucchi
+9|Giulio Ciabatti
+9|Francesco Micheli
+9|Alessandro Talevi
+9|Jossi Wieler, Sergio Morabito
+8|Stefano Poda
+8|Bepi Morassi
+8|Leo Muscato
+8|Fabio Ceresa
+8|Federico Tiezzi
+8|Denis Krief
+8|Andrea De Rosa
+8|Lorenzo Mariani
+8|Pier Francesco Maestrini
+7|Dmitri Tcherniakov
+7|Emma Dante
+7|Gabriele Lavia
+7|Robert Wilson
+7|Andrea Moses
+6|Massimo Gasparon
+6|Joseph Franconi Lee
+6|Cristina Mazzavillani Muti
+6|Elena Barbalich
+6|Francesco Esposito
+6|David Mcvicar
+6|Emilio Sagi
+6|Francesco Bellotto
+6|Calixto Bieito
+6|Charles Roubaud
+6|Jean-louis Grinda
+6|Luca Ronconi
+5|Peter Stein
+5|Willy Decker
+5|Fabio Sparvoli
+5|Manfred Schweigkofler
+5|Laurent Pelly
+5|Giancarlo Del Monaco
+5|Mario Pontiggia
+5|Ruggero Cappuccio
+5|Marco Spada
+5|Paul Curran
+4|Federico Bertolani
+4|Stefano Vizioli
+4|Dario Argento
+4|Mary Zimmerman
+4|Federico Grazzini
+4|Michele Mirabella
+4|Nicola Berloffa
+4|Marco Gandini
+4|Filippo Crivelli
+4|William Friedkin
+4|Enrico Stinchelli
+4|Lorenzo Regazzo
+4|Lamberto Puggelli
+4|Roberto De Simone
+4|Giorgio Barberio Corsetti
+4|Saverio Marconi
+4|Italo Nunziata
+3|Marina Bianchi
+3|Carmelo Rifici
+3|Sandro Pasqualetto
+3|Jean Louis Grinda
+3|Peter Konwitschny
+3|Jean-pierre Ponnelle
+3|Alfonso Antoniozzi
+3|Georges Lavaudant
+3|Gilbert Deflo
+3|Renato Bonajuto
+3|Serena Sinigaglia
+3|Herbert Wernicke
+3|Peter Sellars
+3|Deborah Warner
+3|Jossi Wieler
+3|Michal Znaniecki
+3|Roberto Andò
+3|Nicola Zorzi
+3|Harry Kupfer
+3|Pierre Audi
+3|Elisabetta Brusa
+3|Robert Lepage
+3|Laurent Pelly,Laurie Feldman
+3|Guglielmo Ferro
+3|Gianmaria Aliverta
+3|Beppe De Tomasi
+3|Sam Brown
+3|Rolando Panerai
+3|Pier’alli
+3|Andrea Breth
+3|Lorenzo Amato
+3|Ferzan Ozpetek
+3|Carlus Padrissa
+3|Pier'alli
+3|Jean-paul Scarpitta
+3|Augusto Fornari
+3|Alberto Fassini
+3|Gianfranco De Bosio
+2|Roberto Recchia
+2|Cesare Lievi
+2|Francisco Negrin
+2|Fabio Banfo
+2|Stephen Medcalf
+2|Juliette Deschamps
+2|Antoine Selva
+2|Hugo De Hana
+2|Guy Montavon
+2|Enrico Castiglione
+2|Elisabetta Courir
+2|Sylvano Bussotti,Vittorio Borrelli
+2|Johannes Weigand
+2|Giorgio Gallione
+2|David Kneuss
+2|Marcelo Lombardero
+2|Pippo Delbono
+2|Giovanni Anfuso
+2|Stefano Trespidi
+2|Lev Dodin
+2|Stéphane Braunschweig
+2|Richard Eyre
+2|Yi Liming
+2|Kasper Holten
+2|Renato Zanella
+2|Ettore Scola
+2|Jean-claude Auvray
+2|Leo Nucci
+2|Ivo Guerra
+2|Andreas Homoki
+2|Saburo Teshigawara
+2|Daniele Finzi Pasca
+2|Jürgen Flimm
+2|Alfredo Corno
+2|Monique Wagemakers
+2|Gino Zampieri
+2|Marco Carniti
+2|Aldo Tarabella
+2|Gianni Marras
+2|Grischa Asagaroff
+2|Giuliano Montaldo
+2|Gabriella Medetti
+2|Liliana Cavani
+2|Terry Gilliam
+2|Roberto Laganà Manoli
+2|Nadine Duffaut
+2|Luc Bondy
+2|Romeo Castellucci
+2|Barrie Kosky
+2|Paolo Trevisi
+2|Alvis Hermanis
+2|Renzo Giacchieri
+2|Christopher Alden
+2|Walter Sutcliffe
+2|Franco Zeffirelli,Marco Gandini
+2|Claus Guth
+2|Vincent Boussard
+2|Stefan Herheim
+2|Lamberto Pugelli
+2|Nicolas Joël
+2|José Carlos Plaza
+2|Maurizio Di Mattia
+2|Amerigo Daveri
+1|Nicola Hümpel
+1|Henning Borckhaus
+1|Patrice Ch
+1|Richard Maltby, Jr.
+1|Giampiero Solari
+1|Renzo Giaccheri
+1|Andrés Lima
+1|Werner Herzog
+1|Mario Setti
+1|Teatro Sotterraneo
+1|Moshe Leiser
+1|Frank Galati
+1|Thaddeus Strassberger
+1|Boyko Bogdanov
+1|Stefano De Luca
+1|Jacopo Spirei
+1|Steven Pimlott
+1|Karl-ernst
+1|Jonathan Miller
+1|Gerardo Malla
+1|Università Iuav Di Venezia Dipartimento Ppac
+1|Jean-philippe Delavault
+1|Bartlett Sher
+1|James Marvel
+1|Mariano Bauduin
+1|Pierre-andré Weitz
+1|Chen Shi-zheng
+1|Franco Ripa Di Meana
+1|Joan Font
+1|Carlus Padrissa, Alex Ollé/ La Fura Dels Baus
+1|Emilio Montero
+1|Willy Landin
+1|Yannis Kokkos
+1|Dmitrij Bertman
+1|Dieter Kaegi
+1|Gaetano Stella
+1|Raúl Falcó
+1|Luca Pellizzaroli
+1|Laurent Pelly,Anna Maria Bruzzese
+1|John Cox
+1|Laurent Pelly,Hans Christian Räth
+1|Stefano Mazzonis Di Pralafera
+1|Arnaud Meunier
+1|Michael Mccaffery
+1|Marie-josée Chartier
+1|Gotz Friedrich
+1|Adrian Noble
+1|Patrick Kinmonth
+1|Ludek Golàt
+1|Peter Mussbach
+1|John Doyle
+1|Craig Revel Horwood
+1|Juliana Faesle
+1|Damiano Michieletto,Eleonora Gravagnola
+1|Claudio Valdés Kuri
+1|Vittorio Sgarbi
+1|Lorenzo Maria Mucci
+1|Luciano Cannito
+1|Giorgio Strehler
+1|Luigi De Angelis
+1|Jorge Lavelli
+1|Carlo Torriani
+1|David Mc Vicar
+1|Carlos Saura
+1|Sebastian Neubling
+1|Vivien Hewitt
+1|Alessandro Londei
+1|Luca Verdone
+1|Renée Auphan
+1|Mauricio Garcia  Lozano
+1|Giorgio Ferrara
+1|Bill Kenwright
+1|Eric Lacascade
+1|Rudolf Frey
+1|Paolo Andreoni
+1|Francisco López
+1|Lawrence Edelson
+1|Axel Köhler
+1|Eugenio Monti Colla
+1|Maurizio Colombi
+1|Mariusz Treliński
+1|Paolo Giani Cei
+1|Giorgio Marini
+1|Daniela Dess
+1|Michael Haneke
+1|Fiona Shaw
+1|Petrika Ionesco
+1|Jussi Wieler, Sergio Morabito
+1|Stefano Mazzonis Di Palafrera
+1|Melly Still
+1|Emiliana Paoli
+1|Pietro Babina
+1|Nikos Lagousakos
+1|David Lefkowich
+1|Jean-louis Pichon
+1|Stephen Lawless
+1|Ian Judge
+1|Giorgio Bagnoli
+1|Frédéric Flamand
+1|Ermanno Olmi
+1|Clément Hervieu-léger
+1|Henning Brockhaus,Valentina Escobar
+1|Katie Mitchell
+1|Luis Olmos
+1|Caterina Panti Liberovici
+1|Coline Serreau
+1|Roland Aeschlimann
+1|Pier Paolo Pacini
+1|Olivia Fuchs
+1|Gustavo Tambascio
+1|Laura Cosso
+1|Silvia Paoli
+1|Sofia Coppola
+1|Frédéric Bélier-garcia
+1|Michał Znaniecki
+1|Selene Farinelli
+1|Cécile Roussat
+1|Anthony Pilavachi
+1|David Attie
+1|Laurent Gerber
+1|William Kerley
+1|Julie Taymor
+1|David Freeman,Andrej Bugaev
+1|Michele Placido
+1|Otello Cenci
+1|Primo Antonio Petris
+1|Martin Kušej
+1|Manolo Casalino
+1|Stephen Wadsworth
+1|Giuseppe Emilian,Giuseppe Emiliani
+1|David Alden
+1|Walter Le Moli
+1|Walter Pagliaro
+1|Patrice Chérau
+1|Bruno Berger-gorski
+1|Renzo Giacchieri,Boldizsar Laszlo
+1|Claudio Mattone
+1|Vincent Paterson
+1|Nenad Glavan
+1|Simon Mcburney
+1|Enrico De Feo
+1|Antonio Albanese
+1|Giancarlo Sepe
+1|Julian Woolford
+1|Pierluigi Pizzi
+1|Jo Davies
+1|Damiano Michieletto,Luca Scarzella
+1|Christopher Luscombe
+1|Kirill Serebriannikov
+1|Nicholas Hytner
+1|Massimo Pezzuti
+1|Yannis Kokkos,Stephan Grögler
+1|Elisabetta Marini
+1|Eimuntas Nekrošius
+1|Maurizio Scaparro
+1|Stefan Heinrichs
+1|Guy Joosten
+1|Marco Bellocchio
+1|Paolo Miccichè
+1|Riccardo Massai
+1|Federico Bellone
+1|Claus Guth,Anja Kampe
+1|Marshall Pynkoski
+1|Cesare Scarton
+1|Hui He,Gianfranco De Bosio
+1|Pierfrancesco Maestrini
+1|Jo Kanamori
+1|Roberto Oswald
+1|Richard Brunel
+1|Paolo Rossi
+1|Jérôme Savary
+1|Jean-philippe Clarac
+1|Ferzan Özpetek
+1|Maurizio Nichetti
+1|Eric Simonson
+1|Henning Brockhau
+1|Johan Simons
+1|Jens-daniel Herzog
+1|Gilbert Deflò
+1|Andreas Moses
+1|Numa Sadoul
+1|Giancarlo Cobelli
+1|Guy Cassiers
+1|Stefano Monti
+1|Giuseppe Frigeni
+1|Nigel Lowery
+1|Jeanne-pierre Ponnelle
+1|Ana D'anna
+1|Luca De Fusco
+1|Gioele Dix
+1|Daniel Benoin
+1|Ron Daniels
+1|Vivien Alexandra Hewitt
+1|Giuseppe Dipasquale
+1|Mario Pontiggia,Mietta Corli
+1|Gabriele Rech
+1|Jürgen Rose
+1|Francesca Zambello
+1|Facoltà Di Design E Arti Iuav Di Venezia
+1|Matthias Hartmann
+1|Lluis Pasqual
+1|Stephen Wadsworth,Otto Schenck
+1|Philipp Stölzl
+1|Marco Castoldi
+1|Arturo Cirillo
+1|Massimo Gasparon,Pier Luigi Pizzi
+1|Ezio Donato
+1|Jossi Wieler E Sergio Morabito
+1|Kara Walker
+1|Simone Alaimo
+1|Gilbert Blin
+1|Mariusz Trelinski
+1|Daniel Slater
+1|Mercedes Martini
+1|Frédéric Roels
+1|Stefania Panighini
+1|Gino Landi
+1|Daminao Michieletto
+1|Manu
+1|David Mcvicar,Mark Morris,Otto Schenk
+1|Andrea Elena
+1|Francesco Torrigiani
+1|Martlab Simone Conforti E Marco Ligabue
+1|Benedetto Sicca
+1|François Girard
+1|Simona Marchini
+1|Halvis Hermanis
+1|Nikolaus Lenhoff
+1|Sidi Larbi Cherkaoui
+1|Giuseppe Patroni Griffi
+1|Francesco Frongia
+1|Yannis Houvardas
+1|Paco Mir
+1|Gilles Maheu
+1|Alejandro Chacon
+1|Lee Blakeley
+1|Mark Lamos
+1|Klaus Michael Grüber
+1|Valentina Brunetti
+1|Michael Hampe
+1|Christoph Marthaler
+1|Chiara Muti
+1|Ursel
+1|Carlus Padrissa/la Fura Dels Baus
+1|Pierpaolo Pacini
+1|Luigi Barilone
+1|Ragnar Conde
+1|Denis Polyadès
+1|Alex Ollé
+1|Paolo Panizza
+1|Paul Emile Fourny
+1|Carlo Antonio De Lucia
+1|Mietta Corli
+1|Markus Dietz
+1|Ivo Van Hove
+1|Enrique Singer
+1|Angelo Bertini
+1|Eimuntas Nekrosius
+1|Giandomenico Vaccari
+1|La Fura Dels Baus (carlus Padrissa)
+1|Gianni Gualdoni
+1|Boris Pokrovskij
+1|Carlos Palacios
+1|Scotto Edminston
+1|Igor Ivanov
+1|Óscar Flores
+1|Peter Brook
+1|Stephane Braunschweig
+1|Mario Espinosa
+1|Guy Joostens
+1|Pablo Maritano
+1|Robert Castro
+1|Herbert Wernicke,Alejandro Stadler
+1|Paco Azorin
+1|Horacio Almada
+1|Artemio Cabassi
+1|Carlus Padrissa – La Fura Dels Baus
+1|Louise Moaty
+1|John Copley
+1|Yuri Alexandrov
+1|Christian Ginepro
+1|Mario Gas Cabré
+1|Marcello Grigorov

@@ -1,0 +1,137 @@
+17|-
+9|Andrea Battistoni
+5|Giampaolo Bisanti
+5|Gianandrea Noseda
+5|Renato Palumbo
+4|Jonathan Webb
+4|Omer Meir Wellber
+4|Daniele Rustioni
+3|Fabrizio Maria Carminati
+3|Giuliano Carella
+3|Zubin Mehta
+3|Carlo Rizzari
+3|Riccardo Frizza
+3|Riccardo Muti
+3|Sylvain Cambreling
+3|Gianluigi Gelmetti
+3|Michele Mariotti
+3|Stefano Montanari
+2|Alessandro De Marchi
+2|Francesco Cilluffo
+2|Fabio Luisi
+2|Daniel Harding
+2|Pietari Inkinen
+2|Gianandrea Noseda,Saverio Santoliquido
+2|Francesco Ivan Ciampa
+2|Roberto Abbado
+2|Emmanuel Villaume
+2|Giovanni Di Stefano
+2|Lawrence Foster
+2|Alain Altinoglu
+2|Marko Letonja
+2|Julian Kovatchev
+2|Mikko Franck
+2|Donato Renzetti
+1|Federico Santi
+1|John Fiore
+1|Massimo Zanetti
+1|Saverio Santoliquido,Christopher Hogwood
+1|Maurizio Barbacini
+1|Pierre Iodice
+1|Paolo Belloli
+1|Antonio Greco
+1|Giovanni Battista Rigon
+1|Federico Maria Sardelli
+1|Dáirine Ní
+1|Christophe Rousset
+1|Martyn Brabbins
+1|Marc Soustrot
+1|Marcello Mottadelli
+1|Pinchas Steinberg
+1|Giacomo Sagripanti
+1|Antonio Pappano
+1|Corrado Rovaris
+1|Marco Moresco
+1|Eugene Kohn
+1|Marco Dallara
+1|Francesco Pasqualetti
+1|Daniel Oren
+1|Yi-chen Lin
+1|Cristbal Soler
+1|Nicola Luisotti
+1|Fabio Mastrangelo
+1|Giuseppe Sabbatini
+1|Jacques Lacombe
+1|Yannick Nézet-séguin
+1|Emmanuel Plasson
+1|Alan Curtis
+1|Alberto Zedda
+1|Carla Delfrate
+1|Stefano Ranzani
+1|Christopher Franklin
+1|José Luis Gomesz
+1|Nicola Procaccini
+1|James Conlon
+1|Jader Bignamini
+1|Charles Tim Buck,Asher Fisch
+1|Giampaolo Maria Bisanti
+1|Maurizio Colasanti
+1|Alain Guingal
+1|Stefano Rabaglia
+1|Alberto Veronesi
+1|Stefano Romani
+1|Keri-lynn Wilson
+1|Michael Christie
+1|Giuseppe Sigismondi De Risio
+1|Antonino Manuli
+1|Myung-whun Chung
+1|Andrea Battistoni,Giuliano Carella,Riccardo Frizza
+1|Salvatore Percacciolo
+1|Mark Shanahan
+1|Gaetano D’espinosa
+1|Francesco Angelico
+1|Lorenzo Fratini,Giuseppe La Malfa
+1|Saverio Santoliquido,Renato Palumbo
+1|Gabriele Ferro
+1|Francesco Lanzillotta
+1|Matteo Beltrami
+1|Andreas Spering
+1|Teodor Currentzis
+1|Marco Angius
+1|Daniele Gatti
+1|George Petrou
+1|Michael Schøwandt
+1|Sebastiano Rolli
+1|Daniel Cohen
+1|Sergio Alapont
+1|Tiziano Severini
+1|Francesco Ledda
+1|Federico Bardazzi
+1|Marco Armiliato
+1|Hartmut Haenchen
+1|Xu Zhong
+1|Paolo Arrivabeni
+1|Paolo Arrivabene
+1|Daniele Callegari
+1|Henrik Nánási
+1|Francesco Rosa
+1|Stefan Anton Reck
+1|Neal Goren
+1|Roman Brogli-sacher
+1|Roberto Parmeggiani
+1|Friedrich Pleyer
+1|Kirill Petrenko
+1|Alejo Pérez
+1|Giuseppe Finzi
+1|Bruno Campanella
+1|Armando Tasso,Marko Letonja,Maria Grazia Garofoli
+1|Stefan Soltesz
+1|Loris Giancola,Mario Ancillotti
+1|Andrew Davis
+1|Serge Baudo
+1|Charles Dutoit
+1|Josè Ramon Encinar
+1|Alberto Hold-garrido
+1|Alejo Perez
+1|Asher Fisch
+1|Lodovic Morlot

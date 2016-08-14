@@ -1,0 +1,61 @@
+6|Teatro alla Scala
+4|Brescia, Teatro Grande
+3|Teatro Comunale di Bologna
+3|-
+3|New York, Metropolitan Opera
+3|Los Angeles
+3|Bergamo Musica Festival
+3|Teatro Filarmonico di Verona
+3|Arena Sferisterio di Macerata
+2|Staatsoper Stuttgart
+2|Messico
+2|Opernhaus di Zurigo
+2|Madrid,Teatro Real
+2|Modena, Teatro Comunale
+2|Regio di Parma
+1|Ancona, Teatro delle Muse
+1|Jesi
+1|Teatro "La Fenice" di Venezia
+1|Scala
+1|Valencia, Palau de Les Arts
+1|Santiago del Cile,  Teatro Municipal
+1|Lima, Teatro Segura
+1|Verona, Teatro Filarmonico
+1|Jesi, Teatro "Pergolesi"
+1|Teatro Olimpico di Vicenza
+1|Teatro dell'Opera di Roma
+1|San Francisco
+1|Badisches Staatstheater di Karlsruhe
+1|Teatro Sociale di Como
+1|Boston Midsummer Opera
+1|Padova, Teatro Verdi
+1|Teatro Segura di Lima
+1|Trieste, Teatro Verdi
+1|Teatro La Fenice
+1|Boston Lyric Opera
+1|Teatro Avenida di Buenos Aires
+1|Torino, Teatro Regio
+1|Teatro Regio di Parma
+1|Birch North Park Theatre, San Diego
+1|Busseto
+1|’insegna del patriottismo
+1|Boston Opera
+1|The Boston Early Music Festival
+1|Teatro Grande di Brescia
+1|Ravenna Festival
+1|Città del Messico
+1|Bilbao
+1|Carnevale di Venezia
+1|Fenice
+1|Teatro Delle Muse di Ancona
+1|Rovigo
+1|San Francisco Opera
+1|West" a San Francisco
+1|Opera di Oviedo
+1|Teatro Comunale di Modena
+1|Comunale di Bologna
+1|Città del Messico, Teatro de las Artes
+1|Teatro "Verdi" di Padova
+1|Beso"
+1|Teatro Donizetti di Bergamo
+1|Zurigo

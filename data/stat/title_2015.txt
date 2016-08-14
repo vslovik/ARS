@@ -1,0 +1,104 @@
+6|"Madama Butterfly"
+6|"Lucia di Lammermoor"
+6|"L'elisir d'amore"
+5|"La Bohème"
+5|"La traviata"
+5|"Il barbiere di Siviglia"
+4|"Le nozze di Figaro"
+4|"Aida"
+3|"La Traviata"
+3|"Die Zauberflöte"
+3|"Don Pasquale"
+3|"Rigoletto"
+3|"Un ballo in maschera"
+3|"Falstaff"
+2|"Simon Boccanegra"
+2|"Il Barbiere di Siviglia"
+2|"Così fan tutte"
+2|"I puritani"
+2|"Fidelio"
+2|"La vedova allegra"
+2|"Fedora"
+2|"Carmen"
+2|"Don Giovanni"
+2|"Il turco in Italia"
+2|"Norma"
+1|"L'incoronazione di Poppea"
+1|-
+1|"Tamerlano"
+1|“Roberto Devereux”
+1|"Elisabetta, regina d'Inghilterra"
+1|"Anna Bolena"
+1|“Il turco in Italia”
+1|"Turandot"
+1|"Berenice, regina di Armenia" (Il Vologeso)
+1|“Die Soldaten” al Teatro alla Scala
+1|"Faust"
+1|“Goyescas” e “Suor Angelica” al Teatro Regio di Torino
+1|"Billy Budd"
+1|“I Puritani”
+1|“Giovanna d’Arco”
+1|“Apollo et Hyacinthus” di Mozart
+1|"Il ragazzo del risciò"
+1|"Macbeth"
+1|“Serse” di Händel
+1|"La voix humaine"
+1|"Jenufa"
+1|"Le Toréador" e "Cavalleria Rusticana"
+1|"Carmina Burana"
+1|"Il Pipistrello"
+1|"Il Signor Bruschino"
+1|"Salome"
+1|"La Sonnambula"
+1|"The Bassarids"
+1|“Pelléas et Mélisande”  dell’OSN RAI
+1|"Dafne"
+1|Il dittico "Zanetto/Cavalleria Rusticana"
+1|"Der Rosenkavalier"
+1|"Ernani"
+1|"Dido and Aeneas"
+1|"L'Amico Fritz"
+1|"Werther"
+1|"La forza del destino"
+1|"La Cenerentola"
+1|“Lucio Silla” di Mozart
+1|“Aida”
+1|"Jakob Lenz"
+1|“Otello” di Rossini
+1|“La Traviata”
+1|“Alcina”
+1|"El amor brujo" & "Cavalleria rusticana"
+1|"Idomeneo, re di Creta"
+1|“Hänsel und Gretel”
+1|"Hänsel und Gretel"
+1|"La scala di seta"
+1|"Tristan und Isolde"
+1|"The turn of the screw"
+1|“Rigoletto”
+1|"La Vestale"
+1|"Penthesilea"
+1|"Il ragazzo del risciò" al Teatro Regio di Torino
+1|"Don Giovanni Tenorio o sia Il convitato di pietra"
+1|"Juditha Triumphans"
+1|"Le braci"
+1|"Orphée et Eurydice"
+1|“Les pêcheurs de perles”
+1|"Nabucco"
+1|"El amor brujo" e "Cavalleria rusticana"
+1|“Siegfried”
+1|"Catone"
+1|"Il viaggio a Reims"
+1|"Siegfried"
+1|"Il trionfo dell'onore, ovvero dissoluto pentito"
+1|"Un Ballo in Maschera"
+1|"Fierrabras"
+1|"Alceste"
+1|“Don Giovanni”
+1|"I Capuleti e i Montecchi"
+1|"Il matrimonio segreto"
+1|"Otello"
+1|"Powder her face"
+1|“Jenůfa”
+1|prima mondiale di “El Público” a Madrid
+1|"Il diario di uno scomparso" e "La voix humaine"
+1|"Gisela!"

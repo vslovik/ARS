@@ -1,0 +1,47 @@
+6|Milano, Teatro alla Scala
+5|Torino, Teatro Regio
+4|Staatsoper Stuttgart
+4|Madrid, Teatro Real
+4|Opera di Firenze
+3|Bologna, Teatro Comunale
+3|Verona, Teatro Filarmonico
+3|Teatro dell'Opera di Roma
+3|Genova, Teatro Carlo Felice
+3|Roma, Teatro dell'Opera
+2|Teatro Comunale di Bologna
+2|Opera di Firenze, Cortile di Palazzo Pitti
+2|Bruxelles, Théâtre La Monnaie
+2|’Auditorio Nacional di Madrid
+2|Teatro Real di Madrid
+2|Parma, Teatro Regio
+2|Lucca, Teatro del Giglio
+2|Teatro Verdi di Pisa
+2|Palermo, Teatro Massimo
+2|Teatro Regio di Torino
+1|Novara, Teatro Coccia
+1|Gran Teatre del Liceu di Barcelona
+1|Firenze, Teatro della Pergola
+1|Teatro San Carlo di Napoli
+1|Firenze, stagione lirica estiva dell'Opera
+1|Teatro Real di Madrid con Plácido Domingo
+1|Firenze, Teatro Goldoni
+1|Venezia, Teatro La Fenice
+1|Napoli, Teatro di San Carlo
+1|Teatro Massimo di Palermo
+1|Reggio Emilia, Teatro Municipale Valli
+1|Venezia, Teatro La fenice
+1|Teatro alla Scala di Milano
+1|Teatro Carlo Felice di Genova
+1|Teatro Comunale di Ferrara
+1|Piacenza, Teatro Municipale
+1|Napoli, Teatro di Corte di Palazzo Reale
+1|Teatro la Fenice di Venezia
+1|Busseto, Teatro Verdi
+1|Modena, Teatro Comunale
+1|San Carlo di Napoli
+1|Teatro Comunale di Modena
+1|Ferrara, Teatro Comunale
+1|Venezia, Teatro Malibran
+1|Teatro alla Scala
+1|Teatro La Fenice di Venezia
+1|Pesaro, Auditorium Pedrotti

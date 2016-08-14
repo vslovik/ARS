@@ -1,0 +1,352 @@
+JENNIFER CHECK|"Don Carlo"|-|Giuseppe Verdi|New York, Metropolitan Opera|Nicholas Hytner|Voce dal cielo
+DOLORA ZAJICK|"Aida"|"Don Carlo"|"Il Trovatore"|"Un ballo in maschera"|-|Amneris|Antonio Pappano|Azucena|Daniel Oren|Daniele Gatti|Deutsche Oper Berlin|Eboli|Gianfranco De Bosio|Giuseppe Verdi|Jo Davies|Milano, Teatro alla Scala|Nicola Luisotti|Renato Palumbo|Renzo Giacchieri|San Francisco Opera|Santa Cecilia|Stephane Braunschweig|Ulrica|Verona, 86° Festival Lirico
+DONOVAN SINGLETARY|"Don Carlo"|-|Deputati fiamminghi|Giuseppe Verdi|New York, Metropolitan Opera|Nicholas Hytner
+RICHARD PAUL FINK|"Nixon in China"|"Rusalka" al San Carlo di Napoli|-|Alberich|Antonin Dvořák|Charles Tim Buck,Asher Fisch|Henry Kissinger|John Adams|John Fiore|Kurwenal|Magia|Manfred Schweigkofler|Met|Myung-whun Chung|Paul Curran|Peter Sellars|Seattle|Stephen Wadsworth|Tra attrazione e sventura|Vodnik, lo Spirito delle Acque|filtro, magia di Chung|un "Ring" che avrebbe reso Wagner orgoglioso
+KATHLEEN KIM|"Nixon in China"|"Un ballo in maschera"|Alex Ollé|Bruxelles, Théâtre La Monnaie|Carlo Rizzi|Chiang Ch'ing|Giuseppe Verdi|John Adams|Met|Oscar|Peter Sellars
+KANIJ SEGAWA|"Nixon in China"|Danzatori solisti|John Adams|Met|Peter Sellars
+LAYLA CLAIRE|"Don Carlo"|-|Giuseppe Verdi|New York, Metropolitan Opera|Nicholas Hytner|Tebaldo
+KEITH HARRIS|"Don Carlo"|-|Deputati fiamminghi|Giuseppe Verdi|New York, Metropolitan Opera|Nicholas Hytner
+HAO JIANG TIAN|"Aida"|Giuseppe Verdi|Jo Davies|Nicola Luisotti|Ramfis|San Francisco Opera
+LEAH CROCETTO|"Aida"|-|Desdemona|Doppia inaugurazione|Fenice|Francesco Micheli|Giuseppe Verdi|Jo Davies|Myung-whun Chung|Nicola Luisotti|Sacerdotessa|San Francisco Opera
+KURT GYSEN|-|Due soldati|Due soldati ' PATRICK SCHRAMM|Guy Joosten|Michael  Boder
+MARK DELEVAN|-|Guy Joosten|Jochanaan|Michael  Boder
+NINA STEMME|"Die Walküre"|"Tannhäuser"|"Tristan und Isolde"|-|Brünnhilde|Daniel Barenboim|Elisabeth|Guy Cassiers|Guy Joosten|Isolde|Michael  Boder|Mikko Franck|Milano, Teatro alla Scala|Parigi, Opéra Bastille|Parigi, Salle Pleyel|Robert Carsen|Salome|Sir Mark Elder
+PATRICK SCHRAMM|-|Due soldati|Guy Joosten|Michael  Boder
+PAVEL KUDINOV|"Iolanta" e "Perséphone"|"Macbeth"|-|Banco|Bertrand|Due nazzareni|Due nazzareni ' STANILAV SHVETS|Giancarlo Cobelli|Giuseppe Verdi|Guy Joosten|Madrid, Teatro Réal|Michael  Boder|Modena, Teatro Comunale|Peter Sellars|Pëtr Il’ic Cajkovskij,Igor Stravinskij|Teodor Currentzis
+ROBERT BRUBAKER|"Das Rheingold"|"Francesca da Rimini"|"Nixon in China"|"Salome"|-|David Kneuss|Gabriele Lavia|Graham Vick|Guy Joosten|Herodes|John Adams|Mal Tse-tung|Malatestino|Marco Armiliato|Met|Michael  Boder|Mime|Palermo|Peter Sellars|Pietari Inkinen|Riccardo Zandonai|Stefan Anton Reck|Trieste, Teatro Verdi
+STANILAV SHVETS|-|Due nazzareni|Guy Joosten|Michael  Boder
+STEFAN HEIBACH|-|Guy Joosten|Michael  Boder|Narraboth
+CÉSAR DE FRUTOS|-|James Conlon|Madrid, Teatro Real|Un paesano|“Luisa Miller”
+DMITRY BELOSSELSKIY|-|Il conte di Walter|James Conlon|Madrid, Teatro Real|“Luisa Miller”
+MARINA RODRÍGUEZ-CUSÍ|-|James Conlon|Laura|Madrid, Teatro Real|“Luisa Miller”
+MARÍA JOSÉ MONTIEL|-|Federica|James Conlon|Madrid, Teatro Real|“Luisa Miller”
+NINO MACHAIDZE|"I Puritani"|"Les Pêcheurs de perles"|"Rigoletto"|"Roméo et Juliette"|-|Bartlett Sher|Bologna, Teatro Comunale|Charles Gounod|Christopher Alden|Daniele Callegari|Daniele Rustioni|Donna Fiorilla|Elvira|Fabio Sparvoli|Gilda|Giuseppe Verdi|Juliette|Jérôme Savary|Léïla|Michele Mariotti|Milano, Teatro alla Scala|Modena, Teatro Comunale|Parigi, Opéra Bastille|Patrick Fournillier|Pier'alli|Teatro Regio di Torino|Vincenzo Bellini|Yannick Nézet-séguin|“Il turco in Italia”
+LUCA PISARONI|"Le Nozze di Figaro"|Figaro|John Copley|Nicola Luisotti|San Francisco|Wolfgang Amadeus Mozart
+ELLIE DEHN|"A Midsummer night's dream"|"La Bohème"|"Le Nozze di Figaro"|"Les contes d'Hoffmann"|Antonia|Benjamin Britten|Daniele Rustioni|Franco Zeffirelli|Giacomo Puccini|Helena,innamorata di Demetrius|Jacques Offenbach|James Conlon|John Copley|La contessa|Marko Letonja|Milano, Teatro alla Scala|Musetta|Nicola Luisotti|Opera di Roma|Paul Curran|Robert Carsen|San Francisco|Wolfgang Amadeus Mozart
+DIOGENES RANDES|"Don Carlo"|Daniele Gatti|Giuseppe Verdi|Milano, Teatro alla Scala|Stéphane Braunschweig|Un frate
+DAVIDE PELISSIERO|"Assassinio nella cattedrale" di Pizzetti|"Don Carlo"|-|Daniele Gatti|Deputati fiamminghi|Donato Renzetti|Giuseppe Verdi|Milano, Teatro alla Scala|Scala|Secondo sacerdote della cattedrale|Stephane Braunschweig|Yannis Kokkos
+CARLA DI CENSO|"Don Carlo"|Daniele Gatti|Giuseppe Verdi|Milano, Teatro alla Scala|Stephane Braunschweig|Tebaldo
+ANATOLIJ KOTSCHERGA|"Don Carlo"|Daniele Gatti|Giuseppe Verdi|Il grande inquisitore|Milano, Teatro alla Scala|Stephane Braunschweig
+PAVEL ČERNOCH|"Rusalka" al San Carlo di Napoli|Antonin Dvořák|Il Principe|John Fiore|Manfred Schweigkofler|Tra attrazione e sventura
+IRINA MISHURA|"Rusalka" al San Carlo di Napoli|Antonin Dvořák|Ježibaba|John Fiore|Manfred Schweigkofler|Tra attrazione e sventura
+TAMARA MUMFORD|"Das Rheingold"|"The magic flute"|-|Erik Nielsen|Fabio Luisi|Flosshilde|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|Robert Lepage|Terza Dama|Wolfgang Amadeus Mozart
+WENDY BRYN HARMER|"Das Rheingold"|"Die Walküre"|"Götterdämmerung"|"The magic flute"|-|Charles Tim Buck,Asher Fisch|Erik Nielsen|Fabio Luisi|Freia|Gerhilde|Gutrune|James Levine|Julie Taymor|Metropolitan Opera|NYC, Metropolitan Opera|NYC, The Metropolitan Opera|Ortlinde|Prima Dama|Robert Lepage|Seattle|Stephen Wadsworth|Wolfgang Amadeus Mozart|un "Ring" che avrebbe reso Wagner orgoglioso
+ERIKA MIKLOSA|"The magic flute"|Erik Nielsen|Julie Taymor|La Regina della notte|NYC, Metropolitan Opera|Wolfgang Amadeus Mozart
+JAMIE BARTON|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Seconda Dama|Wolfgang Amadeus Mozart
+MORRIS ROBINSON|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Sarastro|Wolfgang Amadeus Mozart
+NATHAN GUNN|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Papageno|Wolfgang Amadeus Mozart
+NEEL RAM NAGARAJAN|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Secondo fanciullo|Wolfgang Amadeus Mozart
+NOAH SADIK|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Primo fanciullo|Wolfgang Amadeus Mozart
+RUSSELL THOMAS|"The magic flute"|"Wozzeck"|-|Andres|Erik Nielsen|James Levine|Julie Taymor|Mark Lamos|Metropolitan Opera|NYC, Metropolitan Opera|Tamino|Wolfgang Amadeus Mozart
+SUSANNA PHILLIPS|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Pamina|Wolfgang Amadeus Mozart
+GIUSEPPE FILIANOTI|"Don Carlo"|"La Clemenza di Tito"|"Manon"|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|"Werther"|-|Ancona, Teatro delle Muse|Antony Walker,Marco Armiliato,Fabio Luisi|Coline Serreau|Daniele Gatti|David Mcvicar,Mark Morris,Otto Schenk|Don Carlo|Emmanuel Villaume|Evelino Pidò|Gennaro|Gianluigi Gelmetti|Giuseppe Verdi|Giuseppe Verdi,Christoph Willibald Gluck|Il duca|Jean Louis Grinda|Jules Massenet|Le Chevalier Des Grieux|Madrid, Teatro Real|Marco Guidarini|Metropolitan Opera|Milano, Teatro alla Scala|Parigi, Opéra Bastille|Stéphane Braunschweig|Teatro Verdi di Trieste|Tito Vespasiano, Imperatore|Werther|Willy Decker|Wolfgang Amadeus Mozart|una "Lucrezia Borgia" di successo
+FERRUCCIO FURLANETTO|"Assassinio nella cattedrale" di Pizzetti|"Boris Godunov"|"Don Carlo"|"Ernani"|-|Beppe De Tomasi|Bologna, Teatro Comunale|Boris Godunov|Daniele Gatti|Don Ruy de Silva|Donato Renzetti|Eimuntas Nekrosius|Eliahu Inbal|Filippo II|George Pehlivanian|Giuseppe Verdi|Hugo De Ana|Milano, Teatro alla Scala|Modest Musorgskij|New York, Metropolitan Opera|Nicholas Hytner|Roberto Polastri|Scala|Stéphane Braunschweig|Teatro Massimo di Palermo|Tommaso Becket|Venezia, Teatro La Fenice|Yannis Kokkos
+THOMAS BLONDELLE|"I due Foscari"|"Il Trovatore"|-|Barbarigo|Deutsche Oper Berlin|Giuseppe Verdi|Roberto Rizzi Brignoli|Ruiz
+TOBIAS KEHRER|"I due Foscari"|"Il Trovatore"|-|Deutsche Oper Berlin|Giuseppe Verdi|Jacopo Loredano /Servo|Roberto Rizzi Brignoli|Un Vecchio Zingaro
+SHAWN MATEY|"A Midsummer night's dream"|Benjamin Britten|James Conlon|Lysander, innamorato di Hermia|Opera di Roma|Paul Curran
+TAMARA GURA|"A Midsummer night's dream"|Benjamin Britten|Hermia, innamorata di Lysander|James Conlon|Opera di Roma|Paul Curran
+PETER STRUMMER|"A Midsummer night's dream"|Benjamin Britten|James Conlon|Opera di Roma|Paul Curran|Peter Quince, falegname
+ERK ANSTINE|"Evgenij Onegin"|James Conlon|Los Angeles Opera|Piotr Ilic Caikovskij|Steven Pimlott|Un capitano
+PHILIP COKORINOS|"La fanciulla del West"|"Le nozze di Figaro"|Antonio|Billy Jackrabbit|Giacomo Puccini|Giancarlo Del Monaco|Ian Judge|Los Angeles|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Placido Domingo|Wolfgang Amadeus Mozart
+PHILIP COKORONIS|"Evgenij Onegin"|James Conlon|Los Angeles Opera|Piotr Ilic Caikovskij|Steven Pimlott|Zaretsky
+VSEVOLOD GRINGOV|"Evgenij Onegin"|James Conlon|Los Angeles Opera|Piotr Ilic Caikovskij|Steven Pimlott|Vladimir Lensky
+RONNITA NICOLE MILLER|"Evgenij Onegin"|Filipyevna|James Conlon|Los Angeles Opera|Piotr Ilic Caikovskij|Steven Pimlott
+RINNAT MORIAH|"Iolanta" e "Francesca Da Rimini"|Brigitta|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov|Stephen Lawless|Theater an der Wien|Vassily Sinaisky
+VICTORIA YAROVAYA|"Iolanta" e "Francesca Da Rimini"|Laura|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov|Stephen Lawless|Theater an der Wien|Vassily Sinaisky
+CECELIA HALL|"Don Pasquale", "Iphigénie en Tauride"|-|Charles Tim Buck,Asher Fisch|Due sacerdotesse|Gaetano Donizetti,Christoph Willibald Gluck|James Levine,Patrick Summers|Metropolitan Opera|Seattle|Stephen Wadsworth|Stephen Wadsworth,Otto Schenck|Wellgunde|un "Ring" che avrebbe reso Wagner orgoglioso
+ANGELA MEADE|"I due Foscari"|-|Deutsche Oper Berlin|Giuseppe Verdi|Lucrezia Contarini|Roberto Rizzi Brignoli
+KATHRYN LEWEK|"I due Foscari"|-|Deutsche Oper Berlin|Giuseppe Verdi|Pisana|Roberto Rizzi Brignoli
+PETER SAVIDGE|"A Midsummer night's dream"|Benjamin Britten|James Conlon|Opera di Roma|Paul Curran|Theseus, Duca di Atene
+MICHAEL BATTEN|"A Midsummer night's dream"|Benjamin Britten|James Conlon|Opera di Roma|Paul Curran|Puck
+GEORGE HUMPHREYS|"A Midsummer night's dream"|Benjamin Britten|James Conlon|Opera di Roma|Paul Curran|Robin Straveling, sarto
+CLAUDIA BOYLE|"A Midsummer night's dream"|Benjamin Britten|James Conlon|Opera di Roma|Paul Curran|Tytania, Regina delle Fate
+MARTA PACIFICI*|"A Midsummer night's dream"|Benjamin Britten|Cobweb, folletto|James Conlon|Opera di Roma|Paul Curran
+LAWRENCE ZAZZO|"A Midsummer night's dream"|-|Arsace|Benjamin Britten|James Conlon|Maxim Emelyanychev|Oberon, Re delle Fate|Opera di Roma|Paul Curran|’Auditorio Nacional di Madrid|“Partenope” di Händel
+CAMILLA MALPICCI*|"A Midsummer night's dream"|Benjamin Britten|James Conlon|Moth, folletto,|Opera di Roma|Paul Curran
+ANTONY DEAN GRIFFEY|"A Midsummer night's dream"|Benjamin Britten|Francis Flute, acconciamantici|James Conlon|Opera di Roma|Paul Curran
+LADISLAV ELGR|"Iolanta" e "Francesca Da Rimini"|"The Bassarids"|"Věc Makropulos"|-|Albert Gregor|Alméric|Dionysus|Gabriele Ferro|Hans Werner Henze|Mario Martone|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov|Robert Carsen|Stefan Soltesz|Stephen Lawless|Teatro dell'Opera di Roma|Theater an der Wien|Vassily Sinaisky|Venezia, Teatro La Fenice
+VLADIMIR BAYKOV|"Iolanta" e "Francesca Da Rimini"|Bertrand|Dante|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov|Stephen Lawless|Theater an der Wien|Vassily Sinaisky
+PHILIPPE CASTAGNER|"Wozzeck"|-|Il pazzo|James Levine|Mark Lamos|Metropolitan Opera
+STUART SKELTON|"Parsifal"|"Wozzeck"|-|Charles Tim Buck,Asher Fisch|Claus Guth|Il Tamburmaggiore|James Levine|Mark Lamos|Metropolitan Opera|Mikko Franck|Parsifal|Seattle|Siegmund|Stephen Wadsworth|Zurigo,Opernhaus|un "Ring" che avrebbe reso Wagner orgoglioso
+ALAN HELD|"Wozzeck"|-|James Levine|Mark Lamos|Metropolitan Opera|Wozzeck
+DANIEL CLARK SMITH|"Wozzeck"|-|James Levine|Mark Lamos|Metropolitan Opera|Un soldato
+WALTER FINK|"Wozzeck"|-|Il Dottore|James Levine|Mark Lamos|Metropolitan Opera
+WENDY WHITE|"Wozzeck"|-|James Levine|Margret|Mark Lamos|Metropolitan Opera
+MARK SCHOWALTER|"Parsifal"|"Wozzeck"|-|Asher Fisch|Charles Tim Buck,Asher Fisch|Due garzoni|François Girard|James Levine|Loge|Mark Lamos|Metropolitan Opera|New York, Metropolitan|Primo e secondo Cavaliere del Graal|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+DEBORAH VOIGT|"Die Walküre"|"Götterdämmerung"|"La fanciulla|"La fanciulla del West"|-|Brünnhilde|Fabio Luisi|Giacomo Puccini|Giancarlo Del Monaco|Giuseppe Finzi|James Levine|Lorenzo Mariani|Metropolitan Opera|Minnie|NYC, Metropolitan Opera|NYC, The Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Robert Lepage|West" a San Francisco
+RAYMOND APARENTADO|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|"Wozzeck"|-|Antony Walker,Marco Armiliato,Fabio Luisi|David Mcvicar,Mark Morris,Otto Schenk|Giuseppe Verdi,Christoph Willibald Gluck|James Levine|Mark Lamos|Metropolitan Opera|Un cittadino|Un messaggero
+DOLORA ZAIJCK|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|Antony Walker,Marco Armiliato,Fabio Luisi|Azucena|David Mcvicar,Mark Morris,Otto Schenk|Giuseppe Verdi,Christoph Willibald Gluck|Metropolitan Opera
+CARL TANNER|"Aida"|"La fanciulla del West"|Alberto Hold-garrido|Dick Johnson|Giacomo Puccini|Giancarlo Del Monaco|Giuseppe Verdi|NYC, Metropolitan Opera|Nicola Luisotti|Opéra di Toulon|Paul Emile Fourny|Radames
+BERNARD FITCH|"Capriccio"|"The magic flute"|Andrew Davis|Erik Nielsen|John Cox|Julie Taymor|Metropolitan Opera|Monsieur Taupe|NYC, Metropolitan Opera|Richard Strauss|Secondo Sacerdote|Wolfgang Amadeus Mozart
+ASHLEY EMERSON|"The magic flute"|Erik Nielsen|Julie Taymor|NYC, Metropolitan Opera|Papagena|Wolfgang Amadeus Mozart
+SONDRA RADVANOVSKY|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|Antony Walker,Marco Armiliato,Fabio Luisi|David Mcvicar,Mark Morris,Otto Schenk|Giuseppe Verdi,Christoph Willibald Gluck|Leonora|Metropolitan Opera
+ROBERT MAHLER|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|Antony Walker,Marco Armiliato,Fabio Luisi|David Mcvicar,Mark Morris,Otto Schenk|Giuseppe Verdi,Christoph Willibald Gluck|Metropolitan Opera|Un vecchio zingaro
+DANIEL GRICE|"La Traviata"|Giuseppe Verdi|Il marchese D’Obigny|Londra, Covent Garden|Patrick Lange|Richard Eyre
+EVA-MARIA WESTBROEK|"Die Walküre"|"Francesca da Rimini"|"La vedova allegra"|"Lady Macbeth del distretto di Mzesnk"|-|Ascher Fisch|David Kneuss|Dimitrij Sostakovic|Francesca|Franz Lehar|Hanna Glawari|Hartmut Haenchen|James Levine|Katerina Ismailova|Madrid, Teatro Real|Marco Armiliato|Martin Kušej|Met|Metropolitan Opera|Milano, Teatro alla Scala|Pier Luigi Pizzi|Riccardo Zandonai|Robert Lepage|Sieglinde
+JOHN ALBERT|"Wozzeck"|-|Il bambino di Marie|James Levine|Mark Lamos|Metropolitan Opera
+STEFAN KOCAN|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|"Rigoletto"|-|Antony Walker,Marco Armiliato,Fabio Luisi|David Mcvicar,Mark Morris,Otto Schenk|Ferrando|Giuseppe Verdi,Christoph Willibald Gluck|Met|Metropolitan Opera|Sparafucile
+ZELIKO LUCIC|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|Antony Walker,Marco Armiliato,Fabio Luisi|David Mcvicar,Mark Morris,Otto Schenk|Giuseppe Verdi,Christoph Willibald Gluck|Metropolitan Opera|Rigoletto
+ALWYN MELLOR|-|Brünnhilde|Charles Tim Buck,Asher Fisch|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+ANDREA SILVESTRELLI|-|Charles Tim Buck,Asher Fisch|Fasolt|Hunding|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+MARIE KOWROSKI|"Carmen"|-|Ballerini solisti|Georges Bizet|New York, Metropolitan Opera|Richard Eyre
+JOYCE EL-KHOURY|"Carmen"|-|Frasquita|Georges Bizet|New York, Metropolitan Opera|Richard Eyre
+SCOTT SCULLY|"Carmen"|"La Traviata"|-|Gastone|Gastone, Visconte de Letorières|Georges Bizet|Gianandrea Noseda|Giuseppe Verdi|Le Remendado|Met|New York, Metropolitan Opera|Richard Eyre|Willy Decker|Yannick Nézet-séguin|“La Traviata”
+MICHAEL TODD SIMPSON|"Carmen"|-|Georges Bizet|Moralèse|New York, Metropolitan Opera|Richard Eyre
+JENNIFER ZETLAN|-|Charles Tim Buck,Asher Fisch|Seattle|Stephen Wadsworth|Woglinde|un "Ring" che avrebbe reso Wagner orgoglioso
+GREER GRIMSLEY|-|Charles Tim Buck,Asher Fisch|Der Wanderer|Gran Teatre del Liceu di Barcelona|Josep Pons,Robert Carsen|Richard Wagner|Robert Carsen|Seattle|Stephen Wadsworth|Wotan|un "Ring" che avrebbe reso Wagner orgoglioso|“Siegfried”
+DENNIS PETERSEN|-|Charles Tim Buck,Asher Fisch|Mime|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+DANIEL SUMEGI|-|Charles Tim Buck,Asher Fisch|Fafner|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+LURETTA BYBEE|-|Charles Tim Buck,Asher Fisch|Erste Norn|Schwertleite|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+LUCILLE BEER|-|Charles Tim Buck,Asher Fisch|Erda|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+LORI PHILLIPS|-|Brünnhilde|Charles Tim Buck,Asher Fisch|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+JESSICA KLEIN|-|Charles Tim Buck,Asher Fisch|Helmwige|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+MARKUS BRÜCK|-|Charles Tim Buck,Asher Fisch|Donner|Gunther|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+MARGARET JANE WRAY|-|Charles Tim Buck,Asher Fisch|Dritte Norn|Seattle|Sieglinde|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+ADAM DIEGEL|"Das Rheingold"|-|Fabio Luisi|Froh|Metropolitan Opera|Robert Lepage
+RONAN NEDELEC|"Roméo et Juliette"|Bartlett Sher|Charles Gounod|Grègorio|Milano, Teatro alla Scala|Yannick Nézet-séguin
+DIANA DAMRAU|"Lucia di Lammermoor"|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|"Rigoletto"|-|Antony Walker,Marco Armiliato,Fabio Luisi|Bilbao|Carlo Montanaro|David Mcvicar,Mark Morris,Otto Schenk|Emilio Sagi|Gaetano Donizetti|Gilda|Giuseppe Verdi|Giuseppe Verdi,Christoph Willibald Gluck|Lucia Ashton|Mary Zimmerman|Met|Metropolitan Opera|Miss Lucia|Stefano Ranzani|Teatro alla Scala di Milano|Violetta Valéry|Yannick Nézet-séguin|“La Traviata”
+SUZANNE HENDRIX|-|Charles Tim Buck,Asher Fisch|Seattle|Stephen Wadsworth|Waltraute|un "Ring" che avrebbe reso Wagner orgoglioso
+SARAH HELTZEL|-|Charles Tim Buck,Asher Fisch|Seattle|Siegrune|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+RIC FURMAN|-|Charles Tim Buck,Asher Fisch|Froh|Seattle|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+RENÉE TATUM|"Götterdämmerung"|-|Charles Tim Buck,Asher Fisch|Flosshilde|Graham Vick|Grimgerde|Palermo, Teatro Massimo|Seattle|Stefan Anton Reck|Stephen Wadsworth|un "Ring" che avrebbe reso Wagner orgoglioso
+MARDI BYERS|"Aida"|Aida|Alberto Hold-garrido|Giuseppe Verdi|Opéra di Toulon|Paul Emile Fourny
+OLGA BORODINA|"Samson et Dalila"|Camille Saint-saëns|Carlus Padrissa/la Fura Dels Baus|Charles Dutoit|Dalila|Opera di Roma
+VINCENT ORDONNEAU|"Aida"|Alberto Hold-garrido|Giuseppe Verdi|Opéra di Toulon|Paul Emile Fourny|Un messaggero
+GAYNOR KEEBLE|"La Traviata"|Annina|Giuseppe Verdi|Londra, Covent Garden|Patrick Lange|Richard Eyre
+CHRISTOPHOROS STAMBOGLIS|"La Traviata"|Giuseppe Verdi|I dottor Grenvil|Londra, Covent Garden|Patrick Lange|Richard Eyre
+JI HYUN KIM|"La Traviata"|Gastone|Giuseppe Verdi|Londra, Covent Garden|Patrick Lange|Richard Eyre
+ARNOLD BEZUYEN|"Das Rheingold"|"Tannhäuser"|-|Bayreuther Festspiele|Christian Thielemann|Fabio Luisi|Heinrich der Schreiber|Loge|Metropolitan Opera|Robert Lepage
+STEFAN VINKE|" Götterdämmerung"|"Götterdämmerung"|-|Charles Tim Buck,Asher Fisch|Jeffrey Tate|Marc Soustrot|Peter Konwitschny|Robert Carsen|Seattle|Siegfried|Staatsoper Stuttgart|Stephen Wadsworth|Venezia, Teatro La Fenice|un "Ring" che avrebbe reso Wagner orgoglioso
+PETER ROSE|"A Midsummer night's dream"|"Capriccio"|"Der Rosenkavalier"|"Tristan und Isolde"|-|Andrew Davis|Benjamin Britten|Der Baron Ochs|Herbert Wernicke,Alejandro Stadler|James Conlon|John Cox|La Roche|Metropolitan Opera|Mikko Franck|Milano, Teatro alla Scala|Nick Bottom, tessitore|Opera di Roma|Parigi, Salle Pleyel|Paul Curran|Philippe Jordan|Re Marke|Richard Strauss
+ANNA SMIRNOVA|"Aida"|"Don Carlo"|"Il Trovatore"|"Šárka", "Cavalleria Rusticana"|-|Amneris|Arena di Verona|Asher Fisch|Azucena|Bruno Bartoletti|Daniel Barenboim|Denis Krief|Ermanno Olmi|Franco Zeffirelli|Giuliano Carella|Giuseppe Verdi|Jürgen Rose|La principessa Eboli|La principessa d'Eboli|Monaco di Baviera, Bayerische Staatsoper|New York, Metropolitan Opera|Nicholas Hytner|Pietro Mascagni|Rovigo|Santuzza|Stefano Romani|Teatro alla Scala|Venezia, Teatro La Fenice
+KAREN CARGILL|"Götterdämmerung"|-|Fabio Luisi|NYC, The Metropolitan Opera|Waltraute
+RENEE TATUM|"Götterdämmerung"|-|Fabio Luisi|Flosshilde|NYC, The Metropolitan Opera
+JAY HUNTER MORRIS|"Götterdämmerung"|-|Fabio Luisi|NYC, The Metropolitan Opera|Siegfried
+DISELLA LARUSDOTTIR|"Götterdämmerung"|-|Fabio Luisi|NYC, The Metropolitan Opera|Woglinde
+JONATHAN COAD|"La Traviata"|Giuseppe Verdi|Londra, Covent Garden|Patrick Lange|Richard Eyre|Un domestico di Flora
+JOHN BERNAYS|"La Traviata"|Giuseppe Verdi|Londra, Covent Garden|Patrick Lange|Richard Eyre|Un commissonario
+NEIL GILLESPIE|"La Traviata"|Giuseppe|Giuseppe Verdi|Londra, Covent Garden|Patrick Lange|Richard Eyre
+KELLY CAE HOGAN|"Die Walküre"|-|Gerhilde|James Levine|Metropolitan Opera|Robert Lepage
+JENNIFER JOHNSON|"Das Rheingold"|-|Fabio Luisi|Metropolitan Opera|Robert Lepage|Woglinde
+PATRICIA BARDON|"Das Rheingold"|-|Erda|Fabio Luisi|Metropolitan Opera|Robert Lepage
+PETRI LINDROOS|"Assassinio nella cattedrale" di Pizzetti|-|Donato Renzetti|Scala|Terzo tentatore|Yannis Kokkos
+CHRISTIAN TREGUIER|"Manon"|Coline Serreau|Evelino Pidò|Jules Massenet|L'Hotelier|Parigi, Opéra Bastille
+LUCA LOMBARDO|"Carmen"|"Cléopâtre"|"I Puritani” di Bellini|"Manon"|-|Charles Roubaud|Coline Serreau|Don José|Evelino Pidò|Georges Bizet|Guillot de Morfontaine|Jules Massenet|Laurent Pelly|Lawrence Foster|Marsiglia, Opéra Municipal|Michele Mariotti|Nader Abbassi|Nicolas Joël|Opéra di Marsiglia|Parigi, Opéra Bastille|Sir Bruno Robertson|Spakos|’Opéra Bastille
+ALEXANDRE DUHAMEL|"Les Troyens"|"Manon"|-|Alain Altinoglu|Coline Serreau|Deux Gardes|Evelino Pidò|Jules Massenet|Lawrence Foster|Marsiglia, Opéra Municipal|Masetto|Michael Haneke|Panthée /Mercure|Parigi, Opéra Bastille|Wolfgang Amadeus Mozart|“Don Giovanni”
+ANDRE' HEYBOER|"Manon"|Coline Serreau|De Brétigny|Evelino Pidò|Jules Massenet|Parigi, Opéra Bastille
+CAROL GARCIA|"Manon"|Coline Serreau|Evelino Pidò|Javotte|Jules Massenet|Parigi, Opéra Bastille
+MATTHEW PENA|"Fidelio"|"I due Foscari"|"Il Trovatore"|-|Deutsche Oper Berlin|Fante|Gianandrea Noseda|Giuseppe Verdi|Ludwig Van Beethoven|Mario Martone|Primo prigioniero|Roberto Rizzi Brignoli|Torino, Teatro Regio|Un messo
+JENNIFER JOHNSON CANO|"Götterdämmerung"|-|Alain Altinoglu|David Kneuss|Emilia|Fabio Luisi|Giuseppe Verdi|NYC, The Metropolitan Opera|New York, Metropolitan|Wellgunde|“Otello”
+NANCY-FABIOLA HERRERA|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|Antony Walker,Marco Armiliato,Fabio Luisi|David Mcvicar,Mark Morris,Otto Schenk|Giuseppe Verdi,Christoph Willibald Gluck|Maddalena|Metropolitan Opera
+KATE ROYAL|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|Antony Walker,Marco Armiliato,Fabio Luisi|David Mcvicar,Mark Morris,Otto Schenk|Euridice|Giuseppe Verdi,Christoph Willibald Gluck|Metropolitan Opera
+DMITRI HVOROSTOVSKY|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|"Un ballo in maschera"|-|Antonio Pappano|Antony Walker,Marco Armiliato,Fabio Luisi|David Mcvicar,Mark Morris,Otto Schenk|Giuseppe Verdi|Giuseppe Verdi,Christoph Willibald Gluck|Il Conte di Luna|Metropolitan Opera|Renato|Santa Cecilia
+MOLLY FILMORE|"Die Walküre"|-|Helmwige|James Levine|Metropolitan Opera|Robert Lepage
+MARY PHILLIPS|"Die Walküre"|-|James Levine|Metropolitan Opera|Robert Lepage|Schwertleite
+JAMES COURTNEY|"La fanciulla del West"|"The magic flute"|-|Ashby|Dr. Grenvil|Erik Nielsen|Giacomo Puccini|Giancarlo Del Monaco|Giuseppe Verdi|Julie Taymor|Met|NYC, Metropolitan Opera|Nicola Luisotti|Primo Sacerdote|Wolfgang Amadeus Mozart|Yannick Nézet-séguin|“La Traviata”
+DIMITRY IVASHCHENKO|"Rigoletto"|Daniele Callegari|Giuseppe Verdi|Jérôme Savary|Parigi, Opéra Bastille|Sparafucile
+CORNELIA ONCIOIU|"Rigoletto"|Daniele Callegari|Giovanna|Giuseppe Verdi|Jérôme Savary|Parigi, Opéra Bastille
+PAUL GAY|"Manon"|"Rigoletto"|-|Coline Serreau|Daniele Callegari|Evelino Pidò|Giuseppe Verdi|Golaud|Jules Massenet|Juraj Valčuha|Jérôme Savary|Le Conte Des Grieux|Monterone|Parigi, Opéra Bastille|Torino|“Pelléas et Mélisande”  dell’OSN RAI
+OLIVIA DORAY|"Manon"|Coline Serreau|Evelino Pidò|Jules Massenet|Parigi, Opéra Bastille|Poussett
+NATALIE DESSAY|"Manon"|Coline Serreau|Evelino Pidò|Jules Massenet|Manon|Parigi, Opéra Bastille
+TAMARA MANCINI|"Turandot"|-|Bologna, Teatro Comunale|Charles Tim Buck,Asher Fisch|Fabio Mastrangelo|Giacomo Puccini|Ortlinde|Roberto De Simone|Seattle|Stephen Wadsworth|Turandot|un "Ring" che avrebbe reso Wagner orgoglioso
+SAIMIR PIRGU|"I Capuleti e i Montecchi" fraintesi e sottovalutati|"Iolanta" e "Francesca Da Rimini"|"L'Elisir d'amore"|"La Traviata"|"Macbeth"|"Ola" per Rigoletto|Alfredo Germont|Arena di Verona|Bruno Campanella|Ferzan Ozpetek|Firenze, Teatro della Pergola|Gaetano Donizetti|Giuseppe Verdi|Graham Vick|Il Duca di Mantova|Ivo Guerra|James Conlon|Macduff|Michele Mariotti|Nemorino|Opera di Roma|Paolo|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov|Riccardo Frizza|Ruggero Cappuccio|San Francisco Opera|Stephen Lawless|Teatro San Carlo di Napoli|Tebaldo|Theater an der Wien|Vassily Sinaisky|Vaudémont|Vincent Boussard|Vincenzo Bellini.
+ADRIANA KUCEROVA'|"L'Elisir d'amore"|Adina|Bruno Campanella|Gaetano Donizetti|Opera di Roma|Ruggero Cappuccio
+ANJA HARTEROS|"Aida"|"Alcina"|"Don Carlo"|"Il Trovatore"|"Lohengrin" alla Scala|"Tannhäuser"|-|Aida|Alcina|Antonio Pappano|Asher Fisch|Carlus Padrissa – La Fura Dels Baus|Claus Guth|Daniel Barenboim|Deutsche Oper Berlin|Elisabeth|Elisabetta di Valois|Elsa von Brabant|Georg Friedrich Händel|Giovanni Antonini|Giuseppe Verdi|Jürgen Rose|Leonora|Monaco di Baviera, Bayerische Staatsoper|Piume di un cigno scomparso|Robert Carsen|Roma, Accademia Nazionale di Santa Cecilia|Teatro alla Scala|Zubin Mehta
+MARIANNE CREBEASSA|"Rigoletto"|Daniele Callegari|Giuseppe Verdi|Jérôme Savary|Paggio della duchessa|Parigi, Opéra Bastille
+VINCENT DELHOUME|"Rigoletto"|Daniele Callegari|Giuseppe Verdi|Jérôme Savary|Matteo Borsa|Parigi, Opéra Bastille
+FLORIAN SEMPEY|"Rigoletto"|Daniele Callegari|Giuseppe Verdi|Jérôme Savary|Marullo|Parigi, Opéra Bastille
+ILONA KRZYWICKA|"Rigoletto"|Daniele Callegari|Giuseppe Verdi|Jérôme Savary|La contessa di Ceprano|Parigi, Opéra Bastille
+ZELJKO LUCIC|"Lohengrin" alla Scala|"Rigoletto"|-|Claus Guth|Daniel Barenboim|Daniele Callegari|Der Heerrufer des Königs|Giuseppe Verdi|Jérôme Savary|Parigi, Opéra Bastille|Piume di un cigno scomparso|Rigoletto
+JOLANA FOGAS|"Rusalka" al San Carlo di Napoli|Antonin Dvořák|John Fiore|La Principessa Straniera|Manfred Schweigkofler|Tra attrazione e sventura
+ANTONIO DI MATTEO|"Rusalka" al San Carlo di Napoli|Antonin Dvořák|Il cacciatore|John Fiore|Manfred Schweigkofler|Tra attrazione e sventura
+STEPHANIE BLYTHE|"Das Rheingold"|"Die Walküre"|-|Charles Tim Buck,Asher Fisch|Fabio Luisi|Fricka|James Levine|Metropolitan Opera|Robert Lepage|Seattle|Stephen Wadsworth|Waltraute/ Zweite Norn|un "Ring" che avrebbe reso Wagner orgoglioso
+FRANZ-JOSEF SELIG|"Das Rheingold"|-|Claus Guth,Anja Kampe|Fabio Luisi|Fasolt|Gurnemanz|Madrid, Teatro Real|Metropolitan Opera|Robert Lepage|Semyon Bychkov|“Parsifal”
+HANS-PETER KOENIG|"Das Rheingold"|-|Fabio Luisi|Fafner|Metropolitan Opera|Robert Lepage
+JOSEP RIBOT|-|Guy Joosten|Michael  Boder|Un capadociano
+JOSEP FADO’|-|Cinque giudei|Cinque giudei ' CLEMENS LOSCHMANN|Guy Joosten|Michael  Boder
+BEATRIZ JIMENEZ|-|Guy Joosten|Michael  Boder|Una schiava
+ANNA TOBELLA|-|Guy Joosten|Michael  Boder|Un paggio di Herodias
+JON PALZAOLA|-|Cinque giudei|Cinque giudei ' CLEMENS LOSCHMANN|Guy Joosten|Michael  Boder
+CLEMENS LOSCHMANN|-|Cinque giudei|Guy Joosten|Michael  Boder
+DINA KUZNETSOVA|"Francesca da Rimini"|"Rusalka" al San Carlo di Napoli|Antonin Dvořák|David Kneuss|John Fiore|Manfred Schweigkofler|Marco Armiliato|Met|Riccardo Zandonai|Rusalka|Samaritana|Tra attrazione e sventura
+CRISTIANO CREMONINI|"Attila"|"Don Carlo"|"Il Trovatore"|"La Bohème"|-|Andrea Battistoni|Bologna, Teatro Comunale|Busseto|Conte di Lerma|Daniele Gatti|Daniele Rustioni|Franco Zeffirelli|Giacomo Puccini|Giuseppe Verdi|Milano, Teatro alla Scala|Parpignol|Paul Curran|Pierfrancesco Maestrini|Renato Palumbo|Ruiz|Stephane Braunschweig|Uldino
+NANCY FABIOLA HERRERA|"Il postino"|"Rigoletto"|-|Carmen|Daniele Callegari|Donna Rosa|Giuseppe Verdi|Grant Gershon|Jérôme Savary|Los Angeles|Maddalena|Parigi, Opéra Bastille|Ron Daniels
+MARTIN HARVEY|"Carmen"|-|Ballerini solisti|Georges Bizet|New York, Metropolitan Opera|Richard Eyre
+KEITH MILLER|"Carmen"|"La fanciulla del West"|-|Ashby|Georges Bizet|Giacomo Puccini|Giancarlo Del Monaco|New York, Metropolitan Opera|Nicola Luisotti|Richard Eyre|Zuniga
+NICOLE CABELL|"Carmen"|"I Capuleti e i Montecchi" fraintesi e sottovalutati|"L'elisir d'amore"|-|Adina|Barcellona, Gran Teatre del Liceu|Daniele Callegari|Gaetano Donizetti|Georges Bizet|Giulietta|Mario Gas Cabré|Micaela|New York, Metropolitan Opera|Riccardo Frizza|Richard Eyre|San Francisco Opera|Vincent Boussard|Vincenzo Bellini.
+CAITLIN LYNCH|"Francesca da Rimini"|David Kneuss|Garsenda|Marco Armiliato|Met|Riccardo Zandonai
+DISELLA LÀRUSDÓTTIR|"Francesca da Rimini"|Biancofiore|David Kneuss|Marco Armiliato|Met|Riccardo Zandonai
+MARK DELAVAN|"Francesca da Rimini"|"Salome"|David Kneuss|Fabio Luisi|Giovanni, detto Gianciotto|Jochanaan|Marco Armiliato|Met|Riccardo Zandonai|Richard Strauss|Rosetta Cucchi|Teatro Carlo Felice di Genova
+STEPHEN GAERTNER|"Francesca da Rimini"|Alain Altinoglu|Berlingerio|David Kneuss|Giuseppe Verdi|Marco Armiliato|Met|Montano|New York, Metropolitan|Riccardo Zandonai|“Otello”
+PHILIP HORST|"Francesca da Rimini"|David Kneuss|Marco Armiliato|Met|Ostasio|Riccardo Zandonai
+PATRICIA RISLEY|"Francesca da Rimini"|-|Altichiara|David Kneuss|Flora Bervoix|Giuseppe Verdi|Marco Armiliato|Met|Riccardo Zandonai|Yannick Nézet-séguin|“La Traviata”
+MIRKO PALAZZI|"Don Giovanni"|-|Louis Langrée|Masetto|Peter Mussbach|Teatro alla Scala
+LUCIO GALLO|"Amica"|"Cavalleria rusticana"|"Fidelio"|"Gisela!"|"La damnation de Faust"|"La fanciulla del West"|"Otello" con finalino edificante|"Un ballo in maschera"|-|Alain Altinoglu|Anckarstrom (Renato)|Carlos Saura|Compare Alfio|Constantin Trinks|Cortile di Palazzo Ducale|Don Pizarro|Doppia inaugurazione|Emma Dante|Escamillo|Fenice|Francesco Micheli|Georges Bizet|Giacomo Puccini|Giampaolo Bisanti|Gianandrea Noseda|Giancarlo Del Monaco|Gianluigi Gelmetti|Giuseppe Verdi|Hans Werner Henze|Hanspeter Schluckebier|Hector Berlioz|Jack Rance|Jago|Jean-claude Auvray|Jean-louis Grinda|Les Chorégies d'Orange|Ludwig Van Beethoven|Mario Martone|Mario Pontiggia|Myung-whun Chung|Méphistophélès|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Opera di Firenze|Opéra de Monte-Carlo|Palermo, Teatro Massimo|Pietro Mascagni|Pietro Mascagni,Franz Joseph Haydn|Rinaldo|Roberto Abbado|Terry Gilliam|Torino, Teatro Regio
+MICHAEL FOREST|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Joe|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+GEORG ZEPPENFELD|"Don Giovanni"|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Hermann, Landgraf von Thuringen|Il Commendatore|Louis Langrée|Peter Mussbach|Teatro alla Scala|Zubin Mehta
+EDWARD PARKS|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Larkens|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+HUGO VERA|"Francesca da Rimini"|"La fanciulla del West"|David Kneuss|Giacomo Puccini|Giancarlo Del Monaco|Marco Armiliato|Met|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Riccardo Zandonai|Trin|Un Arciere
+JEFF MATTSEY|"La fanciulla del West"|"Rigoletto"|-|Giacomo Puccini|Giancarlo Del Monaco|José Castro|Marullo|Met|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+DWAYNE CROFT|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Sonora
+EDWARD MOUT|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Un postiglione
+DMITRI KORCHAK|"I Puritani” di Bellini|-|Laurent Pelly|Lord Arturo Talbot|Michele Mariotti|’Opéra Bastille
+ANDREEA SOARE|"I Puritani” di Bellini|-|Enrichetta di Francia. regina d'Inghilterra|Laurent Pelly|Michele Mariotti|’Opéra Bastille
+DMITRY BELOSSELSKY|"Iolanta" e "Francesca Da Rimini"|Il re René|Lanceotto Malatesta|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov|Stephen Lawless|Theater an der Wien|Vassily Sinaisky
+ELCHIN AZIZOV|"Iolanta" e "Francesca Da Rimini"|"Samson et Dalila"|Camille Saint-saëns|Carlus Padrissa/la Fura Dels Baus|Charles Dutoit|Ibn-Hakia|Il Gran Sacerdote di Dagon|Opera di Roma|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov|Stephen Lawless|Theater an der Wien|Vassily Sinaisky
+ROBERT POMAKOV|"Rigoletto"|-|Met|Monterone
+EMALIE SAVOY|"Rigoletto"|-|La Contessa Ceprano|Met
+OKSANA VOLKOVA|"Rigoletto"|-|Maddalena|Met
+CATHERINE CHOI|"Rigoletto"|-|Met|Paggio della duchessa
+EARLE PATRIARCO|"Rigoletto"|-|Met|Un uscire
+SIMON KEENLYSIDE|"Don Carlo"|"La Traviata"|-|Giorgio Germont|Giuseppe Verdi|Londra, Covent Garden|New York, Metropolitan Opera|Nicholas Hytner|Patrick Lange|Richard Eyre|Rodrigo, Marchese di Posa
+ROBERTO ALAGNA|"Don Carlo"|"Les Troyens"|"Turandot"|-|Calaf|Charles Roubaud|Chorégies d'Orange|Don Carlo|Enée|Giacomo Puccini|Giuseppe Verdi|Lawrence Foster|Marsiglia, Opéra Municipal|Michel Plasson|New York, Metropolitan Opera|Nicholas Hytner
+MARINA POPLAVSKAYA|"Don Carlo"|-|Elisabetta di Valois|Giuseppe Verdi|New York, Metropolitan Opera|Nicholas Hytner
+ERIC HALFVARSON|"Don Carlo"|-|Asher Fisch|Giuseppe Verdi|Il Grande Inquisitore|Il grande Inquisitore|Jürgen Rose|Monaco di Baviera, Bayerische Staatsoper|New York, Metropolitan Opera|Nicholas Hytner
+EDUARDO VALDES|"Don Carlo"|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|-|Alain Altinoglu|Antony Walker,Marco Armiliato,Fabio Luisi|Conte di Lerma|David Kneuss|David Mcvicar,Mark Morris,Otto Schenk|Giuseppe Verdi|Giuseppe Verdi,Christoph Willibald Gluck|Metropolitan Opera|New York, Metropolitan|New York, Metropolitan Opera|Nicholas Hytner|Roderigo|Ruiz|“Otello”
+DALIBOR JENIS|"Don Carlo"|"Evgenij Onegin"|"Il Trovatore"|"Iolanta" e "Francesca Da Rimini"|"La forza del destino"|"Un giorno di regno"|-|Alberto Zedda|Bilbao|Conte di Luna|Daniele Gatti|Deutsche Oper Berlin|Don Carlo di Vargas|Evgenij Onegin|Figaro|Francesco Micheli|Gianandrea Noseda|Gioachino Rossini|Giuseppe Verdi|Hugo De Ana|Il cavaliere di Belfiore|Il ritorno del "Barbiere di Siviglia"|James Conlon|Los Angeles Opera|Milano, Teatro alla Scala|Omar Meir Wellber|Pier Francesco Maestrini|Pier Luigi Pizzi|Piotr Ilic Caikovskij|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov|Robert|Rodrigo, Marchese di Posa|Rodrigo, marchese di Posa|Stefano Montanari|Stephane Braunschweig|Stephen Lawless|Steven Pimlott|Teatro Massimo di Palermo|Theater an der Wien|Vassily Sinaisky|Verona, Teatro Filarmonico|ciel!»  Ancora Don Carlo a Torino|«Pronta a scoppiar la folgore
+LADISLAV EGR|"Iolanta" e "Francesca Da Rimini"|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov|Stephen Lawless|Theater an der Wien|Vassily Sinaisky|Virgilio
+OLGA MYKYTENKO|"Iolanta" e "Francesca Da Rimini"|Francesca|Iolanta|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov|Stephen Lawless|Theater an der Wien|Vassily Sinaisky
+SVETLANA SHILOVA|"Iolanta" e "Francesca Da Rimini"|Marta|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov|Stephen Lawless|Theater an der Wien|Vassily Sinaisky
+FILIPPO BETTOSCHI|"A Midsummer night's dream"|"Die Zauberflöte" (Il flauto magico)|"Don Carlo"|"La Traviata"|"Samson et Dalila"|Barone Douphol|Benjamin Britten|Brescia, Teatro Grande|Camille Saint-saëns|Carlo Montanaro|Carlus Padrissa/la Fura Dels Baus|Charles Dutoit|Daniele Gatti|Deputati fiamminghi|Eugenio Monti Colla|Giuseppe Verdi|James Conlon|Liliana Cavani|Milano, Teatro alla Scala|Oliver Gooch|Opera di Roma|Papageno|Paul Curran|Secondo Filisteo|Snug, stipettaio|Stephane Braunschweig|Teatro alla Scala|Wolfgang Amadeus Mozart
+PIOTR BECZALA|"Eugenio Onegin"|"La Traviata"|"Rigoletto"|-|Alfredo Germont|Daniele Callegari|Daniele Gatti|Dmitri Tcherniakov|Duca di Mantova|Giuseppe Verdi|Grischa Asagaroff|Il Duca di Mantova|Jérôme Savary|Lenskij|Londra, Covent Garden|Met|Opernhaus di Zurigo|Parigi, Opéra Bastille|Patrick Lange|Richard Eyre|Teatro alla Scala di Milano|Vladimir Fedoseyev
+RICHARD BERNSTEIN|"La fanciulla del West"|"Wozzeck"|-|Bello|Due garzoni|Giacomo Puccini|Giancarlo Del Monaco|James Levine|Mark Lamos|Metropolitan Opera|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+OREN GRADUS|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Jake Wallace|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+TREVOR SCHEUNEMANN|"Heart of a Soldier"|"La fanciulla del West"|-|Christopher Theofanidis|Francesca Zambello|Giacomo Puccini|Giancarlo Del Monaco|Joseph, Joe|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|San Francisco Opera|Sid
+TONY STEVENSON|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nick|Nicola Luisotti
+PETRI LINDROSS|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Reimar von Zweiter|Teatro alla Scala|Zubin Mehta
+ROMAN TERKEL|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Teatro alla Scala|Wolfram von Eschennach|Zubin Mehta
+ROBERT DEAN SMITH|"Tannhäuser"|-|Carlus Padrissa – La Fura Dels Baus|Tannhäuser|Teatro alla Scala|Zubin Mehta
+ALEXANDER LEWIS|"Rigoletto"|-|Borsa|Met
+RICHARD BERKELEY-STEELE|"Tristan und Isolde"|-|Melot|Mikko Franck|Parigi, Salle Pleyel
+RENAUD DERRIEN|"Tristan und Isolde"|-|Mikko Franck|Parigi, Salle Pleyel|Un pilota
+PASCAL BOURGEOIS*|"Tristan und Isolde"|-|Mikko Franck|Parigi, Salle Pleyel|Un giovane marinario
+CHRISTOPHE PONCET*|"Tristan und Isolde"|-|Mikko Franck|Parigi, Salle Pleyel|Un pastore
+CHRISTIAN FRANZ|"Tristan und Isolde"|-|Mikko Franck|Parigi, Salle Pleyel|Tristan
+JOHN MOORE|"Francesca da Rimini"|David Kneuss|Marco Armiliato|Met|Riccardo Zandonai|Simonetto
+JERRY GROSSMAN|"Francesca da Rimini"|David Kneuss|Marco Armiliato|Met|Riccardo Zandonai|Violoncello</em> <em>solista
+DUSTIN LUCAS|"Francesca da Rimini"|David Kneuss|Marco Armiliato|Met|Riccardo Zandonai|Un Prigioniero
+JANA KURUCOVA'|"Il Trovatore"|-|Deutsche Oper Berlin|Giuseppe Verdi|Ines
+ALISA KOLOSOVA|"Betulia liberata"'... due volte|"Manon"|"Maometto II"|-|Calbo|Coline Serreau|Evelino Pidò|Gioachino Rossini|Giuditta|Jules Massenet|Opera di Roma|Parigi, Opéra Bastille|Pier Luigi Pizzi|Ravenna Festival|Riccardo Muti|Roberto Abbado|Rosette
+SALVATORE LICITRA|"La fanciulla|-|A Firenze una "Forza del destino"|Dick Johnson|Don Alvaro|Giacomo Puccini|Giuseppe Finzi|Giuseppe Verdi|Lorenzo Mariani|Nicolas Joël|West" a San Francisco|’insegna del patriottismo
+BRIAN JADGE|"La fanciulla|Giacomo Puccini|Giuseppe Finzi|Joe|Lorenzo Mariani|West" a San Francisco
+AUSTIN KNESS|"La fanciulla|Giacomo Puccini|Giuseppe Finzi|Lorenzo Mariani|Un cameriere|West" a San Francisco
+GINGER COSTA-JACKSON|"Francesca da Rimini"|"La fanciulla del West"|"Nixon in China"|David Kneuss|Giacomo Puccini|Giancarlo Del Monaco|John Adams|Marco Armiliato|Met|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti|Peter Sellars|Riccardo Zandonai|Smaragdi|Tre segretarie|Wowkle
+ADAM LAURENCE HERSKOWITZ|"La fanciulla del West"|Giacomo Puccini|Giancarlo Del Monaco|Harry|NYC, Metropolitan Opera|New York, Metropolitan Opera|Nicola Luisotti
+DAVID CRAWFORD|"Armida"|"La fanciulla del West"|"Rigoletto"|-|Astarotte|Giacomo Puccini|Giancarlo Del Monaco|Gioachino Rossini|Happy|Il Conte Ceprano|Mary Zimmerman|Met|NYC, Metropolitan Opera|New York, Metropolitan|New York, Metropolitan Opera|Nicola Luisotti|Riccardo Frizza
+GERHARD SIEGEL|"Das Rheingold"|"Saint-Francois d'Assise"|"Wozzeck"|-|Andrea Moses|Fabio Luisi|Frère Elie|Giuseppe Frigeni|Gran Teatre del Liceu di Barcelona|Il Capitano|Il capitano|James Levine|Josep Pons,Robert Carsen|Madrid, Teatro Real|Mark Lamos|Metropolitan Opera|Michael Schønwandt|Mime|Richard Wagner|Robert Carsen|Robert Lepage|Staatsoper Stuttgart|Sylvain  Cambreling|“Siegfried”
+UGO RABEC|"Lulu"|"Manon"|Alban Berg|Coline Serreau|Deux Gardes|Ein Diener|Evelino Pidò|Jules Massenet|Michael Schonwandt|Parigi, Opéra Bastille|Willy Decker
+LAURA TATULESCU|"Don Carlo"|Asher Fisch|Giuseppe Verdi|Jürgen Rose|Monaco di Baviera, Bayerische Staatsoper|Tebaldo
+FRANCESCO PETROZZI|"Don Carlo"|Asher Fisch|Giuseppe Verdi|Il Conte di Lerma, Un araldo reale|Jürgen Rose|Monaco di Baviera, Bayerische Staatsoper
+EVGENIYA SOTNIKOVA|"Don Carlo"|Asher Fisch|Giuseppe Verdi|Jürgen Rose|Monaco di Baviera, Bayerische Staatsoper|Una voce dal cielo
+MARKO MIMIKA|"Il Trovatore"|-|Deutsche Oper Berlin|Ferrando|Giuseppe Verdi
+BRANDON JOVANOVICH|"Carmen"|-|Arena di Verona|Don José|Franco Zeffirelli|Georges Bizet|New York, Metropolitan Opera|Paolo Facincani,Julian Kovatchev|Richard Eyre
+ELINA GARANCA|"Carmen"|-|Carmen|Georges Bizet|New York, Metropolitan Opera|Richard Eyre
+EVE GIGLIOTTI|"Carmen"|"Die Walküre"|-|Georges Bizet|James Levine|Mercédès|Metropolitan Opera|New York, Metropolitan Opera|Richard Eyre|Robert Lepage|Siegrune
+JOHN RELYEA|"Carmen"|-|Escamillo|Georges Bizet|James Conlon|Madrid, Teatro Real|New York, Metropolitan Opera|Richard Eyre|Wurm|“Luisa Miller”
+MARCELLO GIORDANI|"Aida"|"Francesca da Rimini"|"Il Trovatore"|"La fanciulla del West"|-|Daniel Oren|David Kneuss|Dick Johnson|Giacomo Puccini|Giancarlo Del Monaco|Giuseppe Verdi|Il principe ignoto, Calaf, suo figlio|Jo Davies|Manrico|Marco Armiliato|Met|New York, Metropolitan Opera|Nicola Luisotti|Non piangere'... c'è Liù|Opera di Roma|Palermo, Teatro Massimo|Paolo|Paul Curran|Pinchas Steinberg|Radames|Renato Palumbo|Renzo Giacchieri|Riccardo Zandonai|Roberto De Simone|San Francisco Opera
+CHRISTINA VAN HORN|"Aida"|Giuseppe Verdi|Jo Davies|Nicola Luisotti|Re d'Egitto|San Francisco Opera
+DAVIR LOMELÏ|"Aida"|Giuseppe Verdi|Jo Davies|Messaggero|Nicola Luisotti|San Francisco Opera
+EMÖKE BARATH|-|Armindo|Maxim Emelyanychev|’Auditorio Nacional di Madrid|“Partenope” di Händel
+KARINA GAUVIN|-|Maxim Emelyanychev|Partenope|’Auditorio Nacional di Madrid|“Partenope” di Händel
+SUSANNE RESMARK|"Roméo et Juliette"|Bartlett Sher|Charles Gounod|Gertrude|Milano, Teatro alla Scala|Yannick Nézet-séguin
+STEVEN COLE|"La fanciulla|Giacomo Puccini|Giuseppe Finzi|Lorenzo Mariani|Nick|West" a San Francisco
+MATTHEW O’NEILL|"La fanciulla|Giacomo Puccini|Giuseppe Finzi|Lorenzo Mariani|Trin|West" a San Francisco
+TÓMAS TÓMASSON|"Lohengrin" alla Scala|-|Claus Guth|Daniel Barenboim|Friederich von Telramund|Piume di un cigno scomparso
+OLIVIER LALLOUETTE|"Roméo et Juliette"|Bartlett Sher|Charles Gounod|Le Comte Paris|Milano, Teatro alla Scala|Yannick Nézet-séguin
+STUART NEILL|"Aida"|"Cavalleria rusticana"|"Don Carlo"|"Pagliacci"|-|Arena di Verona|Canio|Daniele Gatti|Don Carlo|Franco Zeffirelli|Giuseppe Verdi|Marco Armiliato|Marco Bellocchio|Milano, Teatro alla Scala|Napoli, Teatro San Carlo|Omer Meir Wellber|Paolo Carignani|Pietro Mascagni|Pinchas Steinberg|Pippo Delbono|Radames|Radamès|Stephane Braunschweig|Teatro Petruzzelli di Bari|Turiddu
+IRENA BESPALOVAITE|"Don Carlo"|Daniele Gatti|Giuseppe Verdi|Milano, Teatro alla Scala|Stephane Braunschweig|Voce dal cielo
+JULIA BORCHERT|"Die Walküre"|"Don Carlo"|-|Daniele Gatti|Giuseppe Verdi|Graham Vick|Milano, Teatro alla Scala|Ortlinde|Pietari Inkinen|Stéphane Braunschweig|Teatro Massimo di Palermo|Voce dal cielo
+MATTI SALMINEM|"Don Carlo"|Daniele Gatti|Filippo II|Giuseppe Verdi|Milano, Teatro alla Scala|Stephane Braunschweig
+DWYNE CROFT|"Das Rheingold"|-|Donner|Fabio Luisi|Metropolitan Opera|Robert Lepage
+ERIC OWENS|"Das Rheingold"|"Götterdämmerung"|"I Capuleti e i Montecchi" fraintesi e sottovalutati|-|Alberich|Capellio|Fabio Luisi|Metropolitan Opera|NYC, The Metropolitan Opera|Riccardo Frizza|Robert Lepage|San Francisco Opera|Vincent Boussard|Vincenzo Bellini.
+LISETTE OROPESA|"Das Rheingold"|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|-|Amore|Antony Walker,Marco Armiliato,Fabio Luisi|David Mcvicar|David Mcvicar,Mark Morris,Otto Schenk|Fabio Luisi|Gilda|Giuseppe Verdi,Christoph Willibald Gluck|Metropolitan Opera|Nicola Luisotti,Justin Way|Robert Lepage|Teatro Real di  Madrid|Wellgunde|“Rigoletto”
+EDDIE WADE|"La Traviata"|Giuseppe Verdi|Il barone Douphol|Londra, Covent Garden|Patrick Lange|Richard Eyre
+FRANCK FERRARI|"Madama Butterfly"|"Manon"|"Roméo et Juliette"|Bartlett Sher|Charles Gounod|Coline Serreau|Evelino Pidò|Giacomo Puccini|Giuliano Carella|Jules Massenet|Le Comte Capulet|Lescaut|Milano, Teatro alla Scala|Numa Sadoul|Opéra di Toulon|Parigi, Opéra Bastille|Sharpless|Yannick Nézet-séguin
+CORA BURGGRAAF|"Roméo et Juliette"|Bartlett Sher|Charles Gounod|Milano, Teatro alla Scala|Stéphano|Yannick Nézet-séguin
+HANNA HIPP|"La Traviata"|Flora Bervoix|Giuseppe Verdi|Londra, Covent Garden|Patrick Lange|Richard Eyre
+VICTOR SICARD|-|Maxim Emelyanychev|Ormonte|’Auditorio Nacional di Madrid|“Partenope” di Händel
+ARMANDO NOGUERA|"Carmen"|Dancairo|Georges Bizet|Nader Abbassi|Nicolas Joël|Opéra di Marsiglia
+ANNE-CATHERINE GILLET|"Béatrice et Bénédict"|"Carmen"|"Un ballo in maschera"|-|Alain Altinoglu|Bruxelles, Théâtre La Monnaie|Georges Bizet|Giuseppe Verdi|Héro|Jean-claude Auvray|Les Chorégies d'Orange|Micaela|Nader Abbassi|Nicolas Joël|Opéra di Marsiglia|Oscar|Richard Brunel|Samuel Jean
+CHRISOPHE GAY|"Carmen"|Georges Bizet|Morales|Nader Abbassi|Nicolas Joël|Opéra di Marsiglia
+BLANDINE STASKIEWICS|"Carmen"|Georges Bizet|Mercedes|Nader Abbassi|Nicolas Joël|Opéra di Marsiglia
+JENNIFER MICHEL|"Carmen"|Frasquita|Georges Bizet|Nader Abbassi|Nicolas Joël|Opéra di Marsiglia
+JEAN-FRANCOIS LAPOINTE|"Carmen"|Escamillo|Georges Bizet|Nader Abbassi|Nicolas Joël|Opéra di Marsiglia
+STEPHANE MALBEC GARCIA|"Carmen"|Georges Bizet|Nader Abbassi|Nicolas Joël|Opéra di Marsiglia|Remendado
+PHILIPPE FOURCADE|"Carmen"|Georges Bizet|Nader Abbassi|Nicolas Joël|Opéra di Marsiglia|Zuniga
+MARIA ZIFCHAK|"La Traviata"|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|"Parsifal"|"Rigoletto"|-|Annina|Antony Walker,Marco Armiliato,Fabio Luisi|Asher Fisch|David Mcvicar,Mark Morris,Otto Schenk|François Girard|Gianandrea Noseda|Giovanna|Giuseppe Verdi|Giuseppe Verdi,Christoph Willibald Gluck|Ines|Met|Metropolitan Opera|New York, Metropolitan|New York, Metropolitan Opera|Una voce|Willy Decker|Yannick Nézet-séguin|“La Traviata”
+MARINA POVLASKAYA|"La Traviata"|Gianandrea Noseda|Giuseppe Verdi|New York, Metropolitan Opera|Violetta Valery|Willy Decker
+HARUNO YAMAZAKI|"Nixon in China"|Danzatori solisti|John Adams|Met|Peter Sellars
+ANDR|"La Traviata"|Gianandrea Noseda|Giorgio Germont|Giuseppe Verdi|New York, Metropolitan Opera|Willy Decker
+JASON STEARNS|"La Traviata"|-|Barone Douphol|Gianandrea Noseda|Giuseppe Verdi|Met|New York, Metropolitan Opera|Willy Decker|Yannick Nézet-séguin|“La Traviata”
+JUHWAN LEE|"La Traviata"|Gianandrea Noseda|Giuseppe|Giuseppe Verdi|New York, Metropolitan Opera|Willy Decker
+KYLE PFORTMILLER|"La Traviata"|-|Gianandrea Noseda|Giuseppe Verdi|Marchese D'Obigny|Met|New York, Metropolitan Opera|Willy Decker|Yannick Nézet-séguin|“La Traviata”
+JAMES MADDALENA|"Nixon in China"|John Adams|Met|Peter Sellars|Richard Nixon
+JANIS KELLY|"Nixon in China"|John Adams|Met|Pat, sua moglie|Peter Sellars
+ZˇELJKO LUCˇIC´|"Rigoletto"|-|Met|Rigoletto
+MARGARET THOMPSON|"Evgenij Onegin"|James Conlon|Los Angeles Opera|Madame Larina|Piotr Ilic Caikovskij|Steven Pimlott
+KEITH JAMESON|"Evgenij Onegin"|"Francesca da Rimini"|David Kneuss|James Conlon|Los Angeles Opera|Marco Armiliato|Met|Piotr Ilic Caikovskij|Riccardo Zandonai|Ser Toldo|Steven Pimlott|Triquet
+ALEXEI TANOTVISKY|"Don Carlo"|-|Giuseppe Verdi|New York, Metropolitan Opera|Nicholas Hytner|Un frate
+tag|Giuseppe Verdi|83
+tag|New York, Metropolitan Opera|46
+tag|Metropolitan Opera|45
+tag|Met|39
+tag|NYC, Metropolitan Opera|30
+tag|Giacomo Puccini|30
+tag|"Don Carlo"|29
+tag|Nicola Luisotti|27
+tag|James Conlon|27
+tag|Charles Tim Buck,Asher Fisch|24
+tag|Seattle|24
+tag|un "Ring" che avrebbe reso Wagner orgoglioso|24
+tag|Milano, Teatro alla Scala|24
+tag|Stephen Wadsworth|24
+tag|"Rigoletto"|23
+tag|Parigi, Opéra Bastille|23
+tag|Richard Eyre|22
+tag|Georges Bizet|21
+tag|James Levine|20
+tag|Giancarlo Del Monaco|20
+tag|Opera di Roma|20
+tag|Fabio Luisi|20
+tag|"La fanciulla del West"|20
+tag|"La Traviata"|20
+tag|"Carmen"|20
+tag|Wolfgang Amadeus Mozart|19
+tag|Robert Lepage|19
+tag|David Kneuss|18
+tag|Marco Armiliato|17
+tag|Paul Curran|17
+tag|Riccardo Zandonai|16
+tag|"Francesca da Rimini"|16
+tag|Daniele Gatti|15
+tag|"Das Rheingold"|14
+tag|Michael  Boder|14
+tag|Antony Walker,Marco Armiliato,Fabio Luisi|14
+tag|Guy Joosten|14
+tag|Benjamin Britten|14
+tag|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"|14
+tag|David Mcvicar,Mark Morris,Otto Schenk|14
+tag|Giuseppe Verdi,Christoph Willibald Gluck|14
+tag|"A Midsummer night's dream"|14
+tag|Yannick Nézet-séguin|13
+tag|"The magic flute"|13
+tag|Julie Taymor|13
+tag|Erik Nielsen|13
+tag|"Wozzeck"|12
+tag|"Manon"|12
+tag|Coline Serreau|12
+tag|"Aida"|12
+tag|Daniele Callegari|12
+tag|Nicholas Hytner|12
+tag|Mark Lamos|12
+tag|Evelino Pidò|12
+tag|Jules Massenet|12
+tag|Jérôme Savary|11
+tag|Patrick Lange|11
+tag|"Il Trovatore"|11
+tag|Stephen Lawless|11
+tag|Londra, Covent Garden|11
+tag|Theater an der Wien|11
+tag|"Iolanta" e "Francesca Da Rimini"|11
+tag|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov|11
+tag|Vassily Sinaisky|11

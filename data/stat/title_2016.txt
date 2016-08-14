@@ -1,0 +1,70 @@
+4|"La Cenerentola"
+4|"Lucia di Lammermoor"
+3|"La Traviata"
+3|"Il barbiere di Siviglia"
+2|"Rigoletto"
+2|"Simon Boccanegra"
+2|"Le nozze di Figaro"
+2|"Carmen"
+2|"Mefistofele"
+1|“I due Foscari”
+1|"La Vedova allegra"
+1|"Falstaff"
+1|"Tosca"
+1|"Zenobia in Palmira" di Paisiello
+1|“Götterdämmerung”
+1|"Andrea Chénier"
+1|"L'elisir d'amore" a Palazzo Pitti
+1|"The Fairy Queen"
+1|“Partenope” di Händel
+1|"La cena delle beffe"
+1|"L'occasione fa ladro"
+1|"La donna serpente" di Alfredo Casella
+1|“Written on skin” di George Benjamin
+1|"Il Trittico" di Giacomo Puccini
+1|"Les Chevaliers de la Table Ronde" di Hervé
+1|"Reigen" di Philippe Boesmans
+1|“Luisa Miller”
+1|"L'amico Fritz"
+1|"L'Opera Seria"
+1|"Stiffelio"
+1|"L'italiana in Algeri"
+1|"La cenerentola"
+1|"Madama Butterfly"
+1|"I due Foscari"
+1|"Attila"
+1|"Mirandolina" di Bohuslav Martinů
+1|"Der Rosenkavalier"
+1|"Hänsel e Gretel"
+1|"La Favorite"
+1|"Der fliegende Holländer”
+1|"Luci mie traditrici" di Salvatore Sciarrino
+1|“I Puritani”
+1|"Il trionfo del tempo e del disinganno"
+1|"La fanciulla del West"
+1|"I capricci della sorte, ossia l'Italiana in Algeri"
+1|"Götterdämmerung"
+1|"Don Giovanni"
+1|"L'Amico Fritz"
+1|"L'Italiana in Algeri"
+1|"Roberto Devereux"
+1|"La Bohéme"
+1|“Der Kaiser von Atlantis” di Viktor Ullmann
+1|"Les contes d'Hoffmann"
+1|"Béatrice et Bénédict"
+1|"La vedova allegra"
+1|"Benvenuto Cellini" di Hector Berlioz
+1|"Linda di Chamounix"
+1|"I Puritani"
+1|“Parsifal”
+1|"La Sonnambula"
+1|"L’heure espagnole" '-- "L’enfant et les sortilèges"
+1|"Fedora"
+1|"El amor brujo" e "Goyescas"
+1|"La voix humaine" e "Suor Angelica"
+1|“Moses und Aron”
+1|"Aida"
+1|"Příhody lišky Bystroušky" (La piccola volpe astuta)
+1|"Salome"
+1|"Pollicino"
+1|"Albert Herring"

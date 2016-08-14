@@ -1,0 +1,95 @@
+7|Staatsoper Stuttgart
+5|Verona, Teatro Filarmonico
+5|-
+4|Torino, Teatro Regio
+4|Opera di Firenze
+4|Teatro San Carlo di Napoli
+4|Sessantesimo Festival Puccini, Torre del Lago
+3|Carlo Felice di Genova
+3|Teatro Comunale di Bologna
+3|Teatro Carlo Felice di Genova
+3|Teatro Regio di Torino
+3|Teatro Lirico di Cagliari
+3|Petruzzelli di Bari
+3|Verona, Arena Opera Festival
+3|Teatro alla Scala
+3|Teatro Massimo di Palermo
+3|Teatro Comunale di Sassari
+3|Arena Sferisterio di Macerata
+2|Torino
+2|Modena
+2|Teatro La Fenice
+2|Palermo, Teatro Massimo
+2|Venezia, Teatro La Fenice
+2|Teatro Sociale di Como
+2|Parma, Teatro Regio
+2|Teatro Fraschini di Pavia
+2|Firenze
+2|Genova, Teatro Carlo Felice
+2|Milano, Teatro alla Scala
+2|Teatro Coccia di Novara
+2|Modena, Teatro Comunale
+1|Arena di Verona
+1|Catania, Teatro Massimo Bellini
+1|Filarmonico di Verona
+1|Verona
+1|Regio
+1|Opéra de Lausanne
+1|Roma,Terme di Caracalla
+1|Arena Opera Festival
+1|Teatro Valli di Reggio Emilia
+1|Teatro Municipale di Piacenza
+1|Bruxelles, Théâtre  La Monnaie
+1|Lucca
+1|NCPA di Pechino
+1|Scala "Les Troyens" di Hector Berlioz
+1|Venezia, Teatro Malibran
+1|Teatro Regio di Parma
+1|Teatro Marrucino di Chieti
+1|Genova
+1|Teatro dell'Opera di Roma
+1|Teatro di San Carlo di Napoli
+1|Teatro Massimo Bellini di Catania
+1|Teatro dell'Opera di Firenze
+1|Teatro Olimpico di Vicenza
+1|Ferrara, Teatro Comunale
+1|Teatro Verdi di Pisa
+1|Opera di Firenze, Opening Gala
+1|Roma, Terme di Caracalla
+1|Bruxelles, Théâtre La Monnaie
+1|Conservatorio "G. Verdi" di Milano
+1|Teatro Verdi di Trieste
+1|Pisa
+1|Teatro Regio
+1|Cronache del MITO
+1|Firenze, Teatro Goldoni
+1|Brescia, Teatro Grande
+1|Teatro Ponchielli di Cremona
+1|Cagliari
+1|Teatro delle Muse di Ancona
+1|Palermo
+1|Valli di Reggio Emilia
+1|Trieste, Teatro Verdi
+1|Piacenza, Teatro Municipale
+1|Teatro Petruzzelli di Bari
+1|Carlo Felice
+1|Bologna, Teatro Comunale
+1|Teatro del Giglio di Lucca
+1|Teatro La Fenice di Venezia
+1|Jesi, Teatro Pergolesi
+1|Comunale di Sassari
+1|Teatro Da Ponte di Vittorio Veneto
+1|Regio di Torino
+1|Taranto, "Giovanni Paisiello Festival"
+1|Fano,Teatro della Fortuna
+1|Sociale di Rovigo
+1|Opera di Roma
+1|Lucca, Teatro del Giglio
+1|Cagliari, Teatro Lirico
+1|Teatro alla Scala di Milano
+1|Teatro Filarmonico di Verona
+1|Teatro Comunale di Ferrara
+1|Parigi, Opéra Bastille
+1|Teatro Cantero di Chiavari
+1|Malibran di Venezia
+1|Venezia

@@ -1,0 +1,106 @@
+6|Zubin Mehta
+5|Matteo Beltrami
+5|Giampaolo Bisanti
+4|Stefano Ranzani
+4|Valerio Galli
+4|Sylvain Cambreling
+4|Stefano Montanari
+3|Nicola Paszkowski
+3|Fabrizio Maria Carminati
+3|Andrea Battistoni
+3|Gabriele Ferro
+3|Francesco Lanzillotta
+3|Francesco Ommassini
+3|Michele Mariotti
+2|Jonathan Webb
+2|Sergio Alapont
+2|Francesco Ivan Ciampa
+2|Jader Bignamini
+2|Franck Ollu
+2|Omer Meir Wellber
+2|Giovanni Battista Rigon
+2|Gaetano D’espinosa
+2|Zhang Guoyong
+2|Yutaka Sado
+2|Federico Bardazzi
+2|Gianandrea Noseda
+2|Paolo Arrivabeni
+2|-
+2|Daniele Rustioni
+1|Massimo Zanetti
+1|Aldo Sisillo
+1|Roberto Zarpellon
+1|Roberto Abbado
+1|Ádám Fischer
+1|Alessandro De Marchi
+1|Francesco Cilluffo
+1|Martino Faggiani,Alessandro De Marchi,Benoît Giaux
+1|Federico Maria Sardelli
+1|Pietro Mianiti
+1|Christophe Rousset
+1|Tiziano Severini
+1|Fabio Luisi
+1|Pinchas Steinberg
+1|Juraj Val
+1|Antonio Pappano
+1|Corrado Rovaris
+1|Jeffrey Tate
+1|Philippe Jordan
+1|Christopher Moulds
+1|Simon Krečič
+1|Jesùs Lopez-cobos
+1|Constantin Trinks
+1|Ivo Lipanović
+1|Andriy Yurkevych
+1|Gianandrea Noseda,Saverio Santoliquido
+1|Riccardo Chailly
+1|Christopher Franklin
+1|Thomas Roesner
+1|Nello Santi
+1|Roland Böer
+1|Carlo Rizzi
+1|Marcus Bosch
+1|Paolo Ponziano Ciardi
+1|Alessandro D’agostini
+1|Hirofumi Yoshida
+1|Ingo Metzmacher
+1|Paul Daniel
+1|Marco Boemi
+1|Guillaume Tourniaire
+1|Carlomoreno Volpini
+1|Muhai Tang
+1|Francesco
+1|Daniele Agiman
+1|Federico Ferri
+1|Antonio Pirolli
+1|Giuseppe La Malfa
+1|Daniele Gatti
+1|Pier Giorgio Morandi
+1|Josep Pons,Robert Carsen
+1|Gabriele Bonolis
+1|Antonello Manacorda
+1|Marc Soustrot
+1|Alain Altinoglu
+1|Roland Kluttig
+1|Felix Krieger
+1|Renato Palumbo
+1|Eduardo Strausser
+1|Daniele Callegari
+1|Rinaldo Alessandrini
+1|Xu Zhong
+1|Stefan Anton Reck
+1|Marc Minkowski,Makhar Vaziev
+1|Jean-
+1|Nicola Luisotti,Justin Way
+1|Giuseppe Grazioli
+1|Alejo Pérez
+1|Philippe Auguin
+1|Giuseppe Finzi
+1|Stefan Soltesz
+1|Zubin Mehta,Eleonora Buratto
+1|Juraj Valčuha
+1|Lorenzo Tazzieri
+1|Ryan Mcadams
+1|Pablo Heras-casado
+1|Omar Meir Wellber
+1|Donato Renzetti

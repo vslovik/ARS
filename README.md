@@ -1,27 +1,33 @@
-GBOPERA
-MAGAZINE
-GRAPHS
+OPERA NETWORK ANALYSIS
+----------------------
 
+Social network analytics course. Final project
 
-Network analytics
-Midterm project
+Data source: GBOPERA MAGAZINE www.gbopera.it
 
-Graphs:
+grabber.py 
+- crawls GBOPERA site
 
-1. Singer/singer
-    Nodes: singers
-    Edges: performances
+parser.py 
+- parses GBOPERA data, collects network statistics
 
-2. Singer/opera
-    Nodes: singers, operas
-    Edges: singer to opera connections
-    (parties performed by the singer in the opera)
+transformer.py 
+- transforms multi graphs into weighted graphs
+    
+analyzer.py
+- calculates general network metrics, those of it's giant component
+- plots network degree histogram, outputs list of nodes of highest degree
+- compares metrics with those of Barbasi-Albert and Erdős–Rényi graphs
 
-3. Singer/role
-    Nodes: singers, opera roles
-    Edges: singe to role connections
-    (the roles played by the singer)
+NetworkX library is used
 
-
-Source: www.gbopera.it
-
+cliques_spy.py 
+- discovers opera singer cliques
+- calculates operanetwork radius and diameter
+- finds network center and finds nodes with high betweennes centrality
+- and plots their ego graphs<br />
+NetworkX library is used
+      
+community_spy.py
+- applies Louvain community discovery method to opera network<br /> 
+Library available here: http://perso.crans.org/aynaud/communities/ is used

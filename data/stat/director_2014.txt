@@ -1,0 +1,102 @@
+5|-
+4|Andrea Cigni
+4|Filippo Crivelli
+4|Franco Zeffirelli
+3|Henning Brockhaus
+3|Ivan Stefanutti
+3|Graham Vick
+3|Pier Francesco Maestrini
+3|Pier Luigi Pizzi
+3|Daniele Abbado
+3|Hugo De Ana
+3|Davide Livermore
+3|Damiano Michieletto
+2|Vittorio Borrelli
+2|Giulio Ciabatti
+2|Arnaud Bernard
+2|Mario Pontiggia
+2|Gino Zampieri
+2|Lorenzo Regazzo
+2|Walter Sutcliffe
+2|Federico Bertolani
+2|Alessandro Talevi
+2|Giuliano Montaldo
+2|Riccardo Canessa
+2|Serena Sinigaglia
+2|Guglielmo Ferro
+2|Jossi Wieler
+2|David Mcvicar
+2|Francesco Micheli
+2|Andrea Moses
+2|Denis Krief
+2|Paolo Trevisi
+2|Mary Zimmerman
+2|Jossi Wieler, Sergio Morabito
+2|Roberto Andò
+2|Nicola Zorzi
+1|Mariusz Treliński
+1|Francesco Esposito
+1|Patrice Ch
+1|Manfred Schweigkofler
+1|Luca Verdone
+1|Stefano Poda
+1|Federico Grazzini
+1|Lorenzo Amato
+1|Renzo Giaccheri
+1|Frédéric Roels
+1|Gino Landi
+1|Andrea Elena
+1|Sandro Pasqualetto
+1|Marco Bellocchio
+1|Simone Alaimo
+1|Daniela Dess
+1|Stephen Medcalf
+1|Elena Barbalich
+1|Dmitri Tcherniakov
+1|Dmitrij Bertman
+1|Fabio Ceresa
+1|Karl-ernst
+1|Jonathan Miller
+1|Gianni Marras
+1|Sidi Larbi Cherkaoui
+1|Laurent Pelly,Laurie Feldman
+1|Franco Ripa Di Meana
+1|Jean-louis Grinda
+1|Andrea De Rosa
+1|Fabio Sparvoli
+1|Bepi Morassi
+1|Lorenzo Mariani
+1|Ferzan Özpetek
+1|Nicola Berloffa
+1|Ettore Scola
+1|Laura Cosso
+1|Michał Znaniecki
+1|Giandomenico Vaccari
+1|Pier'alli
+1|Selene Farinelli
+1|Massimo Gasparon
+1|Augusto Fornari
+1|Leo Nucci
+1|Angelo Bertini
+1|Deborah Warner
+1|Enrico Castiglione
+1|Leo Muscato
+1|Monique Wagemakers
+1|Stefania Panighini
+1|Johannes Weigand
+1|Pier’alli
+1|Walter Pagliaro
+1|Guy Joostens
+1|Luca Pellizzaroli
+1|Mario Pontiggia,Mietta Corli
+1|Daniele Finzi Pasca
+1|Marco Spada
+1|Luca Ronconi
+1|Giancarlo Del Monaco
+1|Yuri Alexandrov
+1|Italo Nunziata
+1|Axel Köhler
+1|Pippo Delbono
+1|Federico Tiezzi
+1|Andrea Breth
+1|Massimo Gasparon,Pier Luigi Pizzi

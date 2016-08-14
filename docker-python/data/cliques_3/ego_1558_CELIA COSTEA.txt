@@ -1,8 +1,0 @@
-CARMELO CORRADO CARUSO|"Aida"|"La Traviata"|"Madama Butterfly"|"Nabucco"|"Rigoletto"|"Tosca"|-|Abbazia di San Galgano|Amonasro|Beppe De Tomasi|Carlo Antonio De Lucia|Catania, Teatro Bellini|Catania, Teatro Massimo Bellini|Fabrizio Maria Carminati|Francesco Ledda|Giacomo Puccini|Giorgio Germont|Giovanni Anfuso|Giuliano Carella|Giuseppe Verdi|Luglio Musicale Trapanese|Matteo Beltrami|Nabucco|Rigoletto|Roberto Laganà Manoli|Roberto Paternostro|San Galgano|Scarpia|Sharpless
-ALICE FIOCCO|"Tosca"|Catania, Teatro Bellini|Giacomo Puccini|Giovanni Anfuso|Giuliano Carella|Un pastorello
-MICHELE  MAURO|"Tosca"|Catania, Teatro Bellini|Giacomo Puccini|Giovanni Anfuso|Giuliano Carella|Spoletta
-ALESSANDRO VARGETTO|"La Bohème"|"Tosca"|Catania, Teatro Bellini|Catania, Teatro Massimo Bellini|Giacomo Puccini|Giovanni Anfuso|Giuliano Carella|Sergente dei Doganieri|Un carceriere|Xu Zhong
-WALTER BORIN|"Tosca"|Catania, Teatro Bellini|Giacomo Puccini|Giovanni Anfuso|Giuliano Carella|Mario Cavaradossi
-TINO RAMETTA|"Tosca"|Catania, Teatro Bellini|Giacomo Puccini|Giovanni Anfuso|Giuliano Carella|Sciarrone
-CELIA COSTEA|"Tosca"|Catania, Teatro Bellini|Floria Tosca|Giacomo Puccini|Giovanni Anfuso|Giuliano Carella
-MAURIZIO MUSCOLINO|"La Traviata"|"Tosca"|Catania, Teatro Bellini|Giacomo Puccini|Giampaolo Maria Bisanti|Giovanni Anfuso|Giuliano Carella|Giuseppe Dipasquale|Giuseppe Verdi|Il dottor Grenvil|Il sagrestano

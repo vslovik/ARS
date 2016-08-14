@@ -1,0 +1,128 @@
+13|-
+9|Torino, Teatro Regio
+8|Staatsoper Stuttgart
+6|Milano, Teatro alla Scala
+6|Bologna, Teatro Comunale
+5|Arena di Verona
+5|Bergamo, Teatro Donizetti
+5|Brescia, Teatro Grande
+5|Teatro Massimo di Palermo
+4|Madrid, Teatro Real
+4|Venezia, Teatro La Fenice
+4|Opéra di Marsiglia
+4|Genova, Teatro Carlo Felice
+4|Trieste, Teatro Verdi
+4|Opera di Roma
+4|Modena, Teatro Comunale
+4|Sassari, Teatro Comunale
+3|Rossini Opera Festival
+3|Deutsche Oper Berlin
+3|Theater an der Wien
+3|Parigi, Théâtre des Champs Elysées
+3|Opéra de Marseille
+3|Parigi, Opéra Bastille
+2|Teatro Comunale di Bologna
+2|Padova, Teatro Verdi
+2|Palermo, Teatro Massimo
+2|Parigi, Opéra Comique
+2|Caracalla Festival
+2|XXXVIII° Festival della Valle d'Itria
+2|Teatro Lirico di Cagliari
+2|Trieste
+2|Firenze, Teatro Comunale
+2|Macerata Opera Festival
+2|Salerno, Teatro Verdi
+2|Bellas Artes
+2|Madrid, Teatro de la Zarzuela
+2|Roma, Teatro dell'Opera
+2|Madrid, Teatro de La Zarzuela
+2|Catania, Teatro Bellini
+2|Napoli, Teatro San Carlo
+2|Opéra di Toulon
+2|Berlino, Deutsche Oper
+2|Festival di Aix-en-Provence
+2|Verona, Teatro Filarmonico
+2|Bari, Teatro Petruzzelli
+2|Rovigo, Teatro Sociale
+2|Ravenna, Teatro Alighieri
+1|Ancona, Teatro delle Muse
+1|Rossini in agrodolce
+1|Novara
+1|Verona
+1|Trieste, Politeama Rossetti
+1|Londra, Royal Albert Hall
+1|Zürich, Opernhaus
+1|Catania
+1|Opéra Bastille
+1|Parma, Teatro Regio
+1|Reggio Emilia, Teatro Valli
+1|Città del Messico
+1|Monaco di Baviera, Bayerische Staatsoper
+1|Maggio Musicale Fiorentino
+1|"Occasione"
+1|Berlino, Komische Oper
+1|Parigi, Théatre des Champs Elysées
+1|Londra, English National Opera
+1|Teatro Regio di Parma
+1|Teatro Comunale di Belluno
+1|Toulouse, Théâtre du Capitole
+1|Scala'..."Aida"'...impressioni in "generale"
+1|Teatro San Carlo di Napoli
+1|Jerez, Teatro Villamarta
+1|L’altra faccia della luna
+1|Parigi,Théâtre des Champs Elysées
+1|Leipzig, Opernhaus
+1|giardino di Palazzo Zuckermann di Padova
+1|Opéra de Monte-Carlo
+1|Toulon, Opéra
+1|Statsoper Stuttgart
+1|Milano, Scala
+1|Como, Teatro Sociale
+1|San Galgano
+1|Firenze con Turandot
+1|Fenice
+1|Barcellona, Gran Teatre del Liceu
+1|Jesi,Teatro Pergolesi
+1|Salerno l’Opera musical sulla vita di San Matteo
+1|«Tutti quanti han da brillar» per Cimarosa al Coccia
+1|Teatro della Fortuna
+1|Bilbao, Teatro Arriaga
+1|Cesena, Teatro Bonci
+1|«Et surtout la chose enivrante
+1|Teatro Pergolesi di Jesi
+1|Accademia di Santa Cecilia
+1|Parigi, Salle Pleyel
+1|Pisa, Teatro Verdi
+1|Politeama Rossetti
+1|Roma,Teatro dell'Opera
+1|Bayreuther Festspiele
+1|Palermo
+1|Praga, Teatro Nazionale
+1|Petruzzelli di Bari
+1|Napoli, Teatrino di Corte
+1|Bilbao
+1|Taormina
+1|Massimo "Bellini" di Catania
+1|Ascoli Piceno
+1|Madrid, Teatro Réal
+1|Jesi, Teatro Pergolesi
+1|Chorégies d'Orange
+1|Ravenna
+1|Fidenza, Teatro Magnani
+1|Choregies Orange
+1|filtro, magia di Chung
+1|Ricordando Svoboda
+1|Buenos Aires
+1|Staatsoper Berlin
+1|Londra,ENO
+1|Piume di un cigno scomparso
+1|Lucca, Teatro del Giglio
+1|Cagliari, Teatro Lirico
+1|San Francisco Opera
+1|Parigi, Théâtre du Châtelet
+1|Parigi, Palais Garnier
+1|Festival d'Aix-en-Provence
+1|Terme di Caracalla
+1|Vicenza, Teatro Olimpico
+1|Festival di Glyndebourne
+1|Madrid, Tearo Real

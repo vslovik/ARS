@@ -1,0 +1,26 @@
+18|-
+16|Giuseppe Verdi
+9|Gaetano Donizetti
+7|Giacomo Puccini
+7|Wolfgang Amadeus Mozart
+5|Georges Bizet
+5|Gioachino Rossini
+2|Vincenzo Bellini
+2|Ludwig Van Beethoven
+2|Richard Strauss
+1|Georg Friedrich Handel
+1|Carl Heinrich Graun
+1|Carl Maria Von Weber
+1|Maurice Ravel,Paul Hindemith
+1|Carlo Lombardo
+1|Luigi Cherubini
+1|Charles Gounod
+1|Giovanni Battista Pergolesi
+1|Frederik Loewe
+1|Pietro Mascagni
+1|Felix Mendelssohn-bartholdy
+1|Benjamin Britten
+1|Henry Purcell
+1|Franz Lehar
+1|Jules Massenet
+1|Bruno Maderna,Henry Purcell

@@ -1,0 +1,126 @@
+13|-
+7|Arena di Verona
+7|Staatsoper Stuttgart
+6|Opera di Roma
+5|Teatro Regio di Torino
+5|Bergamo, Teatro Donizetti
+5|Bologna, Teatro Comunale
+5|Verona, Teatro Filarmonico
+4|Salerno, Teatro Verdi
+4|Trieste, Teatro Verdi
+4|Opéra di Marsiglia
+4|Teatro Massimo di Palermo
+4|Bari, Teatro Petruzzelli
+3|Met
+3|Torino, Teatro Regio
+3|Firenze, Teatro del Maggio Musicale Fiorentino
+3|Genova, Teatro Carlo Felice
+3|Marsiglia, Opéra Municipal
+3|Milano, Teatro alla Scala
+3|Opéra di Toulon
+3|Madrid, Teatro Real
+2|Ancona, Teatro delle Muse
+2|ROF
+2|Parma, Teatro Regio
+2|Madrid, Teatro de la Zarzuela
+2|Como, Teatro Sociale
+2|Verdi di Padova
+2|Firenze, Teatro Goldoni
+2|Firenze
+2|Modena, Teatro Comunale
+2|Teatro Filarmonico
+2|New York, Metropolitan
+2|Teatro alla Scala
+2|Regio di Torino
+2|Les Chorégies d'Orange
+2|Martina Franca
+2|Petruzzelli di Bari
+1|La Monnaie di Bruxelles
+1|Torino
+1|Catania, Teatro Massimo Bellini
+1|...Scala
+1|Novara
+1|Opera Philadelphia
+1|La bottega e i clienti vanitosi
+1|Regio
+1|Catania
+1|Malibran
+1|Komische Oper Berlin
+1|Valli
+1|lago” chiude ROF
+1|Reggio Emilia, Teatro Valli
+1|Città del Messico
+1|Savona, Complesso Monumentale del Priamar
+1|Luglio Musicale Trapanese
+1|Palermo, Teatro Massimo
+1|Teatro Marrucino di Chieti
+1|Bergamo, Teatro Sociale
+1|Seattle
+1|galleria Pianetti di Jesi
+1|Teatro Lirico di Cagliari
+1|Firenze, Teatro della Pergola
+1|Verona, Teatro Ristori
+1|Lago
+1|NYC, The Metropolitan Opera
+1|Pavia, Teatro Fraschini
+1|’Arena di Verona
+1|Teatro del Maggio Musicale Fiorentino
+1|Venezia, Teatro La Fenice
+1|Firenze, Teatro Comunale
+1|Malibran con "Aspern" di Salvatore Sciarrino
+1|Monaco (Monte-Carlo)
+1|Bellini di Catania
+1|Accademia Nazionale di Santa Cecilia
+1|Gotham Chamber Opera
+1|ciel!»  Ancora Don Carlo a Torino
+1|Opéra de Monte-Carlo
+1|con L'Africaine, tra esotismo e denuncia anticolonialista
+1|Strasburgo
+1|Roma, Terme di Caracalla
+1|«Se amor si gode in pace, non v’è maggior contento»
+1|Il giovane Rossini al Malibran
+1|Roma, Teatro dell'Opera
+1|Barcellona, Gran Teatre del Liceu
+1|Teatro Verdi di Trieste
+1|«L’affar non può andar meglio»
+1|’“Aida” scaligera?
+1|Pisa, Teatro Verdi
+1|Cortile di Palazzo Ducale
+1|Brescia, Teatro Grande
+1|Santa Cecilia
+1|Palermo
+1|Festival Pucciniano
+1|Roma, Teatro dell’Opera
+1|Carlo Felice
+1|Terme di Carcalla
+1|boss mafioso insieme a Oberto
+1|«Nume custode e vindice / di questa sacra» Arena
+1|Roma, Accademia Nazionale di Santa Cecilia
+1|Coccia di Novara
+1|la nuova stagione lirica dell'Opéra di Marsiglia
+1|Jesi, Teatro Pergolesi
+1|Tra attrazione e sventura
+1|Teatro della Fortuna di Fano
+1|’Arena
+1|’Opéra Bastille
+1|Pechino
+1|Fidenza, Teatro Magnani
+1|Comunale di Sassari
+1|Cremona, Teatro Ponchielli
+1|Santa Fe Opera Festival
+1|«Prediletti dalle stelle, / io vi lascio un gran tesoro»
+1|Rovigo, Teatro Sociale
+1|la stagione lirica dell'Opera di Roma
+1|Lucca, Teatro del Giglio
+1|Cagliari, Teatro Lirico
+1|Teatro alla Scala di Milano
+1|L’anti-eroe attuale
+1|Philadelphia Opera
+1|Firenze, Palazzo Pitti
+1|Verdi di Trieste
+1|Terme di Caracalla
+1|Vicenza, Teatro Olimpico
+1|Stagione lirica sassarese
+1|«Là dove invan germoglia ramo dell’ulivo»
+1|Sassari
+1|Zurigo,Opernhaus

@@ -1,0 +1,139 @@
+20|-
+8|Hugo De Ana
+5|Arnaud Bernard
+4|Vittorio Borrelli
+4|Henning Brockhaus
+4|Graham Vick
+4|Riccardo Canessa
+4|Robert Carsen
+4|Daniele Abbado
+4|Charles Roubaud
+3|Dmitri Tcherniakov
+3|Francesco Micheli
+3|Davide Livermore
+3|Damiano Michieletto
+2|Georges Lavaudant
+2|Giulio Ciabatti
+2|Ivan Stefanutti
+2|Franco Zeffirelli,Marco Gandini
+2|Jean Louis Grinda
+2|Rosetta Cucchi
+2|Andrea Cigni
+2|Jean-louis Grinda
+2|Kasper Holten
+2|Fabio Sparvoli
+2|Gianfranco De Bosio
+2|Franco Zeffirelli
+2|Roberto De Simone
+2|Sylvano Bussotti,Vittorio Borrelli
+2|Pier Luigi Pizzi
+2|David Kneuss
+2|Francesco Esposito
+2|Enrico Stinchelli
+2|Rolando Panerai
+2|Laurent Pelly
+1|Eimuntas Nekrošius
+1|Renzo Giacchieri
+1|Manfred Schweigkofler
+1|Giorgio Marini
+1|Carlus Padrissa, Alex Ollé/ La Fura Dels Baus
+1|Stefano Poda
+1|Marina Bianchi
+1|Federico Grazzini
+1|Stéphane Braunschweig
+1|Lorenzo Amato
+1|Andrés Lima
+1|Stephen Wadsworth
+1|Maurizio Scaparro
+1|Fabio Banfo
+1|Werner Herzog
+1|Martlab Simone Conforti E Marco Ligabue
+1|Stefano Trespidi
+1|Robert Wilson
+1|Nikos Lagousakos
+1|Marco Carniti
+1|Stefano De Luca
+1|Jacopo Spirei
+1|Fabio Ceresa
+1|François Girard
+1|Willy Decker
+1|Peter Stein
+1|Cesare Scarton
+1|Università Iuav Di Venezia Dipartimento Ppac
+1|Alessandro Talevi
+1|James Marvel
+1|Peter Brook
+1|Caterina Panti Liberovici
+1|Francesco Bellotto
+1|Lee Blakeley
+1|Lamberto Puggelli
+1|Jean-philippe Clarac
+1|Bepi Morassi
+1|Lorenzo Mariani
+1|Michael Hampe
+1|Nicola Berloffa
+1|Eric Simonson
+1|Chiara Muti
+1|Laurent Pelly,Anna Maria Bruzzese
+1|Carlus Padrissa/la Fura Dels Baus
+1|Claus Guth
+1|Vincent Boussard
+1|Pier Francesco Maestrini
+1|Stefan Herheim
+1|Ivo Van Hove
+1|Marie-josée Chartier
+1|Carlus Padrissa
+1|Jean-claude Auvray
+1|Dario Argento
+1|Guglielmo Ferro
+1|Massimo Gasparon
+1|Mario Martone
+1|Paul Emile Fourny
+1|Carlo Antonio De Lucia
+1|Damiano Michieletto,Eleonora Gravagnola
+1|Ivo Guerra
+1|Alessio Pizzech
+1|Calixto Bieito
+1|Andreas Homoki
+1|Alberto Fassini
+1|Carlos Saura
+1|Nigel Lowery
+1|Michele Placido
+1|Elisabetta Courir
+1|Primo Antonio Petris
+1|La Fura Dels Baus (carlus Padrissa)
+1|Federico Tiezzi
+1|Gianni Gualdoni
+1|Francisco Negrin
+1|Emma Dante
+1|Roberto Laganà Manoli
+1|Gabriele Lavia
+1|Peter Konwitschny
+1|Mario Espinosa
+1|Marco Gandini
+1|Ruggero Cappuccio
+1|Andreas Moses
+1|Andrea Moses
+1|Nenad Glavan
+1|Jean-pierre Ponnelle
+1|Simon Mcburney
+1|Enrico De Feo
+1|Giorgio Barberio Corsetti
+1|Luca Ronconi
+1|Nadine Duffaut
+1|Francesco Frongia
+1|Vivien Hewitt
+1|Antonio Albanese
+1|Denis Krief
+1|Barrie Kosky
+1|Rudolf Frey
+1|Saverio Marconi
+1|Paolo Andreoni
+1|Marco Spada
+1|Jossi Wieler, Sergio Morabito
+1|Italo Nunziata
+1|Amerigo Daveri
+1|Leo Muscato
+1|Yannis Kokkos,Stephan Grögler
+1|Ezio Donato
+1|Elisabetta Marini

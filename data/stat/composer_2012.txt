@@ -1,0 +1,67 @@
+44|Giuseppe Verdi
+30|Giacomo Puccini
+25|-
+16|Wolfgang Amadeus Mozart
+15|Gioachino Rossini
+13|Gaetano Donizetti
+11|Vincenzo Bellini
+9|Georges Bizet
+4|Richard Strauss
+3|Charles Gounod
+3|Jules Massenet
+3|Pietro Mascagni
+2|Georg Friedrich Handel
+2|Maurice Ravel
+2|Jacques Offenbach
+2|Wolfganag  Amadeus Mozart
+2|Richard Wagner
+2|Amilcare Ponchielli
+2|Leoš Janáček
+2|Henry Purcell
+2|Wolfgang Rihm
+2|Saverio Mercadante
+1|Pëtr Il’ic Cajkovskij,Sergej Rachmaninov
+1|Gaspare Spontini
+1|George Benjamin
+1|Pëtr Il’ic Cajkovskij
+1|Leóš Janáček
+1|Pëtr Il’ic Cajkovskij,Igor Stravinskij
+1|Christoph Willibald Gluck
+1|Antonio Vivaldi
+1|Wolfgang Amadeus Mozart,Franz Joseph Haydn
+1|Hector Berlioz
+1|Jean-philippe Rameau
+1|Federico Moreno Torroba
+1|Johann Adolf Hasse
+1|Claude Debussy
+1|Josef Mysliveček
+1|Leonard Bernstein
+1|Giacomo Meyerbeer
+1|Daniel-françois-esprit Auber
+1|Marc-antoine Charpentier
+1|Giuseppe Sinopoli
+1|Manuel Fernández Caballero
+1|Kurt Weill
+1|Aldo Finzi
+1|Béla Bartók
+1|Pietro Generali
+1|Manuel De Falla
+1|Philippe Fénelon
+1|Osvaldo Golijov
+1|Domenico Cimarosa
+1|Sergej Prokof’ev
+1|Andrew Lloyd Webber
+1|Benjamin Britten
+1|Alexander Zemlinsky
+1|Franco Alfano
+1|Henri Sauguet
+1|John Adams
+1|Modest Musorgskij
+1|Antony Hegarty
+1|Baldassarre Galuppi
+1|Alban Berg
+1|Thomas Ades
+1|Vincenzo Bellini.
+1|Francesco Cavalli
+1|Claudio Monteverdi
+1|Sylvester Levay

@@ -1,0 +1,433 @@
+107|-
+26|Andrea Battistoni
+20|Michele Mariotti
+18|Donato Renzetti
+18|Daniele Rustioni
+18|Gianandrea Noseda
+18|Zubin Mehta
+17|Giampaolo Bisanti
+15|Matteo Beltrami
+15|Renato Palumbo
+14|Sylvain Cambreling
+14|Stefano Ranzani
+12|Gabriele Ferro
+12|Daniele Callegari
+12|Fabrizio Maria Carminati
+12|Roberto Abbado
+11|Pinchas Steinberg
+11|Giuliano Carella
+11|Omer Meir Wellber
+11|Riccardo Muti
+11|Daniel Oren
+10|Jonathan Webb
+10|Nicola Luisotti
+10|Stefano Montanari
+9|Riccardo Frizza
+9|Daniel Barenboim
+9|Julian Kovatchev
+8|Valerio Galli
+8|Giovanni Battista Rigon
+8|Fabio Luisi
+8|Francesco Lanzillotta
+8|Jader Bignamini
+7|Francesco Cilluffo
+7|Sergio Alapont
+7|Nicola Paszkowski
+7|Antonio Pirolli
+7|Francesco Ivan Ciampa
+7|Bruno Campanella
+6|Stefan Anton Reck
+6|Corrado Rovaris
+6|Myung-whun Chung
+6|Massimo Zanetti
+6|Stefano Romani
+6|Francesco Ommassini
+6|Francesco Pasqualetti
+6|Carlo Montanaro
+6|James Conlon
+5|Giovanni Di Stefano
+5|Paolo Arrivabeni
+5|Alessandro De Marchi
+5|Gianluigi Gelmetti
+5|Daniele Gatti
+5|Sebastiano Rolli
+5|Asher Fisch
+4|Patrick Fournillier
+4|Pier Giorgio Morandi
+4|Giacomo Sagripanti
+4|Daniel Harding
+4|Marko Letonja
+4|Alejo Pérez
+4|Bruno Bartoletti
+4|Antonino Manuli
+4|Federico Maria Sardelli
+4|Fabio Mastrangelo
+4|Roberto Rizzi Brignoli
+4|Jeffrey Tate
+4|Christopher Franklin
+4|Ottavio Dantone
+4|Gustavo Dudamel
+4|Alberto Veronesi
+4|Rinaldo Alessandrini
+4|Marc Soustrot
+4|Marcello Mottadelli
+4|Diego Matheuz
+4|Giampaolo Maria Bisanti
+4|Massimiliano Stefanelli
+4|Emmanuel Villaume
+4|Marco Angius
+4|Antonello Manacorda
+4|Giuseppe Finzi
+3|Philippe Jordan
+3|Marco Guidarini
+3|Dmitri Jurowski
+3|Eliahu Inbal
+3|Giuseppe La Malfa
+3|Lawrence Foster
+3|Hartmut Haenchen
+3|Gianandrea Noseda,Saverio Santoliquido
+3|Carlo Rizzari
+3|Niksa Bareza
+3|Xu Zhong
+3|Marco Armiliato
+3|Gaetano D’espinosa
+3|Alain Altinoglu
+3|Federico Bardazzi
+3|Fabio Biondi
+3|Antonio Pappano
+3|Alberto Zedda
+3|Carlo Rizzi
+3|Alain Guingal
+3|Mikko Franck
+3|Stefan Soltesz
+2|Antonio Greco
+2|Christian Curnyn
+2|Roberto Gianola
+2|Sébastien Rouland
+2|Evelino Pidò
+2|Ingo Metzmacher
+2|Pedro Halffter
+2|Antonello Allemandi
+2|James Levine
+2|Boris Brott
+2|Lothar Koenigs
+2|Lorin Maazel
+2|Donald Runnicles
+2|Johannes Wildner
+2|Ivan Anguélov
+2|Yi-chen Lin
+2|Pietari Inkinen
+2|Tito Ceccherini
+2|Alan Curtis
+2|Yves Abel
+2|Riccardo Chailly
+2|Yishai Steckler
+2|Nello Santi
+2|Christian Capocaccia
+2|Stefano Rabaglia
+2|Roberto Polastri
+2|Hirofumi Yoshida
+2|Louis Langrée
+2|Teodor Currentzis
+2|Gianluca Martinenghi
+2|Myung Whun Chung
+2|Edward Gardner
+2|George Benjamin
+2|Francesco Rosa
+2|Pietro Rizzo
+2|Andrew Davis
+2|Alvise Casellati
+2|Juraj Valčuha
+2|Roberto Zarpellon
+2|Pietro Mianiti
+2|Christophe Rousset
+2|Simon Hewett
+2|René Jacobs
+2|Yannick Nézet-séguin
+2|Alessandro D’agostini
+2|Marco Boemi
+2|Guillaume Tourniaire
+2|Mark Shanahan
+2|Federico Ferri
+2|Speranza Scappucci
+2|Yutaka Sado
+2|Antonino Fogliani
+2|Tiziano Severini
+2|Josep Pons
+2|Cristóbal Soler
+2|Aldo Sisillo
+2|Carlo Goldstein
+2|Alessandro D'agostini
+2|José Luis Gomez-rios
+2|Franck Ollu
+2|Erik Nielsen
+2|Guy Condette
+2|Zhang Guoyong
+2|Juraj Valcuha
+2|Semyon Bychkov
+2|Henrik Nánási
+2|Roberto Parmeggiani
+2|Pablo Heras-casado
+1|Federico Santi
+1|John Fiore
+1|Susan Davenny Wyner
+1|Christian Arming
+1|Jordi Bernàcer
+1|Charles Tim Buck,Asher Fisch
+1|Martino Faggiani,Alessandro De Marchi,Benoît Giaux
+1|Gil Rose
+1|Michael Schøwandt
+1|Martyn Brabbins
+1|Saverio Santoliquido,Stefan Anton Reck
+1|Sébastian  Rouland
+1|Alessandro Galoppini
+1|Christoph Campestrini
+1|Carlo Boccadoro
+1|Pierluigi Pizzi,Daniel Kawka
+1|Friedemann Layer
+1|Giuseppe Sabbatini
+1|Elio Boncompagni
+1|Hernán Schvartzman
+1|Mikhail Agrest
+1|Marco Armiliato,Marco Tonini
+1|Lothar Zagrosek
+1|José Luis Gomesz
+1|Dominique Trottein
+1|Thomas Søndergård
+1|Roland Böer
+1|Tamás Pál
+1|Matthias Foremny
+1|Claudio Scimonre
+1|Fabrizio Ventura
+1|Giuseppe Sigismondi De Risio
+1|Carlomoreno Volpini
+1|Jérémie Rhorer
+1|Francesco
+1|Alexander Bridger
+1|Denis Vlasenko
+1|Salvatore Percacciolo
+1|Vassily Sinaisky
+1|Paolo Carignani
+1|Grant Gershon
+1|Saverio Santoliquido,Renato Palumbo
+1|Alberto
+1|Václav Luks
+1|Andreas Spering
+1|Tulio Gagliardo
+1|Nader Abbassi
+1|Jean Luc Tingaud
+1|Gabriele Bonolis
+1|Bruno Nicoli
+1|Saburo Teshigawara,Attilio Cremonesi
+1|Dean Austin
+1|Pablo Mielgo
+1|Eduardo Strausser
+1|Sylvain  Cambreling
+1|Paolo Arrivabene
+1|Christophe Grapperon
+1|Saverio Santoliquido,Yutaka Sado
+1|Paolo Facincani,Julian Kovatchev
+1|Fabrizio Cassi,Emiliano Esposito
+1|Rodrigo Marcìas
+1|Emmanuelle Haïm
+1|Jean-
+1|Srboljub Dinic
+1|Roberto Tolomelli
+1|Kirill Petrenko
+1|Nicola Luisotti,Justin Way
+1|Giuseppe Grazioli
+1|Paolo Olmi
+1|Diego Montrone
+1|Jose Miguel Perez-sierra
+1|Wayne Marshall
+1|Jari Hämäläinen
+1|Vito Clemente
+1|Zsolt Hamar
+1|Alberto Hold-garrido
+1|Antony Hermus
+1|Farhad G. Mahani
+1|Benjamin Pionnier
+1|Guido Maria Guida
+1|Saverio Santoliquido,Christopher Hogwood
+1|Leonardo García Alarcón
+1|Marc Minkowski
+1|Will Humburg
+1|Vincenzo Latorre
+1|Enrique Mazzola
+1|Juraj Val
+1|Michel Plasson
+1|Michael Schonwandt
+1|Miquel Ortega
+1|Franco Piva
+1|Alfred Eschwé
+1|Ivo Lipanović
+1|Esa-pekka Salonen
+1|Greg Arrowsmith
+1|Andriy Yurkevych
+1|Rodolfo Fischer
+1|Diego Fasolis
+1|Mark Elder
+1|Eivind Gullberg Jensen
+1|James Levine,Patrick Summers
+1|Marcus Bosch
+1|Jan Latham-koening
+1|Alexander Ingram
+1|Muhai Tang
+1|Charles Dutoit
+1|Andrea Battistoni,Giuliano Carella,Riccardo Frizza
+1|Christian Thielemann
+1|Vladimir Agronskij
+1|José Miguel Pérez Sierra
+1|Maxim Emelyanychev
+1|Rani Calderon
+1|Gianluca   Martinenghi
+1|Michael  Boder
+1|Koen Kessels
+1|Leon Natker
+1|Lorenzo Tazzieri
+1|Marcello Rota
+1|Sir Andrew Davis
+1|Kristiina Poska
+1|Michael Balke
+1|Michael Schønwandt
+1|Valter Borin
+1|Patrick Lange
+1|Marc Minkowski,Makhar Vaziev
+1|Matteo Beltrami,Luca Sirigu
+1|Thomas Hengelbrock
+1|Opera Di Firenze,Fabrizio Maria Carminati
+1|Manfred Honeck
+1|Armando Tasso,Marko Letonja,Maria Grazia Garofoli
+1|George Pehlivanian
+1|Loris Giancola,Mario Ancillotti
+1|Placido Domingo
+1|Josè Ramon Encinar
+1|Alejo Perez
+1|Guillermo García Calvo
+1|Vladimir Ponkin
+1|Lodovic Morlot
+1|Antony Walker,Marco Armiliato,Fabio Luisi
+1|Marco Mencoboni
+1|Vladimir Vrublvskiy
+1|Uwe Sandner
+1|Eduardo Browne
+1|Kenneth Montgomery
+1|Dáirine Ní
+1|Didier Puntos
+1|Luca Giardini
+1|Aziz Shokhakimov
+1|Andrea Sanguineti
+1|Marco Dallara
+1|Cristbal Soler
+1|Christopher Moulds
+1|Jacques Lacombe
+1|Jesùs Lopez-cobos
+1|Claudio Fenoglio
+1|David Steadman
+1|Constantin Trinks
+1|Ira Levin
+1|Thomas Roesner
+1|Patrick Davin
+1|Giovanni Antonini
+1|Paolo Ponziano Ciardi
+1|John Axelrod
+1|Cristoph Gedschold
+1|Maurizio Colasanti
+1|Paolo Belloli
+1|Massimo Lambertini
+1|Giancarlo De Lorenzo
+1|Nicolas Krüger
+1|Espartaco Lavalle Terrry
+1|Eric Hull
+1|William Christie
+1|Andrew Greenwood
+1|Jean-luc Tingaud
+1|Jan Latham-koenig
+1|Josep Pons,Robert Carsen
+1|George Petrou
+1|Francesco Ledda
+1|Felix Krieger
+1|Alexander Vedernikov
+1|Cristoph Poppen
+1|Josè Miguel Perez Sierra
+1|Carlos García Ruiz
+1|Leonardo Vordoni
+1|Friedrich Pleyer
+1|Francesco Bellotto,Stefano Montanari
+1|Daniel Cohen,Marco Faelli
+1|Carlos Aragón
+1|Fabrizio Cassi
+1|Zubin Mehta,Eleonora Buratto
+1|Miguel Ángel Gómez Martínez
+1|José Miguel Perez Sierra
+1|Vladimir Jurowski
+1|Ryan Mcadams
+1|Frédéric Chaslin
+1|Gaetano D´espinosa
+1|Omar Meir Wellber
+1|Maurizio Agostini
+1|Ádám Fischer
+1|Peter Tiboris
+1|Maurizio Barbacini
+1|Pierre Iodice
+1|Oliver Gooch
+1|Oliver Von Dohànyi
+1|Francesco Angelico
+1|Giulio Marazia
+1|Marco Moresco
+1|Eugene Kohn
+1|Simon Krečič
+1|Paolo Facincani,Andrea Battistoni,Armando Tasso
+1|Vladimir Fedoseyev
+1|Marcello Bufalini
+1|Ascher Fisch
+1|Nicola Procaccini
+1|Mark Morash
+1|David Afkham
+1|Elisabetta Maschio
+1|Keri-lynn Wilson
+1|Michael Christie
+1|Mario De Rose
+1|Paul Daniel
+1|Stefano Giaroli,Emiliano Esposito
+1|John Adams
+1|Mauro Roveri
+1|Emmanuel Plasson
+1|Daniele Agiman
+1|Roland B
+1|David Levi
+1|Lorenzo Fratini,Giuseppe La Malfa
+1|Hubert Soudant
+1|Giuseppe
+1|Kwamé Ryan
+1|Josep Caballé-domenech
+1|Serge Baudo
+1|José Luis Domínguez
+1|Umberto Benedetti Michelangeli
+1|Carla Delfrate
+1|Samuel Jean
+1|Philip Walsh
+1|Francesco Ommassimi
+1|Fabrizio Da Ros
+1|Roland Kluttig
+1|Benjamin Bayl
+1|Gregory Kunde
+1|Steven Mercurio
+1|José Miguel Pérez-sierra
+1|Yoichi Sugiyama
+1|Luciano Acocella
+1|José Areán
+1|Marco Balderi
+1|Will Crutchfield
+1|Neal Goren
+1|Roman Brogli-sacher
+1|Yuri Temirkanov
+1|Valerij Gergiev
+1|Sir Mark Elder
+1|Philippe Auguin
+1|Guillermo Garcia Calvo
+1|Donato Renzetti, Antonino Manuli
+1|David Robertson
+1|Daniel Cohen
+1|Rani Calderón
+1|Valery Gergiev

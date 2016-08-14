@@ -1,0 +1,40 @@
+74|Giuseppe Verdi
+38|-
+17|Gioachino Rossini
+12|Wolfgang Amadeus Mozart
+12|Gaetano Donizetti
+11|Giacomo Puccini
+5|Vincenzo Bellini
+5|Benjamin Britten
+3|Antonin Dvořák
+3|Nino Rota
+3|Pietro Mascagni
+3|Henry Purcell
+2|Pëtr Il’ič Čajkovskij
+2|Jacques Offenbach
+2|Richard Wagner
+2|Richard Strauss
+1|Jules Massenet
+1|Daniel-francois-esprit Auber
+1|Emilio Arrieta
+1|Luigi E Federico Ricci
+1|Antonio Vivaldi
+1|Giovanni Simone Mayr
+1|Pietro Mascagni,Claude Debussy
+1|Riccardo Zandonai
+1|Charles Gounod
+1|Camille Saint-saëns
+1|Francesco Cavalli
+1|Domenico Cimarosa
+1|Salvatore Sciarrino
+1|Umberto Giordano
+1|Kevin Puts
+1|Dmitrij Šostakovič
+1|Alexander Raskatov
+1|Georges Bizet
+1|Leonardo Leo
+1|José De Nebra
+1|Vittorio Montalti,Raffaele Grimaldi
+1|Michele Varriale
+1|Tomaso Albinoni
+1|Christoph Willibald Gluck

@@ -1,0 +1,94 @@
+8|-
+5|Andrea Battistoni
+5|Donato Renzetti
+4|Francesco Cilluffo
+4|Jader Bignamini
+4|Giampaolo Bisanti
+4|Daniele Rustioni
+3|Pinchas Steinberg
+3|Massimiliano Stefanelli
+3|Francesco Ivan Ciampa
+3|Stefano Ranzani
+3|Gianandrea Noseda
+3|Renato Palumbo
+2|Daniel Barenboim
+2|Pier Giorgio Morandi
+2|Simon Hewett
+2|Jonathan Webb
+2|Francesco Pasqualetti
+2|Daniel Oren
+2|Nicola Luisotti
+2|Zubin Mehta
+2|Fabrizio Maria Carminati
+2|Stefano Romani
+2|Antonino Manuli
+2|Guy Condette
+2|Valerio Galli
+2|Francesco Lanzillotta
+2|Giovanni Di Stefano
+2|Sebastiano Rolli
+2|Sylvain Cambreling
+2|Julian Kovatchev
+2|Daniele Callegari
+2|José Luis Gomez-rios
+2|Alvise Casellati
+2|Michele Mariotti
+2|Stefano Montanari
+1|Benjamin Pionnier
+1|Patrick Fournillier
+1|Alessandro De Marchi
+1|Giovanni Battista Rigon
+1|Roland B
+1|Marc Soustrot
+1|Marcello Mottadelli
+1|Antonio Pappano
+1|Giulio Marazia
+1|Aziz Shokhakimov
+1|Andrea Sanguineti
+1|Christoph Campestrini
+1|Carlo Goldstein
+1|Tito Ceccherini
+1|Giuliano Carella
+1|Mikhail Agrest
+1|Sergio Alapont
+1|Christopher Franklin
+1|Nello Santi
+1|Diego Matheuz
+1|Eivind Gullberg Jensen
+1|Roberto Abbado
+1|Christian Capocaccia
+1|Myung-whun Chung
+1|Roberto Gianola
+1|Marco Boemi
+1|Gianluigi Gelmetti
+1|Lothar Koenigs
+1|Eric Hull
+1|Paolo Carignani
+1|Federico Maria Sardelli
+1|Federico Ferri
+1|Antonio Pirolli
+1|Johannes Wildner
+1|Gabriele Ferro
+1|Jean-luc Tingaud
+1|Marco Angius
+1|Will Humburg
+1|Koen Kessels
+1|Juraj Valcuha
+1|Bruno Nicoli
+1|Saverio Santoliquido,Stefan Anton Reck
+1|Benjamin Bayl
+1|Roberto Rizzi Brignoli
+1|Valter Borin
+1|Paolo Arrivabeni
+1|Josè Miguel Perez Sierra
+1|Henrik Nánási
+1|Stefan Anton Reck
+1|Matteo Beltrami,Luca Sirigu
+1|Mark Elder
+1|Giuseppe La Malfa
+1|Giuseppe Finzi
+1|Juraj Valčuha
+1|Marco Armiliato
+1|Marco Balderi
+1|Vladimir Ponkin
+1|Christian Arming

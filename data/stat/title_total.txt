@@ -1,0 +1,519 @@
+55|-
+32|"La Traviata"
+31|"Rigoletto"
+29|"La Bohème"
+26|"Tosca"
+24|"Madama Butterfly"
+23|"Aida"
+22|"Lucia di Lammermoor"
+20|"L'elisir d'amore"
+18|"Carmen"
+18|"Le nozze di Figaro"
+17|"Nabucco"
+16|"Turandot"
+16|"Don Giovanni"
+15|"Norma"
+14|"Così fan tutte"
+13|"Il Barbiere di Siviglia"
+13|"Don Pasquale"
+12|"Un ballo in maschera"
+11|"Il Trovatore"
+11|"Macbeth"
+11|"Il barbiere di Siviglia"
+11|"Falstaff"
+10|"Otello"
+10|"Simon Boccanegra"
+10|"La Cenerentola"
+9|"Roméo et Juliette"
+8|"Attila"
+7|"Die Zauberflöte"
+7|"La vedova allegra"
+7|"Salome"
+6|"L'Italiana in Algeri"
+6|"La Sonnambula"
+6|"Der Rosenkavalier"
+6|"Maria Stuarda"
+6|"La traviata"
+6|"Dido and Aeneas"
+5|"Luisa Miller"
+5|"Fidelio"
+5|"Don Carlo"
+5|"Cavalleria rusticana" e "Pagliacci"
+5|"I Capuleti e i Montecchi"
+5|"La forza del destino"
+5|"Elektra"
+5|"Die Walküre"
+5|"Ernani"
+5|"Il cappello di paglia di Firenze"
+4|"Parsifal"
+4|"Roberto Devereux"
+4|"Jakob Lenz"
+4|"Pagliacci"
+4|"Evgenij Onegin"
+4|"Les contes d'Hoffmann"
+4|"Tannhäuser"
+4|"L'italiana in Algeri"
+4|"La fanciulla del West"
+4|"The turn of the screw"
+4|"I due Foscari"
+3|"Fedora"
+3|"Lulu"
+3|"La scala di seta"
+3|"Anna Bolena"
+3|"The Fairy Queen"
+3|"La Gioconda"
+3|"Stiffelio"
+3|"I puritani"
+3|"Cavalleria rusticana"
+3|"Manon"
+3|"La clemenza di Tito"
+3|"Tristan und Isolde"
+3|"Götterdämmerung"
+3|"Siegfried"
+3|"Il Corsaro"
+3|"Rusalka"
+3|“La Traviata”
+3|"Pelléas et Mélisande"
+3|"Boris Godunov"
+2|"Das Rheingold"
+2|“I Puritani”
+2|"La finta semplice"
+2|"Wozzeck"
+2|"L'Amico Fritz"
+2|"La cambiale di matrimonio"
+2|"I Lombardi alla prima crociata"
+2|"Mefistofele"
+2|"I Vespri Siciliani"
+2|"Il turco in Italia"
+2|"Poliuto"
+2|"The rake's progress"
+2|"Tancredi"
+2|"Věc Makropulos"
+2|"Alcina"
+2|"Nixon in China"
+2|"I Due Foscari"
+2|"Adriana Lecouvreur"
+2|"La Clemenza di Tito"
+2|"Rienzi"
+2|"Il signor Bruschino"
+2|"Il viaggio a Reims"
+2|"Ariadne auf Naxos"
+2|"Die Zauberflote"
+2|“The Rape of Lucretia”
+2|"La battaglia di Legnano"
+2|"Der fliegende Holländer"
+2|“Rigoletto”
+2|"Da una casa di morti"
+2|"La Favorite"
+2|"La rondine"
+2|"Nabucodonosor"
+2|"Il matrimonio segreto"
+2|"Giulio Cesare"
+2|"I Puritani"
+2|"Werther"
+2|"Faust"
+2|"Lady Macbeth del distretto di Mzesnk"
+2|“Don Carlo”
+2|"Rinaldo"
+2|"Idomeneo"
+2|"La muette de Portici"
+2|"Il Naso"
+2|"Linda di Chamounix"
+2|“Don Giovanni”
+1|“Goyescas” e “Suor Angelica” al Teatro Regio di Torino
+1|"Les Chevaliers de la Table Ronde" di Hervé
+1|"L’heure espagnole" e "L’Enfant et les Sortilèges"
+1|"Elegy for Young Lovers"
+1|"La virtù de' strali d'amore"
+1|"Roméo et Juliette" di Gounod
+1|"Artaserse" di Hasse
+1|"Il trionfo del tempo e del disinganno"
+1|La "Carmen"
+1|"Cin-Ci-là"
+1|"Mirandolina" di Bohuslav Martinů
+1|"Carmina Burana"
+1|"La Scala di Seta"
+1|“Cavalleria Rusticana”
+1|"Les Contes d'Hoffmann"
+1|"Lucrezia Borgia"
+1|"l'Incoronazione di Poppea"
+1|"Robert le diable"
+1|Il "Barbiere" di Morassi
+1|"Il trionfo di Clelia"
+1|“Simon Boccanegra” a Torino
+1|"Candide"
+1|"Medea"
+1|"Il ratto dal serraglio"
+1|"L'Olandese volante"
+1|un grande successo
+1|"Saint-Francois d'Assise"
+1|"Il postino"
+1|”Carmen”
+1|"La finta giardiniera"
+1|"Heart of a Soldier"
+1|"Maria de Rudenz"
+1|Nella villa
+1|"Béatrice et Bénédict"
+1|"Cappuccetto Rosso"
+1|“Parsifal”
+1|"Montezuma" a Città
+1|“Otello” di Rossini
+1|"L'Opera da tre soldi"
+1|"Svadba-Wedding"
+1|"La Vedova allegra"
+1|"La donna del lago"
+1|Perché re
+1|"Cassandra" di Vittorio Gnecchi, gemma ta a splendere
+1|"Il matrimonio segreto" a Novara
+1|“L’elisir d’amore” a Torino
+1|"L'enfant et les sortilèges"
+1|"Il mondo della luna"
+1|"Elisabeth"
+1|Il suono del silenzio
+1|"Semele"
+1|"Rušalka"
+1|"La Chartreuse de Parme"
+1|"La fuga in maschera"
+1|"Manon Lescaut"
+1|"Les Pêcheurs de perles"
+1|"Daphne"
+1|"Don Giovanni Tenorio o sia Il convitato di pietra"
+1|"La Damnation de Faust"
+1|«Pien di misfatti è calle della potenza». “Macbeth” di Verdi
+1|"Cyrano de Bergerac"
+1|Hindemith e Ravel aprono la stagione lirica
+1|"Orphée et Eurydice"
+1|"Zenobia in Palmira" di Paisiello
+1|"Guillaume Tell"
+1|"Die Zauberflöte" (Il Flauto Magico)
+1|"La gazza ladra"
+1|“Tosca”
+1|Magia
+1|"Alice nel paese delle meraviglie"
+1|"Voci di donna”
+1|"Tosca" a Torre
+1|"Hänsel e Gretel"
+1|Debutta
+1|"Der Vampyr"
+1|Il tempo di Mahler
+1|"Pimpinone"
+1|"La fanciulla
+1|"Capriccio"
+1|Il bianco s'addice
+1|"Monty Python's Spamlot"
+1|"L'Opera Seria"
+1|"Il Trittico"
+1|Il "Rinaldo" di Haendel-Dantone-Pizzi
+1|"Die Entführung aus dem Serail"
+1|«Di ragion la trasse amore …». "Lucia di Lammermoor"
+1|"Moise et Pharaon"
+1|"Written on Skin"
+1|"Der ferne klang"
+1|"Il Barbiere di Siviglia" al Comunale di Ferrara
+1|"Il prigioniero", "Il castello del duca Barbablù"
+1|Riccardo Muti dirige "I due Figaro"
+1|"La porta della legge"
+1|"Elisabetta, regina d'Inghilterra"
+1|Il ritorno di "Don Giovanni"
+1|" Semiramide in Villa"
+1|"We Will Rock You"
+1|"Billy Budd"
+1|"Pikovaja Dama" (La dama di picche)
+1|"Les Troyens"
+1|"Leggenda"
+1|"Pagliacci/Cavalleria rusticana"
+1|“Apollo et Hyacinthus” di Mozart
+1|Dittico Bartók
+1|"Shell Schock"
+1|"La voix humaine"
+1|"La Chulapona"
+1|"La Cerisaie" (Il giardino dei ciliegi)
+1|"Il Campiello"
+1|Doppia inaugurazione
+1|Lima,"La Leyenda
+1|"Wunderzaichen" di Mark Andre in prima assoluta
+1|La bohème
+1|"Il flauto magico"
+1|"L'Affare Makropulos"
+1|“Eliogabalo”
+1|Non piangere'... c'è Liù
+1|"Zaira"
+1|"Notre-Dame de Paris"
+1|"Christmas StarTS"
+1|"Agrippina"
+1|"I Masnadieri" alTeatro di San Carlo
+1|"Adelaide di Borgogna" di Generali
+1|"The Rake's Progress"
+1|“Aida”
+1|"Betulia liberata"'... due volte
+1|"The Rape of Lucretia"
+1|Un "Barbiere" sottotono
+1|"I Puritani” di Bellini
+1|"Šárka", "Cavalleria Rusticana"
+1|"The Turn of the Screw"
+1|"La Medium", "Gianni Schicchi"
+1|"Il Trittico" di Giacomo Puccini
+1|"Le Nozze di Figaro"
+1|"Ciro in Babilonia"
+1|"Eugenio Onegin"
+1|Il matrimonio segreto a Torino
+1|"Idomeneo, re di Creta"
+1|"Cats"
+1|"Reigen" di Philippe Boesmans
+1|"L'affare Makropoulos"
+1|"Iris"
+1|"L'amico Fritz"
+1|"Maria di Rohan"
+1|"Crispino e la Comare"
+1|"Die glückliche Hand" e "Osud"
+1|"La fille du régiment"
+1|"Jérusalem"
+1|"Il Viaggio a Reims"
+1|"Belisario"
+1|La Fenice
+1|A Firenze una "Forza del destino"
+1|"Der Schauspieldirektor", "La Canterina"
+1|"Gotterdammerung"
+1|"Švanda dudák"
+1|“Roberto Devereux”
+1|"La volpe astuta"
+1|"Catone"
+1|"Don Pasquale", "Iphigénie en Tauride"
+1|“ Facciamo Trovatore… ”
+1|"Un giorno di regno" apre la stagione
+1|"Il maestro di Go"
+1|Maderna e Purcell
+1|"Il trionfo dell'onore, ovvero dissoluto pentito"
+1|"Un Ballo in Maschera"
+1|"La voix humaine" e "The telephone"
+1|"Fierrabras"
+1|Il ritorno del "Barbiere di Siviglia"
+1|"Chovanščina"
+1|"Assassinio nella cattedrale" di Pizzetti
+1|"Gala Verdi"
+1|"Luci mie traditrici" di Salvatore Sciarrino
+1|"Amica"
+1|"El amor brujo" e "Goyescas"
+1|" Madama Butterfly "
+1|“I due Foscari”
+1|"Il Campiello" un "hit"
+1|ancora “Aida” a Verona
+1|"Il ritorno di Ulisse in patria"
+1|"Pollicino"
+1|"L’heure espagnole" '-- "L’enfant et les sortilèges"
+1|"Le comte Ory"
+1|“Jenůfa”
+1|"Gisela!"
+1|"Marina"
+1|"L'Enfant Prodigue" e "Cavalleria Rusticana"
+1|Ricetta
+1|l'"Aida" del Centenario
+1|"Otello" e "Tosca"
+1|Il dittico "Zanetto/Cavalleria Rusticana"
+1|Leo Nucci è Simon Boccanegra
+1|"Flashdance"
+1|"Berenice, regina di Armenia" (Il Vologeso)
+1|“Die Soldaten” al Teatro alla Scala
+1|“Napoli milionaria”
+1|"Dido and Aeneas" al Teatro Carignano
+1|“Moses und Aron”
+1|"Giovanna d’Arco"
+1|Gustavo Dudamel dirige "Carmen"
+1|"Samson et Dalila"
+1|“Siegfried”
+1|“Giovanna d’Arco”
+1|"I capricci della sorte, ossia l'Italiana in Algeri"
+1|Il Pergolesi Spontini Festival
+1|“Götterdämmerung”
+1|La liberté!» Carmen al Regio di Torino
+1|"Zelmira"
+1|"Giovanna D'Arco"
+1|"Eine florentinische tragödie/Gianni Schicchi"
+1|"Il Trionfo del Tempo e del Disinganno"
+1|"Acis and Galatea"
+1|“Pelléas et Mélisande”  dell’OSN RAI
+1|"Der fliegende Holländer”
+1|"La damnation de Faust"
+1|"Albert Herring"
+1|"Matilde di Shabran"
+1|"Il Giocatore" (Igrok')
+1|"Euryanthe"
+1|diciott'anni, ma non li dimostra
+1|"L'elisir d'amore" a Palazzo Pitti
+1|"Edgar"
+1|ancora su “Evgenij Onegin” a Torino
+1|«Pronta a scoppiar la folgore
+1|"Don Quichotte"
+1|"Orfeo all'inferno"
+1|"Francesca da Rimini"
+1|"La cenerentola"
+1|"Les Dialogues des Carmélites"
+1|"L'Italia del destino"
+1|"Death in Venice" (Morte a Venezia)
+1|Un "Don Carlo" in gran spolvero per “compleanno”
+1|"Suor Angelica" e "Gianni Schicchi"
+1|"La voix humaine" e "Suor Angelica"
+1|"L'Elisir d'amore"
+1|“Lucio Silla” di Mozart
+1|Il "Trittico" secondo Michieletto
+1|"Der Fliegende Holländer"
+1|"Peter Grimes"
+1|"Les dialogues des Carmélites"
+1|"Ginevra di Scozia"
+1|“Alcina”
+1|Trionfano
+1|"Silent Night"
+1|Onore e morte nella "Cavalleria rusticana" e nei "Pagliacci" di nuovo insieme
+1|"Risorgimento", "Il prigioniero"
+1|"Lucia di Lammermoor" al Pergolesi di Jesi
+1|"Les Pecheurs de Perles"
+1|"Oblivion Show"
+1|"Orfeo ed Euridice", "Il Trovatore", "Rigoletto"
+1|"Platée"
+1|"Iolanta" e "Francesca Da Rimini"
+1|"La Didone"
+1|"Hänsel und Gretel"
+1|"Eine Florentinische Tragödie" e "Gianni Schicchi" (cast alternativi)
+1|"La cena delle beffe"
+1|"C'era una volta'...Scugnizzi"
+1|«Il nostro è amore d’anime!» Andrea Chénier
+1|"La Vestale"
+1|" Götterdämmerung"
+1|Samson et Dalila
+1|"Il campanello" e "Gianni Schicchi"
+1|"La Juive"
+1|"I due Figaro"
+1|"L’elisir d’amore"
+1|una "Lucrezia Borgia" di successo
+1|"L'equivoco stravagante"
+1|"DonTrastullo"
+1|Zubin Mehta festeggia i cinquant’anni
+1|"La metamorfosi"
+1|"Lady Macbeth del distretto di Mcensk"
+1|Happy Days '-- Il nuovo Musical
+1|"Ainadamar"
+1|"Příhody lišky Bystroušky" (La piccola volpe astuta)
+1|"Maometto II"
+1|"Le braci"
+1|"El amor brujo" e "Cavalleria rusticana"
+1|"Der König Kandaules"
+1|"Il Flaminio" in scena
+1|«Veramente passo è ardito», ma “L’occasione fa ladro”
+1|Don Giovanni al Teatro Regio di Torino
+1|«Le rose del volto già sono pallenti». La Traviata
+1|"Die Frau ohne Schatten"
+1|"La Straniera"
+1|"Iolanta" e "Perséphone"
+1|"Jenůfa"
+1|"Uno sguardo dal ponte"
+1|Grandioso "Nabucco"
+1|"L'Arlesiana"
+1|"I Capuleti e i Montecchi" fraintesi e sottovalutati
+1|"Trouble in Tahiti" e "Bon Appétit!"
+1|"Csarskaja Nevesta" ( sposa per lo Zar)
+1|“Das Rheingold”
+1|"Iphigénie en Aulide" di Gluck
+1|“Written on skin” di George Benjamin
+1|"Powder her face"
+1|“Der Kaiser von Atlantis” di Viktor Ullmann
+1|"La Vedova Allegra"
+1|"Andrea Chénier"
+1|Ancora “Nabucco”
+1|"The magic flute"
+1|prima mondiale di “El Público” a Madrid
+1|"L'Olimpiade"
+1|"Ola" per Rigoletto
+1|"L'incoronazione di Poppea"
+1|"Il furioso all'isola di San Domingo"
+1|"Alceste"
+1|"Tamerlano"
+1|"Viento (es la dicha de Amor)"
+1|"Il novello Giasone"
+1|“Manon Lescaut” per l’Orchestra Sinfonica Siciliana
+1|"Gigi"
+1|"La Bohéme"
+1|“Il turco in Italia”
+1|"Il Flauto magico"
+1|"Lohengrin" alla Scala
+1|Splendida lettura registica e vocale di "Puritani"
+1|"La Divina Commedia"
+1|"Die sieben Todsünden"
+1|"Gemma di Vergy"
+1|"Il ragazzo del risciò"
+1|“Serse” di Händel
+1|"L'Orfeo" di Monteverdi
+1|"El amor brujo" & "Cavalleria rusticana"
+1|"Chess '-- The Musical"
+1|"Jenufa"
+1|"Le Toréador" e "Cavalleria Rusticana"
+1|"Tosca" ultimo titolo
+1|"Il mondo alla rovescia"
+1|"Los sobrinos del Capitan Grant"
+1|"Il Signor Bruschino"
+1|"Il Giustino"
+1|Ritorniamo
+1|"La figlia del reggimento"
+1|«Come resistere / a tanti affetti!» “La Donna
+1|“Otello”
+1|Gala Pucciniano
+1|"Juditha Triumphans"
+1|"Un giorno di regno"
+1|"La donna serpente" di Alfredo Casella
+1|"Dafne"
+1|"La Grande-Duchesse de Gerolstein"
+1|Monteverdi in festa
+1|"Von heute auf morgen", "Pagliacci"
+1|"Otello" con finalino edificante
+1|"Čerevički"
+1|"Die Zauberflöte" (Il flauto magico)
+1|"Armida"
+1|“Giulio Cesare” di Händel
+1|"La serva Padrona", "Trouble in Tahiti
+1|"Rusalka" al San Carlo di Napoli
+1|"A midsummer night's dream"
+1|Roberto De Simone interpreta Pergolesi
+1|"Il Pipistrello"
+1|"La macchina" e "L'aumento"
+1|"L' ecume des Jours" di Edison Denisov
+1|"The Greek Passion"
+1|"Fidelio" riapre Palacio de Bellas Artes
+1|"Cléopâtre"
+1|"Sogno di una notte di mezza estate"
+1|"La serenata al vento"
+1|“Luisa Miller”
+1|"Peer Gynt"
+1|"Death in Venice"
+1|"Orfeo ed Euridice"
+1|Due farse rossiniane a Città
+1|"A Midsummer night's dream"
+1|"Penthesilea"
+1|un "Ring" che avrebbe reso Wagner orgoglioso
+1|"La Bohme"
+1|“Les Contes d’Hoffmann”
+1|"The Bassarids"
+1|"El gato montés"
+1|"Lohengrin"
+1|“Les pêcheurs de perles”
+1|Milano, Teatro
+1|“Il Farnace”
+1|"Ognenny Angel" (L'angelo di fuoco)
+1|"La clemenza di Tito" inaugura la nuova stagione
+1|“Hänsel und Gretel”
+1|"El amor brujo" e "La vida breve"
+1|Verona «o cara, noi rivedremo»'...ancora “Traviata”
+1|"L'amour des trois oranges"
+1|"Ain't Misbehavin"’- The Fats Waller Musical Show
+1|"Médée"
+1|“Partenope” di Händel
+1|"L'occasione fa ladro"
+1|Il Bolshoi
+1|"Pagliacci", "Gianni Schicchi"
+1|"La Traviata" si fa fiaba
+1|"La mulata de Córdoba", "La vida breve"
+1|"El Trust de los tenorios", "El Puñao de rosas"
+1|"Il ragazzo del risciò" al Teatro Regio di Torino
+1|"La Cecchina, ossia la buona figliuola"
+1|"Le Saphir" di Félicien David
+1|"Benvenuto Cellini" di Hector Berlioz
+1|"Il filosofo di campagna"
+1|"Il diario di uno scomparso" e "La voix humaine"

@@ -1,0 +1,92 @@
+15|-
+11|Milano, Teatro alla Scala
+6|Madrid, Teatro Real
+6|Metropolitan Opera
+5|Staatsoper Stuttgart
+5|Torino, Teatro Regio
+5|Palermo, Teatro Massimo
+5|Bologna, Teatro Comunale
+4|Trieste
+4|Venezia, Teatro La Fenice
+4|Roma, Teatro dell'Opera
+4|Trieste, Politeama Rossetti
+4|Brescia, Teatro Grande
+4|Trieste, Teatro Verdi
+4|Modena, Teatro Comunale
+4|Opera di Roma
+3|Bergamo, Teatro Donizetti
+3|Parma, Teatro Regio
+3|Verona, Teatro Filarmonico
+2|Ancona, Teatro delle Muse
+2|Catania, Teatro Massimo Bellini
+2|Buenos Aires, Teatro Colón
+2|Firenze, Teatro Comunale
+2|NYC, Metropolitan Opera
+2|Pisa, Teatro Verdi
+2|Firenze
+2|Genova, Teatro Carlo Felice
+2|Bilbao
+2|Santiago del Cile, Teatro Municipal
+2|Parigi, Opéra Bastille
+1|Palermo, Teatro di Verdura
+1|Firenze, Teatro La Pergola
+1|Dal Politeama Rossetti di Trieste
+1|Teatro Massimo Bellini di Catania
+1|Venezia,Teatro Malibran
+1|"Rigoletto" al Teatro Pergolesi di Jesi
+1|Reggio Emilia, Teatro Valli
+1|Città del Messico
+1|Padova, Teatro Verdi
+1|Torre del Lago
+1|tempo di Principe
+1|Londra, English National Opera
+1|Parigi, Opéra
+1|Ferrara, Teatro Nuovo
+1|Santa Barbara, California
+1|Theater an der Wien
+1|Cuernavaca, Morelos
+1|Opera National du Rhin
+1|Los Angeles Opera
+1|Jesi ossia "L’Olimpiade" di G. B. Pergolesi
+1|Macerata Opera Festival
+1|Festival della Valle d'Itria
+1|Salerno, Teatro Verdi
+1|Met
+1|Teatro Comunale di Firenze
+1|Londra, Covent Garden
+1|Madrid, Teatro de la Zarzuela
+1|Ferrara, Teatro Comunale
+1|Teatro Verdi di Pisa
+1|Messico, Centro Cultural Universitario
+1|Teatro del Palacio de Bellas Artes
+1|Como, Teatro Sociale
+1|E Cristina disse
+1|Buenos Aires, Teatro Avenida
+1|Zurigo, Opernhaus
+1|Bilbao, Palacio Euskalduna
+1|Firenze, Teatro Goldoni
+1|Bilbao,Palacio Euskalduna
+1|Parigi, Salle Pleyel
+1|Politeama Rossetti
+1|Macerata
+1|New York, Metropolitan
+1|Ascoli Piceno
+1|Teatro San Carlo
+1|Torino, Teatro Carignano
+1|Teatro di Bellas Artes
+1|Fidenza, Teatro Magnani
+1|Savona
+1|Salle Pleyel di Parigi
+1|Opéra de Toulon
+1|Parigi, Palais Garnier
+1|Opéra de Marseille
+1|Tel Aviv, Israeli Opera
+1|Sferisterio Opera Festival
+1|Macerata, Teatro Lauro Rossi
+1|Lucca, Teatro del Giglio
+1|Abbazia di San Galgano
+1|New York, Metropolitan Opera
+1|Alicante, Teatro Principal
+1|San Francisco Opera
+1|Teramo, Teatro Comunale
+1|Vicenza, Teatro Olimpico

@@ -1,0 +1,141 @@
+13|-
+7|"Nabucco"
+7|"Rigoletto"
+6|"Macbeth"
+6|"Otello"
+5|"Aida"
+5|"Un ballo in maschera"
+5|"Falstaff"
+4|"Tosca"
+4|"La Traviata"
+4|"Così fan tutte"
+3|"Parsifal"
+3|"L'Italiana in Algeri"
+3|"Attila"
+3|"L'elisir d'amore"
+2|"Simon Boccanegra"
+2|"Il Trovatore"
+2|"Turandot"
+2|“Don Carlo”
+2|“The Rape of Lucretia”
+2|"Il Barbiere di Siviglia"
+2|"La finta semplice"
+2|"Ernani"
+2|"Dido and Aeneas"
+2|"Il cappello di paglia di Firenze"
+2|"Don Pasquale"
+2|"I Capuleti e i Montecchi"
+2|"Die Walküre"
+2|"Norma"
+1|"Marina"
+1|"Das Rheingold"
+1|l'"Aida" del Centenario
+1|"Il Barbiere di Siviglia" al Comunale di Ferrara
+1|"Viento (es la dicha de Amor)"
+1|"Madama Butterfly"
+1|"Il furioso all'isola di San Domingo"
+1|"Elektra"
+1|“Napoli milionaria”
+1|"Les Troyens"
+1|"Samson et Dalila"
+1|"Silent Night"
+1|"Giovanna D'Arco"
+1|"Ginevra di Scozia"
+1|"Tancredi"
+1|"La Scala di Seta"
+1|“Cavalleria Rusticana”
+1|"Lucia di Lammermoor"
+1|«Come resistere / a tanti affetti!» “La Donna
+1|Il "Barbiere" di Morassi
+1|“Rigoletto”
+1|"La Sonnambula"
+1|"Il trionfo di Clelia"
+1|La bohème
+1|"La clemenza di Tito"
+1|diciott'anni, ma non li dimostra
+1|"The Fairy Queen"
+1|ancora su “Evgenij Onegin” a Torino
+1|"Věc Makropulos"
+1|«Pronta a scoppiar la folgore
+1|"L'Olandese volante"
+1|"Orfeo all'inferno"
+1|"La Grande-Duchesse de Gerolstein"
+1|"Pimpinone"
+1|"Francesca da Rimini"
+1|“Eliogabalo”
+1|"Otello" con finalino edificante
+1|"Rusalka"
+1|"Pagliacci"
+1|"La finta giardiniera"
+1|Un "Don Carlo" in gran spolvero per “compleanno”
+1|"Roméo et Juliette"
+1|"La Cenerentola"
+1|"Da una casa di morti"
+1|"I Due Foscari"
+1|"Maria de Rudenz"
+1|Nella villa
+1|"Der Fliegende Holländer"
+1|"Rusalka" al San Carlo di Napoli
+1|"The Rape of Lucretia"
+1|"I Puritani” di Bellini
+1|“La Traviata”
+1|"Lucrezia Borgia"
+1|"La Favorite"
+1|"Rienzi"
+1|"Svadba-Wedding"
+1|"La macchina" e "L'aumento"
+1|"Der fliegende Holländer"
+1|"Il Naso"
+1|Perché re
+1|“Otello”
+1|“L’elisir d’amore” a Torino
+1|Il matrimonio segreto a Torino
+1|"Cléopâtre"
+1|"Les dialogues des Carmélites"
+1|Non piangere'... c'è Liù
+1|"L'Enfant Prodigue" e "Cavalleria Rusticana"
+1|Il suono del silenzio
+1|"Stiffelio"
+1|"The turn of the screw"
+1|"Crispino e la Comare"
+1|«Il nostro è amore d’anime!» Andrea Chénier
+1|"Jérusalem"
+1|"Rušalka"
+1|Verona «o cara, noi rivedremo»'...ancora “Traviata”
+1|"Le nozze di Figaro"
+1|"Il barbiere di Siviglia"
+1|"Götterdämmerung"
+1|un "Ring" che avrebbe reso Wagner orgoglioso
+1|"L’elisir d’amore"
+1|"Don Giovanni"
+1|«Pien di misfatti è calle della potenza». “Macbeth” di Verdi
+1|"Peter Grimes"
+1|"La Clemenza di Tito"
+1|"I Vespri Siciliani"
+1|"Cavalleria rusticana"
+1|"Evgenij Onegin"
+1|“Simon Boccanegra” a Torino
+1|“Il Farnace”
+1|"La clemenza di Tito" inaugura la nuova stagione
+1|" Götterdämmerung"
+1|"Il Flauto magico"
+1|«Veramente passo è ardito», ma “L’occasione fa ladro”
+1|Don Giovanni al Teatro Regio di Torino
+1|«Le rose del volto già sono pallenti». La Traviata
+1|La Fenice
+1|"La Straniera"
+1|Il ritorno del "Barbiere di Siviglia"
+1|"Tosca" a Torre
+1|“Don Giovanni”
+1|"Ariadne auf Naxos"
+1|"Gala Verdi"
+1|Grandioso "Nabucco"
+1|"Amica"
+1|"L'Arlesiana"
+1|" Madama Butterfly "
+1|"La muette de Portici"
+1|“Das Rheingold”
+1|ancora “Aida” a Verona
+1|Ancora “Nabucco”
+1|"Il Corsaro"
+1|"Ola" per Rigoletto

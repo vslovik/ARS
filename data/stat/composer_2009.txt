@@ -1,0 +1,17 @@
+15|-
+5|Gaetano Donizetti
+4|Giuseppe Verdi
+2|Georges Bizet
+2|Vincenzo Bellini
+2|Georg Friedrich Händel
+2|Giacomo Puccini
+1|Georges
+1|Charles Gounod
+1|Antonio Saliero
+1|Wolfgang Amadeus Mozart
+1|Pietro Mascagni
+1|Richard Strauss
+1|Arnold Schönberg
+1|Igor Stravinskij
+1|Gioachino Rossini
+1|Claudio Monteverdi

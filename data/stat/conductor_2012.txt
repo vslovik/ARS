@@ -1,0 +1,156 @@
+20|-
+6|Michele Mariotti
+5|Gabriele Ferro
+4|Pinchas Steinberg
+4|Giuliano Carella
+4|Riccardo Muti
+4|Matteo Beltrami
+4|Corrado Rovaris
+4|Donato Renzetti
+3|Andrea Battistoni
+3|Fabio Luisi
+3|Daniel Oren
+3|Roberto Abbado
+3|Omer Meir Wellber
+3|Fabio Mastrangelo
+3|Gianandrea Noseda
+3|Daniele Callegari
+3|Daniele Rustioni
+2|Donald Runnicles
+2|Nicola Paszkowski
+2|Giovanni Battista Rigon
+2|Daniel Barenboim
+2|Giacomo Sagripanti
+2|Roberto Rizzi Brignoli
+2|Alberto Zedda
+2|Sergio Alapont
+2|Diego Matheuz
+2|Giampaolo Maria Bisanti
+2|Alberto Veronesi
+2|Stefano Romani
+2|Myung-whun Chung
+2|Gianluca Martinenghi
+2|Sylvain Cambreling
+2|Giampaolo Bisanti
+2|Julian Kovatchev
+2|Renato Palumbo
+2|Boris Brott
+2|Lorin Maazel
+2|Asher Fisch
+1|Massimo Zanetti
+1|Guido Maria Guida
+1|Uwe Sandner
+1|Carlo Rizzi
+1|Kenneth Montgomery
+1|Oliver Von Dohànyi
+1|Antony Hermus
+1|Didier Puntos
+1|Luca Giardini
+1|Carlos Aragón
+1|Aldo Sisillo
+1|Francesco Pasqualetti
+1|Carlo Goldstein
+1|Miquel Ortega
+1|Nicola Luisotti
+1|Hubert Soudant
+1|Tito Ceccherini
+1|Riccardo Frizza
+1|Daniel Cohen,Marco Faelli
+1|David Steadman
+1|Marco Armiliato,Marco Tonini
+1|Lothar Zagrosek
+1|Andrew Greenwood
+1|Christopher Franklin
+1|Zubin Mehta
+1|James Conlon
+1|Yishai Steckler
+1|Patrick Davin
+1|Christian Capocaccia
+1|Christian Curnyn
+1|Matthias Foremny
+1|Alain Guingal
+1|Stefano Rabaglia
+1|Jose Miguel Perez-sierra
+1|Marco Guidarini
+1|Vassily Sinaisky
+1|Erik Nielsen
+1|Giancarlo De Lorenzo
+1|Roberto Gianola
+1|Nicolas Krüger
+1|Fabrizio Ventura
+1|Alexander Ingram
+1|Guillaume Tourniaire
+1|Antonino Manuli
+1|Jérémie Rhorer
+1|Evelino Pidò
+1|Massimiliano Stefanelli
+1|Alexander Bridger
+1|Denis Vlasenko
+1|Yves Abel
+1|Dmitri Jurowski
+1|Mark Shanahan
+1|Michael Schønwandt
+1|Antonio Pirolli
+1|Pedro Halffter
+1|Christian Thielemann
+1|Louis Langrée
+1|William Christie
+1|Václav Luks
+1|Giovanni Di Stefano
+1|Teodor Currentzis
+1|Rani Calderon
+1|Marco Angius
+1|Nader Abbassi
+1|Myung Whun Chung
+1|Lawrence Foster
+1|Sebastiano Rolli
+1|Stefano Giaroli,Emiliano Esposito
+1|Antonino Fogliani
+1|Gustavo Dudamel
+1|Antonello Allemandi
+1|Pablo Mielgo
+1|Fabrizio Da Ros
+1|Niksa Bareza
+1|Kristiina Poska
+1|Marko Letonja
+1|Enrique Mazzola
+1|Hartmut Haenchen
+1|Marcello Mottadelli
+1|Steven Mercurio
+1|Paolo Arrivabeni
+1|George Benjamin
+1|Rinaldo Alessandrini
+1|Cristoph Poppen
+1|José Areán
+1|Dominique Trottein
+1|Saverio Santoliquido,Yutaka Sado
+1|Paolo Facincani,Julian Kovatchev
+1|Will Crutchfield
+1|Emmanuelle Haïm
+1|René Jacobs
+1|Michel Plasson
+1|Roberto Parmeggiani
+1|Thomas Hengelbrock
+1|Roberto Tolomelli
+1|Paolo Facincani,Andrea Battistoni,Armando Tasso
+1|Gaetano D´espinosa
+1|Franco Piva
+1|Alejo Pérez
+1|Alessandro Galoppini
+1|Valerij Gergiev
+1|Paolo Olmi
+1|Cristóbal Soler
+1|Pietro Rizzo
+1|Mikko Franck
+1|Edward Gardner
+1|Wayne Marshall
+1|George Pehlivanian
+1|Giuseppe La Malfa
+1|Antonello Manacorda
+1|Zsolt Hamar
+1|Marco Armiliato
+1|José Miguel Perez Sierra
+1|Diego Montrone
+1|Vladimir Jurowski
+1|Guillermo García Calvo
+1|Philip Walsh

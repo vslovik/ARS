@@ -1,0 +1,71 @@
+4|"Carmen"
+4|"L'elisir d'amore"
+3|"Rigoletto"
+3|-
+3|"Don Giovanni"
+2|"Don Pasquale"
+2|"La Traviata"
+2|"Madama Butterfly"
+2|"Maria Stuarda"
+2|"La Sonnambula"
+2|"La Cenerentola"
+1|"Attila"
+1|"Tosca"
+1|"Poliuto"
+1|"Idomeneo"
+1|"Un giorno di regno" apre la stagione
+1|"Moise et Pharaon"
+1|"Sogno di una notte di mezza estate"
+1|"Fidelio" riapre Palacio de Bellas Artes
+1|"Lulu"
+1|"Il Flaminio" in scena
+1|"Eugenio Onegin"
+1|"La Bohème"
+1|"Luisa Miller"
+1|"Dido and Aeneas"
+1|una "Lucrezia Borgia" di successo
+1|"Le nozze di Figaro"
+1|"Medea"
+1|"Simon Boccanegra"
+1|"Faust"
+1|"Tannhäuser"
+1|"Il postino"
+1|"Trouble in Tahiti" e "Bon Appétit!"
+1|"Cats"
+1|Due farse rossiniane a Città
+1|"Edgar"
+1|"La fanciulla del West"
+1|"Manon"
+1|Maderna e Purcell
+1|"Alcina"
+1|"Don Carlo"
+1|"Euryanthe"
+1|"Fidelio"
+1|A Firenze una "Forza del destino"
+1|"Gigi"
+1|"Der Rosenkavalier"
+1|"Suor Angelica" e "Gianni Schicchi"
+1|"Cappuccetto Rosso"
+1|"Roméo et Juliette"
+1|"Die Zauberflöte" (Il flauto magico)
+1|"Aida"
+1|"Cin-Ci-là"
+1|"Il Trovatore"
+1|Gustavo Dudamel dirige "Carmen"
+1|"La fanciulla
+1|"La Vedova Allegra"
+1|"Salome"
+1|"Le Nozze di Figaro"
+1|"Il Barbiere di Siviglia"
+1|"Il Corsaro"
+1|"La forza del destino"
+1|"Così fan tutte"
+1|"Montezuma" a Città
+1|"Cavalleria rusticana" e "Pagliacci"
+1|"The Turn of the Screw"
+1|"Der ferne klang"
+1|Hindemith e Ravel aprono la stagione lirica
+1|"I Lombardi alla prima crociata"
+1|"Betulia liberata"'... due volte
+1|Lima,"La Leyenda
+1|"Da una casa di morti"

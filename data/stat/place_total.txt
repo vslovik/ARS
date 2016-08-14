@@ -1,0 +1,399 @@
+55|-
+41|Milano, Teatro alla Scala
+40|Staatsoper Stuttgart
+36|Torino, Teatro Regio
+27|Bologna, Teatro Comunale
+25|Verona, Teatro Filarmonico
+22|Venezia, Teatro La Fenice
+22|Teatro alla Scala
+21|Genova, Teatro Carlo Felice
+19|Opera di Firenze
+17|Teatro Massimo di Palermo
+17|Madrid, Teatro Real
+16|Opera di Roma
+15|Brescia, Teatro Grande
+15|Palermo, Teatro Massimo
+15|Teatro Regio di Torino
+15|Modena, Teatro Comunale
+14|Bergamo, Teatro Donizetti
+14|Trieste, Teatro Verdi
+13|Arena di Verona
+12|Parma, Teatro Regio
+11|Teatro Comunale di Bologna
+10|Roma, Teatro dell'Opera
+10|Bruxelles, Théâtre La Monnaie
+8|Opéra di Marsiglia
+8|Teatro Filarmonico di Verona
+7|Salerno, Teatro Verdi
+7|Parigi, Opéra Bastille
+7|Lucca, Teatro del Giglio
+7|Teatro Verdi di Pisa
+7|Teatro Carlo Felice di Genova
+7|Teatro dell'Opera di Roma
+7|Firenze, Teatro Comunale
+6|Teatro Real di Madrid
+6|Padova, Teatro Verdi
+6|Pisa, Teatro Verdi
+6|Teatro Lirico di Cagliari
+6|Petruzzelli di Bari
+6|Teatro San Carlo di Napoli
+6|Firenze, Teatro Goldoni
+6|Bari, Teatro Petruzzelli
+6|Ancona, Teatro delle Muse
+6|Trieste
+6|Firenze
+6|Metropolitan Opera
+6|Arena Sferisterio di Macerata
+6|Sassari, Teatro Comunale
+5|Jesi, Teatro Pergolesi
+5|Trieste, Politeama Rossetti
+5|Opéra di Toulon
+5|Teatro alla Scala di Milano
+5|Catania, Teatro Massimo Bellini
+5|Regio di Parma
+5|Scala
+5|Madrid, Teatro de la Zarzuela
+4|Torino
+4|Reggio Emilia, Teatro Valli
+4|Città del Messico
+4|Sessantesimo Festival Puccini, Torre del Lago
+4|Bilbao
+4|Teatro Regio di Parma
+4|New York, Metropolitan Opera
+4|Theater an der Wien
+4|Como, Teatro Sociale
+4|Ferrara, Teatro Comunale
+4|Cagliari, Teatro Lirico
+4|Festival Verdi 2008
+4|Opéra de Marseille
+4|Venezia, Teatro Malibran
+4|Teatro Comunale di Sassari
+4|Met
+4|Vicenza, Teatro Olimpico
+3|Deutsche Oper Berlin
+3|Marsiglia, Opéra Municipal
+3|New York, Metropolitan
+3|Fidenza, Teatro Magnani
+3|Rossini Opera Festival
+3|Teatro Sociale di Como
+3|Palermo
+3|Teatro La Fenice di Venezia
+3|Rovigo, Teatro Sociale
+3|Bergamo Musica Festival
+3|Teatro Comunale di Ferrara
+3|Carlo Felice di Genova
+3|Teatro La Fenice
+3|Los Angeles
+3|Comunale di Bologna
+3|Teatro Comunale di Modena
+3|Novara, Teatro Coccia
+3|Verona, Arena Opera Festival
+3|Regio di Torino
+3|Teatro dell'Opera di Firenze
+3|Firenze, Teatro del Maggio Musicale Fiorentino
+3|Macerata Opera Festival
+3|ROF
+3|Teatro Fraschini di Pavia
+3|Napoli, Teatro San Carlo
+3|Napoli, Teatro di San Carlo
+3|Parigi, Théâtre des Champs Elysées
+3|Verona, 86° Festival Areniano
+3|San Francisco Opera
+2|Teatro Massimo Bellini di Catania
+2|Verona
+2|Londra, English National Opera
+2|NYC, Metropolitan Opera
+2|Teatro Verdi di Trieste
+2|Parigi, Salle Pleyel
+2|Carlo Felice
+2|Teatro della Fortuna di Fano
+2|Comunale di Sassari
+2|Santiago del Cile, Teatro Municipal
+2|Terme di Caracalla
+2|Opera di Firenze, Cortile di Palazzo Pitti
+2|Regio
+2|Catania
+2|Buenos Aires, Teatro Colón
+2|XXXVIII° Festival della Valle d'Itria
+2|Firenze, Teatro della Pergola
+2|Bellas Artes
+2|Opéra de Monte-Carlo
+2|Madrid, Teatro de La Zarzuela
+2|Catania, Teatro Bellini
+2|Politeama Rossetti
+2|Opernhaus di Zurigo
+2|Teatro Petruzzelli di Bari
+2|Roma, Accademia Nazionale di Santa Cecilia
+2|Ascoli Piceno
+2|Berlino, Deutsche Oper
+2|Martina Franca
+2|Piacenza, Teatro Municipale
+2|Venezia
+2|Novara
+2|Maggio Musicale Fiorentino
+2|Parigi, Opéra Comique
+2|Caracalla Festival
+2|Gran Teatre del Liceu di Barcelona
+2|Pavia, Teatro Fraschini
+2|Casciana Terme
+2|Barcellona, Gran Teatre del Liceu
+2|Teatro delle Muse di Ancona
+2|Teatro Coccia di Novara
+2|Festival di Aix-en-Provence
+2|Ravenna, Teatro Alighieri
+2|Fenice
+2|Parigi, Palais Garnier
+2|’Auditorio Nacional di Madrid
+2|Teatro Filarmonico
+2|Messico
+2|Teatro Olimpico di Vicenza
+2|Teatro Marrucino di Chieti
+2|Modena
+2|Roma, Terme di Caracalla
+2|Verdi di Padova
+2|Madrid,Teatro Real
+2|Cremona, Teatro Ponchielli
+2|Les Chorégies d'Orange
+2|Teatro Goldoni di Livorno
+1|Santiago del Cile,  Teatro Municipal
+1|Rossini in agrodolce
+1|Venezia,Teatro Malibran
+1|Accademia Nazionale di Santa Cecilia
+1|Settimane Musicali al Teatro Olimpico di Vicenza
+1|Komische Oper Berlin
+1|Valli
+1|Savona, Complesso Monumentale del Priamar
+1|Teatro Municipale di Piacenza
+1|Berlino, Komische Oper
+1|Parigi, Théatre des Champs Elysées
+1|Venezia, Festival lo Spirito di Venezia, Palazzo Ducale
+1|Ferrara, Teatro Nuovo
+1|Ancona, Teatro delle Muse “Franco Corelli”
+1|Genova
+1|Venezia, Teatro la Fenice
+1|Cuernavaca, Morelos
+1|Lago
+1|NYC, The Metropolitan Opera
+1|Bernd Alois Zimmermann
+1|Bellini di Catania
+1|Gotham Chamber Opera
+1|Busseto
+1|giardino di Palazzo Zuckermann di Padova
+1|Teatro San Carlo
+1|con L'Africaine, tra esotismo e denuncia anticolonialista
+1|Strasburgo
+1|Teatro Litta di Milano
+1|Pesaro, Auditorium Pedrotti
+1|Pisa
+1|Buenos Aires, Teatro Avenida
+1|Teatro Regio
+1|Teatro Pergolesi di Jesi
+1|Bergamo Musical Festival "Gaetano Donizetti"
+1|Cortile di Palazzo Ducale
+1|Roma,Teatro dell'Opera
+1|parlare della "Carmen" areniana
+1|Praga, Teatro Nazionale
+1|The Boston Early Music Festival
+1|Napoli, Teatro di Corte di Palazzo Reale
+1|boss mafioso insieme a Oberto
+1|Massimo "Bellini" di Catania
+1|Savona
+1|’Opéra Bastille
+1|Teatro di Bellas Artes
+1|Choregies Orange
+1|Théâtre La Monnaie
+1|Fano,Teatro della Fortuna
+1|Rovereto, Teatro Zandonai
+1|filtro, magia di Chung
+1|Salle Pleyel di Parigi
+1|Opéra de Toulon
+1|Londra,ENO
+1|Tel Aviv, Israeli Opera
+1|lago” chiude ROF
+1|Alicante, Teatro Principal
+1|Festival d'Aix-en-Provence
+1|Teatro Cantero di Chiavari
+1|Sassari
+1|Zurigo
+1|Teatro "La Fenice" di Venezia
+1|Valencia, Palau de Les Arts
+1|Opera Philadelphia
+1|Filarmonico di Verona
+1|Boston Lyric Opera
+1|"Rigoletto" al Teatro Pergolesi di Jesi
+1|Opéra Bastille
+1|Livorno
+1|Malibran
+1|Roma,Terme di Caracalla
+1|Arena Opera Festival
+1|Monaco di Baviera, Bayerische Staatsoper
+1|Luglio Musicale Trapanese
+1|Torre del Lago
+1|Parigi, Opéra
+1|Bergamo, Teatro Sociale
+1|Teatro del Palacio de Bellas Artes
+1|Bilbao, Teatro Arriaga
+1|Lima, Teatro Segura
+1|Jerez, Teatro Villamarta
+1|Cesena, Teatro Bonci
+1|Los Angeles Opera
+1|Abbazia di San Galgano
+1|Parigi,Théâtre des Champs Elysées
+1|Jesi ossia "L’Olimpiade" di G. B. Pergolesi
+1|Londra, Covent Garden
+1|Opera di Firenze, Opening Gala
+1|Seattle
+1|«Se amor si gode in pace, non v’è maggior contento»
+1|Madrid
+1|Jesi,Teatro Pergolesi
+1|Rossini Opera Festival 2008
+1|Fenice di Venezia
+1|Cronache del MITO
+1|Opera National du Rhin
+1|’“Aida” scaligera?
+1|Firenze, Palazzo Pitti
+1|Teatro Ponchielli di Cremona
+1|Venezia, Teatro La fenice
+1|Valli di Reggio Emilia
+1|Ravenna Festival
+1|Da Lorca a Sotelo
+1|Philadelphia Opera
+1|Teatro Comunale "Pavarotti" di Modena
+1|OperaLombardia, Teatro Grande di Brescia
+1|Taormina
+1|la nuova stagione lirica dell'Opéra di Marsiglia
+1|Torino, Teatro Carignano
+1|Chorégies d'Orange
+1|Pechino
+1|Teatro Da Ponte di Vittorio Veneto
+1|Tra attrazione e sventura
+1|’Auditorium RAI di Torino
+1|Santa Fe Opera Festival
+1|Festival di Glyndebourne
+1|Staatsoper Berlin
+1|OperaLombardia, Teatro Fraschini di Pavia
+1|Reggio Emilia, Teatro Municipale Valli
+1|Piume di un cigno scomparso
+1|Bruxelles, Théâtre  La Monnaie
+1|Malibran con "Aspern" di Salvatore Sciarrino
+1|Opera di Oviedo
+1|Madrid, Tearo Real
+1|«Là dove invan germoglia ramo dell’ulivo»
+1|La Monnaie di Bruxelles
+1|OperaLombardia, Teatro Donizetti di Bergamo
+1|Palermo, Teatro di Verdura
+1|Firenze, Teatro La Pergola
+1|Dal Politeama Rossetti di Trieste
+1|Londra, Royal Albert Hall
+1|NCPA di Pechino
+1|Zurigo,Opernhaus
+1|Teatro Comunale di Belluno
+1|Toulouse, Théâtre du Capitole
+1|galleria Pianetti di Jesi
+1|Scala'..."Aida"'...impressioni in "generale"
+1|Verona, Teatro Ristori
+1|’Arena di Verona
+1|Teatro del Maggio Musicale Fiorentino
+1|L’altra faccia della luna
+1|OperaLombardia,  Teatro Sociale di Como
+1|Festival della Valle d'Itria
+1|Monaco (Monte-Carlo)
+1|...Scala
+1|La bottega e i clienti vanitosi
+1|Teatro Valli di Reggio Emilia
+1|ciel!»  Ancora Don Carlo a Torino
+1|Madrid, Teatro Réal
+1|Statsoper Stuttgart
+1|Carnevale di Venezia
+1|Milano, Scala
+1|«L’affar non può andar meglio»
+1|Messico, Centro Cultural Universitario
+1|Conservatorio "G. Verdi" di Milano
+1|Città del Messico, Teatro de las Artes
+1|Salerno l’Opera musical sulla vita di San Matteo
+1|«Tutti quanti han da brillar» per Cimarosa al Coccia
+1|’Arena
+1|Zurigo, Opernhaus
+1|Bilbao, Palacio Euskalduna
+1|Ricordando Svoboda
+1|Verona, 86° Festival Lirico
+1|Macerata
+1|Bayreuther Festspiele
+1|Fano, Teatro della Fortuna
+1|Busseto, Teatro Verdi
+1|Opéra de Lausanne
+1|Rossini Opera festival 2009
+1|Teatro "Verdi" di Padova
+1|Teatro del Giglio di Lucca
+1|Il giovane Rossini al Malibran
+1|Ravenna
+1|Cronache del MiTo
+1|«Prediletti dalle stelle, / io vi lascio un gran tesoro»
+1|Buenos Aires
+1|Teatro Grande di Brescia
+1|la stagione lirica dell'Opera di Roma
+1|L’anti-eroe attuale
+1|Coccia di Novara
+1|Bilbao,Palacio Euskalduna
+1|West" a San Francisco
+1|Stagione lirica sassarese
+1|San Francisco
+1|Badisches Staatstheater di Karlsruhe
+1|Scienza e Belcanto all'Opera di Firenze
+1|Teatro Real di  Madrid
+1|Lucca
+1|Zürich, Opernhaus
+1|"Occasione"
+1|Rovigo
+1|cartellone areniano
+1|Scala "Les Troyens" di Hector Berlioz
+1|San Carlo di Napoli
+1|tempo di Principe
+1|Santa Barbara, California
+1|Teatro di San Carlo di Napoli
+1|«Et surtout la chose enivrante
+1|Leipzig, Opernhaus
+1|Teatro Comunale di Firenze
+1|Beso"
+1|Boston Midsummer Opera
+1|Pordenone
+1|Staatsoper di Berlino
+1|Toulon, Opéra
+1|Arena di Verona 2008
+1|San Galgano
+1|Firenze con Turandot
+1|Teatro la Fenice di Venezia
+1|Parigi, Théâtre du Châtelet
+1|E Cristina disse
+1|Teatro Delle Muse di Ancona
+1|Jesi, Teatro "Pergolesi"
+1|Teatro Donizetti di Bergamo
+1|Teatro della Fortuna
+1|Teatro Real di Madrid con Plácido Domingo
+1|Orizzonti Festival di Chiusi
+1|Accademia di Santa Cecilia
+1|Modena, Cortile di Palazzo Ducale
+1|Santa Cecilia
+1|Birch North Park Theatre, San Diego
+1|’insegna del patriottismo
+1|Dittico al femminile
+1|Festival Pucciniano
+1|Teramo, Teatro Comunale
+1|Napoli, Teatrino di Corte
+1|Roma, Teatro dell’Opera
+1|OperaLombardia, Teatro Ponchielli di Cremona
+1|Terme di Carcalla
+1|«Nume custode e vindice / di questa sacra» Arena
+1|Cagliari
+1|Jesi
+1|Firenze, stagione lirica estiva dell'Opera
+1|Taranto, "Giovanni Paisiello Festival"
+1|Teatro Segura di Lima
+1|Teatro Avenida di Buenos Aires
+1|Sferisterio Opera Festival
+1|Sociale di Rovigo
+1|Macerata, Teatro Lauro Rossi
+1|Boston Opera
+1|Liegi, Opéra Royale de Wallonie
+1|Verdi di Trieste
+1|Malibran di Venezia
