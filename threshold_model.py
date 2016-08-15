@@ -186,18 +186,18 @@ for i in xrange(len(thresholds)):
     o_sizes.append(ThresholdModel(graph, thresholds[i], 500, seed).spread())
 print(o_sizes)
 
-# graph = nx.barabasi_albert_graph(4604, 10)
-# seed = ThresholdModel.get_center_ego(graph)
-# ba_sizes = []
-# for i in xrange(len(thresholds)):
-#     ba_sizes.append(ThresholdModel(graph, thresholds[i], 200, ThresholdModel.get_center_ego(graph)).spread())
-# print(ba_sizes)
-#
-# graph = nx.erdos_renyi_graph(4604, 0.005)
-# seed = ThresholdModel.get_center_ego(graph)
-# er_sizes = []
-# for i in xrange(len(thresholds)):
-#     er_sizes.append(ThresholdModel(graph, thresholds[i], 200, ThresholdModel.get_center_ego(graph)).spread())
-# print(er_sizes)
+graph = nx.barabasi_albert_graph(4604, 10)
+seed = ThresholdModel.get_center_ego(graph)
+ba_sizes = []
+for i in xrange(len(thresholds)):
+    ba_sizes.append(ThresholdModel(graph, thresholds[i], 200, ThresholdModel.get_center_ego(graph)).spread())
+print(ba_sizes)
+
+graph = nx.erdos_renyi_graph(4604, 0.005)
+seed = ThresholdModel.get_center_ego(graph)
+er_sizes = []
+for i in xrange(len(thresholds)):
+    er_sizes.append(ThresholdModel(graph, thresholds[i], 200, ThresholdModel.get_center_ego(graph)).spread())
+print(er_sizes)
 
 ThresholdModel.plot_spread_size_distribution(thresholds, o_sizes)
