@@ -7,7 +7,7 @@ __author__ = "Valeriya Slovikovskaya <vslovik@gmail.com>"
 __version__ = "0.1"
 
 probabilities = [float(i)/100. for i in range(100)]
-t = 8
+t = 1
 
 graph = sm.SISModel.get_opera_graph()
 seed = sm.SISModel.get_random_seed(graph, 200)

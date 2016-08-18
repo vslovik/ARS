@@ -46,48 +46,46 @@ class SISModel(seed.OperaEpidemics):
         self.pq = PriorityQueue()
 
         for i in xrange(len(seed_nodes)):
-            self.infected[seed_nodes[i]] = True
+            self.infected[seed_nodes[i]] = self.t
         for i in xrange(len(seed_nodes)):
-            self.pq.put((seed_nodes[i], 1))
+            self.pq.put(seed_nodes[i])
+
+        self.steps_limit = 10
+        self.step = 1
 
     def get_infected(self):
         return self.infected
 
     @timeit
     def spread(self):
-        count = 0
+        pq = PriorityQueue()
+        while not (self.pq.empty() and pq.empty()):
+            while not self.pq.empty():
+                node = self.pq.get()
+                neighbors = list(set(self.G.neighbors(node)))
+                #print('{}:{}'.format(count, len(self.infected)))
+                for i in xrange(len(neighbors)):
+                    s = neighbors[i]
+                    if s in self.infected:
+                        continue
+                    if self.infect():
+                        self.infected[s] = self.t
+                        pq.put(s)
 
-        while not self.pq.empty():
-            infected_num = len(self.infected.keys())
-            (node, t) = self.pq.get()
-            neighbors = list(set(self.G.neighbors(node)))
-            #print('{}:{}'.format(count, len(self.infected)))
-            for i in xrange(len(neighbors)):
-                s = neighbors[i]
-                if s in self.infected:
-                    continue
-                if self.infect():
-                    self.infected[s] = True
-                    self.pq.put((s, 1))
-
-            if t >= self.t + 1:
-                self.pq.put((node, t - 1))
-            else:
-                self.infected.pop(node)
-
-            #print(abs(infected_num - len(self.infected.keys())))
-            if abs(infected_num - len(self.infected.keys())) < 2:
+                if self.infected[node] > 1:
+                    pq.put(node)
+                    self.infected[node] -= 1
+                else:
+                    self.infected.pop(node)
+            self.step += 1
+            if self.step == self.steps_limit or pq.empty():
                 return len(self.infected)
-
-            count += 1
-
-        return len(self.infected)
+            self.pq = pq
+            pq = PriorityQueue()
 
     def infect(self):
         r = random.uniform(0, 1)
-        if r <= self.p:
-            return True
-        return False
+        return r <= self.p
 
     @timeit
     def draw(self, filename, seed=None):
