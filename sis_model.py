@@ -53,9 +53,7 @@ class SISModel(seed.OperaEpidemics):
     @timeit
     def spread(self):
         while len(self.infected):
-            current_step = self.infected.keys()
-            for i in xrange(len(current_step)):
-                node = current_step[i]
+            for i, node in enumerate(self.infected.keys()):
                 neighbors = list(set(self.G.neighbors(node)))
                 for i in xrange(len(neighbors)):
                     s = neighbors[i]
