@@ -6,7 +6,7 @@ import time
 import random
 import seed
 
-"""www.gbopera.it graph cliques & egos spy"""
+"""SIR model"""
 
 __author__ = "Valeriya Slovikovskaya <vslovik@gmail.com>"
 __version__ = "0.1"
@@ -52,6 +52,9 @@ class SIRModel(seed.OperaEpidemics):
         for i in xrange(len(seed_nodes)):
             self.pq.put((seed_nodes[i], 1))
 
+    def get_infected(self):
+        return [x for x in self.touched.keys() if x == SIRModel.INFECTED]
+
     @timeit
     def spread(self):
         while not self.pq.empty():
@@ -78,7 +81,7 @@ class SIRModel(seed.OperaEpidemics):
 
     def infect(self):
         r = random.uniform(0, 1)
-        if r < self.p:
+        if r <= self.p:
             return True
         return False
 
@@ -108,31 +111,3 @@ class SIRModel(seed.OperaEpidemics):
         plt.savefig(SIRModel.get_data_dir() + SIRModel.RESULT_DIR +
                     '_'.join([filename, str(self.p).replace('.',''), str(len(seed))]) , dpi=75, transparent=False)
         plt.close()
-
-
-probabilities = [float(i)/100. for i in range(100)]
-t = 1
-
-graph = SIRModel.get_opera_graph()
-seed = SIRModel.get_hubs(graph, 50)
-o_sizes = []
-for i in xrange(len(probabilities)):
-    o_sizes.append(SIRModel(graph, seed, probabilities[i], t).spread())
-print(o_sizes)
-
-graph = nx.barabasi_albert_graph(4604, 1)
-seed = SIRModel.get_hubs(graph, 50)
-ba_sizes = []
-for i in xrange(len(probabilities)):
-    ba_sizes.append(SIRModel(graph, seed, probabilities[i], t).spread())
-print(ba_sizes)
-
-graph = nx.erdos_renyi_graph(4604, 0.005)
-seed = SIRModel.get_hubs(graph, 50)
-er_sizes = []
-for i in xrange(len(probabilities)):
-    er_sizes.append(SIRModel(graph, seed, probabilities[i], t).spread())
-print(er_sizes)
-
-SIRModel.plot_spread_size_distribution(probabilities, [o_sizes, ba_sizes, er_sizes], ['blue', 'black', 'red'],
-                                       SIRModel.get_data_dir() + SIRModel.RESULT_DIR + 'spread_size_distribution.png')

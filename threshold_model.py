@@ -4,7 +4,7 @@ from Queue import PriorityQueue
 import time
 import seed
 
-"""www.gbopera.it graph cliques & egos spy"""
+"""threshold model"""
 
 __author__ = "Valeriya Slovikovskaya <vslovik@gmail.com>"
 __version__ = "0.1"
@@ -28,7 +28,6 @@ class ThresholdModel(seed.OperaEpidemics):
 
     RESULT_DIR = '/data/threshold_model/'
 
-    @timeit
     def __init__(self, graph, seed_nodes, threshold=0.5):
         if not graph.size():
             raise Exception('Invalid graph')
@@ -64,9 +63,12 @@ class ThresholdModel(seed.OperaEpidemics):
                     self.enqueue_neighbors(node)
         return len(self.marked)
 
+    def get_marked(self):
+        return self.marked
+
     def vote(self, node):
         neighbors = self.G.neighbors(node)
-        return float(len(set(neighbors).intersection(self.marked.keys()))) > self.threshold * float(len(neighbors))
+        return float(len(set(neighbors).intersection(self.marked.keys()))) >= self.threshold * float(len(neighbors))
 
     @timeit
     def draw(self, filename, seed=None):
@@ -93,30 +95,3 @@ class ThresholdModel(seed.OperaEpidemics):
         plt.savefig(ThresholdModel.get_data_dir() + ThresholdModel.RESULT_DIR +
                     '_'.join([filename, str(self.threshold).replace('.',''), str(len(seed))]), dpi=75, transparent=False)
         plt.close()
-
-
-thresholds = [float(i)/100. for i in range(100)]
-
-graph = ThresholdModel.get_opera_graph()
-seed = ThresholdModel.get_hubs(graph, 500)
-o_sizes = []
-for i in xrange(len(thresholds)):
-    o_sizes.append(ThresholdModel(graph, seed, thresholds[i]).spread())
-print(o_sizes)
-
-graph = nx.barabasi_albert_graph(4604, 10)
-seed = ThresholdModel.get_center_ego(graph)
-ba_sizes = []
-for i in xrange(len(thresholds)):
-    ba_sizes.append(ThresholdModel(graph, seed, thresholds[i]).spread())
-print(ba_sizes)
-
-graph = nx.erdos_renyi_graph(4604, 0.005)
-seed = ThresholdModel.get_center_ego(graph)
-er_sizes = []
-for i in xrange(len(thresholds)):
-    er_sizes.append(ThresholdModel(graph, seed, thresholds[i]).spread())
-print(er_sizes)
-
-ThresholdModel.plot_spread_size_distribution(thresholds, [o_sizes, ba_sizes, er_sizes], ['blue', 'black', 'red'],
-                                             ThresholdModel.get_data_dir() + ThresholdModel.RESULT_DIR + 'spread_size_distribution.png')

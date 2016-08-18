@@ -441,4 +441,4 @@ class Parser(object):
         plt.savefig('event_size_distribution.png', dpi=75, transparent=False)
 
 
-Parser().parse()
+#Parser().parse()

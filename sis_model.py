@@ -6,7 +6,7 @@ import time
 import random
 import seed
 
-"""www.gbopera.it graph cliques & egos spy"""
+"""SIS model"""
 
 __author__ = "Valeriya Slovikovskaya <vslovik@gmail.com>"
 __version__ = "0.1"
@@ -49,6 +49,9 @@ class SISModel(seed.OperaEpidemics):
             self.infected[seed_nodes[i]] = True
         for i in xrange(len(seed_nodes)):
             self.pq.put((seed_nodes[i], 1))
+
+    def get_infected(self):
+        return self.infected
 
     @timeit
     def spread(self):
@@ -111,33 +114,3 @@ class SISModel(seed.OperaEpidemics):
         plt.savefig(SISModel.get_data_dir() + SISModel.RESULT_DIR +
                     '_'.join([filename, str(self.p).replace('.',''), str(seed)]) , dpi=75, transparent=False)
         plt.close()
-
-
-probabilities = [float(i)/100. for i in range(100)]
-t = 8
-
-graph = SISModel.get_opera_graph()
-seed = SISModel.get_random_seed(graph, 200)
-print(seed)
-o_sizes = []
-for i in xrange(len(probabilities)):
-    print(probabilities[i])
-    o_sizes.append(SISModel(graph, seed, probabilities[i], t).spread())
-print(o_sizes)
-
-graph = nx.barabasi_albert_graph(4604, 10)
-seed = SISModel.get_random_seed(graph, 200)
-ba_sizes = []
-for i in xrange(len(probabilities)):
-    ba_sizes.append(SISModel(graph, seed, probabilities[i], t).spread())
-print(ba_sizes)
-
-graph = nx.erdos_renyi_graph(4604, 0.005)
-seed = SISModel.get_random_seed(graph, 200)
-er_sizes = []
-for i in xrange(len(probabilities)):
-    er_sizes.append(SISModel(graph, seed, probabilities[i], t).spread())
-print(er_sizes)
-
-SISModel.plot_spread_size_distribution(probabilities, [o_sizes, ba_sizes, er_sizes], ['blue', 'black', 'red'],
-                                       SISModel.get_data_dir() + SISModel.RESULT_DIR + 'spread_size_distribution.png')
