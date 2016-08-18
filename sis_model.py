@@ -44,7 +44,7 @@ class SISModel(seed.OperaEpidemics):
         for i in xrange(len(seed_nodes)):
             self.infected[seed_nodes[i]] = self.t
 
-        self.steps_limit = 5
+        self.steps_limit = 20
         self.step = 1
 
     def get_infected(self):
@@ -53,8 +53,7 @@ class SISModel(seed.OperaEpidemics):
     @timeit
     def spread(self):
         while len(self.infected):
-            level = self.t - self.step % self.t
-            current_step = [node for node in self.infected if self.infected[node] == level]
+            current_step = self.infected.keys()
             for i in xrange(len(current_step)):
                 node = current_step[i]
                 neighbors = list(set(self.G.neighbors(node)))
