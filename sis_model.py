@@ -1,7 +1,5 @@
 import networkx as nx
 import matplotlib.pyplot as plt
-import os
-from Queue import PriorityQueue
 import time
 import random
 import seed
@@ -43,14 +41,10 @@ class SISModel(seed.OperaEpidemics):
         self.t = t
 
         self.infected = dict()
-        self.pq = PriorityQueue()
-
         for i in xrange(len(seed_nodes)):
             self.infected[seed_nodes[i]] = self.t
-        for i in xrange(len(seed_nodes)):
-            self.pq.put(seed_nodes[i])
 
-        self.steps_limit = 10
+        self.steps_limit = 5
         self.step = 1
 
     def get_infected(self):
@@ -58,30 +52,27 @@ class SISModel(seed.OperaEpidemics):
 
     @timeit
     def spread(self):
-        pq = PriorityQueue()
-        while not (self.pq.empty() and pq.empty()):
-            while not self.pq.empty():
-                node = self.pq.get()
+        while len(self.infected):
+            level = self.t - self.step % self.t
+            current_step = [node for node in self.infected if self.infected[node] == level]
+            for i in xrange(len(current_step)):
+                node = current_step[i]
                 neighbors = list(set(self.G.neighbors(node)))
-                #print('{}:{}'.format(count, len(self.infected)))
                 for i in xrange(len(neighbors)):
                     s = neighbors[i]
                     if s in self.infected:
                         continue
                     if self.infect():
                         self.infected[s] = self.t
-                        pq.put(s)
-
                 if self.infected[node] > 1:
-                    pq.put(node)
                     self.infected[node] -= 1
                 else:
                     self.infected.pop(node)
             self.step += 1
-            if self.step == self.steps_limit or pq.empty():
+            print(len(self.infected))
+            if self.step == self.steps_limit:
                 return len(self.infected)
-            self.pq = pq
-            pq = PriorityQueue()
+        return 0
 
     def infect(self):
         r = random.uniform(0, 1)
