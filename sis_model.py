@@ -29,7 +29,7 @@ class SISModel(epidemic.OperaEpidemics):
 
     RESULT_DIR = '/data/sis_model/'
 
-    def __init__(self, graph, seed_nodes, p=0.5, t=1, keep_time_series=False):
+    def __init__(self, graph, seed_nodes, p=0.5, t=1, keep_time_series=False, steps_limit=20):
         if not graph.size():
             raise Exception('Invalid graph')
         if not len(seed_nodes):
@@ -48,7 +48,7 @@ class SISModel(epidemic.OperaEpidemics):
         self.keep_time_series = keep_time_series
         self.time_series = []
 
-        self.steps_limit = 100
+        self.steps_limit = steps_limit
         self.step = 1
 
     def get_infected(self):
@@ -57,7 +57,7 @@ class SISModel(epidemic.OperaEpidemics):
     def get_time_series(self):
         return self.time_series
 
-    @profile(precision=4)
+    #@profile(precision=4)
     @timeit
     def spread(self):
         while len(self.infected):
@@ -78,7 +78,6 @@ class SISModel(epidemic.OperaEpidemics):
             if self.keep_time_series:
                 self.time_series.append(len(self.infected))
             self.step += 1
-            print(len(self.infected))
             if self.step == self.steps_limit:
                 return len(self.infected)
         return 0

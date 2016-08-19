@@ -94,3 +94,4 @@ class OperaEpidemics(object):
         plt.xlabel(xaxis_name)
         plt.ylabel('spread size, nodes')
         plt.savefig(filename, dpi=75, transparent=False)
+        plt.close()

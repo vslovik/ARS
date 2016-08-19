@@ -54,7 +54,7 @@ class ThresholdModel(epidemic.OperaEpidemics):
             if neighbors[j] not in self.marked:
                 self.pq.put(neighbors[j])
 
-    @profile(precision=4)
+    #@profile(precision=4)
     @timeit
     def spread(self):
         while not self.pq.empty():

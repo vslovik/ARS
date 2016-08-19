@@ -52,14 +52,13 @@ def spread_size_distribution_vs_time():
     for t in [1, 5, 10]:
         time_series = []
         for i in xrange(len(probabilities)):
-            print(probabilities[i])
-            model = sm.SISModel(graph, seed, probabilities[i], t, True)
+            model = sm.SISModel(graph, seed, probabilities[i], t, True, 100)
             model.spread()
             time_series.append(model.get_time_series())
         print(time_series)
         sm.SISModel.plot_spread_size_distribution(
-            probabilities,
-            [time_series],
+            xrange(len(time_series[0])),
+            time_series,
             ['blue', 'red', 'green', 'orange', 'black'],
             sm.SISModel.get_data_dir()
             + sm.SISModel.RESULT_DIR
@@ -72,11 +71,13 @@ def spread_size_distribution_vs_time():
     for t in [1, 5, 10]:
         time_series = []
         for i in xrange(len(probabilities)):
-            time_series.append(sm.SISModel(graph, seed, probabilities[i], t, True).spread())
+            model = sm.SISModel(graph, seed, probabilities[i], t, True, 100)
+            model.spread()
+            time_series.append(model.get_time_series())
         print(time_series)
         sm.SISModel.plot_spread_size_distribution(
-            probabilities,
-            [time_series],
+            xrange(len(time_series[0])),
+            time_series,
             ['blue', 'red', 'green', 'orange', 'black'],
             sm.SISModel.get_data_dir()
             + sm.SISModel.RESULT_DIR
@@ -89,11 +90,13 @@ def spread_size_distribution_vs_time():
     for t in [1, 5, 10]:
         time_series = []
         for i in xrange(len(probabilities)):
-            time_series.append(sm.SISModel(graph, seed, probabilities[i], t, True).spread())
+            model = sm.SISModel(graph, seed, probabilities[i], t, True, 100)
+            model.spread()
+            time_series.append(model.get_time_series())
         print(time_series)
         sm.SISModel.plot_spread_size_distribution(
-            probabilities,
-            [time_series],
+            xrange(len(time_series[0])),
+            time_series,
             ['blue', 'red', 'green', 'orange', 'black'],
             sm.SISModel.get_data_dir()
             + sm.SISModel.RESULT_DIR

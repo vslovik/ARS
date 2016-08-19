@@ -57,7 +57,7 @@ class SIRModel(epidemic.OperaEpidemics):
     def get_time_series(self):
         return self.time_series
 
-    @profile(precision=4)
+    #@profile(precision=4)
     @timeit
     def spread(self):
         while len(self.get_infected()):
@@ -73,11 +73,10 @@ class SIRModel(epidemic.OperaEpidemics):
                         self.infected[s] = self.t
                 if self.infected[node] > 0:
                     self.infected[node] -= 1
-
+            print(self.infected)
             if self.keep_time_series:
                 self.time_series.append(len(self.infected))
             self.step += 1
-            print(len(self.infected))
 
         return len(self.infected)
 

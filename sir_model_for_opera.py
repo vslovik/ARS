@@ -10,7 +10,7 @@ __version__ = "0.1"
 def spread_size_distribution_vs_probability():
 
     probabilities = [float(i)/100. for i in range(100)]
-    t = 5
+    t = 10
 
     graph = sm.SIRModel.get_opera_graph()
     seed = sm.SIRModel.get_hubs(graph, 100)
@@ -56,9 +56,10 @@ def spread_size_distribution_vs_time():
             model.spread()
             time_series.append(model.get_time_series())
         print(time_series)
+        m = min(len(ts) for ts in time_series)
         sm.SIRModel.plot_spread_size_distribution(
-            probabilities,
-            [time_series],
+            xrange(m),
+            map(lambda x: x[0:m], time_series),
             ['blue', 'red', 'green', 'orange', 'black'],
             sm.SIRModel.get_data_dir()
             + sm.SIRModel.RESULT_DIR
@@ -71,11 +72,14 @@ def spread_size_distribution_vs_time():
     for t in [1, 5, 10]:
         time_series = []
         for i in xrange(len(probabilities)):
-            time_series.append(sm.SIRModel(graph, seed, probabilities[i], t, True).spread())
+            model = sm.SIRModel(graph, seed, probabilities[i], t, True)
+            model.spread()
+            time_series.append(model.get_time_series())
         print(time_series)
+        m = min(len(ts) for ts in time_series)
         sm.SIRModel.plot_spread_size_distribution(
-            probabilities,
-            [time_series],
+            xrange(m),
+            map(lambda x: x[0:m], time_series),
             ['blue', 'red', 'green', 'orange', 'black'],
             sm.SIRModel.get_data_dir()
             + sm.SIRModel.RESULT_DIR
@@ -88,11 +92,14 @@ def spread_size_distribution_vs_time():
     for t in [1, 5, 10]:
         time_series = []
         for i in xrange(len(probabilities)):
-            time_series.append(sm.SIRModel(graph, seed, probabilities[i], t, True).spread())
+            model = sm.SIRModel(graph, seed, probabilities[i], t, True)
+            model.spread()
+            time_series.append(model.get_time_series())
         print(time_series)
+        m = min(len(ts) for ts in time_series)
         sm.SIRModel.plot_spread_size_distribution(
-            probabilities,
-            [time_series],
+            xrange(m),
+            map(lambda x: x[0:m], time_series),
             ['blue', 'red', 'green', 'orange', 'black'],
             sm.SIRModel.get_data_dir()
             + sm.SIRModel.RESULT_DIR
@@ -102,4 +109,4 @@ def spread_size_distribution_vs_time():
 
 
 spread_size_distribution_vs_probability()
-spread_size_distribution_vs_time()
+#spread_size_distribution_vs_time()
