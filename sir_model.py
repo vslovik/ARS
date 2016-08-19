@@ -53,6 +53,7 @@ class SIRModel(epidemic.OperaEpidemics):
 
     @timeit
     def spread(self):
+        dim = dict()
         while len(self.get_infected()):
             current_step = self.get_infected()
             while len(current_step):
@@ -66,9 +67,18 @@ class SIRModel(epidemic.OperaEpidemics):
                         self.infected[s] = self.t
                 if self.infected[node] > 0:
                     self.infected[node] -= 1
+
+            dim[self.step] = len(self.infected)
             self.step += 1
             print(len(self.infected))
 
+        print(dim)
+        colors = {0.2: 'blue', 0.3: 'red', 0.4: 'green', 0.5: 'orange', 0.6: 'black'}
+        SIRModel.plot_spread_size_distribution(dim.keys(), [dim.values()],
+                                               [colors[self.p]],
+                                               SIRModel.get_data_dir() + SIRModel.RESULT_DIR + 'o_spread_size_distribution_time_series_p{}_t{}.png'.format(
+                                                   str(self.p).replace('.', ''), str(self.t)),
+                                               't, steps')
         return len(self.infected)
 
     def infect(self):

@@ -44,7 +44,7 @@ class SISModel(epidemic.OperaEpidemics):
         for i in xrange(len(seed_nodes)):
             self.infected[seed_nodes[i]] = self.t
 
-        self.steps_limit = 20
+        self.steps_limit = 100
         self.step = 1
 
     def get_infected(self):
@@ -52,6 +52,7 @@ class SISModel(epidemic.OperaEpidemics):
 
     @timeit
     def spread(self):
+        dim = dict()
         while len(self.infected):
             current_step = self.infected.keys()
             while len(current_step):
@@ -66,9 +67,17 @@ class SISModel(epidemic.OperaEpidemics):
                 self.infected[node] -= 1
                 if not self.infected[node]:
                     self.infected.pop(node)
+
+            dim[self.step] = len(self.infected)
             self.step += 1
             print(len(self.infected))
             if self.step == self.steps_limit:
+                print(dim)
+                colors = {0.2: 'blue', 0.3: 'red', 0.4: 'green', 0.5: 'orange', 0.6: 'black'}
+                SISModel.plot_spread_size_distribution(dim.keys(), [dim.values()],
+                                                          [colors[self.p]],
+                                                          SISModel.get_data_dir() + SISModel.RESULT_DIR + 'er_spread_size_distribution_time_series_p{}_t{}.png'.format(str(self.p).replace('.',''), str(self.t)),
+                                                          't, steps')
                 return len(self.infected)
         return 0
 
