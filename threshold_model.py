@@ -1,5 +1,6 @@
 import networkx as nx
 import matplotlib.pyplot as plt
+from Queue import PriorityQueue
 import time
 import epidemic
 
@@ -39,32 +40,28 @@ class ThresholdModel(epidemic.OperaEpidemics):
         self.threshold = threshold
 
         self.marked = dict()
-        for i in xrange(len(seed_nodes)):
-            self.marked[seed_nodes[i]] = True
+        self.pq = PriorityQueue()
 
-        self.step = 1
+        for m in xrange(len(seed_nodes)):
+            self.marked[seed_nodes[m]] = True
+        for i in xrange(len(seed_nodes)):
+            self.enqueue_neighbors(seed_nodes[i])
+
+    def enqueue_neighbors(self, node):
+        neighbors = self.G.neighbors(node)
+        for j in xrange(len(neighbors)):
+            if neighbors[j] not in self.marked:
+                self.pq.put(neighbors[j])
 
     @timeit
     def spread(self):
-        while True:
-            current_step = self.marked.keys()
-            count = 0
-            while len(current_step):
-                node = current_step.pop()
-                neighbors = list(set(self.G.neighbors(node)))
-                for i in xrange(len(neighbors)):
-                    s = neighbors[i]
-                    if s in self.marked:
-                        continue
-                    if self.vote(s):
-                        self.marked[s] = True
-                        count += 1
-            if not count:
-                break
-
-            self.step += 1
-            print(len(self.marked))
-
+        while not self.pq.empty():
+            node = self.pq.get()
+            if node not in self.marked:
+                vote = self.vote(node)
+                if vote:
+                    self.marked[node] = True
+                    self.enqueue_neighbors(node)
         return len(self.marked)
 
     def get_marked(self):
@@ -74,7 +71,6 @@ class ThresholdModel(epidemic.OperaEpidemics):
         neighbors = self.G.neighbors(node)
         return float(len(set(neighbors).intersection(self.marked.keys()))) >= self.threshold * float(len(neighbors))
 
-    @timeit
     def draw(self, filename, seed=None):
         plt.rcParams['text.usetex'] = False
         plt.figure(figsize=(20, 20))
