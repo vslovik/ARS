@@ -1,8 +1,9 @@
 import networkx as nx
 import matplotlib.pyplot as plt
-import time
 import random
 import epidemic
+import time
+from memory_profiler import profile
 
 """SIS model"""
 
@@ -28,7 +29,7 @@ class SISModel(epidemic.OperaEpidemics):
 
     RESULT_DIR = '/data/sis_model/'
 
-    def __init__(self, graph, seed_nodes, p=0.5, t=1):
+    def __init__(self, graph, seed_nodes, p=0.5, t=1, keep_time_series=False):
         if not graph.size():
             raise Exception('Invalid graph')
         if not len(seed_nodes):
@@ -44,15 +45,21 @@ class SISModel(epidemic.OperaEpidemics):
         for i in xrange(len(seed_nodes)):
             self.infected[seed_nodes[i]] = self.t
 
+        self.keep_time_series = keep_time_series
+        self.time_series = []
+
         self.steps_limit = 100
         self.step = 1
 
     def get_infected(self):
         return self.infected
 
+    def get_time_series(self):
+        return self.time_series
+
+    @profile(precision=4)
     @timeit
     def spread(self):
-        dim = dict()
         while len(self.infected):
             current_step = self.infected.keys()
             while len(current_step):
@@ -68,16 +75,11 @@ class SISModel(epidemic.OperaEpidemics):
                 if not self.infected[node]:
                     self.infected.pop(node)
 
-            dim[self.step] = len(self.infected)
+            if self.keep_time_series:
+                self.time_series.append(len(self.infected))
             self.step += 1
             print(len(self.infected))
             if self.step == self.steps_limit:
-                print(dim)
-                colors = {0.2: 'blue', 0.3: 'red', 0.4: 'green', 0.5: 'orange', 0.6: 'black'}
-                SISModel.plot_spread_size_distribution(dim.keys(), [dim.values()],
-                                                          [colors[self.p]],
-                                                          SISModel.get_data_dir() + SISModel.RESULT_DIR + 'er_spread_size_distribution_time_series_p{}_t{}.png'.format(str(self.p).replace('.',''), str(self.t)),
-                                                          't, steps')
                 return len(self.infected)
         return 0
 
@@ -85,7 +87,6 @@ class SISModel(epidemic.OperaEpidemics):
         r = random.uniform(0, 1)
         return r <= self.p
 
-    @timeit
     def draw(self, filename, seed=None):
         plt.rcParams['text.usetex'] = False
         plt.figure(figsize=(20, 20))

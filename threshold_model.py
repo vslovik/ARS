@@ -1,8 +1,9 @@
 import networkx as nx
 import matplotlib.pyplot as plt
 from Queue import PriorityQueue
-import time
 import epidemic
+import time
+from memory_profiler import profile
 
 """threshold model"""
 
@@ -53,6 +54,7 @@ class ThresholdModel(epidemic.OperaEpidemics):
             if neighbors[j] not in self.marked:
                 self.pq.put(neighbors[j])
 
+    @profile(precision=4)
     @timeit
     def spread(self):
         while not self.pq.empty():

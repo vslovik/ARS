@@ -1,8 +1,9 @@
 import networkx as nx
 import matplotlib.pyplot as plt
-import time
 import random
 import epidemic
+import time
+from memory_profiler import profile
 
 """SIR model"""
 
@@ -30,7 +31,7 @@ class SIRModel(epidemic.OperaEpidemics):
     REMOVED = False
     INFECTED = True
 
-    def __init__(self, graph, seed_nodes, p=0.5, t=1):
+    def __init__(self, graph, seed_nodes, p=0.5, t=1, keep_time_series=False):
         if not graph.size():
             raise Exception('Invalid graph')
         if not len(seed_nodes):
@@ -46,14 +47,19 @@ class SIRModel(epidemic.OperaEpidemics):
         for i in xrange(len(seed_nodes)):
             self.infected[seed_nodes[i]] = self.t
 
+        self.keep_time_series = keep_time_series
+        self.time_series = []
         self.step = 1
 
     def get_infected(self):
         return [node for node in self.infected if self.infected[node]]
 
+    def get_time_series(self):
+        return self.time_series
+
+    @profile(precision=4)
     @timeit
     def spread(self):
-        dim = dict()
         while len(self.get_infected()):
             current_step = self.get_infected()
             while len(current_step):
@@ -68,17 +74,11 @@ class SIRModel(epidemic.OperaEpidemics):
                 if self.infected[node] > 0:
                     self.infected[node] -= 1
 
-            dim[self.step] = len(self.infected)
+            if self.keep_time_series:
+                self.time_series.append(len(self.infected))
             self.step += 1
             print(len(self.infected))
 
-        print(dim)
-        colors = {0.2: 'blue', 0.3: 'red', 0.4: 'green', 0.5: 'orange', 0.6: 'black'}
-        SIRModel.plot_spread_size_distribution(dim.keys(), [dim.values()],
-                                               [colors[self.p]],
-                                               SIRModel.get_data_dir() + SIRModel.RESULT_DIR + 'o_spread_size_distribution_time_series_p{}_t{}.png'.format(
-                                                   str(self.p).replace('.', ''), str(self.t)),
-                                               't, steps')
         return len(self.infected)
 
     def infect(self):
