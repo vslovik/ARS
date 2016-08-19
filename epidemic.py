@@ -87,10 +87,10 @@ class OperaEpidemics(object):
         return giant
 
     @staticmethod
-    def plot_spread_size_distribution(thresholds, distributions, colors, filename):
+    def plot_spread_size_distribution(thresholds, distributions, colors, filename, xaxis_name='threshold'):
         for i in xrange(len(distributions)):
             plt.plot(thresholds, distributions[i], linestyle="solid", color=colors[i])
         plt.rcParams['text.usetex'] = False
-        plt.xlabel("threshold")
-        plt.ylabel("spread size, nodes")
+        plt.xlabel(xaxis_name)
+        plt.ylabel('spread size, nodes')
         plt.savefig(filename, dpi=75, transparent=False)

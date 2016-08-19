@@ -1,8 +1,7 @@
 import networkx as nx
 import matplotlib.pyplot as plt
-from Queue import PriorityQueue
 import time
-import seed
+import epidemic
 
 """threshold model"""
 
@@ -24,7 +23,7 @@ def timeit(method):
     return timed
 
 
-class ThresholdModel(seed.OperaEpidemics):
+class ThresholdModel(epidemic.OperaEpidemics):
 
     RESULT_DIR = '/data/threshold_model/'
 
@@ -40,27 +39,32 @@ class ThresholdModel(seed.OperaEpidemics):
         self.threshold = threshold
 
         self.marked = dict()
-        self.pq = PriorityQueue()
-
-        for m in xrange(len(seed_nodes)):
-            self.marked[seed_nodes[m]] = True
         for i in xrange(len(seed_nodes)):
-            self.enqueue_neighbors(seed_nodes[i])
+            self.marked[seed_nodes[i]] = True
 
-    def enqueue_neighbors(self, node):
-        neighbors = self.G.neighbors(node)
-        for j in xrange(len(neighbors)):
-            if neighbors[j] not in self.marked:
-                self.pq.put(neighbors[j])
+        self.step = 1
 
+    @timeit
     def spread(self):
-        while not self.pq.empty():
-            node = self.pq.get()
-            if node not in self.marked:
-                vote = self.vote(node)
-                if vote:
-                    self.marked[node] = True
-                    self.enqueue_neighbors(node)
+        while True:
+            current_step = self.marked.keys()
+            count = 0
+            while len(current_step):
+                node = current_step.pop()
+                neighbors = list(set(self.G.neighbors(node)))
+                for i in xrange(len(neighbors)):
+                    s = neighbors[i]
+                    if s in self.marked:
+                        continue
+                    if self.vote(s):
+                        self.marked[s] = True
+                        count += 1
+            if not count:
+                break
+
+            self.step += 1
+            print(len(self.marked))
+
         return len(self.marked)
 
     def get_marked(self):

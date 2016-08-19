@@ -10,7 +10,7 @@ probabilities = [float(i)/100. for i in range(100)]
 t = 5
 
 graph = sm.SISModel.get_opera_graph()
-seed = sm.SISModel.get_random_seed(graph, 200)
+seed = sm.SISModel.get_random_seed(graph, 100)
 print(seed)
 o_sizes = []
 for i in xrange(len(probabilities)):
@@ -19,18 +19,18 @@ for i in xrange(len(probabilities)):
 print(o_sizes)
 
 graph = nx.barabasi_albert_graph(4604, 10)
-seed = sm.SISModel.get_random_seed(graph, 200)
+seed = sm.SISModel.get_random_seed(graph, 100)
 ba_sizes = []
 for i in xrange(len(probabilities)):
     ba_sizes.append(sm.SISModel(graph, seed, probabilities[i], t).spread())
 print(ba_sizes)
 
 graph = nx.erdos_renyi_graph(4604, 0.005)
-seed = sm.SISModel.get_random_seed(graph, 200)
+seed = sm.SISModel.get_random_seed(graph, 100)
 er_sizes = []
 for i in xrange(len(probabilities)):
     er_sizes.append(sm.SISModel(graph, seed, probabilities[i], t).spread())
 print(er_sizes)
 
 sm.SISModel.plot_spread_size_distribution(probabilities, [o_sizes, ba_sizes, er_sizes], ['blue', 'black', 'red'],
-                                       sm.SISModel.get_data_dir() + sm.SISModel.RESULT_DIR + 'spread_size_distribution.png')
+                                       sm.SISModel.get_data_dir() + sm.SISModel.RESULT_DIR + 'spread_size_distribution.png', 'p')

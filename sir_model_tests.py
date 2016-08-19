@@ -18,8 +18,7 @@ class TestSIRModel(unittest.TestCase):
 
         model = sm.SIRModel(graph, initial_adopters, p, t)
         spread = model.spread()
-        infected = model.get_infected()
-        #self.assertEqual(len(infected), 0)
+        model.get_infected()
         self.assertEqual(spread, 3)
 
     def test_partially_touched(self):
@@ -34,8 +33,7 @@ class TestSIRModel(unittest.TestCase):
 
         model = sm.SIRModel(graph, initial_adopters, p, t)
         spread = model.spread()
-        infected = model.get_infected()
-        #self.assertEqual(len(infected), 0)
+        model.get_infected()
         self.assertEqual(spread, 1)
 
 

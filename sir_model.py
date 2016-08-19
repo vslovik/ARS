@@ -1,10 +1,8 @@
 import networkx as nx
 import matplotlib.pyplot as plt
-import os
-from Queue import PriorityQueue
 import time
 import random
-import seed
+import epidemic
 
 """SIR model"""
 
@@ -26,7 +24,7 @@ def timeit(method):
     return timed
 
 
-class SIRModel(seed.OperaEpidemics):
+class SIRModel(epidemic.OperaEpidemics):
 
     RESULT_DIR = '/data/sir_model/'
     REMOVED = False
@@ -77,7 +75,6 @@ class SIRModel(seed.OperaEpidemics):
         r = random.uniform(0, 1)
         return r <= self.p
 
-    @timeit
     def draw(self, filename, seed=None):
         plt.rcParams['text.usetex'] = False
         plt.figure(figsize=(20, 20))
@@ -88,15 +85,13 @@ class SIRModel(seed.OperaEpidemics):
         except:
             pos = nx.spring_layout(self.G, iterations=20)
 
-        print(self.touched.keys())
-
         if not seed:
             seed = []
-        nx.draw_networkx_nodes(self.G, pos, list(set(self.G.nodes()) - set(self.touched.keys()) - set(seed)), alpha=0.2, node_size=20, node_color='grey')
-        nx.draw_networkx_nodes(self.G, pos, list(set(self.touched.keys()) - set(seed)), alpha=0.5, node_size=20, node_color='red', linewidths=0.)
+        nx.draw_networkx_nodes(self.G, pos, list(set(self.G.nodes()) - set(self.infected.keys()) - set(seed)), alpha=0.2, node_size=20, node_color='grey')
+        nx.draw_networkx_nodes(self.G, pos, list(set(self.infected.keys()) - set(seed)), alpha=0.5, node_size=20, node_color='red', linewidths=0.)
         nx.draw_networkx_nodes(self.G, pos, seed, alpha=0.5, node_size=20, node_color='blue', linewidths=0.)
 
-        nx.draw_networkx_nodes(self.G, pos, [x for x in self.touched.keys() if x == SIRModel.REMOVED], alpha=0.5, node_size=20, node_color='black', linewidths=0.)
+        nx.draw_networkx_nodes(self.G, pos, [x for x in self.infected.keys() if x == SIRModel.REMOVED], alpha=0.5, node_size=20, node_color='black', linewidths=0.)
 
         nx.draw_networkx_edges(self.G, pos, alpha=0.2, node_size=0, width=0.1, edge_color='grey')
 

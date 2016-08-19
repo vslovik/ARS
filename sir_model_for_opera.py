@@ -10,25 +10,25 @@ probabilities = [float(i)/100. for i in range(100)]
 t = 1
 
 graph = sm.SIRModel.get_opera_graph()
-seed = sm.SIRModel.get_hubs(graph, 50)
+seed = sm.SIRModel.get_hubs(graph, 100)
 o_sizes = []
 for i in xrange(len(probabilities)):
     o_sizes.append(sm.SIRModel(graph, seed, probabilities[i], t).spread())
 print(o_sizes)
 
 graph = nx.barabasi_albert_graph(4604, 1)
-seed = sm.SIRModel.get_hubs(graph, 50)
+seed = sm.SIRModel.get_hubs(graph, 100)
 ba_sizes = []
 for i in xrange(len(probabilities)):
     ba_sizes.append(sm.SIRModel(graph, seed, probabilities[i], t).spread())
 print(ba_sizes)
 
 graph = nx.erdos_renyi_graph(4604, 0.005)
-seed = sm.SIRModel.get_hubs(graph, 50)
+seed = sm.SIRModel.get_hubs(graph, 100)
 er_sizes = []
 for i in xrange(len(probabilities)):
     er_sizes.append(sm.SIRModel(graph, seed, probabilities[i], t).spread())
 print(er_sizes)
 
 sm.SIRModel.plot_spread_size_distribution(probabilities, [o_sizes, ba_sizes, er_sizes], ['blue', 'black', 'red'],
-                                          sm.SIRModel.get_data_dir() + sm.SIRModel.RESULT_DIR + 'spread_size_distribution.png')
+                                          sm.SIRModel.get_data_dir() + sm.SIRModel.RESULT_DIR + 'spread_size_distribution.png', 'p')

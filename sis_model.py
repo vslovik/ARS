@@ -2,7 +2,7 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import time
 import random
-import seed
+import epidemic
 
 """SIS model"""
 
@@ -24,7 +24,7 @@ def timeit(method):
     return timed
 
 
-class SISModel(seed.OperaEpidemics):
+class SISModel(epidemic.OperaEpidemics):
 
     RESULT_DIR = '/data/sis_model/'
 

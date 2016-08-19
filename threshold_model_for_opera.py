@@ -9,14 +9,14 @@ __version__ = "0.1"
 thresholds = [float(i) / 100. for i in range(100)]
 
 graph = tm.ThresholdModel.get_opera_graph()
-seed = tm.ThresholdModel.get_hubs(graph, 10)
+seed = tm.ThresholdModel.get_hubs(graph, 100)
 o_sizes = []
 for i in xrange(len(thresholds)):
     o_sizes.append(tm.ThresholdModel(graph, seed, thresholds[i]).spread())
 print(o_sizes)
 
 graph = nx.barabasi_albert_graph(4604, 16)
-seed = tm.ThresholdModel.get_hubs(graph, 10)
+seed = tm.ThresholdModel.get_hubs(graph, 100)
 ba_sizes = []
 for i in xrange(len(thresholds)):
     ba_sizes.append(tm.ThresholdModel(graph, seed, thresholds[i]).spread())
