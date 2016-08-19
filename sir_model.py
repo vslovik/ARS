@@ -44,46 +44,38 @@ class SIRModel(seed.OperaEpidemics):
         self.p = p
         self.t = t
 
-        self.touched = dict()
-        self.pq = PriorityQueue()
+        self.infected = dict()
+        for i in xrange(len(seed_nodes)):
+            self.infected[seed_nodes[i]] = self.t
 
-        for i in xrange(len(seed_nodes)):
-            self.touched[seed_nodes[i]] = SIRModel.INFECTED
-        for i in xrange(len(seed_nodes)):
-            self.pq.put((seed_nodes[i], 1))
+        self.step = 1
 
     def get_infected(self):
-        return [x for x in self.touched.keys() if x == SIRModel.INFECTED]
+        return [node for node in self.infected if self.infected[node]]
 
     @timeit
     def spread(self):
-        while not self.pq.empty():
-            (node, t) = self.pq.get()
+        while len(self.get_infected()):
+            current_step = self.get_infected()
+            while len(current_step):
+                node = current_step.pop()
+                neighbors = list(set(self.G.neighbors(node)))
+                for i in xrange(len(neighbors)):
+                    s = neighbors[i]
+                    if s in self.infected:
+                        continue
+                    if self.infect():
+                        self.infected[s] = self.t
+                if self.infected[node] > 0:
+                    self.infected[node] -= 1
+            self.step += 1
+            print(len(self.infected))
 
-            neighbors = list(set(self.G.neighbors(node)))
-
-            for i in xrange(len(neighbors)):
-                s = neighbors[i]
-                if s in self.touched:
-                    continue
-                if self.infect():
-                    self.touched[s] = SIRModel.INFECTED
-                    self.pq.put((s, 1))
-
-            if t >= self.t + 1:
-                print('OK')
-                self.pq.put((node, t - 1))
-            else:
-                self.touched[node] = SIRModel.REMOVED
-
-        #return len([x for x in self.touched.keys() if x == SIRModel.INFECTED])
-        return len(self.touched.keys())
+        return len(self.infected)
 
     def infect(self):
         r = random.uniform(0, 1)
-        if r <= self.p:
-            return True
-        return False
+        return r <= self.p
 
     @timeit
     def draw(self, filename, seed=None):
