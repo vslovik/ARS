@@ -39,37 +39,49 @@ class SISModel(seed.OperaEpidemics):
         self.G = graph
         self.p = p
         self.t = t
+        self.step = 0
 
+        level = self.step % self.t
         self.infected = dict()
+        self.infected[level] = dict()
         for i in xrange(len(seed_nodes)):
-            self.infected[seed_nodes[i]] = self.t
+            self.infected[level][seed_nodes[i]] = True
 
         self.steps_limit = 20
-        self.step = 1
 
     def get_infected(self):
         return self.infected
 
     @timeit
     def spread(self):
+        infected = dict()
         while len(self.infected):
-            current_step = self.infected.keys()
-            while len(current_step):
-                node = current_step.pop()
-                neighbors = list(set(self.G.neighbors(node)))
-                for i in xrange(len(neighbors)):
-                    s = neighbors[i]
-                    if s in self.infected:
-                        continue
-                    if self.infect():
-                        self.infected[s] = self.step + 1 + self.t
-                if self.infected[node] == self.step:
-                    self.infected.pop(node)
+
+            for level in xrange(len(self.infected.keys()) - 1, -1, -1):
+                for node in self.infected[level]:
+                    neighbors = list(set(self.G.neighbors(node)))
+                    for i in xrange(len(neighbors)):
+                        s = neighbors[i]
+                        if self.check_infected(s):
+                            continue
+                        if self.infect():
+                            infected[s] = True
+                if level + 1 < self.t:
+                    self.infected[level + 1] = self.infected[level]
+                self.infected[level] = infected
+                infected = dict()
+
             self.step += 1
-            print(len(self.infected))
+            print(sum(len(self.infected[l]) for l in self.infected))
             if self.step == self.steps_limit:
-                return len(self.infected)
+                return sum(len(self.infected[l]) for l in self.infected)
         return 0
+
+    def check_infected(self, node):
+        for l in self.infected:
+            if node in self.infected[l]:
+                return True
+        return False
 
     def infect(self):
         r = random.uniform(0, 1)
