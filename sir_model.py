@@ -73,7 +73,7 @@ class SIRModel(epidemic.OperaEpidemics):
                         self.infected[s] = self.t
                 if self.infected[node] > 0:
                     self.infected[node] -= 1
-            print(self.infected)
+            #print(self.infected)
             if self.keep_time_series:
                 self.time_series.append(len(self.infected))
             self.step += 1

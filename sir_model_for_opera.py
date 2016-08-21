@@ -10,7 +10,7 @@ __version__ = "0.1"
 def spread_size_distribution_vs_probability():
 
     probabilities = [float(i)/100. for i in range(100)]
-    t = 10
+    t = 5
 
     graph = sm.SIRModel.get_opera_graph()
     seed = sm.SIRModel.get_hubs(graph, 100)
@@ -19,14 +19,14 @@ def spread_size_distribution_vs_probability():
         o_sizes.append(sm.SIRModel(graph, seed, probabilities[i], t).spread())
     print(o_sizes)
 
-    graph = nx.barabasi_albert_graph(4604, 1)
+    graph = nx.barabasi_albert_graph(4604, 11)
     seed = sm.SIRModel.get_hubs(graph, 100)
     ba_sizes = []
     for i in xrange(len(probabilities)):
         ba_sizes.append(sm.SIRModel(graph, seed, probabilities[i], t).spread())
     print(ba_sizes)
 
-    graph = nx.erdos_renyi_graph(4604, 0.005)
+    graph = nx.erdos_renyi_graph(4604, 0.0047)
     seed = sm.SIRModel.get_hubs(graph, 100)
     er_sizes = []
     for i in xrange(len(probabilities)):
@@ -67,7 +67,7 @@ def spread_size_distribution_vs_time():
             't, steps'
         )
 
-    graph = nx.barabasi_albert_graph(4604, 10)
+    graph = nx.barabasi_albert_graph(4604, 11)
     seed = sm.SIRModel.get_random_seed(graph, 100)
     for t in [1, 5, 10]:
         time_series = []
@@ -87,7 +87,7 @@ def spread_size_distribution_vs_time():
             't, steps'
         )
 
-    graph = nx.erdos_renyi_graph(4604, 0.005)
+    graph = nx.erdos_renyi_graph(4604, 0.0047)
     seed = sm.SIRModel.get_random_seed(graph, 100)
     for t in [1, 5, 10]:
         time_series = []

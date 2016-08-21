@@ -83,7 +83,7 @@ class OperaEpidemics(object):
         giant = components.pop(0)
         degree = sorted(nx.degree(giant).items(), key=lambda x: x[1], reverse=True)
         avg = (0.0 + sum(value for (node, value) in degree)) / (0.0 + len(degree))
-        print(avg) # 20.9834926151
+        #print(avg) # 20.9834926151
         return giant
 
     @staticmethod

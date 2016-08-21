@@ -46,9 +46,9 @@ class Analyzer(object):
 
         inf = self.info(graph)
         n = graph.number_of_nodes()
-        er = nx.erdos_renyi_graph(n, 0.005)
+        er = nx.erdos_renyi_graph(4604, 0.0047)
         inf += self.info(er, 'ER')
-        ba = nx.barabasi_albert_graph(n, 10)
+        ba = nx.barabasi_albert_graph(4604, 11)
         inf += self.info(ba, 'BA')
 
         return inf
@@ -112,5 +112,5 @@ class Analyzer(object):
         for i in xrange(len(inf)):
             print(inf[i])
 
-Analyzer().inform()
-#Analyzer().connectivity()
+#Analyzer().inform()
+Analyzer().connectivity()
