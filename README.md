@@ -30,3 +30,21 @@ NetworkX library is used
 community_spy.py
 - applies Louvain community discovery method to opera network<br /> 
 Library available here: http://perso.crans.org/aynaud/communities/ is used
+
+threshold_model.py
+- implements threshold model of innovation spread
+
+threshold_model_for_opera.py
+- applies threshold model of innovation spread to the opera graph
+
+sir_model.py
+- implements SIR epidemic model
+
+sir_model_for_opera.py
+- applies SIR model to the opera graph
+
+sis_model.py
+- implements SIS epidemic model
+
+sis_model_for_opera.py
+- applies SIS model to the opera graph
